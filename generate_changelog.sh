@@ -11,7 +11,7 @@ CUSTOM_DATE="$1"
 rdir=`pwd`
 
 # Generate Changelog
-echo -e "${bldblu}Generating updated changelog in the root repo folder ${txtrst}"
+echo -e "${bldblu}Generating updated changelog in your root repo folder ${txtrst}"
 WORKING_DATE=${CUSTOM_DATE}
 
 CHANGELOG="$rdir"/Changelog_${CURRENT_DATE}.txt
