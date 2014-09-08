@@ -1,0 +1,18 @@
+https://github.com/Minux31/android_build/commit/0e23553f272d0060bc45666ca710272cdea66ef2
+https://github.com/Minux31/android_build/commit/1b691bb4ee79e5fce5173f8e5f1285a7fea823d4
+https://github.com/RobbieL811/slim_build/commit/c29d5d324e69c66778c65c427595339ae147e234 <== already done by justarchi commit (the first one in this list)
+https://github.com/RobbieL811/slim_hardware_qcom_display/commit/d9fe38105419c0def424189888e8a3e00031fe73
+https://github.com/RobbieL811/slim_hardware_qcom_display/commit/b69061f8e8f32f03303169b17fa32fc1d342119c
+https://github.com/RobbieL811/slim_system_core/commit/88a76f134e11ddc130300284fa9dcf578f34f49c
+https://github.com/RobbieL811/slim_art/commit/7b3c8126b198676b666eed2ab8ecba799f3426c5
+https://github.com/RobbieL811/slim_hardware_qcom_camera/commit/491dbb1d8390798fba0baff657abe9da00128e7b
+https://github.com/RobbieL811/slim_hardware_qcom_camera/commit/566b19e98c7dcb53cca7ed9402d77cb2f2426daa
+https://github.com/RobbieL811/slim_hardware_qcom_camera/commit/20af7d22970484f328220e0416c84649a6d64066
+https://github.com/RobbieL811/slim_system_vold/commit/8d8cf7b9189cd2af1d43264d28af6378e593801d
+https://github.com/letmedanz/Slim_external_exfat/commit/282b89c1b8111017cfa3eb7d16eb43b410995df8
+https://github.com/SlimSaber/android_external_fuse/commit/f3736cb1104f72ee1f1322a4eea79e960bee0cd6
+
+local manifest:
+
+<!--SaberMod Prebuilts-->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" remote="github" revision="sm-kk-mr1" />

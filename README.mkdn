@@ -1,0 +1,42 @@
+build_rom.sh
+---------
+
+	 . scripts/build_rom.sh mako nosync 7 clean
+ 
+Parameter 1: The device tree: mako | hammeread | others
+
+Parameter 2: Sync or don't sync the source: sync | nosync
+
+Parameter 3: Number of threads (-j#)
+
+Parameter 4: Make a clean build (make clobber): clean | or leave it empty to make installclean
+
+
+build_kernel.sh
+----------------
+
+	. build_kernel.sh mako 7
+
+Parameter 1: The device tree: mako | hammeread | others
+
+Parameter 2: Number of threads (-j#).
+
+
+generate_changelog.sh
+---------------------
+
+Generate changelog since last build:
+
+	. generate_changelog.sh 1401821253
+	
+Parameter 1: A timestamp in UTC format that you can take from build.prop (ro.build.date.utc)
+
+
+rom_to_device.sh or kernel__to_device.sh
+---------------------
+
+Send the freshly compiled build (.zip and .md5) to your device:
+
+	. rom_to_device.sh /sdcard/SlimKat
+	
+Parameter 1: Destination path. You can leave this empty and the standard path "/sdcard/SlimKat" will be used
