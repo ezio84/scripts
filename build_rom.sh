@@ -25,7 +25,7 @@ fi
 # Clean out folder
 if [ "$CLEAN" == "clean" ]
 then
-   echo -e "${bldblu}Cleaning up out folder with make clobber ${txtrst}"
+   echo -e "${bldblu}Cleaning up the OUT folder with make clobber ${txtrst}"
    make clobber;
 else
   echo -e "${bldblu}No make clobber so just make installclean ${txtrst}"
