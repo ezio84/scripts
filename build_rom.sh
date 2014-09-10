@@ -22,16 +22,6 @@ then
    repo sync -j"$THREADS"
 fi
 
-# Clean out folder
-if [ "$CLEAN" == "clean" ]
-then
-   echo -e "${bldblu}Cleaning up the OUT folder with make clobber ${txtrst}"
-   make clobber;
-else
-  echo -e "${bldblu}No make clobber so just make installclean ${txtrst}"
-  make installclean;
-fi
-
 # Setup environment
 echo -e "${bldblu}Setting up build environment ${txtrst}"
 . build/envsetup.sh
@@ -52,6 +42,16 @@ export ANDROID_FIXUP_COMMON_OUT=true
 # Lunch device
 echo -e "${bldblu}Lunching device... ${txtrst}"
 lunch "slim_$DEVICE-userdebug"
+
+# Clean out folder
+if [ "$CLEAN" == "clean" ]
+then
+   echo -e "${bldblu}Cleaning up the OUT folder with make clobber ${txtrst}"
+   make clobber;
+else
+  echo -e "${bldblu}No make clobber so just make installclean ${txtrst}"
+  make installclean;
+fi
 
 # Remove previous build info
 # echo -e "${bldblu}Removing previous build.prop ${txtrst}"
