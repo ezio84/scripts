@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+        <Stable>
+        <mako>
+                        <Filename>SlimBuildersCollective.ezio84-mako-4.4.4.4build8.0-20140918</Filename>
+                        <DownloadUrl>http://www.androidfilehost.com/?w=files&amp;flid=18313</DownloadUrl>
+                        <ChangelogUrl>https://www.androidfilehost.com/?w=files&amp;flid=19181</ChangelogUrl>
+        </mako>
+        <hammerhead>
+                        <Filename>SlimBuildersCollective.ezio84-mako-4.4.4.4build8.0-20140918</Filename>
+                        <DownloadUrl>http://www.androidfilehost.com/?w=files&amp;flid=18315</DownloadUrl>
+                        <ChangelogUrl>https://www.androidfilehost.com/?w=files&amp;flid=19181</ChangelogUrl>
+        </hammerhead>
+        </Stable>
+</SlimOTA>
