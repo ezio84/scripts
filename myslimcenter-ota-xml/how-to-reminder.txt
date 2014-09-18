@@ -17,4 +17,5 @@ vendor/slim (change build filename and version to let slimcenter handle them):
 https://github.com/ezio84/vendor_slim/commit/7fee72dddb90f34efa850a16c86132bccd46b133
 https://github.com/ezio84/vendor_slim/commit/14b814ab92a6a307f0b3b5c9792503b0c1d90c25
 https://github.com/ezio84/vendor_slim/commit/ddf6f5971fa2ef71390844ad0e312d601b5f3085
+https://github.com/ezio84/vendor_slim/commit/cfaf587fdd01be03997b5d8a829a7ab977825b0e
 
