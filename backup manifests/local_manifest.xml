@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!--TheLoonyBin proprietary vendor blobs -->
   <project path="vendor/lge/" name="TheLoonyBin/proprietary_vendor_lge" remote="github" revision="kk4.4" />
   <project path="vendor/broadcom/" name="TheLoonyBin/proprietary_vendor_broadcom" remote="github" revision="kk4.4" />
   <project path="vendor/qcom/" name="TheLoonyBin/proprietary_vendor_qcom" remote="github" revision="kk4.4" />
+  <!--Switch to my forked projects -->
   <remove-project path="frameworks/base" name="SlimRoms/frameworks_base" />
   <project path="frameworks/base" name="ezio84/frameworks_base" remote="github" revision="kk4.4" />
   <remove-project path="packages/apps/Settings" name="SlimRoms/packages_apps_Settings" />
@@ -29,9 +31,12 @@
   <project path="external/exfat" name="ezio84/android_external_exfat" remote="github" revision="kk4.4" />
   <remove-project path="external/fuse" name="SlimRoms/android_external_fuse" />
   <project path="external/fuse" name="ezio84/android_external_fuse" remote="github" revision="kk4.4" />
-  <!-- Some scripts by fusionjack to automate the building process and speedup chromium -->
+  <!-- Some scripts by fusionjack with some customizations by me to automate the building process and speedup chromiumopt -->
   <project path="scripts" name="ezio84/scripts" remote="github" revision="master" />
-  <!--SaberMod Prebuilts system and kernel -->
+  <!--SaberMod Prebuilts system and kernel toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" remote="github" revision="sm-kk-mr1" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="github" revision="sm-kk-mr1" />
+  <!--Switch SlimCenter OTA to my own build -->
+  <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
+  <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="kk4.4" />
 </manifest>
