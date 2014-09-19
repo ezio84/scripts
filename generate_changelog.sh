@@ -12,7 +12,9 @@ rdir=`pwd`
 
 # Generate Changelog
 echo -e "${bldblu}Generating updated changelog in your root repo folder ${txtrst}"
-echo -e "${bldblu}Ensure this sh script is in your root repo folder! ${txtrst}"
+echo -e " "
+echo -e "${bldblu}Ensure this sh script is in your root repo folder ${txtrst}"
+echo -e "${bldblu}and run it after adding commits but before compiling the new build! ${txtrst}"
 WORKING_DATE=${CUSTOM_DATE}
 
 CHANGELOG="$rdir"/Changelog_${CURRENT_DATE}.txt
