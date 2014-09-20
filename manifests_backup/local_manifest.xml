@@ -39,4 +39,6 @@
   <!--Switch SlimCenter OTA to my own build -->
   <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="kk4.4" />
+  <!-- Remove Slim file manager to add Simple Explorer updated apk on which the Slim one is based -->
+  <remove-project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" />
 </manifest>
