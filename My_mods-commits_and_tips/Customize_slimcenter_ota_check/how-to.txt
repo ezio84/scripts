@@ -1,0 +1,18 @@
+- To let SlimCenter notify the user about updated versions of your build:
+- fork fusionjack's github.com/Slimsaber/packages_apps_SlimCenter  to have these merged commits:
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/633011f6393fc8ada0c92c4c1c261aed6ce095f7[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/6d9e60faa2ad5f10def99fbc0572bf84f028b16e[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/7e0c4e073813ab59bd96f04b3bf9cf055d398175[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/b8422bf9cfcae78e81ac75a38e7f0e67256303cf[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/de757b9d7aa6d4aca30a47d0f8aa61184e2b2aff[/url]
+- then, if you want, see my commits just to understand better (or mess up more, lol) how to customize files to handle your build updates:
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/9e08ca0e203c3bb097621d40a94858a8740ff14a[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/463ca46059645fcc355d23ca67cedef5fb575fa8[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/fb3dd8506b2588a07b1b83b7ef4fb75f7d9ce90d[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/3ea63ec18dded71e4a6830b4a507808000686275[/url]
+- PS: ota_kitkat.xml need to be directly downloadable (= if you put its link in the browser, it must open the 'save as' window)
+- vendor/slim (change build filename and version to let slimcenter handle them):
+[url]https://github.com/ezio84/vendor_slim/commit/7fee72dddb90f34efa850a16c86132bccd46b133[/url]
+[url]https://github.com/ezio84/vendor_slim/commit/14b814ab92a6a307f0b3b5c9792503b0c1d90c25[/url]
+[url]https://github.com/ezio84/vendor_slim/commit/ddf6f5971fa2ef71390844ad0e312d601b5f3085[/url]
+[url]https://github.com/ezio84/vendor_slim/commit/cfaf587fdd01be03997b5d8a829a7ab977825b0e[/url]

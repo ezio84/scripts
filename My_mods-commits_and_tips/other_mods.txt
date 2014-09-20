@@ -1,0 +1,46 @@
+-To add "Lsw" and "see through":
+[HIDE][url]https://github.com/ezio84/packages_apps_Settings/commit/462d927ddb33caa1583e53be288c4eac59760d22[/url]
+ [url]https://github.com/ezio84/frameworks_base/commit/a7c616b8c29f2b4f6b119a4ea286912e67061281[/url]
+ [url]https://github.com/ezio84/frameworks_base/commit/aae565f2c10e18ce3cb4a00e6bdf23a66da6e8f0[/url][/HIDE]
+- To add "advanced download manager":
+[HIDE]For the download manager, you need:
+- this commit in frameworks_base:
+[url]https://github.com/ezio84/frameworks_base/commit/a2e28acf54994c9fdf5ee4bea0fe68a646696b57[/url]
+- then fork this omnirom project to your github:
+[url]https://github.com/omnirom/android_packages_providers_DownloadProvider[/url]
+- then use your fork instead of the slim default one (.repo/default.xml), e.g.:
+[CODE] <project path="packages/apps/Settings" name="ezio84/packages_apps_Settings" remote="github" revision="kk4.4" />
+ <remove-project path="packages/providers/DownloadProvider" name="SlimRoms/packages_providers_DownloadProvider" />[/CODE]
+- done (you don't need the [2/2] commit).[/HIDE]
+- To add "floating mode":
+[HIDE]Here are the commits you need in framework_base:
+- [url]https://github.com/ezio84/frameworks_base/commit/d22b49407c4390d12b8fc46e5e6df559b30b96b8[/url]
+- [url]https://github.com/ezio84/frameworks_base/commit/52e2c707b17c41a0f54da89e9f1abbb4666c229a[/url]
+- [url]https://github.com/ezio84/frameworks_base/commit/ba715f10237cbfb320b8d0bfcf8cf0bb6f30d1c5[/url]
+- [url]https://github.com/ezio84/frameworks_base/commit/0108a3d33a44880d45ae61e99afd9eb82698d8d6[/url]
+- [url]https://github.com/ezio84/frameworks_base/commit/5141073603fa316904653731ae98912648567612[/url]
+- [url]https://github.com/ezio84/frameworks_base/commit/d00d59f1dc96f8534d33c07f77483f55ed555374[/url]
+- [url]https://github.com/ezio84/frameworks_base/commit/33e1568ad7508c0845b64c51f23f1197100812aa[/url]
+- [url]https://github.com/ezio84/frameworks_base/commit/9841c2fab698c8920cb7d87ab1bc7e72d662d726[/url]
+- [url]https://github.com/ezio84/frameworks_base/commit/7bb5af9940d9b89911ac43d0a49ad99e106d6984[/url] [/HIDE]
+- To add "Lockscreen notifications":
+[HIDE][url]https://github.com/ezio84/packages_apps_Settings/commit/33c2392ae6cfe1d4b27db254d41702f7cc8c6c33[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/ed2638332c15e5aa61cf1a1b932f7958bd894a36[/url][/HIDE]
+- To add "Disable heads up in lockscreen":
+[HIDE][url]https://github.com/ezio84/frameworks_base/commit/a2495a7750cdd9f08222ed308bf69af1c36d086c[/url]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/afc76e82ae4d95d3b87261cfb9b132042a081ffa[/url]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/b76a2b4584414388b34f5bfff4e28f4576469426[/url]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/c4e0337eec4946ddef915d3c2932309f40464439[/url]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/1f204de233efdeeb228ec5986d87533db3303d3e[/url][/HIDE]
+- To add "Disable 2tap2sleep on the statusbar":
+[HIDE][url]https://github.com/ezio84/frameworks_base/commit/7b961b44a41dd9f2aa88c3b0fc898d6fadeec9ad[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/74f1a60b042f7647808bd1cad7d42feb051e0009[/url]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/396ccdaf17e3e6390cd836cae5fc0488cb2f95f3[/url][/HIDE]
+- To add "Network upload and download speed in the statusbar":
+[HIDE][url]https://github.com/ezio84/frameworks_base/commit/caf42ebf364d33b51cbc000c335a34e139894c5d[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/2f288aad5cc3fe9f5fe7a0adf06f15aac0471946[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/0598c4f929ae2292a2f366f8d7a24ff51284a228[/url]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/ad89503350a89a805cfdf6462acac1c3e73a36f6[/url]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/3dc822ea9d1523295075fc6851e5f4fb5aee854e[/url][/HIDE]
+- To remove "system updates check" in the about screen:
+[HIDE][url]https://github.com/ezio84/packages_apps_Settings/commit/ef61ba5d1c1cc2a0098c0b0cb42e8bfc9e4ac7df[/url][/HIDE][/HIDE]
