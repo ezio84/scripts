@@ -1,7 +1,7 @@
 build_rom.sh
 ---------
 
-	 . scripts/build_rom.sh mako nosync 7 clean
+	 . scripts/build_rom.sh mako nosync 7 clean log
  
 Parameter 1: The device tree: mako | hammeread | others
 
@@ -9,7 +9,13 @@ Parameter 2: Sync or don't sync the source: sync | nosync
 
 Parameter 3: Number of threads (-j#)
 
-Parameter 4: Make a clean build (make clobber): clean | or leave it empty to make installclean
+Parameter 4: Make a clean build: clean to make clobber| noclean to make installclean
+
+Parameter 5: Save a txt building log in the root repo folder: log | nolog (or leave it empty)
+
+
+NB: after changing toolchains or making other important changes to the build, it's a good idea to
+disable prebuilt-chromium (export USE_PREBUILT_CHROMIUM=0) in the script
 
 
 build_kernel.sh
