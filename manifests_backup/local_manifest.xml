@@ -31,14 +31,22 @@
   <project path="external/exfat" name="ezio84/android_external_exfat" remote="github" revision="kk4.4" />
   <remove-project path="external/fuse" name="SlimRoms/android_external_fuse" />
   <project path="external/fuse" name="ezio84/android_external_fuse" remote="github" revision="kk4.4" />
+  <remove-project path="external/openssl" name="SlimRoms/android_external_openssl" />
+  <project path="external/openssl" name="ezio84/android_external_openssl" remote="github" revision="kk4.4" />
+  <remove-project path="frameworks/rs" name="SlimRoms/frameworks_rs" />
+  <project path="frameworks/rs" name="ezio84/frameworks_rs" remote="github" revision="kk4.4" groups="pdk" />
+  <remove-project path="frameworks/native" name="SlimRoms/frameworks_native" />
+  <project path="frameworks/native" name="ezio84/frameworks_native" remote="github" revision="kk4.4" />
   <!-- Some scripts by fusionjack with some customizations by me to automate the building process and speedup chromiumopt -->
   <project path="scripts" name="ezio84/scripts" remote="github" revision="master" />
   <!--SaberMod Prebuilts system and kernel toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" remote="github" revision="sm-kk-mr1" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="github" revision="sm-kk-mr1" />
-  <!--Switch SlimCenter OTA to my own build -->
+  <!-- Switch SlimCenter OTA to my own build -->
   <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="kk4.4" />
   <!-- Remove Slim file manager to add Simple Explorer updated apk on which the Slim one is based -->
   <remove-project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" />
+  <!-- Remove old browser, Chrome is good now
+  <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" /> -->
 </manifest>
