@@ -11,6 +11,7 @@ DEVICE="$1"
 SYNC="$2"
 THREADS="$3"
 CLEAN="$4"
+LOG="$5"
 
 # Time of build startup
 res1=$(date +%s.%N)
@@ -57,9 +58,15 @@ fi
 # echo -e "${bldblu}Removing previous build.prop ${txtrst}"
 # rm $OUT/system/build.prop;
 
-# Start compilation
-echo -e "${bldblu}Starting build for $DEVICE ${txtrst}"
-make bacon -j"$THREADS"
+# Start compilation with or without log
+if [ "$LOG" == "log" ]
+then
+   echo -e "${bldblu}Compiling for $DEVICE and saving a build log file ${txtrst}"
+   make bacon -j"$THREADS" 2>&1 | tee build.log;
+else
+   echo -e "${bldblu}Compiling for $DEVICE without saving a build log file ${txtrst}"
+   make bacon -j"$THREADS";
+fi
 
 # Get elapsed time
 res2=$(date +%s.%N)
