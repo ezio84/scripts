@@ -37,6 +37,8 @@ Generate changelog since last build:
 	
 Parameter 1: A timestamp in UTC format that you can take from build.prop (ro.build.date.utc)
 
+PS: place it in the root repo folder!
+
 
 rom_to_device.sh or kernel__to_device.sh
 ---------------------
