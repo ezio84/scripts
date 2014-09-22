@@ -11,6 +11,9 @@ https://github.com/RobbieL811/slim_hardware_qcom_camera/commit/20af7d22970484f32
 https://github.com/RobbieL811/slim_system_vold/commit/8d8cf7b9189cd2af1d43264d28af6378e593801d
 https://github.com/letmedanz/Slim_external_exfat/commit/282b89c1b8111017cfa3eb7d16eb43b410995df8
 https://github.com/SlimSaber/android_external_fuse/commit/f3736cb1104f72ee1f1322a4eea79e960bee0cd6
+https://github.com/ezio84/frameworks_native/commit/f9a9773be8b6ccf01efba9281ebf3cdc97604f01
+https://github.com/ezio84/frameworks_rs/commit/804ac17e230be69d3d5e94a1dd9ed0b6d5262546
+https://github.com/ezio84/android_external_openssl/commit/48915e0d496adbc596814f87cfa14fac636cc41d
 
 local manifest:
 
