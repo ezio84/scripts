@@ -1,3 +1,24 @@
+[B]Some github commits if you want to check the source or build by yourself (you can also fork my repos [url]https://github.com/ezio84?tab=repositories[/url])[/B]
+[HIDE]-To let SlimCenter notify the user about updated versions of your build:
+[HIDE]- fork fusionjack's github.com/Slimsaber/packages_apps_SlimCenter  to have these merged commits:
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/633011f6393fc8ada0c92c4c1c261aed6ce095f7[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/6d9e60faa2ad5f10def99fbc0572bf84f028b16e[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/7e0c4e073813ab59bd96f04b3bf9cf055d398175[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/b8422bf9cfcae78e81ac75a38e7f0e67256303cf[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/de757b9d7aa6d4aca30a47d0f8aa61184e2b2aff[/url]
+- then, if you want, see my commits just to understand better (or mess up more, lol)  how to customize files to handle your build updates:
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/9e08ca0e203c3bb097621d40a94858a8740ff14a[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/463ca46059645fcc355d23ca67cedef5fb575fa8[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/fb3dd8506b2588a07b1b83b7ef4fb75f7d9ce90d[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/3ea63ec18dded71e4a6830b4a507808000686275[/url]
+[url]https://github.com/ezio84/packages_apps_SlimCenter/commit/f24c3d4a7891ec68f1ab184c697c4ec9eed0e00b[/url]
+- PS: ota_kitkat.xml need to be directly downloadable (= if you put its link in the browser, it must open the 'save as' window)
+- vendor/slim (change build filename and version to let slimcenter handle them):
+[url]https://github.com/ezio84/vendor_slim/commit/7fee72dddb90f34efa850a16c86132bccd46b133[/url]
+[url]https://github.com/ezio84/vendor_slim/commit/14b814ab92a6a307f0b3b5c9792503b0c1d90c25[/url]
+[url]https://github.com/ezio84/vendor_slim/commit/ddf6f5971fa2ef71390844ad0e312d601b5f3085[/url]
+[url]https://github.com/ezio84/vendor_slim/commit/cfaf587fdd01be03997b5d8a829a7ab977825b0e[/url]
+[url]https://github.com/ezio84/vendor_slim/commit/2473ccfe40a79dd4a2f58d03feedc1d9369180ba[/url][/HIDE]
 -To add "Lsw" and "see through":
 [HIDE][url]https://github.com/ezio84/packages_apps_Settings/commit/462d927ddb33caa1583e53be288c4eac59760d22[/url]
  [url]https://github.com/ezio84/frameworks_base/commit/a7c616b8c29f2b4f6b119a4ea286912e67061281[/url]
@@ -44,3 +65,17 @@
 [url]https://github.com/ezio84/packages_apps_Settings/commit/3dc822ea9d1523295075fc6851e5f4fb5aee854e[/url][/HIDE]
 - To remove "system updates check" in the about screen:
 [HIDE][url]https://github.com/ezio84/packages_apps_Settings/commit/ef61ba5d1c1cc2a0098c0b0cb42e8bfc9e4ac7df[/url][/HIDE][/HIDE]
+
+---
+
+prebuilt chromium:
+[QUOTE=fusionjack;55684476]i'm not sure if you already heard about omnirom's prebuilt chomium...with this, you only need to compile chromium lib once and use it for future building, but only if there is no changes in chromium (which happens rarely). compiling libwebchromium.so is the hardest part in kitkat.
+you'll safe a lot of compile time especially when you clean up ccache.
+here are the commits:
+[LIST]
+[*][url]https://github.com/SlimSaber/android_build/commit/f3920b7a1fb7e3660b9513c2fe0db2b0c45bd72a[/url]
+[*][url]https://github.com/SlimSaber/vendor_slim/commit/7d82f82474543fe2c097dfbd3cf7d4648bea507c[/url]
+[*][url]https://github.com/SlimSaber/vendor_slim/commit/bad0eeb8d3c5b2db86607cf77e3f656bc79ec8c1[/url]
+[*][url]https://github.com/omnirom/android_frameworks_webview/commit/ebfbf21279b9c2c5c3fc5df595239ee83b168ee6[/url]
+[/LIST]
+i could give you further explanation if there is something unclear...[/QUOTE]
