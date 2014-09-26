@@ -41,6 +41,7 @@ echo -e "${bldgrn}Updating hardware/qcom/display ${txtrst}"
 cd $rdir/hardware/qcom/display && git fetch slimroms && git merge slimroms/kk4.4
 echo -e "${bldgrn}Updating vendor/slim ${txtrst}"
 cd $rdir/vendor/slim && git fetch slimroms && git merge slimroms/kk4.4
-
+echo -e "${bldgrn}Updating external/sqlite ${txtrst}"
+cd $rdir/external/sqlite && git fetch cm && git merge cm/cm-11.0
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
