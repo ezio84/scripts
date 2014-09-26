@@ -52,4 +52,7 @@
   <!-- Update sqlite with latest version, ton of bugfixes and performance improvements -->
   <remove-project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/sqlite" name="ezio84/android_external_sqlite" remote="github" revision="cm-11.0" />
+  <!-- Omnirom webview to add prebuilt chromium (other commits are in my forked projects android_build and vendor_slim -->
+  <remove-project path="frameworks/webview" name="platform/frameworks/webview" />
+  <project path="frameworks/webview" name="omnirom/android_frameworks_webview" remote="github" revision="android-4.4" />
 </manifest>
