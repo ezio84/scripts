@@ -45,5 +45,11 @@ echo -e "${bldgrn}Updating external/sqlite ${txtrst}"
 cd $rdir/external/sqlite && git fetch cm && git merge cm/cm-11.0
 echo -e "${bldgrn}Updating packages/providers/DownloadProvider ${txtrst}"
 cd $rdir/packages/providers/DownloadProvider && git fetch omni && git merge omni/android-4.4
+echo -e "${bldgrn}Updating packages_apps_Dialer ${txtrst}"
+cd $rdir/packages/apps/Dialer && git fetch slimroms && git merge slimroms/kk4.4
+echo -e "${bldgrn}Updating packages_apps_InCallUI ${txtrst}"
+cd $rdir/packages/apps/InCallUI && git fetch slimroms && git merge slimroms/kk4.4
+echo -e "${bldgrn}Updating packages_services_Telephony ${txtrst}"
+cd $rdir/packages/services/Telephony && git fetch slimroms && git merge slimroms/kk4.4
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
