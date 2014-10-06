@@ -55,4 +55,11 @@
   <!-- Omnirom webview to add prebuilt chromium (other commits are in my forked projects android_build and vendor_slim -->
   <remove-project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/webview" name="omnirom/android_frameworks_webview" remote="github" revision="android-4.4" />
+  <!-- Add incall recorder -->
+  <remove-project path="packages/apps/Dialer" name="SlimRoms/packages_apps_Dialer" />
+  <project path="packages/apps/Dialer" name="ezio84/packages_apps_Dialer" remote="github" revision="kk4.4" />
+  <remove-project path="packages/apps/InCallUI" name="SlimRoms/packages_apps_InCallUI" />
+  <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="kk4.4" />
+  <remove-project path="packages/services/Telephony" name="SlimRoms/packages_services_Telephony" />
+  <project path="packages/services/Telephony" name="ezio84/packages_services_Telephony" remote="github" revision="kk4.4" />
 </manifest>
