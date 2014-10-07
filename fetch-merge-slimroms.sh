@@ -51,5 +51,7 @@ echo -e "${bldgrn}Updating packages_apps_InCallUI ${txtrst}"
 cd $rdir/packages/apps/InCallUI && git fetch slimroms && git merge slimroms/kk4.4
 echo -e "${bldgrn}Updating packages_services_Telephony ${txtrst}"
 cd $rdir/packages/services/Telephony && git fetch slimroms && git merge slimroms/kk4.4
+echo -e "${bldgrn}Updating packages_apps_Mms ${txtrst}"
+cd $rdir/packages/apps/Mms && git fetch slimroms && git merge slimroms/kk4.4
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"

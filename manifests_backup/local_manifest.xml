@@ -62,4 +62,6 @@
   <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="kk4.4" />
   <remove-project path="packages/services/Telephony" name="SlimRoms/packages_services_Telephony" />
   <project path="packages/services/Telephony" name="ezio84/packages_services_Telephony" remote="github" revision="kk4.4" />
+  <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" />
+  <project path="packages/apps/Mms" name="ezio84/packages_apps_Mms" remote="github" revision="kk4.4" />
 </manifest>
