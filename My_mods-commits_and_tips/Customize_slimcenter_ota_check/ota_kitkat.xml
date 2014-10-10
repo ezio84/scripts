@@ -2,14 +2,14 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
         <Stable>
         <mako>
-                        <Filename>Slim.ezio84-mako-4.4.4.build.8.2-20141002</Filename>
-                        <DownloadUrl>http://www.androidfilehost.com/?w=files&amp;flid=18313</DownloadUrl>
-                        <ChangelogUrl>https://www.androidfilehost.com/?w=files&amp;flid=19181</ChangelogUrl>
+                        <Filename>Slim.ezio84-mako-4.4.4.build.8.4-20141008</Filename>
+                        <DownloadUrl>https://s.basketbuild.com/devs/ezio84-xda</DownloadUrl>
+                        <ChangelogUrl>https://s.basketbuild.com/devs/ezio84-xda/changelogs</ChangelogUrl>
         </mako>
         <hammerhead>
-                        <Filename>Slim.ezio84-hammerhead-4.4.4.build.8.2-20141002</Filename>
-                        <DownloadUrl>http://www.androidfilehost.com/?w=files&amp;flid=18315</DownloadUrl>
-                        <ChangelogUrl>https://www.androidfilehost.com/?w=files&amp;flid=19181</ChangelogUrl>
+                        <Filename>Slim.ezio84-hammerhead-4.4.4.build.8.4-20141008</Filename>
+                        <DownloadUrl>https://s.basketbuild.com/devs/ezio84-xda</DownloadUrl>
+                        <ChangelogUrl>https://s.basketbuild.com/devs/ezio84-xda/changelogs</ChangelogUrl>
         </hammerhead>
         </Stable>
 </SlimOTA>

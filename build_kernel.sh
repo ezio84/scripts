@@ -16,12 +16,12 @@ res1=$(date +%s.%N)
 # Setup environment
 echo -e "${bldblu}Setting up build environment ${txtrst}"
 . build/envsetup.sh
-export USE_CCACHE=1
-/usr/bin/ccache -M 50G
+# export USE_CCACHE=1
+# /usr/bin/ccache -M 50G
 export BUILDING_RECOVERY=false
 
-echo -e "${bldblu}Cleaning up out folder ${txtrst}"
-make clobber;
+# echo -e "${bldblu}Cleaning up out folder ${txtrst}"
+# make clobber;
 
 # Lunch device
 echo -e "${bldblu}Lunching device... ${txtrst}"
