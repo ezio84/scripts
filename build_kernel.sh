@@ -23,6 +23,9 @@ export BUILDING_RECOVERY=false
 # echo -e "${bldblu}Cleaning up out folder ${txtrst}"
 # make clobber;
 
+# Prebuilt chromium
+export USE_PREBUILT_CHROMIUM=1
+
 # Lunch device
 echo -e "${bldblu}Lunching device... ${txtrst}"
 lunch "slim_$DEVICE-userdebug"
