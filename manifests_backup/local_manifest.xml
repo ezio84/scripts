@@ -39,9 +39,6 @@
   <project path="frameworks/native" name="ezio84/frameworks_native" remote="github" revision="kk4.4" />
   <!-- Some scripts by fusionjack with some customizations by me to automate the building process and speedup chromiumopt -->
   <project path="scripts" name="ezio84/scripts" remote="github" revision="master" />
-  <!--SaberMod Prebuilts system and kernel toolchains -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" remote="github" revision="sm-kk-mr1" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="github" revision="sm-kk-mr1" />
   <!-- Switch SlimCenter OTA to my own build -->
   <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="kk4.4" />
@@ -67,4 +64,10 @@
   <!-- kernel -->
   <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="kk4.4" />
   <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="kk4.4" />
+  <!--OLD 4.8.3 - SaberMod Prebuilts system and kernel toolchains
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" remote="github" revision="sm-kk-mr1" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="github" revision="sm-kk-mr1" />  -->
+  <!--NEW 4.8.4 for rom and 4.9.2 for kernel - SaberMod Prebuilts system and kernel toolchains -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="ezio84/SaberMod" remote="github" revision="arm-eabi-4.9"/>
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="ezio84/SaberMod"  remote="github" revision="arm-linux-androideabi-4.8"/>
 </manifest>

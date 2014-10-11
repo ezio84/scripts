@@ -17,6 +17,9 @@ https://github.com/ezio84/android_external_openssl/commit/48915e0d496adbc596814f
 
 local manifest:
 
-  <!--SaberMod Prebuilts system and kernel toolchains-->
+  <!--OLD 4.8.3 - SaberMod Prebuilts system and kernel toolchains
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" remote="github" revision="sm-kk-mr1" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="github" revision="sm-kk-mr1" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="github" revision="sm-kk-mr1" />  -->
+  <!--NEW 4.8.4 for rom and 4.9.2 for kernel - SaberMod Prebuilts system and kernel toolchains -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="ezio84/SaberMod" remote="github" revision="arm-eabi-4.9"/>
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="ezio84/SaberMod"  remote="github" revision="arm-linux-androideabi-4.8"/>
