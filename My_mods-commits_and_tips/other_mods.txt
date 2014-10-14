@@ -64,8 +64,8 @@ https://github.com/ezio84/packages_apps_InCallUI/commit/dd0d704c6245b7937959b443
 [url]https://github.com/ezio84/packages_apps_Settings/commit/b6cc21c9aa530254bb03f08b92cd753d1372707b[/url][/HIDE]
 - To add "Disable heads up in lockscreen":
 [HIDE][url]https://github.com/ezio84/frameworks_base/commit/a2495a7750cdd9f08222ed308bf69af1c36d086c[/url]
-[url]https://github.com/ezio84/packages_apps_Settings/commit/afc76e82ae4d95d3b87261cfb9b132042a081ffa[/url]
-[url]https://github.com/ezio84/packages_apps_Settings/commit/b76a2b4584414388b34f5bfff4e28f4576469426[/url]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/afc76e82ae4d95d3b87261cfb9b132042a081ffa[/url] <-- EDIT: add manually only the code in  res/values/slim_strings.xml, other 2 java files are not needed because those lines are now in another place -see following commits) 
+[url]https://github.com/ezio84/packages_apps_Settings/commit/b76a2b4584414388b34f5bfff4e28f4576469426[/url] <-- EDIT: not needed, merged in the official Slim code
 [url]https://github.com/ezio84/packages_apps_Settings/commit/c4e0337eec4946ddef915d3c2932309f40464439[/url]
 [url]https://github.com/ezio84/packages_apps_Settings/commit/1f204de233efdeeb228ec5986d87533db3303d3e[/url][/HIDE]
 - To add "Disable 2tap2sleep on the statusbar":
