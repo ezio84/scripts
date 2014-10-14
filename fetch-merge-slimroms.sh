@@ -53,9 +53,11 @@ echo -e "${bldgrn}Updating packages_services_Telephony ${txtrst}"
 cd $rdir/packages/services/Telephony && git fetch slimroms && git merge slimroms/kk4.4
 echo -e "${bldgrn}Updating packages_apps_Mms ${txtrst}"
 cd $rdir/packages/apps/Mms && git fetch slimroms && git merge slimroms/kk4.4
-echo -e "${bldgrn}Updating device_lge_mako ${txtrst}"
+echo -e "${bldgrn}Updating device/lge/mako ${txtrst}"
 cd $rdir/device/lge/mako && git fetch slimroms && git merge slimroms/kk4.4
-echo -e "${bldgrn}Updating device_lge_hammerhead ${txtrst}"
+echo -e "${bldgrn}Updating device/lge/hammerhead ${txtrst}"
 cd $rdir/device/lge/hammerhead && git fetch slimroms && git merge slimroms/kk4.4
+echo -e "${bldgrn}Updating packages/apps/UnifiedEmail ${txtrst}"
+cd $rdir/packages/apps/UnifiedEmail && git fetch slimroms && git merge slimroms/kk4.4
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
