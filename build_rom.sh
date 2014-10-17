@@ -29,7 +29,7 @@ echo -e "${bldblu}Setting up build environment ${txtrst}"
 
 # Setup ccache
 export USE_CCACHE=1
-export CCACHE_DIR="/home/ezio/Dati/ccache"
+export CCACHE_DIR="/home/ezio/Androidsource/ccache"
 /usr/bin/ccache -M 50G
 
 # For building recovery
