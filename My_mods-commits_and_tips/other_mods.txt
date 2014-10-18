@@ -12,7 +12,10 @@ https://github.com/ezio84/packages_apps_Dialer/commit/be7544a971491d74df7f6660e7
 https://github.com/ezio84/packages_apps_InCallUI/commit/30e3e429b838f564133a9df834d743600df8b041
 https://github.com/ezio84/packages_apps_InCallUI/commit/fe2b955b6a26b62550b4d684d23550d48334e0de
 https://github.com/ezio84/packages_apps_InCallUI/commit/63b3b6a249ad59d8ef73dd227e93b2ad74da0a53
-https://github.com/ezio84/packages_apps_InCallUI/commit/dd0d704c6245b7937959b4435abaabd24b6e2253[/HIDE]
+https://github.com/ezio84/packages_apps_InCallUI/commit/dd0d704c6245b7937959b4435abaabd24b6e2253
+My customizations:
+[url]https://github.com/ezio84/packages_apps_InCallUI/commit/22876b88bc3737de9dc4fbb8e5e2f607980bb287[/url]
+[url]https://github.com/ezio84/packages_apps_InCallUI/commit/8f5b51eb2e4eb907eef841a9a08a6c9179b98689[/url][/HIDE]
 -To let SlimCenter notify the user about updated versions of your build:
 [HIDE]- fork fusionjack's github.com/Slimsaber/packages_apps_SlimCenter  to have these merged commits:
 [url]https://github.com/ezio84/packages_apps_SlimCenter/commit/633011f6393fc8ada0c92c4c1c261aed6ce095f7[/url]
