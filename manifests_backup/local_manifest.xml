@@ -72,4 +72,6 @@
   <!--NEW 4.8.4 for rom and 4.9.2 for kernel - SaberMod Prebuilts system and kernel toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="ezio84/SaberMod" remote="github" revision="arm-eabi-4.9"/>
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="ezio84/SaberMod"  remote="github" revision="arm-linux-androideabi-4.8"/>
+  <!-- Remove LatinIME, let's use the new L keyboard -->
+  <remove-project path="packages/inputmethods/LatinIME" name="SlimRoms/packages_inputmethods_LatinIME" />
 </manifest>
