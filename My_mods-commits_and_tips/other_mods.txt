@@ -70,7 +70,7 @@ My customizations:
 [url]https://github.com/ezio84/packages_apps_Settings/commit/afc76e82ae4d95d3b87261cfb9b132042a081ffa[/url] <-- EDIT: add manually only the code in  res/values/slim_strings.xml, other 2 java files are not needed because those lines are now in another place -see following commits) 
 [url]https://github.com/ezio84/packages_apps_Settings/commit/b76a2b4584414388b34f5bfff4e28f4576469426[/url] <-- EDIT: not needed, merged in the official Slim code
 [url]https://github.com/ezio84/packages_apps_Settings/commit/c4e0337eec4946ddef915d3c2932309f40464439[/url]
-[url]https://github.com/ezio84/packages_apps_Settings/commit/1f204de233efdeeb228ec5986d87533db3303d3e[/url][/HIDE]
+[url]https://github.com/ezio84/packages_apps_Settings/commit/1f204de233efdeeb228ec5986d87533db3303d3e[/url] <-- EDIT: already in the previous commit now[/HIDE]
 - To add "Disable 2tap2sleep on the statusbar":
 [HIDE][url]https://github.com/ezio84/frameworks_base/commit/7b961b44a41dd9f2aa88c3b0fc898d6fadeec9ad[/url]
 [url]https://github.com/ezio84/frameworks_base/commit/74f1a60b042f7647808bd1cad7d42feb051e0009[/url]
