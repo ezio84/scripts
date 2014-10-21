@@ -59,5 +59,7 @@ echo -e "${bldgrn}Updating device/lge/hammerhead ${txtrst}"
 cd $rdir/device/lge/hammerhead && git fetch slimroms && git merge slimroms/kk4.4
 echo -e "${bldgrn}Updating packages/apps/UnifiedEmail ${txtrst}"
 cd $rdir/packages/apps/UnifiedEmail && git fetch slimroms && git merge slimroms/kk4.4
+echo -e "${bldgrn}Updating packages/apps/SlimLauncher ${txtrst}"
+cd $rdir/packages/apps/SlimLauncher && git fetch slimroms && git merge slimroms/kk4.4
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
