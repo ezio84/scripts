@@ -73,5 +73,8 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="ezio84/SaberMod" remote="github" revision="arm-eabi-4.9"/>
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="ezio84/SaberMod"  remote="github" revision="arm-linux-androideabi-4.8"/>
   <!-- Remove LatinIME, let's use the new L keyboard -->
-  <remove-project path="packages/inputmethods/LatinIME" name="SlimRoms/packages_inputmethods_LatinIME" />
+  <!--   <remove-project path="packages/inputmethods/LatinIME" name="SlimRoms/packages_inputmethods_LatinIME" />  -->
+  <!-- SlimLauncher -->
+  <remove-project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
+  <project path="packages/apps/SlimLauncher" name="ezio84/packages_apps_SlimLauncher" remote="github" revision="kk4.4" />
 </manifest>
