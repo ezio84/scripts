@@ -63,10 +63,10 @@ fi
 # Start compilation with or without log
 if [ "$LOG" == "log" ]
 then
-   echo -e "${bldblu}Compiling for $DEVICE and saving a build log file ${txtrst}"
+   echo -e "${bldblu}Compiling $APK apk for $DEVICE and saving a build-apk log file ${txtrst}"
    make $APK -j"$THREADS" 2>&1 | tee build-apk.log;
 else
-   echo -e "${bldblu}Compiling for $DEVICE without saving a build log file ${txtrst}"
+   echo -e "${bldblu}Compiling $APK for $DEVICE without saving a build log file ${txtrst}"
    make $APK -j"$THREADS";
 fi
 
