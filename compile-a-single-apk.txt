@@ -1,0 +1,12 @@
+Daniel Koman
+Instead of make bacon, do make Dialer
+
+Daniel Koman
+Then the app will be in /out/target/product/mako/system/priv-app/Dialer.apk
+
+Daniel Koman
+Anyway after you get the app, just do:
+adb root
+adb remount
+adb push Dialer.apk /system/priv-app/Dialer.apk
+adb reboot
