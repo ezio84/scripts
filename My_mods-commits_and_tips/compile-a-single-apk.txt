@@ -10,3 +10,6 @@ adb root
 adb remount
 adb push Dialer.apk /system/priv-app/Dialer.apk
 adb reboot
+
+
+EDIT: now there's a build-apk automatic script in the script folder
