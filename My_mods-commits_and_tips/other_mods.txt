@@ -85,6 +85,23 @@ My customizations:
 [HIDE][url]https://github.com/ezio84/packages_apps_Settings/commit/ef61ba5d1c1cc2a0098c0b0cb42e8bfc9e4ac7df[/url][/HIDE]
 - To remove the white camera icon in the lockscreen:
 [HIDE][url]https://github.com/ezio84/frameworks_base/commit/2eff3d77469ff1d840c6ccb0816947d9f3b503d6[/url][/HIDE][/HIDE]
+- To add the Omnirom Screen Recorder, ready for Slimkat:
+frameworks_base
+[HIDE][url]https://github.com/ezio84/frameworks_base/commit/7e4fc7554b361a69c3224dfb522d652739d5dd61[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/cd6d06a335bf6f807662eacf50aa20247f1df7f7[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/987765fd20935c570b5c078673e53a79db4759cb[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/a176454f2788125f86d2317fceb8fb9a8ba3e610[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/7d8264a51f78a696a767af4ace31101a2432f99d[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/be80405590573f9c7e8be162e538b6f72990e600[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/e02abef812a2987bf44e62433d8d1302b7ab958f[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/5cb6cab2894710c9e1397a6c9b59a8363b1cb036[/url]
+[url]https://github.com/ezio84/frameworks_base/commit/fe136b2e69d151a9b0cce8cd13b3bee9af39dabd[/url][/HIDE]
+packages_apps_Settings:
+[HIDE][url]https://github.com/ezio84/packages_apps_Settings/commit/99fed353aa7aed84178a10984b2018a1450fe2b6[/url][/HIDE]
+frameworks_av:
+[HIDE][url]https://github.com/ezio84/frameworks_av/commit/854ad12f8ffffd9b6b0359d29a36aba50ba9c28c[/url]
+[url]https://github.com/ezio84/frameworks_av/commit/94e4a99a5c04eca18f2a2c0163fdb1dbaf3067e5[/url]
+[url]https://github.com/ezio84/frameworks_av/commit/b1488f14dc16f77516edcdcb0e3207b4a1d2a2f3[/url][/HIDE]
 
 
 ---
