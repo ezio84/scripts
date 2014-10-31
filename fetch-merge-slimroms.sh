@@ -17,6 +17,8 @@ echo -e "${bldgrn}Updating frameworks/native ${txtrst}"
 cd $rdir/frameworks/native && git fetch slimroms && git merge slimroms/kk4.4
 echo -e "${bldgrn}Updating frameworks/rs ${txtrst}"
 cd $rdir/frameworks/rs && git fetch slimroms && git merge slimroms/kk4.4
+echo -e "${bldgrn}Updating frameworks/av ${txtrst}"
+cd $rdir/frameworks/av && git fetch slimroms && git merge slimroms/kk4.4
 echo -e "${bldgrn}Updating packages/apps/Settings ${txtrst}"
 cd $rdir/packages/apps/Settings && git fetch slimroms && git merge slimroms/kk4.4
 echo -e "${bldgrn}Updating packages/apps/SlimCenter ${txtrst}"

@@ -37,6 +37,8 @@
   <project path="frameworks/rs" name="ezio84/frameworks_rs" remote="github" revision="kk4.4" groups="pdk" />
   <remove-project path="frameworks/native" name="SlimRoms/frameworks_native" />
   <project path="frameworks/native" name="ezio84/frameworks_native" remote="github" revision="kk4.4" />
+  <remove-project path="frameworks/av" name="SlimRoms/frameworks_av" />
+  <project path="frameworks/av" name="ezio84/frameworks_av" remote="github" revision="kk4.4" />
   <remove-project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" />
   <project path="packages/apps/UnifiedEmail" name="ezio84/packages_apps_UnifiedEmail" remote="github" revision="kk4.4" />
   <!-- Some scripts by fusionjack with some customizations by me to automate the building process and speedup chromiumopt -->
