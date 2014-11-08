@@ -79,4 +79,6 @@
   <!-- SlimLauncher -->
   <remove-project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
   <project path="packages/apps/SlimLauncher" name="ezio84/packages_apps_SlimLauncher" remote="github" revision="kk4.4" />
+  <!-- Screen Recorder -->
+  <project name="ezio84/android_packages_apps_ScreenRecorder" path="packages/apps/ScreenRecorder" remote="github" revision="kitkat" />
 </manifest>
