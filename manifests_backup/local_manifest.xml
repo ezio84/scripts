@@ -81,4 +81,15 @@
   <project path="packages/apps/SlimLauncher" name="ezio84/packages_apps_SlimLauncher" remote="github" revision="kk4.4" />
   <!-- Screen Recorder -->
   <project name="ezio84/android_packages_apps_ScreenRecorder" path="packages/apps/ScreenRecorder" remote="github" revision="kitkat" />
+  <!-- Switch to L fonts -NB also need to change files in fwbase data fonts- -->
+  <remove-project path="external/naver-fonts" name="platform/external/naver-fonts" />
+  <remove-project path="external/noto-fonts" name="platform/external/noto-fonts" />
+  <remove-project path="external/sil-fonts" name="platform/external/sil-fonts" />
+  <project path="external/naver-fonts" name="platform/external/naver-fonts" groups="pdk-cw-fs" revision="refs/tags/android-5.0.0_r1" />
+  <project path="external/noto-fonts" name="platform/external/noto-fonts" groups="pdk" revision="refs/tags/android-5.0.0_r1" />
+  <project path="external/fonttools" name="platform/external/fonttools" revision="refs/tags/android-5.0.0_r1" />
+  <project path="external/google-fonts/coming-soon" name="platform/external/google-fonts/coming-soon" groups="pdk-cw-fs" revision="refs/tags/android-5.0.0_r1" />
+  <project path="external/google-fonts/dancing-script" name="platform/external/google-fonts/dancing-script" groups="pdk-cw-fs" revision="refs/tags/android-5.0.0_r1" />
+  <project path="external/google-fonts/carrois-gothic-sc" name="platform/external/google-fonts/carrois-gothic-sc" groups="pdk-cw-fs" revision="refs/tags/android-5.0.0_r1" />
+  <project path="external/google-fonts/cutive-mono" name="platform/external/google-fonts/cutive-mono" groups="pdk-cw-fs" revision="refs/tags/android-5.0.0_r1" />
 </manifest>
