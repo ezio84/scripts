@@ -33,10 +33,6 @@ echo -e "${bldgrn}Updating hardware/qcom/display ${txtrst}"
 cd $rdir/hardware/qcom/display && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating vendor/slim ${txtrst}"
 cd $rdir/vendor/slim && git fetch slimroms && git merge slimroms/lp5.0
-echo -e "${bldgrn}Updating external/sqlite ${txtrst}"
-cd $rdir/external/sqlite && git fetch cm && git merge cm/cm-12.0
-echo -e "${bldgrn}Updating packages/providers/DownloadProvider ${txtrst}"
-cd $rdir/packages/providers/DownloadProvider && git fetch omni && git merge omni/android-4.4
 echo -e "${bldgrn}Updating packages_apps_Dialer ${txtrst}"
 cd $rdir/packages/apps/Dialer && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating packages_apps_InCallUI ${txtrst}"
@@ -55,5 +51,9 @@ echo -e "${bldgrn}Updating packages/apps/SlimLauncher ${txtrst}"
 cd $rdir/packages/apps/SlimLauncher && git fetch slimroms && git merge slimroms/lp5.0
 # echo -e "${bldgrn}Updating packages/apps/ScreenRecorder ${txtrst}"
 # cd $rdir/packages/apps/ScreenRecorder && git fetch chameleonos && git merge chameleonos/kitkat
+# echo -e "${bldgrn}Updating external/sqlite ${txtrst}"
+# cd $rdir/external/sqlite && git fetch cm && git merge cm/cm-12.0
+# echo -e "${bldgrn}Updating packages/providers/DownloadProvider ${txtrst}"
+# cd $rdir/packages/providers/DownloadProvider && git fetch omni && git merge omni/android-4.4
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"

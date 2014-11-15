@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Some scripts by fusionjack with some customizations by me to automate the building process -->
+  <project path="scripts" name="ezio84/scripts" remote="github" revision="lp5.0" />
+  <!--TheLoonyBin proprietary vendor blobs -->
+  <project path="vendor/lge/" name="TheLoonyBin/proprietary_vendor_lge" remote="github" revision="lp5.0" />
+  <project path="vendor/broadcom/" name="TheLoonyBin/proprietary_vendor_broadcom" remote="github" revision="lp5.0" />
+  <project path="vendor/qcom/" name="TheLoonyBin/proprietary_vendor_qcom" remote="github" revision="lp5.0" />
+  <!--Switch to my forked projects -->
+  <remove-project path="frameworks/base" name="SlimRoms/frameworks_base" />
+  <project path="frameworks/base" name="ezio84/frameworks_base" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/Settings" name="SlimRoms/packages_apps_Settings" />
+  <project path="packages/apps/Settings" name="ezio84/packages_apps_Settings" remote="github" revision="lp5.0" />
+  <remove-project path="build" name="SlimRoms/android_build" />
+  <project path="build" name="ezio84/android_build" remote="github" revision="lp5.0" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <remove-project path="vendor/slim" name="SlimRoms/vendor_slim" />
+  <project path="vendor/slim" name="ezio84/vendor_slim" remote="github" revision="lp5.0" />
+  <remove-project path="system/core" name="SlimRoms/android_system_core" />
+  <project path="system/core" name="ezio84/android_system_core" remote="github" revision="lp5.0" />
+  <remove-project path="hardware/qcom/camera" name="SlimRoms/hardware_qcom_camera" />
+  <project path="hardware/qcom/camera" name="ezio84/hardware_qcom_camera" remote="github" revision="lp5.0" />
+  <remove-project path="hardware/qcom/display" name="SlimRoms/hardware_qcom_display" />
+  <project path="hardware/qcom/display" name="ezio84/hardware_qcom_display" remote="github" revision="lp5.0" />
+  <remove-project path="art" name="SlimRoms/android_art" />
+  <project path="art" name="ezio84/android_art" remote="github" revision="lp5.0" />
+  <remove-project path="system/vold" name="SlimRoms/android_system_vold" />
+  <project path="system/vold" name="ezio84/android_system_vold" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/Dialer" name="SlimRoms/packages_apps_Dialer" />
+  <project path="packages/apps/Dialer" name="ezio84/packages_apps_Dialer" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/InCallUI" name="SlimRoms/packages_apps_InCallUI" />
+  <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="lp5.0" />
+  <remove-project path="packages/services/Telephony" name="SlimRoms/packages_services_Telephony" />
+  <project path="packages/services/Telephony" name="ezio84/packages_services_Telephony" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" />
+  <project path="packages/apps/Mms" name="ezio84/packages_apps_Mms" remote="github" revision="lp5.0" />
+  <remove-project path="frameworks/native" name="SlimRoms/frameworks_native" />
+  <project path="frameworks/native" name="ezio84/frameworks_native" remote="github" revision="lp5.0" />
+  <remove-project path="frameworks/av" name="SlimRoms/frameworks_av" />
+  <project path="frameworks/av" name="ezio84/frameworks_av" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" />
+  <project path="packages/apps/UnifiedEmail" name="ezio84/packages_apps_UnifiedEmail" remote="github" revision="lp5.0" />
+  <!-- kernel -->
+  <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.0" />
+  <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.0" />
+  <!-- Remove old browser, Chrome is good now -->
+  <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
+  <!-- SlimLauncher -->
+  <remove-project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
+  <project path="packages/apps/SlimLauncher" name="ezio84/packages_apps_SlimLauncher" remote="github" revision="lp5.0" />
+  <!--     <remove-project path="packages/providers/DownloadProvider" name="SlimRoms/packages_providers_DownloadProvider" />
+  <project path="packages/providers/DownloadProvider" name="ezio84/android_packages_providers_DownloadProvider" remote="github" revision="android-4.4" /> -->
+  <!--   <remove-project path="external/exfat" name="SlimRoms/android_external_exfat" />
+  <project path="external/exfat" name="ezio84/android_external_exfat" remote="github" revision="kk4.4" />
+  <remove-project path="external/fuse" name="SlimRoms/android_external_fuse" />
+  <project path="external/fuse" name="ezio84/android_external_fuse" remote="github" revision="kk4.4" />
+  <remove-project path="external/openssl" name="SlimRoms/android_external_openssl" />
+  <project path="external/openssl" name="ezio84/android_external_openssl" remote="github" revision="kk4.4" />
+  <remove-project path="frameworks/rs" name="SlimRoms/frameworks_rs" />
+  <project path="frameworks/rs" name="ezio84/frameworks_rs" remote="github" revision="kk4.4" groups="pdk" /> -->
+  <!-- Switch SlimCenter OTA to my own build
+  <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
+  <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="kk4.4" /> -->
+  <!-- Remove Slim file manager to add Simple Explorer updated apk on which the Slim one is based
+  <remove-project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" />  -->
+  <!-- Update sqlite with latest version, ton of bugfixes and performance improvements
+  <remove-project path="external/sqlite" name="platform/external/sqlite" />
+  <project path="external/sqlite" name="ezio84/android_external_sqlite" remote="github" revision="cm-12.0" />  -->
+  <!-- Omnirom webview to add prebuilt chromium (other commits are in my forked projects android_build and vendor_slim
+  <remove-project path="frameworks/webview" name="platform/frameworks/webview" />
+  <project path="frameworks/webview" name="omnirom/android_frameworks_webview" remote="github" revision="android-4.4" />  -->
+  <!--OLD 4.8.3 - SaberMod Prebuilts system and kernel toolchains
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" remote="github" revision="sm-kk-mr1" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="SaberMod/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.8" remote="github" revision="sm-kk-mr1" />  -->
+  <!--NEW 4.8.4 for rom and 4.9.2 for kernel - SaberMod Prebuilts system and kernel toolchains
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8-sm" name="ezio84/SaberMod" remote="github" revision="arm-eabi-4.9"/>
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-sm" name="ezio84/SaberMod"  remote="github" revision="arm-linux-androideabi-4.8"/> -->
+  <!-- Screen Recorder
+  <project name="ezio84/android_packages_apps_ScreenRecorder" path="packages/apps/ScreenRecorder" remote="github" revision="kitkat" /> -->
+</manifest>
