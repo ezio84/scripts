@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <!--   <project name="SlimRoms/device_lge_mako" path="device/lge/mako" remote="github" revision="kk4.4" /> -->
-  <project name="SlimRoms/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="kk4.4" />
-  <!--   <project name="SlimRoms/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="kk4.4" /> -->
-  <project name="SlimRoms/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="kk4.4" />
-</manifest>

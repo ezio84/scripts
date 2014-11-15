@@ -65,4 +65,4 @@ Send the freshly compiled build (.zip and .md5) to your device:
 
 	. rom_to_device.sh /sdcard/SlimKat
 	
-Parameter 1: Destination path. You can leave this empty and the standard path "/sdcard/SlimKat" will be used
+Parameter 1: Destination path. You can leave this empty and the standard path "/sdcard/SlimLP" will be used

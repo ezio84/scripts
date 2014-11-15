@@ -17,6 +17,7 @@ res1=$(date +%s.%N)
 echo -e "${bldblu}Setting up build environment ${txtrst}"
 . build/envsetup.sh
 export USE_CCACHE=1
+export CCACHE_DIR="/home/ezio/Androidsource/ccache"
 /usr/bin/ccache -M 50G
 export BUILDING_RECOVERY=true
 

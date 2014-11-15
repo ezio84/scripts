@@ -1,34 +1,34 @@
 to type a tilde ~: AltGR+ì
 
-git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/kk4.4
-git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/frameworks_base HEAD:refs/for/kk4.4
+git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/lp5.0
+git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/frameworks_base HEAD:refs/for/lp5.0
 
-git push https://github.com/ezio84/packages_apps_Settings kk4.4
-git push https://github.com/ezio84/packages_apps_SlimCenter kk4.4
-git push https://github.com/ezio84/frameworks_base kk4.4
-git push https://github.com/ezio84/vendor_slim kk4.4
-git push https://github.com/ezio84/android_build kk4.4
-git push https://github.com/ezio84/android_art kk4.4
-git push https://github.com/ezio84/frameworks_native kk4.4
-git push https://github.com/ezio84/android_external_openssl kk4.4
-git push https://github.com/ezio84/android_external_exfat kk4.4
-git push https://github.com/ezio84/android_external_fuse kk4.4
-git push https://github.com/ezio84/android_system_core kk4.4
-git push https://github.com/ezio84/android_system_vold kk4.4
-git push https://github.com/ezio84/frameworks_rs kk4.4
-git push https://github.com/ezio84/frameworks_av kk4.4
-git push https://github.com/ezio84/hardware_qcom_camera kk4.4
-git push https://github.com/ezio84/hardware_qcom_display kk4.4
+git push https://github.com/ezio84/packages_apps_Settings lp5.0
+git push https://github.com/ezio84/packages_apps_SlimCenter lp5.0
+git push https://github.com/ezio84/frameworks_base lp5.0
+git push https://github.com/ezio84/vendor_slim lp5.0
+git push https://github.com/ezio84/android_build lp5.0
+git push https://github.com/ezio84/android_art lp5.0
+git push https://github.com/ezio84/frameworks_native lp5.0
+git push https://github.com/ezio84/android_external_openssl lp5.0
+git push https://github.com/ezio84/android_external_exfat lp5.0
+git push https://github.com/ezio84/android_external_fuse lp5.0
+git push https://github.com/ezio84/android_system_core lp5.0
+git push https://github.com/ezio84/android_system_vold lp5.0
+git push https://github.com/ezio84/frameworks_rs lp5.0
+git push https://github.com/ezio84/frameworks_av lp5.0
+git push https://github.com/ezio84/hardware_qcom_camera lp5.0
+git push https://github.com/ezio84/hardware_qcom_display lp5.0
 git push https://github.com/ezio84/android_external_sqlite cm-11.0
 git push https://github.com/ezio84/scripts
-git push https://github.com/ezio84/packages_apps_Dialer kk4.4
-git push https://github.com/ezio84/packages_apps_InCallUI kk4.4
-git push https://github.com/ezio84/packages_services_Telephony kk4.4
-git push https://github.com/ezio84/packages_apps_Mms kk4.4
-git push https://github.com/ezio84/device_lge_mako kk4.4
-git push https://github.com/ezio84/device_lge_hammerhead kk4.4
-git push https://github.com/ezio84/packages_apps_UnifiedEmail kk4.4
-git push https://github.com/ezio84/packages_apps_SlimLauncher kk4.4
+git push https://github.com/ezio84/packages_apps_Dialer lp5.0
+git push https://github.com/ezio84/packages_apps_InCallUI lp5.0
+git push https://github.com/ezio84/packages_services_Telephony lp5.0
+git push https://github.com/ezio84/packages_apps_Mms lp5.0
+git push https://github.com/ezio84/device_lge_mako lp5.0
+git push https://github.com/ezio84/device_lge_hammerhead lp5.0
+git push https://github.com/ezio84/packages_apps_UnifiedEmail lp5.0
+git push https://github.com/ezio84/packages_apps_SlimLauncher lp5.0
 git push https://github.com/ezio84/android_packages_apps_ScreenRecorder kitkat
 
  . scripts/build_rom.sh mako nosync 7 noclean log

@@ -37,10 +37,10 @@ export CCACHE_DIR="/home/ezio/Androidsource/ccache"
 export BUILDING_RECOVERY=false
 
 # Prebuilt chromium
-export USE_PREBUILT_CHROMIUM=1
+# export USE_PREBUILT_CHROMIUM=1
 
 # Fix common out folder not being a common
-export ANDROID_FIXUP_COMMON_OUT=true
+# export ANDROID_FIXUP_COMMON_OUT=true
 
 # Lunch device
 echo -e "${bldblu}Lunching device... ${txtrst}"

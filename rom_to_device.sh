@@ -10,7 +10,7 @@ DESTPATH="$1"
 VERSION=`sed -n -e'/ro.modversion/s/^.*=//p' $OUT/system/build.prop`
 PACKAGE=$OUT/$VERSION.zip
 if [ -z "$DESTPATH" ]; then
-    DESTPATH=/sdcard/SlimKat
+    DESTPATH=/sdcard/SlimLP
 fi
 
 echo -e "${cya}Waiting for device... ${txtrst}"

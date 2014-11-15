@@ -12,7 +12,7 @@ PLATFORM_VERSION=`sed -n -e'/ro.build.version.release/s/^.*=//p' $OUT/system/bui
 VERSION=SlimKernel-$DEVICE-$PLATFORM_VERSION-$(date +"%Y%m%d")
 PACKAGE=$OUT/$VERSION.zip
 if [ -z "$DESTPATH" ]; then
-    DESTPATH=/sdcard/SlimKat
+    DESTPATH=/sdcard/SlimLP
 fi
 
 echo -e "${cya}Waiting for device... ${txtrst}"
