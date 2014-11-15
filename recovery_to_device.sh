@@ -11,7 +11,7 @@ DEVICE=`echo $OUT | grep -Eo '[^/]+/?$' | cut -d / -f1`
 VERSION=SlimRecovery-$DEVICE-$(date +"%Y%m%d")
 PACKAGE=$OUT/$VERSION.zip
 if [ -z "$DESTPATH" ]; then
-    DESTPATH=/sdcard/SlimBean
+    DESTPATH=/sdcard/SlimKat
 fi
 
 echo -e "${cya}Waiting for device... ${txtrst}"
