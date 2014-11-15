@@ -30,6 +30,7 @@ git push https://github.com/ezio84/device_lge_hammerhead kk4.4
 git push https://github.com/ezio84/packages_apps_UnifiedEmail kk4.4
 git push https://github.com/ezio84/packages_apps_SlimLauncher kk4.4
 git push https://github.com/ezio84/android_packages_apps_ScreenRecorder kitkat
+git push https://github.com/ezio84/android_packages_providers_DownloadProvider android-4.4
 
  . scripts/build_rom.sh mako nosync 7 noclean log
  . scripts/build_rom.sh hammerhead nosync 7 noclean log
