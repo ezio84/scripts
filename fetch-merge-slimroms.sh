@@ -15,24 +15,14 @@ echo -e "${bldgrn}Updating frameworks/base ${txtrst}"
 cd $rdir/frameworks/base && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating frameworks/native ${txtrst}"
 cd $rdir/frameworks/native && git fetch slimroms && git merge slimroms/lp5.0
-echo -e "${bldgrn}Updating frameworks/rs ${txtrst}"
-cd $rdir/frameworks/rs && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating frameworks/av ${txtrst}"
 cd $rdir/frameworks/av && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating packages/apps/Settings ${txtrst}"
 cd $rdir/packages/apps/Settings && git fetch slimroms && git merge slimroms/lp5.0
-echo -e "${bldgrn}Updating packages/apps/SlimCenter ${txtrst}"
-cd $rdir/packages/apps/SlimCenter && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating build ${txtrst}"
 cd $rdir/build && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating art ${txtrst}"
 cd $rdir/art && git fetch slimroms && git merge slimroms/lp5.0
-echo -e "${bldgrn}Updating external/openssl ${txtrst}"
-cd $rdir/external/openssl && git fetch slimroms && git merge slimroms/lp5.0
-echo -e "${bldgrn}Updating external/exfat ${txtrst}"
-cd $rdir/external/exfat && git fetch slimroms && git merge slimroms/lp5.0
-echo -e "${bldgrn}Updating external/fuse ${txtrst}"
-cd $rdir/external/fuse && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating system/core ${txtrst}"
 cd $rdir/system/core && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating system/vold ${txtrst}"

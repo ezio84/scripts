@@ -4,18 +4,13 @@ git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/packages_apps_Setti
 git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/frameworks_base HEAD:refs/for/lp5.0
 
 git push https://github.com/ezio84/packages_apps_Settings lp5.0
-git push https://github.com/ezio84/packages_apps_SlimCenter lp5.0
 git push https://github.com/ezio84/frameworks_base lp5.0
 git push https://github.com/ezio84/vendor_slim lp5.0
 git push https://github.com/ezio84/android_build lp5.0
 git push https://github.com/ezio84/android_art lp5.0
 git push https://github.com/ezio84/frameworks_native lp5.0
-git push https://github.com/ezio84/android_external_openssl lp5.0
-git push https://github.com/ezio84/android_external_exfat lp5.0
-git push https://github.com/ezio84/android_external_fuse lp5.0
 git push https://github.com/ezio84/android_system_core lp5.0
 git push https://github.com/ezio84/android_system_vold lp5.0
-git push https://github.com/ezio84/frameworks_rs lp5.0
 git push https://github.com/ezio84/frameworks_av lp5.0
 git push https://github.com/ezio84/hardware_qcom_camera lp5.0
 git push https://github.com/ezio84/hardware_qcom_display lp5.0
