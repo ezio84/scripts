@@ -1,0 +1,46 @@
+to type a tilde ~: AltGR+ì
+
+git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/kk4.4
+git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/frameworks_base HEAD:refs/for/kk4.4
+
+git push https://github.com/ezio84/kk44_packages_apps_Settings kk4.4
+git push https://github.com/ezio84/kk44_packages_apps_SlimCenter kk4.4
+git push https://github.com/ezio84/kk44_frameworks_base kk4.4
+git push https://github.com/ezio84/kk44_vendor_slim kk4.4
+git push https://github.com/ezio84/kk44_android_build kk4.4
+git push https://github.com/ezio84/kk44_android_art kk4.4
+git push https://github.com/ezio84/kk44_frameworks_native kk4.4
+git push https://github.com/ezio84/kk44_android_external_openssl kk4.4
+git push https://github.com/ezio84/kk44_android_external_exfat kk4.4
+git push https://github.com/ezio84/kk44_android_external_fuse kk4.4
+git push https://github.com/ezio84/kk44_android_system_core kk4.4
+git push https://github.com/ezio84/kk44_android_system_vold kk4.4
+git push https://github.com/ezio84/kk44_frameworks_rs kk4.4
+git push https://github.com/ezio84/kk44_frameworks_av kk4.4
+git push https://github.com/ezio84/kk44_hardware_qcom_camera kk4.4
+git push https://github.com/ezio84/kk44_hardware_qcom_display kk4.4
+git push https://github.com/ezio84/kk44_android_external_sqlite cm-11.0
+git push https://github.com/ezio84/kk44_scripts
+git push https://github.com/ezio84/kk44_packages_apps_Dialer kk4.4
+git push https://github.com/ezio84/kk44_packages_apps_InCallUI kk4.4
+git push https://github.com/ezio84/kk44_packages_services_Telephony kk4.4
+git push https://github.com/ezio84/kk44_packages_apps_Mms kk4.4
+git push https://github.com/ezio84/kk44_device_lge_mako kk4.4
+git push https://github.com/ezio84/kk44_device_lge_hammerhead kk4.4
+git push https://github.com/ezio84/kk44_packages_apps_UnifiedEmail kk4.4
+git push https://github.com/ezio84/kk44_packages_apps_SlimLauncher kk4.4
+git push https://github.com/ezio84/kk44_android_packages_apps_ScreenRecorder kitkat
+
+ . scripts/build_rom.sh mako nosync 7 noclean log
+ . scripts/build_rom.sh hammerhead nosync 7 noclean log
+ 
+  . scripts/build_apk.sh mako nosync 7 noclean log SlimLauncher
+  . scripts/build_apk.sh hammerhead nosync 7 noclean log SlimLauncher
+  
+ ./build_kernel.sh mako 7
+ 
+./generate_changelog.sh 1415705407 (utc in buildprop under out/target/product/mako/system)
+
+./fetch-merge-slimroms.sh
+
+./build_kernel.sh mako 7
