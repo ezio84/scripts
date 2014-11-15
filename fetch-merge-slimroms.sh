@@ -63,5 +63,7 @@ echo -e "${bldgrn}Updating packages/apps/UnifiedEmail ${txtrst}"
 cd $rdir/packages/apps/UnifiedEmail && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating packages/apps/SlimLauncher ${txtrst}"
 cd $rdir/packages/apps/SlimLauncher && git fetch slimroms && git merge slimroms/lp5.0
+# echo -e "${bldgrn}Updating packages/apps/ScreenRecorder ${txtrst}"
+# cd $rdir/packages/apps/ScreenRecorder && git fetch chameleonos && git merge chameleonos/kitkat
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
