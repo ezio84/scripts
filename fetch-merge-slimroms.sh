@@ -44,7 +44,7 @@ cd $rdir/hardware/qcom/display && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating vendor/slim ${txtrst}"
 cd $rdir/vendor/slim && git fetch slimroms && git merge slimroms/lp5.0
 echo -e "${bldgrn}Updating external/sqlite ${txtrst}"
-cd $rdir/external/sqlite && git fetch cm && git merge cm/cm-11.0
+cd $rdir/external/sqlite && git fetch cm && git merge cm/cm-12.0
 echo -e "${bldgrn}Updating packages/providers/DownloadProvider ${txtrst}"
 cd $rdir/packages/providers/DownloadProvider && git fetch omni && git merge omni/android-4.4
 echo -e "${bldgrn}Updating packages_apps_Dialer ${txtrst}"

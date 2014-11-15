@@ -19,7 +19,7 @@ git push https://github.com/ezio84/frameworks_rs lp5.0
 git push https://github.com/ezio84/frameworks_av lp5.0
 git push https://github.com/ezio84/hardware_qcom_camera lp5.0
 git push https://github.com/ezio84/hardware_qcom_display lp5.0
-git push https://github.com/ezio84/android_external_sqlite cm-11.0
+git push https://github.com/ezio84/android_external_sqlite cm-12.0
 git push https://github.com/ezio84/scripts
 git push https://github.com/ezio84/packages_apps_Dialer lp5.0
 git push https://github.com/ezio84/packages_apps_InCallUI lp5.0
