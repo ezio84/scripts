@@ -41,14 +41,15 @@
   <project path="frameworks/av" name="ezio84/frameworks_av" remote="github" revision="lp5.0" />
   <remove-project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" />
   <project path="packages/apps/UnifiedEmail" name="ezio84/packages_apps_UnifiedEmail" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
+  <project path="packages/apps/SlimLauncher" name="ezio84/packages_apps_SlimLauncher" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
+  <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.0" />
   <!-- kernel -->
   <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.0" />
   <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.0" />
   <!-- Remove old browser, Chrome is good now -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
-  <!-- SlimLauncher -->
-  <remove-project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
-  <project path="packages/apps/SlimLauncher" name="ezio84/packages_apps_SlimLauncher" remote="github" revision="lp5.0" />
   <!--     <remove-project path="packages/providers/DownloadProvider" name="SlimRoms/packages_providers_DownloadProvider" />
   <project path="packages/providers/DownloadProvider" name="ezio84/android_packages_providers_DownloadProvider" remote="github" revision="android-4.4" /> -->
   <!--   <remove-project path="external/exfat" name="SlimRoms/android_external_exfat" />
@@ -59,9 +60,6 @@
   <project path="external/openssl" name="ezio84/android_external_openssl" remote="github" revision="kk4.4" />
   <remove-project path="frameworks/rs" name="SlimRoms/frameworks_rs" />
   <project path="frameworks/rs" name="ezio84/frameworks_rs" remote="github" revision="kk4.4" groups="pdk" /> -->
-  <!-- Switch SlimCenter OTA to my own build
-  <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
-  <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="kk4.4" /> -->
   <!-- Remove Slim file manager to add Simple Explorer updated apk on which the Slim one is based
   <remove-project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" />  -->
   <!-- Update sqlite with latest version, ton of bugfixes and performance improvements
