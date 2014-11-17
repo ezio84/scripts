@@ -23,3 +23,5 @@ git push https://github.com/ezio84/packages_apps_SlimFileManager lp5.0
 ./generate_changelog.sh 1415705407 (utc in buildprop under out/target/product/mako/system)
 
 ./fetch-merge-slimroms.sh
+
+repo sync -c (to fetch only the current branch)
