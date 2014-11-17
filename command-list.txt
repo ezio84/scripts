@@ -7,34 +7,19 @@ git push https://github.com/ezio84/packages_apps_Settings lp5.0
 git push https://github.com/ezio84/frameworks_base lp5.0
 git push https://github.com/ezio84/vendor_slim lp5.0
 git push https://github.com/ezio84/android_build lp5.0
-git push https://github.com/ezio84/android_art lp5.0
-git push https://github.com/ezio84/frameworks_native lp5.0
-git push https://github.com/ezio84/android_system_core lp5.0
-git push https://github.com/ezio84/android_system_vold lp5.0
-git push https://github.com/ezio84/frameworks_av lp5.0
-git push https://github.com/ezio84/hardware_qcom_camera lp5.0
-git push https://github.com/ezio84/hardware_qcom_display lp5.0
 git push https://github.com/ezio84/scripts lp5.0
-git push https://github.com/ezio84/packages_apps_Dialer lp5.0
-git push https://github.com/ezio84/packages_apps_InCallUI lp5.0
-git push https://github.com/ezio84/packages_services_Telephony lp5.0
-git push https://github.com/ezio84/packages_apps_Mms lp5.0
-git push https://github.com/ezio84/device_lge_mako lp5.0
-git push https://github.com/ezio84/device_lge_hammerhead lp5.0
-git push https://github.com/ezio84/packages_apps_UnifiedEmail lp5.0
 git push https://github.com/ezio84/packages_apps_SlimLauncher lp5.0
 git push https://github.com/ezio84/packages_apps_SlimCenter lp5.0
+git push https://github.com/ezio84/packages_apps_SlimFileManager lp5.0
 
  . scripts/build_rom.sh mako nosync 7 noclean log
  . scripts/build_rom.sh hammerhead nosync 7 noclean log
  
-  . scripts/build_apk.sh mako nosync 7 noclean log SlimLauncher
-  . scripts/build_apk.sh hammerhead nosync 7 noclean log SlimLauncher
-  
+ . scripts/build_apk.sh mako nosync 7 noclean log SlimLauncher
+ . scripts/build_apk.sh hammerhead nosync 7 noclean log SlimLauncher
+ 
  ./build_kernel.sh mako 7
  
 ./generate_changelog.sh 1415705407 (utc in buildprop under out/target/product/mako/system)
 
 ./fetch-merge-slimroms.sh
-
-./build_kernel.sh mako 7
