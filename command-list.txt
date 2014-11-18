@@ -3,6 +3,9 @@ to type a tilde ~: AltGR+ì
 git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/lp5.0
 git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/frameworks_base HEAD:refs/for/lp5.0
 
+
+git push github lp5.0
+
 git push https://github.com/ezio84/packages_apps_Settings lp5.0
 git push https://github.com/ezio84/frameworks_base lp5.0
 git push https://github.com/ezio84/vendor_slim lp5.0
@@ -11,6 +14,11 @@ git push https://github.com/ezio84/scripts lp5.0
 git push https://github.com/ezio84/packages_apps_SlimLauncher lp5.0
 git push https://github.com/ezio84/packages_apps_SlimCenter lp5.0
 git push https://github.com/ezio84/packages_apps_SlimFileManager lp5.0
+
+git remote set-url github http://github.com/ezio84/...
+
+
+
 
  . scripts/build_rom.sh mako nosync 7 noclean log
  . scripts/build_rom.sh hammerhead nosync 7 noclean log
