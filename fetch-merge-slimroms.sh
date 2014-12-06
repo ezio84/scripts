@@ -27,5 +27,7 @@ echo -e "${bldgrn}Updating packages/apps/SlimFileManager ${txtrst}"
 cd $rdir/packages/apps/SlimFileManager && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_SlimFileManager lp5.0
 echo -e "${bldgrn}Updating device/lge/mako ${txtrst}"
 cd $rdir/device/lge/mako && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/device_lge_mako lp5.0
+echo -e "${bldgrn}Updating kernel/lge/mako ${txtrst}"
+cd $rdir/kernel/lge/mako && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/kernel_lge_mako lp5.0
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
