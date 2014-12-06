@@ -27,4 +27,10 @@
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.0" />
   <remove-project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" />
   <project path="packages/apps/SlimFileManager" name="ezio84/packages_apps_SlimFileManager" remote="github" revision="lp5.0" />
+  <!-- Gmail now supports exchange and the service is bundled with gapps, so let's get rid of the aosp one -->
+  <remove-project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" />
+  <remove-project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" />
+  <remove-project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" />
+  <!-- I'm not using the aosp Browser anymore, Chrome works well -->
+  <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
 </manifest>
