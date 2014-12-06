@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
- <!--   <project name="SlimRoms/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.0" /> -->
-  <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.0" />
-  <project name="SlimRoms/device_lge_mako-kernel" path="device/lge/mako-kernel" remote="github" revision="lp5.0" />
-</manifest>
