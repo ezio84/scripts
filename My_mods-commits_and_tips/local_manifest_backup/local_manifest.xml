@@ -6,6 +6,8 @@
    IMPORTANT: Remember to remove lines from the slim local manifest -->
   <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.0" />
   <project name="ezio84/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="lp5.0" />
+  <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.0" />
+  <project name="ezio84/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="lp5.0" />
   <!-- Proprietary vendor blobs -->
   <project path="vendor/lge/" name="TheLoonyBin/proprietary_vendor_lge" remote="github" revision="lp5.0" />
   <project path="vendor/broadcom/" name="TheLoonyBin/proprietary_vendor_broadcom" remote="github" revision="lp5.0" />

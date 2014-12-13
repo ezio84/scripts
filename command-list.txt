@@ -15,6 +15,9 @@ git push https://github.com/ezio84/packages_apps_SlimLauncher lp5.0
 git push https://github.com/ezio84/packages_apps_SlimCenter lp5.0
 git push https://github.com/ezio84/packages_apps_SlimFileManager lp5.0
 git push https://github.com/ezio84/device_lge_mako lp5.0
+git push https://github.com/ezio84/kernel_lge_mako lp5.0
+git push https://github.com/ezio84/device_lge_hammerhead lp5.0
+git push https://github.com/ezio84/kernel_lge_hammerhead lp5.0
 
 git remote set-url github http://github.com/ezio84/...
 
