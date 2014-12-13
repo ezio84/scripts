@@ -1,0 +1,2 @@
+File to edit:
+tools/releasetools/ota_from_target_files 
