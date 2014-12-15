@@ -31,7 +31,7 @@ echo -e "${bldgrn}Updating kernel/lge/mako ${txtrst}"
 cd $rdir/kernel/lge/mako && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/kernel_lge_mako lp5.0
 echo -e "${bldgrn}Updating device/lge/hammerhead ${txtrst}"
 cd $rdir/device/lge/hammerhead && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/device_lge_hammerhead lp5.0
-echo -e "${bldgrn}Updating kernel/lgehammerhead ${txtrst}"
+echo -e "${bldgrn}Updating kernel/lge/hammerhead ${txtrst}"
 cd $rdir/kernel/lge/hammerhead && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/kernel_lge_hammerhead lp5.0
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
