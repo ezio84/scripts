@@ -44,4 +44,4 @@ https://github.com/ezio84/packages_apps_Settings/commit/9379eaa013ae0c78a0a5cf78
 
 - Longpress back to kill app 
 https://github.com/ezio84/frameworks_base/commit/7047c76aa1823e87d57276f72e2f55213adf64ef
-https://github.com/ezio84/packages_apps_Settings/commit/b0697cebd07138ef71718ae075558c02f0b8817e
+https://github.com/ezio84/packages_apps_Settings/commit/3c90a02705074f2a15015441e2b3b5370f488736
