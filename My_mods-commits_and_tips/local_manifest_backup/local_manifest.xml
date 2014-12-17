@@ -23,12 +23,8 @@
   </project>
   <remove-project path="vendor/slim" name="SlimRoms/vendor_slim" />
   <project path="vendor/slim" name="ezio84/vendor_slim" remote="github" revision="lp5.0" />
-  <remove-project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
-  <project path="packages/apps/SlimLauncher" name="ezio84/packages_apps_SlimLauncher" remote="github" revision="lp5.0" />
   <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.0" />
-  <remove-project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" />
-  <project path="packages/apps/SlimFileManager" name="ezio84/packages_apps_SlimFileManager" remote="github" revision="lp5.0" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
@@ -36,7 +32,7 @@
   <remove-project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <remove-project path="packages/apps/DSPManager" name="SlimRoms/packages_apps_DSPManager" />
   <remove-project path="packages/apps/AudioFX" name="SlimRoms/packages_apps_AudioFX" />
-  <remove-project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
+  <remove-project path="external/android-visualizer" name="SlimRoms/android_external_android-visualizer" />
   <project path="external/android-visualizer" name="ezio84/android_external_android-visualizer" remote="github" revision="cm-12.0" />
   <project path="packages/apps/AudioFX" name="ezio84/android_packages_apps_AudioFX" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.0" />
