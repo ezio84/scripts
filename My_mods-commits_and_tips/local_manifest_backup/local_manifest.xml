@@ -35,9 +35,11 @@
   <remove-project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <remove-project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <remove-project path="packages/apps/DSPManager" name="SlimRoms/packages_apps_DSPManager" />
-  <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" remote="github" revision="cm-12.0" />
-  <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" remote="github" revision="cm-12.0" />
-  <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" remote="github" revision="cm-12.0" />
+  <remove-project path="packages/apps/AudioFX" name="SlimRoms/packages_apps_AudioFX" />
+  <remove-project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
+  <project path="external/android-visualizer" name="ezio84/android_external_android-visualizer" remote="github" revision="cm-12.0" />
+  <project path="packages/apps/AudioFX" name="ezio84/android_packages_apps_AudioFX" remote="github" revision="cm-12.0" />
+  <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.0" />
   <!-- Gmail now supports exchange and the service is bundled with gapps, so let's get rid of the aosp one
   <remove-project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" />
   <remove-project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" />
