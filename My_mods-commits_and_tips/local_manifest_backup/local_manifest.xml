@@ -30,7 +30,6 @@
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
   <remove-project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <remove-project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
-  <remove-project path="packages/apps/DSPManager" name="SlimRoms/packages_apps_DSPManager" />
   <remove-project path="packages/apps/AudioFX" name="SlimRoms/packages_apps_AudioFX" />
   <remove-project path="external/android-visualizer" name="SlimRoms/android_external_android-visualizer" />
   <project path="external/android-visualizer" name="ezio84/android_external_android-visualizer" remote="github" revision="cm-12.0" />
