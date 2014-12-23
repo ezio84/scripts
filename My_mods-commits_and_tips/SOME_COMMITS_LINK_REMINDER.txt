@@ -1,18 +1,34 @@
-- Remove AOSP Browser
-https://github.com/ezio84/scripts/commit/19148fcd2565fac79ae31bab850d26568d0fbe70
-https://github.com/ezio84/android_build/commit/91cd9e3ff688baf9debf94d356a5d6111f12e8ab
+- Sim Pin unlock: fix github sync error adding the correct file code
+https://github.com/ezio84/frameworks_base/commit/5b79f8e6b10327a4d515fa2dbade0bfb6cc8d802
 
+- FWBase: Disabled lots of debugging:
+https://github.com/ezio84/frameworks_base/commit/675de590e51951994856218e5859639b62cba7b8
+
+- Power saver mode: add 10% and 20% values.
+https://github.com/ezio84/packages_apps_Settings/commit/4ceb5fb6c9b3689658557b80861ad8a9e297bd8a
+
+----------Previous build:
+
+- Bring the baby back: longpress back button to kill the app
+(enable under Developer settings)
+https://github.com/ezio84/frameworks_base/commit/7047c76aa1823e87d57276f72e2f55213adf64ef
+https://github.com/ezio84/packages_apps_Settings/commit/b0697cebd07138ef71718ae075558c02f0b8817e
+
+- Bring another baby back: longpress recents to go to last app
+(enabled by default)
+https://github.com/ezio84/frameworks_base/commit/de09f25178c61aad7745994d77fbe04b1279775d
+
+- Quick tiles panel: Power menu button
+(enable under Interface - Quick settings)
+https://github.com/ezio84/packages_apps_Settings/commit/53758ffd956697af3bf7fb91643f4f2c89f9c12d
+https://github.com/ezio84/frameworks_base/commit/1f3f70ed6db6b873534804b4d245d44c12d18593
+interface - quick settings - quick power button
 
 - Launch SuperSU from Settings
 If SuperSU is installed, show an entry in Settings below "Developer options", which launches SuperSU when tapped.
 At boot time SuperSU will detect if com.android.settings contains the resources from this patch, and if so it will hide itself from the launcher. 
 Don't show Superuser option if SuperSU is installed
 https://gerrit.slimroms.net/#/c/18654
-
-
-- Updater-script: show build and device info in the recovery log during the rom zip flashing
-https://github.com/ezio84/android_build/commit/b005af6e2d97d2cc21f3c54dde285396f2e2b918
-
 
 - Cyanogen AudioFX and Eleven player:
 https://github.com/ezio84/scripts/commit/5bbb880b6b8725b0284983d6399b5ecf0510fb73
@@ -21,16 +37,18 @@ https://github.com/ezio84/vendor_slim/commit/9eb53867b16858609cc59e00a2d35dd183a
 https://github.com/ezio84/device_lge_mako/commit/579ede25bbbd98739844c1f4e379e96369a37cc9
 https://github.com/ezio84/device_lge_hammerhead/commit/97cc6a450d301b21889985eba6d33988d6b9bcd5
 
+- Eleven: italian translation and latest CM updates
 
-- Higher dpi value (300 mako - 460 hammerhead)
+
+- Higher dpi value (=stock-20)
 https://github.com/ezio84/vendor_slim/commit/7380ff20dca8a68adc7eaf15c11264ecc9856af9
 
 
-- In-icon battery percentage
+- Battery icon: enable in-icon percentage indicator
 https://github.com/ezio84/frameworks_base/commit/1189e9c10ec242e3bff0bc41ecbdaa432f9aeb94
 
 
-- Data usage: enable WIFI tab by default
+- Data Usage menu: show the WIFI tab by default
 https://github.com/ezio84/packages_apps_Settings/commit/260da56ce5ca85b8ad35009eb71f42d16ede10ad
 
 
@@ -38,10 +56,13 @@ https://github.com/ezio84/packages_apps_Settings/commit/260da56ce5ca85b8ad35009e
 https://github.com/ezio84/frameworks_base/commit/24f6b0d8ecf0a516dad30be9a28181a2e77fb469
 
 
-- Advanced reboot enabled by default (in non-secure lockscreen) 
+- Adv. reboot: enable it by default with no secured lockscreen
 https://github.com/ezio84/packages_apps_Settings/commit/9379eaa013ae0c78a0a5cf781e82cca2dff43786
 
+- Remove AOSP Browser
+https://github.com/ezio84/scripts/commit/19148fcd2565fac79ae31bab850d26568d0fbe70
+https://github.com/ezio84/android_build/commit/91cd9e3ff688baf9debf94d356a5d6111f12e8ab
 
-- Longpress back to kill app 
-https://github.com/ezio84/frameworks_base/commit/7047c76aa1823e87d57276f72e2f55213adf64ef
-https://github.com/ezio84/packages_apps_Settings/commit/3c90a02705074f2a15015441e2b3b5370f488736
+- Updater-script: show build and device info in the recovery log during the rom zip flashing
+https://github.com/ezio84/android_build/commit/b005af6e2d97d2cc21f3c54dde285396f2e2b918
+

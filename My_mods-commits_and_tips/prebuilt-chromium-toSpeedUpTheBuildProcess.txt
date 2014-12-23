@@ -1,0 +1,4 @@
+[url]https://github.com/ezio84/android_build/commit/9e67e44a406b930847ab0d04fdd07abfe654e0e4[/url]
+[url]https://github.com/ezio84/vendor_slim/commit/5fa1c412bb160cb9b3d8917b7bba35a37d5e9896[/url]
+
+(remember to add export USE_PREBUILT_CHROMIUM=1 in your build script or in the terminal before building).
