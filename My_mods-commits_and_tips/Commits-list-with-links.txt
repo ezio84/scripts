@@ -1,3 +1,23 @@
+- Add option to disable searchbar in recents (with fix to remove unused space)
+https://github.com/ezio84/packages_apps_Settings/commit/c2916a1e9e9e8cca43616188b25935a93a4fe811
+https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e39866b1d4ddf
+
+- Dark settings and power menu:
+(enabled by default)
+https://github.com/ezio84/frameworks_base/commit/a331c5f9b470d28ac3a2675d01403749201fedf0
+https://github.com/ezio84/packages_apps_Settings/commit/4472475d90eef8f8b1064010099f99c783f24701
+https://github.com/ezio84/frameworks_base/commit/fb261bea41f36686c120153ae1b31a5289759641
+
+- Statusar: bring back Network indicators
+(enable under Interface - status bar - network traffic)
+https://github.com/ezio84/frameworks_base/commit/0ff183b8c22b5e27f3f14760053617f4ce9391ce
+https://github.com/ezio84/packages_apps_Settings/commit/53bfad1526d4fd00285b12042d427ae9617c4eab
+
+- Settings: Doze (ambient display) timeout
+https://gerrit.slimroms.net/21692
+https://gerrit.slimroms.net/21373
+https://gerrit.slimroms.net/21567
+
 - Sim Pin unlock: fix github sync error adding the correct file code
 https://github.com/ezio84/frameworks_base/commit/5b79f8e6b10327a4d515fa2dbade0bfb6cc8d802
 
@@ -7,8 +27,6 @@ https://github.com/ezio84/frameworks_base/commit/675de590e51951994856218e5859639
 - Power saver mode: add 10% and 20% values.
 https://github.com/ezio84/packages_apps_Settings/commit/4ceb5fb6c9b3689658557b80861ad8a9e297bd8a
 
-----------Previous build:
-
 - Bring the baby back: longpress back button to kill the app
 (enable under Developer settings)
 https://github.com/ezio84/frameworks_base/commit/7047c76aa1823e87d57276f72e2f55213adf64ef
@@ -17,6 +35,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/b0697cebd07138ef71718ae0
 - Bring another baby back: longpress recents to go to last app
 (enabled by default)
 https://github.com/ezio84/frameworks_base/commit/de09f25178c61aad7745994d77fbe04b1279775d
+https://github.com/ezio84/frameworks_base/commit/c1a886f3c59ddf2087e482d2e1f7acc78f0a1df5
 
 - Quick tiles panel: Power menu button
 (enable under Interface - Quick settings)
@@ -30,31 +49,24 @@ At boot time SuperSU will detect if com.android.settings contains the resources 
 Don't show Superuser option if SuperSU is installed
 https://gerrit.slimroms.net/#/c/18654
 
-- Cyanogen AudioFX and Eleven player:
+- Switch to Cyanogen AudioFX and Eleven player:
 https://github.com/ezio84/scripts/commit/5bbb880b6b8725b0284983d6399b5ecf0510fb73
 https://github.com/ezio84/android_build/commit/6de5983190d7ac79cd6c854c2e820ee88ec6384f
 https://github.com/ezio84/vendor_slim/commit/9eb53867b16858609cc59e00a2d35dd183a808dd
 https://github.com/ezio84/device_lge_mako/commit/579ede25bbbd98739844c1f4e379e96369a37cc9
 https://github.com/ezio84/device_lge_hammerhead/commit/97cc6a450d301b21889985eba6d33988d6b9bcd5
 
-- Eleven: italian translation and latest CM updates
-
-
 - Higher dpi value (=stock-20)
 https://github.com/ezio84/vendor_slim/commit/7380ff20dca8a68adc7eaf15c11264ecc9856af9
-
 
 - Battery icon: enable in-icon percentage indicator
 https://github.com/ezio84/frameworks_base/commit/1189e9c10ec242e3bff0bc41ecbdaa432f9aeb94
 
-
 - Data Usage menu: show the WIFI tab by default
 https://github.com/ezio84/packages_apps_Settings/commit/260da56ce5ca85b8ad35009eb71f42d16ede10ad
 
-
 - Unknown source apk installation: enable by default
 https://github.com/ezio84/frameworks_base/commit/24f6b0d8ecf0a516dad30be9a28181a2e77fb469
-
 
 - Adv. reboot: enable it by default with no secured lockscreen
 https://github.com/ezio84/packages_apps_Settings/commit/9379eaa013ae0c78a0a5cf781e82cca2dff43786
@@ -65,4 +77,3 @@ https://github.com/ezio84/android_build/commit/91cd9e3ff688baf9debf94d356a5d6111
 
 - Updater-script: show build and device info in the recovery log during the rom zip flashing
 https://github.com/ezio84/android_build/commit/b005af6e2d97d2cc21f3c54dde285396f2e2b918
-
