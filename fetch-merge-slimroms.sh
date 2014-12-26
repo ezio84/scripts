@@ -21,6 +21,8 @@ echo -e "${bldgrn}Updating vendor/slim ${txtrst}"
 cd $rdir/vendor/slim && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/vendor_slim lp5.0
 echo -e "${bldgrn}Updating packages/apps/SlimCenter ${txtrst}"
 cd $rdir/packages/apps/SlimCenter && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_SlimCenter lp5.0
+echo -e "${bldgrn}Updating system/core ${txtrst}"
+cd $rdir/system/core && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/android_system_core lp5.0
 echo -e "${bldgrn}Updating device/lge/mako ${txtrst}"
 cd $rdir/device/lge/mako && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/device_lge_mako lp5.0
 echo -e "${bldgrn}Updating kernel/lge/mako ${txtrst}"
@@ -37,3 +39,4 @@ echo -e "${bldgrn}Updating Eleven by Cyanogen ${txtrst}"
 cd $rdir/packages/apps/Eleven && git fetch cm && git merge cm/cm-12.0 && git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.0
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
+

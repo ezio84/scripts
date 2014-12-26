@@ -1,39 +1,44 @@
 to type a tilde ~: AltGR+ì
+ Shift + Alt Gr + è  --per la parentesi aperta {
+ Shift + Alt Gr + +  --per la parentesi chiusa }
+
+grep -r "TESTOdaTrovare"
+
 
 git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/lp5.0
 git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/frameworks_base HEAD:refs/for/lp5.0
 
 
 git push github lp5.0
+git remote set-url github http://github.com/ezio84/... (have to do this after deleting the local folder)
 
 git push https://github.com/ezio84/packages_apps_Settings lp5.0
 git push https://github.com/ezio84/frameworks_base lp5.0
 git push https://github.com/ezio84/vendor_slim lp5.0
 git push https://github.com/ezio84/android_build lp5.0
 git push https://github.com/ezio84/scripts lp5.0
-git push https://github.com/ezio84/packages_apps_SlimLauncher lp5.0
 git push https://github.com/ezio84/packages_apps_SlimCenter lp5.0
-git push https://github.com/ezio84/packages_apps_SlimFileManager lp5.0
 git push https://github.com/ezio84/device_lge_mako lp5.0
 git push https://github.com/ezio84/kernel_lge_mako lp5.0
 git push https://github.com/ezio84/device_lge_hammerhead lp5.0
 git push https://github.com/ezio84/kernel_lge_hammerhead lp5.0
-
-git remote set-url github http://github.com/ezio84/...
-
-
-
+git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.0
+git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.0
+git push https://github.com/ezio84/android_external_android-visualizer cm-12.0
+git push https://github.com/ezio84/android_system_core lp5.0
 
  . scripts/build_rom.sh mako nosync 7 noclean log
  . scripts/build_rom.sh hammerhead nosync 7 noclean log
- 
+
  . scripts/build_apk.sh mako nosync 7 noclean log SlimLauncher
  . scripts/build_apk.sh hammerhead nosync 7 noclean log SlimLauncher
- 
+
  ./build_kernel.sh mako 7
- 
+
 ./generate_changelog.sh 1415705407 (utc in buildprop under out/target/product/mako/system)
 
 ./fetch-merge-slimroms.sh
 
-repo sync -c (to fetch only the current branch)
+fetch only current branch from server:
+
+repo sync -c (or --current-branch)

@@ -25,6 +25,8 @@
   <project path="vendor/slim" name="ezio84/vendor_slim" remote="github" revision="lp5.0" />
   <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.0" />
+  <remove-project path="system/core" name="SlimRoms/android_system_core" />
+  <project path="system/core" name="ezio84/android_system_core" remote="github" revision="lp5.0" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
