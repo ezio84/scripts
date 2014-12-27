@@ -92,3 +92,6 @@ https://github.com/ezio84/scripts/commit/6223d8c0f2a196d04fd57888ccdc1ba7e6a1186
 
 - Clean some build process files:
 https://github.com/ezio84/android_build/commit/b6a753eb06c8021eebf4ee851f15910c9a7f55e2
+
+- Change permission to keep root when installing OTA rom updates
+https://github.com/ezio84/android_system_core/commit/04bafdb0c8fe364624e7f3413672b6d306428d9b
