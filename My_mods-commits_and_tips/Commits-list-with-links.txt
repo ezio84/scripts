@@ -89,3 +89,6 @@ https://github.com/ezio84/scripts/commit/f68ceb28c6795e1a3277f13e2cac4f70bd10278
 https://github.com/ezio84/android_build/commit/9e67e44a406b930847ab0d04fdd07abfe654e0e4
 https://github.com/ezio84/vendor_slim/commit/5fa1c412bb160cb9b3d8917b7bba35a37d5e9896
 https://github.com/ezio84/scripts/commit/6223d8c0f2a196d04fd57888ccdc1ba7e6a11862
+
+- Clean some build process files:
+https://github.com/ezio84/android_build/commit/b6a753eb06c8021eebf4ee851f15910c9a7f55e2
