@@ -83,3 +83,9 @@ https://github.com/ezio84/android_build/commit/91cd9e3ff688baf9debf94d356a5d6111
 
 - Updater-script: show build and device info in the recovery log during the rom zip flashing
 https://github.com/ezio84/android_build/commit/b005af6e2d97d2cc21f3c54dde285396f2e2b918
+
+- Chromium prebuilts and common out (to speed up the build process and have device-specific common folders):
+https://github.com/ezio84/scripts/commit/f68ceb28c6795e1a3277f13e2cac4f70bd102781
+https://github.com/ezio84/android_build/commit/9e67e44a406b930847ab0d04fdd07abfe654e0e4
+https://github.com/ezio84/vendor_slim/commit/5fa1c412bb160cb9b3d8917b7bba35a37d5e9896
+https://github.com/ezio84/scripts/commit/6223d8c0f2a196d04fd57888ccdc1ba7e6a11862
