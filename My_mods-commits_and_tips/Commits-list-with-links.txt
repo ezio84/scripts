@@ -1,3 +1,8 @@
+- Super uber mega iper ultra extra png compression (=smaller build zip) thanks to Master fusionjack and Cl3Kener:
+https://github.com/ezio84/vendor_slim/commit/ed1e087b4a6a6b49ea3a0ee80323c8be92a3db75
+https://github.com/ezio84/android_build/commit/15ad2e5918f510ea84cfdd1fe2023808024a9a38
+(need pngquant package installed in your linux distro)
+
 - Add option to disable searchbar in recents (with fix to remove unused space)
 https://github.com/ezio84/packages_apps_Settings/commit/c2916a1e9e9e8cca43616188b25935a93a4fe811
 https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e39866b1d4ddf
