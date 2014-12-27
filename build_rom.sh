@@ -39,7 +39,7 @@ export BUILDING_RECOVERY=false
 export USE_PREBUILT_CHROMIUM=1
 
 # Fix common out folder not being a common
-# export ANDROID_FIXUP_COMMON_OUT=true
+export ANDROID_FIXUP_COMMON_OUT=true
 
 # Lunch device
 echo -e "${bldblu}Lunching device... ${txtrst}"
