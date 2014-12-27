@@ -7,6 +7,7 @@ https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e398
 https://github.com/ezio84/frameworks_base/commit/a331c5f9b470d28ac3a2675d01403749201fedf0
 https://github.com/ezio84/packages_apps_Settings/commit/4472475d90eef8f8b1064010099f99c783f24701
 https://github.com/ezio84/frameworks_base/commit/fb261bea41f36686c120153ae1b31a5289759641
+https://github.com/ezio84/packages_apps_Settings/commit/6796e65a2efd8001d7e05c104c2ee0fbc7f0f125
 
 - Statusar: bring back Network indicators
 (enable under Interface - status bar - network traffic)
