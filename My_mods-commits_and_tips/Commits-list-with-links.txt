@@ -1,3 +1,8 @@
+- Battery level: customizable icon and text
+https://github.com/ezio84/frameworks_base/commit/34a77b7efcb391de9e80f54a42902d808697d2e2
+https://github.com/ezio84/packages_apps_Settings/commit/aacc94b7fd46fbaa825745406534fd6e68185690
+https://github.com/ezio84/packages_apps_Settings/commit/9d6fa74c874264b8d918a3df45d08b71cd27e30d
+
 - Add option to disable searchbar in recents (with fix to remove unused space)
 https://github.com/ezio84/packages_apps_Settings/commit/c2916a1e9e9e8cca43616188b25935a93a4fe811
 https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e39866b1d4ddf
