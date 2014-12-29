@@ -1,9 +1,15 @@
+- SystemUI: Materialize volume panel in/out animation
+(enabled by default)
+https://github.com/ezio84/frameworks_base/commit/4d554248f49826716c08490afbe699ab4ca122cb
+
 - Battery level: customizable icon and text
+(under Interface - Status bar)
 https://github.com/ezio84/frameworks_base/commit/34a77b7efcb391de9e80f54a42902d808697d2e2
 https://github.com/ezio84/packages_apps_Settings/commit/aacc94b7fd46fbaa825745406534fd6e68185690
 https://github.com/ezio84/packages_apps_Settings/commit/9d6fa74c874264b8d918a3df45d08b71cd27e30d
 
 - Add option to disable searchbar in recents (with fix to remove unused space)
+(under Interface)
 https://github.com/ezio84/packages_apps_Settings/commit/c2916a1e9e9e8cca43616188b25935a93a4fe811
 https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e39866b1d4ddf
 
@@ -31,6 +37,7 @@ https://github.com/ezio84/frameworks_base/commit/5b79f8e6b10327a4d515fa2dbade0bf
 https://github.com/ezio84/frameworks_base/commit/675de590e51951994856218e5859639b62cba7b8
 
 - Power saver mode: add 10% and 20% values.
+(under battery settings)
 https://github.com/ezio84/packages_apps_Settings/commit/4ceb5fb6c9b3689658557b80861ad8a9e297bd8a
 
 - Bring the baby back: longpress back button to kill the app
