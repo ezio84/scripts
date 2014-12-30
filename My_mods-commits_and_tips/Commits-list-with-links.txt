@@ -1,12 +1,15 @@
-- SystemUI: Materialize volume panel in/out animation
-(enabled by default)
-https://github.com/ezio84/frameworks_base/commit/4d554248f49826716c08490afbe699ab4ca122cb
-
 - Battery level: customizable icon and text
 (under Interface - Status bar)
 https://github.com/ezio84/frameworks_base/commit/34a77b7efcb391de9e80f54a42902d808697d2e2
 https://github.com/ezio84/packages_apps_Settings/commit/aacc94b7fd46fbaa825745406534fd6e68185690
 https://github.com/ezio84/packages_apps_Settings/commit/9d6fa74c874264b8d918a3df45d08b71cd27e30d
+UPDATE 30/12/2014::
+https://github.com/ezio84/frameworks_base/commit/7a4957ba27b9bdfe2e9c18c763ae24a02d3994bf
+https://github.com/ezio84/packages_apps_Settings/commit/f00791a64b99463c51a8515e3204d6971ddb9835
+
+- SystemUI: Materialize volume panel in/out animation
+(enabled by default)
+https://github.com/ezio84/frameworks_base/commit/4d554248f49826716c08490afbe699ab4ca122cb
 
 - Add option to disable searchbar in recents (with fix to remove unused space)
 (under Interface)
