@@ -1,3 +1,7 @@
+Dark material theme: Settings menu, power menu, active colorization for icons in the power menu, notifications:
+https://github.com/ezio84/packages_apps_Settings/commit/2b9cb961eb99032822394628eedfbfc068866af5
+https://github.com/ezio84/frameworks_base/commit/f4b35ecc84cd6271a8d59ffae87e32db4c7f64db
+
 - Battery level: customizable icon and text
 (under Interface - Status bar)
 https://github.com/ezio84/frameworks_base/commit/34a77b7efcb391de9e80f54a42902d808697d2e2
@@ -18,12 +22,12 @@ https://github.com/ezio84/frameworks_base/commit/4d554248f49826716c08490afbe699a
 https://github.com/ezio84/packages_apps_Settings/commit/c2916a1e9e9e8cca43616188b25935a93a4fe811
 https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e39866b1d4ddf
 
-- Dark settings and power menu:
-(enabled by default)
-https://github.com/ezio84/frameworks_base/commit/a331c5f9b470d28ac3a2675d01403749201fedf0
-https://github.com/ezio84/packages_apps_Settings/commit/4472475d90eef8f8b1064010099f99c783f24701
-https://github.com/ezio84/frameworks_base/commit/fb261bea41f36686c120153ae1b31a5289759641
-https://github.com/ezio84/packages_apps_Settings/commit/6796e65a2efd8001d7e05c104c2ee0fbc7f0f125
+- Dark settings and power menu: <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
+(enabled by default) <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
+https://github.com/ezio84/frameworks_base/commit/a331c5f9b470d28ac3a2675d01403749201fedf0 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
+https://github.com/ezio84/packages_apps_Settings/commit/4472475d90eef8f8b1064010099f99c783f24701 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
+https://github.com/ezio84/frameworks_base/commit/fb261bea41f36686c120153ae1b31a5289759641 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
+https://github.com/ezio84/packages_apps_Settings/commit/6796e65a2efd8001d7e05c104c2ee0fbc7f0f125 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
 
 - Statusar: bring back Network indicators
 (enable under Interface - status bar - network traffic)
