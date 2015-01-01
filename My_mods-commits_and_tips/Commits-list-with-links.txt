@@ -1,4 +1,5 @@
-Dark material theme: Settings menu, power menu, active colorization for icons in the power menu, notifications:
+- Dark material theme rework for Settings, Power menu (now with active state icon highlight), notifications
+(revert the old ones before adding these commits)
 https://github.com/ezio84/packages_apps_Settings/commit/2b9cb961eb99032822394628eedfbfc068866af5
 https://github.com/ezio84/frameworks_base/commit/f4b35ecc84cd6271a8d59ffae87e32db4c7f64db
 
@@ -22,7 +23,7 @@ https://github.com/ezio84/frameworks_base/commit/4d554248f49826716c08490afbe699a
 https://github.com/ezio84/packages_apps_Settings/commit/c2916a1e9e9e8cca43616188b25935a93a4fe811
 https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e39866b1d4ddf
 
-- Dark settings and power menu: <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
+- Dark settings and power menu: <-- ***OLD, REVERT AND CHECK THE NEW 01-JAN-2014 COMMITS IN THE LIST) ******
 (enabled by default) <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
 https://github.com/ezio84/frameworks_base/commit/a331c5f9b470d28ac3a2675d01403749201fedf0 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
 https://github.com/ezio84/packages_apps_Settings/commit/4472475d90eef8f8b1064010099f99c783f24701 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
@@ -59,11 +60,10 @@ https://github.com/ezio84/packages_apps_Settings/commit/b0697cebd07138ef71718ae0
 https://github.com/ezio84/frameworks_base/commit/de09f25178c61aad7745994d77fbe04b1279775d
 https://github.com/ezio84/frameworks_base/commit/c1a886f3c59ddf2087e482d2e1f7acc78f0a1df5
 
-- Quick tiles panel: Power menu button
-(enable under Interface - Quick settings)
-https://github.com/ezio84/packages_apps_Settings/commit/53758ffd956697af3bf7fb91643f4f2c89f9c12d
-https://github.com/ezio84/frameworks_base/commit/1f3f70ed6db6b873534804b4d245d44c12d18593
-interface - quick settings - quick power button
+- Quick tiles panel: Power menu button <-- **REMOVED DUE TO SOFT REBOOT PROBLEMS: http://forum.xda-developers.com/showpost.php?p=57882510&postcount=1661
+(enable under Interface - Quick settings)<-- **REMOVED DUE TO SOFT REBOOT PROBLEMS
+https://github.com/ezio84/packages_apps_Settings/commit/53758ffd956697af3bf7fb91643f4f2c89f9c12d <-- **REMOVED DUE TO SOFT REBOOT PROBLEMS
+https://github.com/ezio84/frameworks_base/commit/1f3f70ed6db6b873534804b4d245d44c12d18593 <-- **REMOVED DUE TO SOFT REBOOT PROBLEMS
 
 - Launch SuperSU from Settings
 If SuperSU is installed, show an entry in Settings below "Developer options", which launches SuperSU when tapped.
