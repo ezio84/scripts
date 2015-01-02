@@ -1,6 +1,13 @@
 - QuickSettings: Add long click support (long tap opens the related settings page)
 https://github.com/ezio84/frameworks_base/commit/6b4df8a368cf9b1afcbc4672533a4240b805ac46
 
+- Color fade memory leak: REVERT THE OLD ONES BEFORE ADDING THESE
+https://github.com/ezio84/frameworks_base/commit/a4c51bc69b32f7f762f768296e579af6a20c3090
+https://github.com/ezio84/frameworks_base/commit/d8492f283af794b0a3fd4baef90c7d476ecaff43
+OLD COMMITS TO REMOVE:
+https://github.com/ezio84/frameworks_base/commit/1ab6c409fb4c0d3c7924c1fd32a4cb10112a14b7
+https://github.com/ezio84/frameworks_base/commit/0dbebccfe5faac7feeeda8e54aff12f6057debc1
+
 - Dark material theme rework for Settings, Power menu (now with active state icon highlight), notifications
 (revert the old ones before adding these commits)
 https://github.com/ezio84/packages_apps_Settings/commit/2b9cb961eb99032822394628eedfbfc068866af5
