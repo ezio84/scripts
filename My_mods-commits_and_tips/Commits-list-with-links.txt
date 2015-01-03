@@ -1,3 +1,8 @@
+- Automatic Proximity speaker (now it works for both mako and hammerhead)
+https://github.com/ezio84/frameworks_base/commit/2e2acff66a4088900b32755e68ae0e57cbe57863
+https://github.com/ezio84/packages_apps_InCallUI/commit/c1cc776bb44440e0cd0bc579df57c0b619622e97
+https://github.com/ezio84/packages_services_Telephony/commit/0e19369c68eed3513ae767b446c85b84bea8bd9c
+
 - SystemUI: Add sound item (notifications) in quick settings panel 
 https://github.com/ezio84/frameworks_base/commit/d1ec93f556227238ef86dc220e4f8515cd823b55
 https://github.com/ezio84/frameworks_base/commit/288c70e4ea24871a1e543ea1eeb41747febfcbb0
