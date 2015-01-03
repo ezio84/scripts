@@ -1,4 +1,5 @@
 - Automatic Proximity speaker (now it works for both mako and hammerhead)
+(Enable it in the Dialer settings)
 https://github.com/ezio84/frameworks_base/commit/2e2acff66a4088900b32755e68ae0e57cbe57863
 https://github.com/ezio84/packages_apps_InCallUI/commit/c1cc776bb44440e0cd0bc579df57c0b619622e97
 https://github.com/ezio84/packages_services_Telephony/commit/0e19369c68eed3513ae767b446c85b84bea8bd9c
@@ -61,6 +62,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/53bfad1526d4fd00285b1204
 https://gerrit.slimroms.net/21692
 https://gerrit.slimroms.net/21373
 https://gerrit.slimroms.net/21567
+UPDATE 3 JAN 2015:
+https://github.com/ezio84/packages_apps_Settings/commit/4cb2ff1bf09b5861b054715f716a1540e0fc59c8
 
 - Sim Pin unlock: fix github sync error adding the correct file code
 https://github.com/ezio84/frameworks_base/commit/5b79f8e6b10327a4d515fa2dbade0bfb6cc8d802
