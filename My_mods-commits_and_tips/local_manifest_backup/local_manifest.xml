@@ -27,6 +27,10 @@
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.0" />
   <remove-project path="system/core" name="SlimRoms/android_system_core" />
   <project path="system/core" name="ezio84/android_system_core" remote="github" revision="lp5.0" />
+  <remove-project path="packages/services/Telephony" name="SlimRoms/packages_services_Telephony" />
+  <project path="packages/services/Telephony" name="ezio84/packages_services_Telephony" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/InCallUI" name="SlimRoms/packages_apps_InCallUI" />
+  <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="lp5.0" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->

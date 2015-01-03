@@ -1,8 +1,8 @@
 to type a tilde ~: AltGR+ì
- Shift + Alt Gr + è  --per la parentesi aperta {
- Shift + Alt Gr + +  --per la parentesi chiusa }
+ Shift + Alt Gr + è  --for: {
+ Shift + Alt Gr + +  --for: }
 
-grep -r "TESTOdaTrovare"
+grep -r "TEXTtoFIND"
 
 
 git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/lp5.0
@@ -22,10 +22,11 @@ git push https://github.com/ezio84/device_lge_mako lp5.0
 git push https://github.com/ezio84/kernel_lge_mako lp5.0
 git push https://github.com/ezio84/device_lge_hammerhead lp5.0
 git push https://github.com/ezio84/kernel_lge_hammerhead lp5.0
+git push https://github.com/ezio84/packages_services_Telephony lp5.0
+git push https://github.com/ezio84/packages_apps_InCallUI/ lp5.0
 git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.0
 git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.0
 git push https://github.com/ezio84/android_external_android-visualizer cm-12.0
-git push https://github.com/ezio84/android_system_core lp5.0
 
  . scripts/build_rom.sh mako nosync 7 noclean log
  . scripts/build_rom.sh hammerhead nosync 7 noclean log
@@ -39,6 +40,17 @@ git push https://github.com/ezio84/android_system_core lp5.0
 
 ./fetch-merge-slimroms.sh
 
-fetch only current branch from server:
+fetch only current branch from server:   repo sync -c (or --current-branch)
 
-repo sync -c (or --current-branch)
+CTRL-ESC - brings up a proces table where you can kill individual processes
+CTRL-ALT-ESC - makes the cursur into a skill and cross bones where you can point at a rogue application and kill it
+X can be killed with CTRL-ALT-BackSpace
+If you hit Ctrl-Alt-F1 (or F2 through 6), you'll be dropped to a virtual console - to return kde: CTRL+ALT+F7.
+
+qdbus org.kde.ksmserver /KSMServer logout 0 2 2
+0 1 2 for reboot
+without su or sudo
+
+kdesu APPNAME
+e.g.:    kdesu kwrite
+otherwise open Su dolphin and open the file from it, it will be editable as root 

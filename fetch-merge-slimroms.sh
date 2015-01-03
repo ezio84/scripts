@@ -31,6 +31,10 @@ echo -e "${bldgrn}Updating device/lge/hammerhead ${txtrst}"
 cd $rdir/device/lge/hammerhead && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/device_lge_hammerhead lp5.0
 echo -e "${bldgrn}Updating kernel/lge/hammerhead ${txtrst}"
 cd $rdir/kernel/lge/hammerhead && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/kernel_lge_hammerhead lp5.0
+echo -e "${bldgrn}Updating packages/apps/InCallUI ${txtrst}"
+cd $rdir/packages/apps/InCallUI && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_InCallUI lp5.0
+echo -e "${bldgrn}Updating packages/services/Telephony ${txtrst}"
+cd $rdir/packages/services/Telephony && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_services_Telephony lp5.0
 echo -e "${bldgrn}Updating AudioVisualizer by Cyanogen ${txtrst}"
 cd $rdir/external/android-visualizer && git fetch cm && git merge cm/cm-12.0 && git push https://github.com/ezio84/android_external_android-visualizer cm-12.0
 echo -e "${bldgrn}Updating AudioFX by Cyanogen ${txtrst}"
