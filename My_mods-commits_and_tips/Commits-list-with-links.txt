@@ -1,3 +1,7 @@
+- SystemUI: Add sound item (notifications) in quick settings panel 
+https://github.com/ezio84/frameworks_base/commit/d1ec93f556227238ef86dc220e4f8515cd823b55
+https://github.com/ezio84/frameworks_base/commit/288c70e4ea24871a1e543ea1eeb41747febfcbb0
+
 - QuickSettings: Add long click support (long tap opens the related settings page)
 https://github.com/ezio84/frameworks_base/commit/6b4df8a368cf9b1afcbc4672533a4240b805ac46
 
