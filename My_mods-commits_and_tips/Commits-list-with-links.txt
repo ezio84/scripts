@@ -16,6 +16,8 @@ https://github.com/ezio84/frameworks_base/commit/0dbebccfe5faac7feeeda8e54aff12f
 (revert the old ones before adding these commits)
 https://github.com/ezio84/packages_apps_Settings/commit/2b9cb961eb99032822394628eedfbfc068866af5
 https://github.com/ezio84/frameworks_base/commit/f4b35ecc84cd6271a8d59ffae87e32db4c7f64db
+UPDATE 03 JAN 2015
+https://github.com/ezio84/packages_apps_Settings/commit/2550387c0da2e086d6dfb55d6ec4c8d844dc9a32
 
 - Battery level: customizable icon and text
 (under Interface - Status bar)
