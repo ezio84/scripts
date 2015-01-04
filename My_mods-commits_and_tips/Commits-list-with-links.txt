@@ -1,8 +1,11 @@
+- SystemUI: status bar brightness: store value as int (statusbar brightness slider fix)
+https://github.com/ezio84/frameworks_base/commit/abf811dc483b34a4683b0c7e716c6d1a9b97c74f
+
 - Automatic Proximity speaker (now it works for both mako and hammerhead)
 (Enable it in the Dialer settings)
-https://github.com/ezio84/frameworks_base/commit/2e2acff66a4088900b32755e68ae0e57cbe57863
-https://github.com/ezio84/packages_apps_InCallUI/commit/c1cc776bb44440e0cd0bc579df57c0b619622e97
-https://github.com/ezio84/packages_services_Telephony/commit/0e19369c68eed3513ae767b446c85b84bea8bd9c
+https://gerrit.slimroms.net/22232
+https://gerrit.slimroms.net/22231
+https://gerrit.slimroms.net/22230
 
 - SystemUI: Add sound item (notifications) in quick settings panel 
 https://github.com/ezio84/frameworks_base/commit/d1ec93f556227238ef86dc220e4f8515cd823b55
@@ -11,12 +14,9 @@ https://github.com/ezio84/frameworks_base/commit/288c70e4ea24871a1e543ea1eeb4174
 - QuickSettings: Add long click support (long tap opens the related settings page)
 https://github.com/ezio84/frameworks_base/commit/6b4df8a368cf9b1afcbc4672533a4240b805ac46
 
-- Color fade memory leak: REVERT THE OLD ONES BEFORE ADDING THESE
+- Color fade memory leak:
 https://github.com/ezio84/frameworks_base/commit/a4c51bc69b32f7f762f768296e579af6a20c3090
 https://github.com/ezio84/frameworks_base/commit/d8492f283af794b0a3fd4baef90c7d476ecaff43
-OLD COMMITS TO REMOVE:
-https://github.com/ezio84/frameworks_base/commit/1ab6c409fb4c0d3c7924c1fd32a4cb10112a14b7
-https://github.com/ezio84/frameworks_base/commit/0dbebccfe5faac7feeeda8e54aff12f6057debc1
 
 - Dark material theme rework for Settings, Power menu (now with active state icon highlight), notifications
 (revert the old ones before adding these commits)
@@ -46,13 +46,6 @@ https://github.com/ezio84/frameworks_base/commit/4d554248f49826716c08490afbe699a
 https://github.com/ezio84/packages_apps_Settings/commit/c2916a1e9e9e8cca43616188b25935a93a4fe811
 https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e39866b1d4ddf
 
-- Dark settings and power menu: <-- ***OLD, REVERT AND CHECK THE NEW 01-JAN-2014 COMMITS IN THE LIST) ******
-(enabled by default) <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
-https://github.com/ezio84/frameworks_base/commit/a331c5f9b470d28ac3a2675d01403749201fedf0 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
-https://github.com/ezio84/packages_apps_Settings/commit/4472475d90eef8f8b1064010099f99c783f24701 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
-https://github.com/ezio84/frameworks_base/commit/fb261bea41f36686c120153ae1b31a5289759641 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
-https://github.com/ezio84/packages_apps_Settings/commit/6796e65a2efd8001d7e05c104c2ee0fbc7f0f125 <-- ***OLD, REVERT AND CHECK THE NEW 01JAN2014 COMMITS IN THE LIST) ******
-
 - Statusar: bring back Network indicators
 (enable under Interface - status bar - network traffic)
 https://github.com/ezio84/frameworks_base/commit/0ff183b8c22b5e27f3f14760053617f4ce9391ce
@@ -62,8 +55,6 @@ https://github.com/ezio84/packages_apps_Settings/commit/53bfad1526d4fd00285b1204
 https://gerrit.slimroms.net/21692
 https://gerrit.slimroms.net/21373
 https://gerrit.slimroms.net/21567
-UPDATE 3 JAN 2015:
-https://github.com/ezio84/packages_apps_Settings/commit/4cb2ff1bf09b5861b054715f716a1540e0fc59c8
 
 - Sim Pin unlock: fix github sync error adding the correct file code
 https://github.com/ezio84/frameworks_base/commit/5b79f8e6b10327a4d515fa2dbade0bfb6cc8d802
@@ -84,11 +75,6 @@ https://github.com/ezio84/packages_apps_Settings/commit/b0697cebd07138ef71718ae0
 (enabled by default)
 https://github.com/ezio84/frameworks_base/commit/de09f25178c61aad7745994d77fbe04b1279775d
 https://github.com/ezio84/frameworks_base/commit/c1a886f3c59ddf2087e482d2e1f7acc78f0a1df5
-
-- Quick tiles panel: Power menu button <-- **REMOVED DUE TO SOFT REBOOT PROBLEMS: http://forum.xda-developers.com/showpost.php?p=57882510&postcount=1661
-(enable under Interface - Quick settings)<-- **REMOVED DUE TO SOFT REBOOT PROBLEMS
-https://github.com/ezio84/packages_apps_Settings/commit/53758ffd956697af3bf7fb91643f4f2c89f9c12d <-- **REMOVED DUE TO SOFT REBOOT PROBLEMS
-https://github.com/ezio84/frameworks_base/commit/1f3f70ed6db6b873534804b4d245d44c12d18593 <-- **REMOVED DUE TO SOFT REBOOT PROBLEMS
 
 - Launch SuperSU from Settings
 If SuperSU is installed, show an entry in Settings below "Developer options", which launches SuperSU when tapped.
