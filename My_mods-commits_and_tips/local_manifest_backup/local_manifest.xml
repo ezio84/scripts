@@ -41,6 +41,12 @@
   <project path="external/android-visualizer" name="ezio84/android_external_android-visualizer" remote="github" revision="cm-12.0" />
   <project path="packages/apps/AudioFX" name="ezio84/android_packages_apps_AudioFX" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.0" />
+  <!-- Built-in CyanogenMod Terminal app - the bionic repo is necessary because CM is now using pty.h instead of forkpty,
+         also Google has pty.h now. So, instead of reverting to forkpty, let's switch to pty.h too -->
+  <project path="packages/apps/Terminal" name="ezio84/android_packages_apps_Terminal" remote="github" revision="cm-12.0" />
+  <project path="external/libvterm" name="CyanogenMod/android_external_libvterm" remote="github" revision="cm-12.0" />
+  <remove-project path="bionic" name="SlimRoms/android_bionic" />
+  <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.0" />
   <!-- Gmail now supports exchange and the service is bundled with gapps, so let's get rid of the aosp one
   <remove-project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" />
   <remove-project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" />
