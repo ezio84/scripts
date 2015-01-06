@@ -41,6 +41,8 @@ https://github.com/ezio84/frameworks_base/commit/7a4957ba27b9bdfe2e9c18c763ae24a
 https://github.com/ezio84/packages_apps_Settings/commit/f00791a64b99463c51a8515e3204d6971ddb9835
 UPDATE 2 30/12/2014::
 https://github.com/ezio84/frameworks_base/commit/e5b90d33f7b4108fe1a6040fc3c5317c74022362
+UPDATE 3 06 JAN 2015:
+https://github.com/ezio84/frameworks_base/commit/64db544431a637bb4c07d36683bca1b105be6104
 
 - SystemUI: Materialize volume panel in/out animation
 (enabled by default)
