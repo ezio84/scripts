@@ -1,3 +1,8 @@
+- Mako: new DRM library (thanks to @ten_tickles ) to fix Play Movie and Netflix crashes
+till this fix is merged in the loonybin repo, you can do it manually:  copy "libwvdrmengine.so" from 
+"vendor/lge/hammerhead/proprietary/vendor/lib/mediadrm" into "vendor/lge/mako/proprietary"
+overwriting the existing one.
+
 - SystemUI: status bar brightness: store value as int (statusbar brightness slider fix)
 https://github.com/ezio84/frameworks_base/commit/abf811dc483b34a4683b0c7e716c6d1a9b97c74f
 
