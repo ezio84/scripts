@@ -1,3 +1,9 @@
+Built-in CM Terminal app:
+https://github.com/ezio84/packages_apps_Settings/commit/60d0236512868bdaf6d0c34cf84de69187b241cf
+https://github.com/ezio84/vendor_slim/commit/dad15cd97955589a50c969fdbf1bc7b731cb5577
+https://github.com/ezio84/android_bionic/commit/951b695d3a1574c6f04d25e0381198dff8e9fa28
+https://github.com/ezio84/scripts/commit/16b8e0c27f72f3bccc78f5e992b0206b39beadd6
+
 - Mako: new DRM library (thanks to @ten_tickles ) to fix Play Movie and Netflix crashes
 till this fix is merged in the loonybin repo, you can do it manually:  copy "libwvdrmengine.so" from 
 "vendor/lge/hammerhead/proprietary/vendor/lib/mediadrm" into "vendor/lge/mako/proprietary"
