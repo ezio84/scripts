@@ -116,9 +116,6 @@ https://github.com/ezio84/packages_apps_Settings/commit/260da56ce5ca85b8ad35009e
 - Unknown source apk installation: enable by default
 https://github.com/ezio84/frameworks_base/commit/24f6b0d8ecf0a516dad30be9a28181a2e77fb469
 
-- Adv. reboot: enable it by default with no secured lockscreen
-https://github.com/ezio84/packages_apps_Settings/commit/9379eaa013ae0c78a0a5cf781e82cca2dff43786
-
 - Remove AOSP Browser
 https://github.com/ezio84/scripts/commit/19148fcd2565fac79ae31bab850d26568d0fbe70
 https://github.com/ezio84/android_build/commit/91cd9e3ff688baf9debf94d356a5d6111f12e8ab
