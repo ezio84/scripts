@@ -1,3 +1,9 @@
+- Quicksettings tiles customization by CM
+(under Interface - Quicksettings)
+https://github.com/ezio84/frameworks_base/commit/116f57c19ac1fa7e9d61474427c16092b57eff0e
+https://github.com/ezio84/packages_apps_Settings/commit/1f0d8ca0cb4da542bc79a4fc133c19085650fb03
+(PS: apply "- SystemUI: Add sound item (notifications) in quick settings panel" commits before the above ones).
+
 - Built-in CM Terminal app:
 https://github.com/ezio84/packages_apps_Settings/commit/60d0236512868bdaf6d0c34cf84de69187b241cf
 https://github.com/ezio84/vendor_slim/commit/dad15cd97955589a50c969fdbf1bc7b731cb5577
@@ -28,7 +34,7 @@ https://gerrit.slimroms.net/22232
 https://gerrit.slimroms.net/22231
 https://gerrit.slimroms.net/22230
 
-- SystemUI: Add sound item (notifications) in quick settings panel 
+- SystemUI: Add sound item (notifications) in quick settings panel
 https://github.com/ezio84/frameworks_base/commit/d1ec93f556227238ef86dc220e4f8515cd823b55
 https://github.com/ezio84/frameworks_base/commit/288c70e4ea24871a1e543ea1eeb41747febfcbb0
 
