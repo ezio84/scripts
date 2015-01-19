@@ -1,10 +1,19 @@
+- QS: change location sensors mode in quick settings
+(enable  under Interface - Quicksettings)
+https://github.com/ezio84/packages_apps_Settings/commit/16ffaf3a2ffb49e916edd97c0d2e9eb7b2d8fa41
+https://github.com/ezio84/frameworks_base/commit/39567a6bc1ae6fba6b3fe66d48e4d7297f0f1a15
+
 - Quicksettings tiles customization by CM
-(under Interface - Quicksettings)
-https://github.com/ezio84/frameworks_base/commit/116f57c19ac1fa7e9d61474427c16092b57eff0e
-https://github.com/ezio84/packages_apps_Settings/commit/1f0d8ca0cb4da542bc79a4fc133c19085650fb03
+(set under Interface - Quicksettings)
+https://github.com/ezio84/frameworks_base/commit/8ac427c805fcd2f5ab5254a81d31247e25251827
+https://github.com/ezio84/frameworks_base/commit/e8be21e67df0e68a9c17443e83e9a3b8d420636e
+https://github.com/ezio84/packages_apps_Settings/commit/d9f4fcbd2c459cddbe6de71df0dd99cc0ec2855b
+https://github.com/ezio84/packages_apps_Settings/commit/c307231c3942019f73a70d706c4a04c8054133f7
+https://github.com/ezio84/packages_apps_Settings/commit/d5d74082ab997849c4ce8a9e98e377bf214d4914
 (PS: apply "- SystemUI: Add sound item (notifications) in quick settings panel" commits before the above ones).
 
 - Built-in CM Terminal app:
+(enable under Developer settings)
 https://github.com/ezio84/packages_apps_Settings/commit/60d0236512868bdaf6d0c34cf84de69187b241cf
 https://github.com/ezio84/vendor_slim/commit/dad15cd97955589a50c969fdbf1bc7b731cb5577
 https://github.com/ezio84/android_bionic/commit/951b695d3a1574c6f04d25e0381198dff8e9fa28
