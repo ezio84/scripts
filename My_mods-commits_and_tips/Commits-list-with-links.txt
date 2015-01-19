@@ -10,6 +10,7 @@ https://github.com/ezio84/frameworks_base/commit/e8be21e67df0e68a9c17443e83e9a3b
 https://github.com/ezio84/packages_apps_Settings/commit/d9f4fcbd2c459cddbe6de71df0dd99cc0ec2855b
 https://github.com/ezio84/packages_apps_Settings/commit/c307231c3942019f73a70d706c4a04c8054133f7
 https://github.com/ezio84/packages_apps_Settings/commit/d5d74082ab997849c4ce8a9e98e377bf214d4914
+https://github.com/ezio84/packages_apps_Settings/commit/d2efd01f2f2d55241aec205ed3f30ea4caffedd3
 (PS: apply "- SystemUI: Add sound item (notifications) in quick settings panel" commits before the above ones).
 
 - Built-in CM Terminal app:
