@@ -3,7 +3,7 @@
 https://github.com/ezio84/packages_apps_Settings/commit/16ffaf3a2ffb49e916edd97c0d2e9eb7b2d8fa41
 https://github.com/ezio84/frameworks_base/commit/39567a6bc1ae6fba6b3fe66d48e4d7297f0f1a15
 
-- Quicksettings tiles customization by CM
+- Quicksettings tiles customization by CM - 19jan2015
 (set under Interface - Quicksettings)
 https://github.com/ezio84/frameworks_base/commit/8ac427c805fcd2f5ab5254a81d31247e25251827
 https://github.com/ezio84/frameworks_base/commit/e8be21e67df0e68a9c17443e83e9a3b8d420636e
@@ -12,6 +12,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/c307231c3942019f73a70d70
 https://github.com/ezio84/packages_apps_Settings/commit/d5d74082ab997849c4ce8a9e98e377bf214d4914
 https://github.com/ezio84/packages_apps_Settings/commit/d2efd01f2f2d55241aec205ed3f30ea4caffedd3
 (PS: apply "- SystemUI: Add sound item (notifications) in quick settings panel" commits before the above ones).
+UPDATE 20jan2015:
+https://github.com/ezio84/packages_apps_Settings/commit/f4aa6ee59c7e0eaa97a37d63e8ecb9efd6f2ed42
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
