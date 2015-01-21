@@ -42,9 +42,13 @@ https://github.com/ezio84/frameworks_base/commit/abf811dc483b34a4683b0c7e716c6d1
 
 - Automatic Proximity speaker (now it works for both mako and hammerhead)
 (Enable it in the Dialer settings)
-https://gerrit.slimroms.net/22232
-https://gerrit.slimroms.net/22231
-https://gerrit.slimroms.net/22230
+Slim commits: 		https://gerrit.slimroms.net/22232
+				https://gerrit.slimroms.net/22231
+				https://gerrit.slimroms.net/22230
+My github commits:  https://github.com/ezio84/packages_apps_InCallUI/commit/a7dc37e7ad82245b5640e26ffab3072f87fbca79
+				https://github.com/ezio84/packages_services_Telephony/commit/4b2034cee10e56c9ea396067fd8676475f4bf874
+				https://github.com/ezio84/packages_services_Telephony/commit/8240ff0136fac989657a96574fac8700bb14e0f2
+				https://github.com/ezio84/frameworks_base/commit/2ed7211962106d7b7cd64875271f568bce58f62e
 
 - SystemUI: Add sound item (notifications) in quick settings panel
 https://github.com/ezio84/frameworks_base/commit/d1ec93f556227238ef86dc220e4f8515cd823b55
@@ -85,9 +89,13 @@ https://github.com/ezio84/frameworks_base/commit/0ff183b8c22b5e27f3f14760053617f
 https://github.com/ezio84/packages_apps_Settings/commit/53bfad1526d4fd00285b12042d427ae9617c4eab
 
 - Settings: Doze (ambient display) timeout
-https://gerrit.slimroms.net/21692
-https://gerrit.slimroms.net/21373
-https://gerrit.slimroms.net/21567
+Slim commits: 		https://gerrit.slimroms.net/21692
+				https://gerrit.slimroms.net/21373
+				https://gerrit.slimroms.net/21567
+My github commits:  https://github.com/ezio84/packages_apps_Settings/commit/fdf368be698bab74ad765c182ee0f22f17c709c8
+				https://github.com/ezio84/packages_apps_Settings/commit/3458781fcebe253390f3f594730742f65b35df4d
+				https://github.com/ezio84/frameworks_base/commit/b783fbffe24ee4d8708417158dcc92f02160376c
+				https://github.com/ezio84/frameworks_base/commit/165b9f380edd11d5f669d5cffc42cdb859aaa1f9
 
 - Sim Pin unlock: fix github sync error adding the correct file code
 https://github.com/ezio84/frameworks_base/commit/5b79f8e6b10327a4d515fa2dbade0bfb6cc8d802
