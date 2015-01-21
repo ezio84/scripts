@@ -1,6 +1,6 @@
 - Navigation bar: configurable height
 (set under Interface - Navigation bar)
-https://github.com/ezio84/packages_apps_Settings/commit/3841b03337661722aacd179c7997e45a19a64db7
+https://github.com/ezio84/packages_apps_Settings/commit/73863435435c50a9bcc5449e781f4ba0d2cb87be
 https://github.com/ezio84/frameworks_base/commit/3b21bcdb3aa3b0f81efc0a68813c1cf24cf74f21
 
 - QS: change location sensors mode in quick settings
