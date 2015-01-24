@@ -1,3 +1,10 @@
+- RRO themes support
+(http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
+https://github.com/ezio84/frameworks_base/commit/dbbe9230ce1558f87a210b8f23ae48b6bc27d436
+https://github.com/ezio84/frameworks_base/commit/f3e9578b555cd531d3fe0836f3b95d7884691665
+https://github.com/ezio84/frameworks_base/commit/fd4adab0a4b3118100527ae6391d79d8df037454
+
+
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
 https://github.com/ezio84/packages_apps_Settings/commit/73863435435c50a9bcc5449e781f4ba0d2cb87be
@@ -50,7 +57,7 @@ https://github.com/ezio84/frameworks_base/commit/abf811dc483b34a4683b0c7e716c6d1
 Slim commits: 		https://gerrit.slimroms.net/22232
 				https://gerrit.slimroms.net/22231
 				https://gerrit.slimroms.net/22230
-My github commits:  https://github.com/ezio84/packages_apps_InCallUI/commit/a7dc37e7ad82245b5640e26ffab3072f87fbca79
+My github commits:  https://github.com/ezio84/packages_apps_InCallUI/commit/db501e98bb3183609507544d8eead17c8d9c38d0
 				https://github.com/ezio84/packages_services_Telephony/commit/4b2034cee10e56c9ea396067fd8676475f4bf874
 				https://github.com/ezio84/packages_services_Telephony/commit/8240ff0136fac989657a96574fac8700bb14e0f2
 				https://github.com/ezio84/frameworks_base/commit/2ed7211962106d7b7cd64875271f568bce58f62e
