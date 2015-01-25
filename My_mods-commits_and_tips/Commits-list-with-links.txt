@@ -51,6 +51,8 @@ https://github.com/ezio84/frameworks_base/commit/681863a78be6e837f1b09b1cccc611b
 https://github.com/ezio84/frameworks_base/commit/767bb0e41dd56fa48602de640d01a549546b16c1
 UPDATE STEP 3 08 JAN 2015 (dark boot popup)::
 https://github.com/ezio84/frameworks_base/commit/c839ce4c6135be017100edc36c8c0382978ac345
+UPDATE 25 Jan 2015 (restore black notifications, now the text is fixed):
+https://github.com/ezio84/frameworks_base/commit/c0ef2e37cc92da92750c5e4f02482e20913ab82b
 
 - SystemUI: status bar brightness: store value as int (statusbar brightness slider fix)
 https://github.com/ezio84/frameworks_base/commit/abf811dc483b34a4683b0c7e716c6d1a9b97c74f
