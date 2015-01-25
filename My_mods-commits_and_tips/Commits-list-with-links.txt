@@ -28,7 +28,7 @@ UPDATE 20jan2015:
 https://github.com/ezio84/packages_apps_Settings/commit/f4aa6ee59c7e0eaa97a37d63e8ecb9efd6f2ed42
 UPDATE 25 Jan2015 (add "QS: change location sensors mode in quick settings" before these new ones):
 https://github.com/ezio84/frameworks_base/commit/9f1ced50d1d8ff027d040f547f4151e86f6a402f
-https://github.com/ezio84/packages_apps_Settings/commit/ac05ea392aaf2de4289968e7e97ea15ec7d2506e
+https://github.com/ezio84/packages_apps_Settings/commit/1737b700903b346d30df4aeff2cbf6d11fd896ba
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
