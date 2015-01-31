@@ -3,7 +3,7 @@
   <!-- Scripts to automate the building process and some backups -->
   <project path="scripts" name="ezio84/scripts" remote="github" revision="lp5.0" />
   <!-- kernel and device, useful to check or remove some overlays or test new kernel features.
-   IMPORTANT: Remember to remove lines from the slim local manifest -->
+         IMPORTANT: Remember to remove lines from the slim local manifest -->
   <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.0" />
   <project name="ezio84/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="lp5.0" />
   <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.0" />
@@ -31,6 +31,8 @@
   <project path="packages/services/Telephony" name="ezio84/packages_services_Telephony" remote="github" revision="lp5.0" />
   <remove-project path="packages/apps/InCallUI" name="SlimRoms/packages_apps_InCallUI" />
   <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="lp5.0" />
+  <remove-project path="frameworks/opt/telephony" name="SlimRoms/frameworks_opt_telephony" />
+  <project path="frameworks/opt/telephony" name="ezio84/frameworks_opt_telephony" remote="github" revision="lp5.0" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->

@@ -45,5 +45,7 @@ echo -e "${bldgrn}Updating Terminal by Cyanogen ${txtrst}"
 cd $rdir/packages/apps/Terminal && git fetch cm && git merge cm/cm-12.0 && git push https://github.com/ezio84/android_packages_apps_Terminal cm-12.0
 echo -e "${bldgrn}Updating bionic ${txtrst}"
 cd $rdir/bionic && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/android_bionic lp5.0
+echo -e "${bldgrn}Updating frameworks/opt/telephony ${txtrst}"
+cd $rdir/frameworks/opt/telephony && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/frameworks_opt_telephony lp5.0
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
