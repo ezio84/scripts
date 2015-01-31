@@ -4,7 +4,6 @@ https://github.com/ezio84/frameworks_base/commit/dbbe9230ce1558f87a210b8f23ae48b
 https://github.com/ezio84/frameworks_base/commit/f3e9578b555cd531d3fe0836f3b95d7884691665
 https://github.com/ezio84/frameworks_base/commit/fd4adab0a4b3118100527ae6391d79d8df037454
 
-
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
 https://github.com/ezio84/packages_apps_Settings/commit/73863435435c50a9bcc5449e781f4ba0d2cb87be
@@ -24,11 +23,17 @@ https://github.com/ezio84/packages_apps_Settings/commit/c307231c3942019f73a70d70
 https://github.com/ezio84/packages_apps_Settings/commit/d5d74082ab997849c4ce8a9e98e377bf214d4914
 https://github.com/ezio84/packages_apps_Settings/commit/d2efd01f2f2d55241aec205ed3f30ea4caffedd3
 (PS: apply "- SystemUI: Add sound item (notifications) in quick settings panel" commits before the above ones).
-UPDATE 20jan2015:
+UPDATE 20jan 2015:
 https://github.com/ezio84/packages_apps_Settings/commit/f4aa6ee59c7e0eaa97a37d63e8ecb9efd6f2ed42
 UPDATE 25 Jan2015 (add "QS: change location sensors mode in quick settings" before these new ones):
 https://github.com/ezio84/frameworks_base/commit/9f1ced50d1d8ff027d040f547f4151e86f6a402f
 https://github.com/ezio84/packages_apps_Settings/commit/1737b700903b346d30df4aeff2cbf6d11fd896ba
+UPDATE 31 Jan 2015:
+https://github.com/ezio84/frameworks_base/commit/3dd6c5c90120a6d43d62d1311a042fe59248d62c
+https://github.com/ezio84/packages_apps_Settings/commit/7b1bcf77dd1abe76e36966430aed5cf6e011913e
+https://github.com/ezio84/frameworks_opt_telephony/commit/7bae9b56c67e274793eca81cd3e625eab749abee
+https://github.com/ezio84/packages_services_Telephony/commit/124863ab1de15af85e782474e0a0469339177112
+
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
