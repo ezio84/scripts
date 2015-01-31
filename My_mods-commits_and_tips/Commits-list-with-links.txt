@@ -62,7 +62,9 @@ https://github.com/ezio84/frameworks_base/commit/abf811dc483b34a4683b0c7e716c6d1
 Slim commits: 		https://gerrit.slimroms.net/22232
 				https://gerrit.slimroms.net/22231
 				https://gerrit.slimroms.net/22230
-My github commits:  https://github.com/ezio84/packages_apps_InCallUI/commit/db501e98bb3183609507544d8eead17c8d9c38d0
+				https://gerrit.slimroms.net/24413
+My github commits:  https://github.com/ezio84/packages_apps_InCallUI/commit/449b56e8be2a248192bdd78f9053316527cd8355
+				https://github.com/ezio84/packages_apps_InCallUI/commit/7bfa69459d9545acfac58148add2b2b9844e7625
 				https://github.com/ezio84/packages_services_Telephony/commit/4b2034cee10e56c9ea396067fd8676475f4bf874
 				https://github.com/ezio84/packages_services_Telephony/commit/8240ff0136fac989657a96574fac8700bb14e0f2
 				https://github.com/ezio84/frameworks_base/commit/2ed7211962106d7b7cd64875271f568bce58f62e
@@ -109,7 +111,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/53bfad1526d4fd00285b1204
 Slim commits: 		https://gerrit.slimroms.net/21692
 				https://gerrit.slimroms.net/21373
 				https://gerrit.slimroms.net/21567
-My github commits:  https://github.com/ezio84/packages_apps_Settings/commit/fdf368be698bab74ad765c182ee0f22f17c709c8
+My github commits:  https://github.com/ezio84/packages_apps_Settings/commit/a83d1b3a494330d2cbd7e82474748fe3591eabcd
 				https://github.com/ezio84/packages_apps_Settings/commit/3458781fcebe253390f3f594730742f65b35df4d
 				https://github.com/ezio84/frameworks_base/commit/b783fbffe24ee4d8708417158dcc92f02160376c
 				https://github.com/ezio84/frameworks_base/commit/165b9f380edd11d5f669d5cffc42cdb859aaa1f9
