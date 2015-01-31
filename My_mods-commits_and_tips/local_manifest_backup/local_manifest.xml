@@ -33,6 +33,8 @@
   <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="lp5.0" />
   <remove-project path="frameworks/opt/telephony" name="SlimRoms/frameworks_opt_telephony" />
   <project path="frameworks/opt/telephony" name="ezio84/frameworks_opt_telephony" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/Dialer" name="SlimRoms/packages_apps_Dialer" />
+  <project path="packages/apps/Dialer" name="ezio84/packages_apps_Dialer" remote="github" revision="lp5.0" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->

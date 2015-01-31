@@ -30,6 +30,7 @@ git push https://github.com/ezio84/android_external_android-visualizer cm-12.0
 git push https://github.com/ezio84/android_packages_apps_Terminal cm-12.0
 git push https://github.com/ezio84/android_bionic lp5.0
 git push https://github.com/ezio84/frameworks_opt_telephony lp5.0
+git push https://github.com/ezio84/packages_apps_Dialer lp5.0
 
  . scripts/build_rom.sh mako nosync 7 noclean log
  . scripts/build_rom.sh hammerhead nosync 7 noclean log
