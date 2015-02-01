@@ -49,5 +49,9 @@ echo -e "${bldgrn}Updating frameworks/opt/telephony ${txtrst}"
 cd $rdir/frameworks/opt/telephony && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/frameworks_opt_telephony lp5.0
 echo -e "${bldgrn}Updating packages/apps/Dialer ${txtrst}"
 cd $rdir/packages/apps/Dialer && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_Dialer lp5.0
+echo -e "${bldgrn}Updating packages/apps/Contacts ${txtrst}"
+cd $rdir/packages/apps/Contacts && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_Contacts lp5.0
+echo -e "${bldgrn}Updating packages/apps/ContactsCommon ${txtrst}"
+cd $rdir/packages/apps/ContactsCommon && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.0
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
