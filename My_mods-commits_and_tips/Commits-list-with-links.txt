@@ -1,8 +1,35 @@
-- RRO themes support
+- RRO layers 2 Theme support
 (http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
-https://github.com/ezio84/frameworks_base/commit/dbbe9230ce1558f87a210b8f23ae48b6bc27d436
-https://github.com/ezio84/frameworks_base/commit/f3e9578b555cd531d3fe0836f3b95d7884691665
-https://github.com/ezio84/frameworks_base/commit/fd4adab0a4b3118100527ae6391d79d8df037454
+https://github.com/ezio84/packages_apps_Contacts/commit/c0bf60d61f15f3f5b619716e902ccd84f9883311
+https://github.com/ezio84/packages_apps_Contacts/commit/a5312d59ef17d33e41c3da5316238a295e54748c
+https://github.com/ezio84/packages_apps_ContactsCommon/commit/930ad13c04495d115e3b99eeace22eacb805e8db
+https://github.com/ezio84/packages_apps_InCallUI/commit/a62387e62409ce789dc7d543622243b60beb20a1
+https://github.com/ezio84/packages_apps_Dialer/commit/13362c5648dae12e397184c6a9b6cb19f6749a72
+https://github.com/ezio84/packages_apps_Dialer/commit/c36eb3c12682b18d1e314440c0787e8106a04391
+https://github.com/ezio84/packages_apps_Settings/commit/2de4e20d74856a42a77ebb30edb1a06ee668d7cd (commit to revert the Dark theme)
+https://github.com/ezio84/packages_apps_Settings/commit/ad629fb05be347efb302bf005b1ccecaef8bf282
+https://github.com/ezio84/packages_apps_Settings/commit/d204d6d3f459e4e0d2fc5c7e285788955f7e7eb1
+https://github.com/ezio84/packages_apps_Settings/commit/b6a603a1cd8a6c693d32b830426b02295e69f9e0
+https://github.com/ezio84/frameworks_base/commit/32ca2680a263dd1233026b08437d05732b33a6c9 (commit to revert the Dark theme)
+https://github.com/ezio84/frameworks_base/commit/3c26bf8b066cf9c3301269d0894fa0685f005c1f (commit to revert the Dark theme)
+https://github.com/ezio84/frameworks_base/commit/366dc1407b6ddfdc9e3e8ee77b24554955b55f5a (commit to revert the Dark theme)
+https://github.com/ezio84/frameworks_base/commit/d5523e26070f70933db5b743f5bdc884361a1332 (commit to revert the Dark theme)
+https://github.com/ezio84/frameworks_base/commit/994e9f46a88d15bdc3f40758444176a5186855cf (commit to revert the Dark theme)
+https://github.com/ezio84/frameworks_base/commit/555c0b304656abd7ed9a2e9b7aa6f324333ebe8c
+https://github.com/ezio84/frameworks_base/commit/84f1e8a581b1cb152ff449083e0580278d4288cc
+https://github.com/ezio84/frameworks_base/commit/d0c57cdb189b595a5d6df6d9972e25529888d913
+https://github.com/ezio84/frameworks_base/commit/278cc5676d1e14c6e366a680f69d6628a7fbff34
+https://github.com/ezio84/frameworks_base/commit/2a13ba0465422dacea31f6d5f9075f95e5ea6122
+https://github.com/ezio84/frameworks_base/commit/cfb3c93a33ee08298c457f5f1eb1a5767feb0f7c
+https://github.com/ezio84/frameworks_base/commit/70f8151b8d20aac27979bb3c6f226c96d287fe31
+https://github.com/ezio84/frameworks_base/commit/f59c7fd3b8491372f4a22f3a90fb69154f7cd15b
+https://github.com/ezio84/frameworks_base/commit/72f5aea5df5f4eb2af2df88948814f674ec5f47b
+https://github.com/ezio84/frameworks_base/commit/4856ba501ed9c28da2a36db2f46df79846bbaa65
+https://github.com/ezio84/frameworks_base/commit/068652bf1dd9503ebc66d7713cd7ebf3416a76dd
+https://github.com/ezio84/frameworks_base/commit/6695d4e95c25b6fa3b8e696c4613fb8878df5b9a
+https://github.com/ezio84/frameworks_base/commit/fd2ae85128f15e607987061f8e28ffb53f88327e
+https://github.com/ezio84/frameworks_base/commit/b6ea53d349ee5b4f9fb933370a78aec317a62611
+https://github.com/ezio84/frameworks_base/commit/778d46dd071009a9527e0b8cc197f3e6c765c8a7
 
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
