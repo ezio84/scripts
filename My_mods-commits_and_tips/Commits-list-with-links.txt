@@ -1,5 +1,5 @@
 - Integrated SimpleExplorer:
-https://github.com/ezio84/vendor_slim/commit/e818f078d793c016f29f72d6fff08b94581a4d7a
+https://github.com/ezio84/vendor_slim/commit/7d1e1d9f1b31f0973fac432963820be66e07fc14
 
 - RRO layers 2 Theme support
 (http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
