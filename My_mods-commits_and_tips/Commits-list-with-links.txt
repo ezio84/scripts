@@ -1,5 +1,9 @@
+- Integrated SimpleExplorer:
+https://github.com/ezio84/vendor_slim/commit/e818f078d793c016f29f72d6fff08b94581a4d7a
+
 - RRO layers 2 Theme support
 (http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
+To show an Interface-Layers entry in Settings if the app is installed: https://github.com/ezio84/packages_apps_Settings/commit/bec03fb0e9d0c8fe5f2954de46f993b734283628 (to 
 https://github.com/ezio84/packages_apps_Contacts/commit/c0bf60d61f15f3f5b619716e902ccd84f9883311
 https://github.com/ezio84/packages_apps_Contacts/commit/a5312d59ef17d33e41c3da5316238a295e54748c
 https://github.com/ezio84/packages_apps_ContactsCommon/commit/930ad13c04495d115e3b99eeace22eacb805e8db
