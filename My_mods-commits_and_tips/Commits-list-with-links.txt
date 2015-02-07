@@ -4,9 +4,9 @@ https://github.com/ezio84/vendor_slim/commit/7d1e1d9f1b31f0973fac432963820be66e0
 - RRO layers 2 Theme support
 (http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
 To show an Interface-Layers entry in Settings if the app is installed: https://github.com/ezio84/packages_apps_Settings/commit/6b927ccd618d30aaab05ba0987264111a1c014aa
-https://github.com/ezio84/packages_apps_Contacts/commit/c0bf60d61f15f3f5b619716e902ccd84f9883311
-https://github.com/ezio84/packages_apps_Contacts/commit/a5312d59ef17d33e41c3da5316238a295e54748c
-https://github.com/ezio84/packages_apps_ContactsCommon/commit/930ad13c04495d115e3b99eeace22eacb805e8db
+https://github.com/ezio84/packages_apps_Contacts/commit/d01a28c193e50a8cc1d258210566b16c76ac3e11
+https://github.com/ezio84/packages_apps_Contacts/commit/09aeba9aa37d67dd66fd3a57fcd401f57c470eeb
+https://github.com/ezio84/packages_apps_ContactsCommon/commit/3ea357970172e7bfe340258124b927700f98fe16
 https://github.com/ezio84/packages_apps_InCallUI/commit/a62387e62409ce789dc7d543622243b60beb20a1
 https://github.com/ezio84/packages_apps_Dialer/commit/13362c5648dae12e397184c6a9b6cb19f6749a72
 https://github.com/ezio84/packages_apps_Dialer/commit/c36eb3c12682b18d1e314440c0787e8106a04391
@@ -35,7 +35,7 @@ https://github.com/ezio84/frameworks_base/commit/fd2ae85128f15e607987061f8e28ffb
 https://github.com/ezio84/frameworks_base/commit/b6ea53d349ee5b4f9fb933370a78aec317a62611
 https://github.com/ezio84/frameworks_base/commit/778d46dd071009a9527e0b8cc197f3e6c765c8a7
 UPDATE 07 FEB 2015:
-https://github.com/ezio84/packages_apps_Dialer/commit/0ca096f0fb28ac58295159309f680b54f0ec8819
+https://github.com/ezio84/packages_apps_Dialer/commit/b76037cb943fb997b5244f57a547d277ab4f2770
 
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
