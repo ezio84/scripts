@@ -95,7 +95,8 @@ https://github.com/ezio84/frameworks_base/commit/3dd6c5c90120a6d43d62d1311a042fe
 https://github.com/ezio84/packages_apps_Settings/commit/7b1bcf77dd1abe76e36966430aed5cf6e011913e
 https://github.com/ezio84/frameworks_opt_telephony/commit/7bae9b56c67e274793eca81cd3e625eab749abee
 https://github.com/ezio84/packages_services_Telephony/commit/124863ab1de15af85e782474e0a0469339177112
-
+UPDATE 07 FEB 2015:
+https://github.com/ezio84/frameworks_base/commit/6c699c60bfa7f7031c2fa9dc86207d52b3177977
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
