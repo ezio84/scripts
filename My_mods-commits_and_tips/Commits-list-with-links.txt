@@ -34,6 +34,8 @@ https://github.com/ezio84/frameworks_base/commit/6695d4e95c25b6fa3b8e696c4613fb8
 https://github.com/ezio84/frameworks_base/commit/fd2ae85128f15e607987061f8e28ffb53f88327e
 https://github.com/ezio84/frameworks_base/commit/b6ea53d349ee5b4f9fb933370a78aec317a62611
 https://github.com/ezio84/frameworks_base/commit/778d46dd071009a9527e0b8cc197f3e6c765c8a7
+UPDATE 07 FEB 2015:
+https://github.com/ezio84/packages_apps_Dialer/commit/0ca096f0fb28ac58295159309f680b54f0ec8819
 
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
