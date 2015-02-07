@@ -1,3 +1,7 @@
+- per-app Expanded desktop:
+https://github.com/ezio84/packages_apps_Settings/commit/65901d3d04faaf081ce1d0717fe340d0f2a4ea92
+https://github.com/ezio84/frameworks_base/commit/f40892528ddb4b2903c45a808514b6b3690d2431
+
 - Battery level: customizable icon and text (NEW CODE BY SLIM):
 (under Interface - Status bar)
 revert the old CM commits if you had them, these are the revert commits:
@@ -65,6 +69,7 @@ https://github.com/ezio84/frameworks_base/commit/b6ea53d349ee5b4f9fb933370a78aec
 https://github.com/ezio84/frameworks_base/commit/778d46dd071009a9527e0b8cc197f3e6c765c8a7
 UPDATE 07 FEB 2015:
 https://github.com/ezio84/packages_apps_Dialer/commit/b76037cb943fb997b5244f57a547d277ab4f2770
+https://github.com/ezio84/packages_apps_Settings/commit/635452aa11785972f97cf37d3afc4f7aef015e4e
 
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
@@ -95,8 +100,6 @@ https://github.com/ezio84/frameworks_base/commit/3dd6c5c90120a6d43d62d1311a042fe
 https://github.com/ezio84/packages_apps_Settings/commit/7b1bcf77dd1abe76e36966430aed5cf6e011913e
 https://github.com/ezio84/frameworks_opt_telephony/commit/7bae9b56c67e274793eca81cd3e625eab749abee
 https://github.com/ezio84/packages_services_Telephony/commit/124863ab1de15af85e782474e0a0469339177112
-UPDATE 07 FEB 2015:
-https://github.com/ezio84/frameworks_base/commit/6c699c60bfa7f7031c2fa9dc86207d52b3177977
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
