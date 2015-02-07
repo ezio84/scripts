@@ -1,5 +1,34 @@
+- Battery level: customizable icon and text (NEW CODE BY SLIM):
+(under Interface - Status bar)
+revert the old CM commits if you had them, these are the revert commits:
+https://github.com/ezio84/frameworks_base/commit/c3c789858b38f6d8c494304b3402e5d2abf0036a
+https://github.com/ezio84/frameworks_base/commit/be10b87aea047d3e303cdf7aef1e9376a21e4c71
+https://github.com/ezio84/frameworks_base/commit/46eebaa397969f8512858ca9911cea3fec0f141a
+https://github.com/ezio84/frameworks_base/commit/345ec53ddc1f796782082a7872869a8eebb59507
+https://github.com/ezio84/packages_apps_Settings/commit/b7a6cd155ee2428eab4955290d5e1f8b6b0c091d
+https://github.com/ezio84/packages_apps_Settings/commit/e93c2dd33864fe11c0180d5ccca2e30afe01980f
+https://github.com/ezio84/packages_apps_Settings/commit/86ed51057350dfe941fc25bf02fcfb8c059cc449
+then these are the new ones by Slim:
+https://github.com/ezio84/packages_apps_Settings/commit/2d03aea962548fc77339692b4f971985cd519940
+https://github.com/ezio84/frameworks_base/commit/268b1e7cafd151313ae29d7074afdd43a264f37b
+
+
+- Battery level: customizable icon and text (by CM) <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+(under Interface - Status bar) <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/34a77b7efcb391de9e80f54a42902d808697d2e2 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+https://github.com/ezio84/packages_apps_Settings/commit/aacc94b7fd46fbaa825745406534fd6e68185690 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+https://github.com/ezio84/packages_apps_Settings/commit/9d6fa74c874264b8d918a3df45d08b71cd27e30d <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+UPDATE 30/12/2014:: <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/7a4957ba27b9bdfe2e9c18c763ae24a02d3994bf <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+https://github.com/ezio84/packages_apps_Settings/commit/f00791a64b99463c51a8515e3204d6971ddb9835 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+UPDATE 2 30/12/2014:: <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/e5b90d33f7b4108fe1a6040fc3c5317c74022362 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+UPDATE 3 06 JAN 2015: <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/64db544431a637bb4c07d36683bca1b105be6104 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
+
 - Integrated SimpleExplorer:
 https://github.com/ezio84/vendor_slim/commit/7d1e1d9f1b31f0973fac432963820be66e07fc14
+(to update the app, just change the apk in the commit)
 
 - RRO layers 2 Theme support
 (http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
@@ -122,19 +151,6 @@ https://github.com/ezio84/frameworks_base/commit/6b4df8a368cf9b1afcbc4672533a424
 - Color fade memory leak:
 https://github.com/ezio84/frameworks_base/commit/a4c51bc69b32f7f762f768296e579af6a20c3090
 https://github.com/ezio84/frameworks_base/commit/d8492f283af794b0a3fd4baef90c7d476ecaff43
-
-- Battery level: customizable icon and text
-(under Interface - Status bar)
-https://github.com/ezio84/frameworks_base/commit/34a77b7efcb391de9e80f54a42902d808697d2e2
-https://github.com/ezio84/packages_apps_Settings/commit/aacc94b7fd46fbaa825745406534fd6e68185690
-https://github.com/ezio84/packages_apps_Settings/commit/9d6fa74c874264b8d918a3df45d08b71cd27e30d
-UPDATE 30/12/2014::
-https://github.com/ezio84/frameworks_base/commit/7a4957ba27b9bdfe2e9c18c763ae24a02d3994bf
-https://github.com/ezio84/packages_apps_Settings/commit/f00791a64b99463c51a8515e3204d6971ddb9835
-UPDATE 2 30/12/2014::
-https://github.com/ezio84/frameworks_base/commit/e5b90d33f7b4108fe1a6040fc3c5317c74022362
-UPDATE 3 06 JAN 2015:
-https://github.com/ezio84/frameworks_base/commit/64db544431a637bb4c07d36683bca1b105be6104
 
 - SystemUI: Materialize volume panel in/out animation
 (enabled by default)
