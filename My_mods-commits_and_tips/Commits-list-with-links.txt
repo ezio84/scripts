@@ -109,6 +109,7 @@ My github commits:  https://github.com/ezio84/packages_apps_InCallUI/commit/449b
 				https://github.com/ezio84/packages_services_Telephony/commit/8240ff0136fac989657a96574fac8700bb14e0f2
 				https://github.com/ezio84/frameworks_base/commit/2ed7211962106d7b7cd64875271f568bce58f62e
 				https://github.com/ezio84/packages_apps_InCallUI/commit/e4b773f1887816b14b424907e6d10ec5aced605c
+UPDATE 07 FEB 2015:
 				https://github.com/ezio84/frameworks_base/commit/a3309a20a408bcac378740a4a5835455505d6497
 
 - SystemUI: Add sound item (notifications) in quick settings panel
