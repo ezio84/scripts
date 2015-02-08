@@ -1,3 +1,9 @@
+- Add builtin SuperSU:
+https://github.com/ezio84/android_build/commit/b5ff5b069ee241e72a34577f3422f5f5727c4d6c
+https://github.com/ezio84/vendor_slim/commit/cd7405698547ef86130adba34865a435a0d2066c
+- Integrate SuperSU in the rom Settings menu:
+https://gerrit.slimroms.net/#/c/18654
+
 - per-app Expanded desktop:
 (enable under Settings - Display)
 https://github.com/ezio84/packages_apps_Settings/commit/65901d3d04faaf081ce1d0717fe340d0f2a4ea92
@@ -38,36 +44,36 @@ https://github.com/ezio84/vendor_slim/commit/7d1e1d9f1b31f0973fac432963820be66e0
 - RRO layers 2 Theme support
 (http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
 To show an Interface-Layers entry in Settings if the app is installed: https://github.com/ezio84/packages_apps_Settings/commit/6b927ccd618d30aaab05ba0987264111a1c014aa
-https://github.com/ezio84/packages_apps_Contacts/commit/d01a28c193e50a8cc1d258210566b16c76ac3e11
-https://github.com/ezio84/packages_apps_Contacts/commit/09aeba9aa37d67dd66fd3a57fcd401f57c470eeb
-https://github.com/ezio84/packages_apps_ContactsCommon/commit/3ea357970172e7bfe340258124b927700f98fe16
-https://github.com/ezio84/packages_apps_InCallUI/commit/a62387e62409ce789dc7d543622243b60beb20a1
-https://github.com/ezio84/packages_apps_Dialer/commit/13362c5648dae12e397184c6a9b6cb19f6749a72
-https://github.com/ezio84/packages_apps_Dialer/commit/c36eb3c12682b18d1e314440c0787e8106a04391
+https://github.com/ezio84/packages_apps_Contacts/commit/d01a28c193e50a8cc1d258210566b16c76ac3e11 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/packages_apps_Contacts/commit/09aeba9aa37d67dd66fd3a57fcd401f57c470eeb <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/packages_apps_ContactsCommon/commit/3ea357970172e7bfe340258124b927700f98fe16 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/packages_apps_InCallUI/commit/a62387e62409ce789dc7d543622243b60beb20a1 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/packages_apps_Dialer/commit/13362c5648dae12e397184c6a9b6cb19f6749a72 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/packages_apps_Dialer/commit/c36eb3c12682b18d1e314440c0787e8106a04391 <-- MERGED INTO OFFICIAL SLIM CODE
 https://github.com/ezio84/packages_apps_Settings/commit/2de4e20d74856a42a77ebb30edb1a06ee668d7cd (commit to revert the Dark theme)
-https://github.com/ezio84/packages_apps_Settings/commit/ad629fb05be347efb302bf005b1ccecaef8bf282
-https://github.com/ezio84/packages_apps_Settings/commit/d204d6d3f459e4e0d2fc5c7e285788955f7e7eb1
-https://github.com/ezio84/packages_apps_Settings/commit/b6a603a1cd8a6c693d32b830426b02295e69f9e0
+https://github.com/ezio84/packages_apps_Settings/commit/ad629fb05be347efb302bf005b1ccecaef8bf282 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/packages_apps_Settings/commit/d204d6d3f459e4e0d2fc5c7e285788955f7e7eb1 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/packages_apps_Settings/commit/b6a603a1cd8a6c693d32b830426b02295e69f9e0 <-- MERGED INTO OFFICIAL SLIM CODE
 https://github.com/ezio84/frameworks_base/commit/32ca2680a263dd1233026b08437d05732b33a6c9 (commit to revert the Dark theme)
 https://github.com/ezio84/frameworks_base/commit/3c26bf8b066cf9c3301269d0894fa0685f005c1f (commit to revert the Dark theme)
 https://github.com/ezio84/frameworks_base/commit/366dc1407b6ddfdc9e3e8ee77b24554955b55f5a (commit to revert the Dark theme)
 https://github.com/ezio84/frameworks_base/commit/d5523e26070f70933db5b743f5bdc884361a1332 (commit to revert the Dark theme)
 https://github.com/ezio84/frameworks_base/commit/994e9f46a88d15bdc3f40758444176a5186855cf (commit to revert the Dark theme)
-https://github.com/ezio84/frameworks_base/commit/555c0b304656abd7ed9a2e9b7aa6f324333ebe8c
-https://github.com/ezio84/frameworks_base/commit/84f1e8a581b1cb152ff449083e0580278d4288cc
-https://github.com/ezio84/frameworks_base/commit/d0c57cdb189b595a5d6df6d9972e25529888d913
-https://github.com/ezio84/frameworks_base/commit/278cc5676d1e14c6e366a680f69d6628a7fbff34
-https://github.com/ezio84/frameworks_base/commit/2a13ba0465422dacea31f6d5f9075f95e5ea6122
-https://github.com/ezio84/frameworks_base/commit/cfb3c93a33ee08298c457f5f1eb1a5767feb0f7c
-https://github.com/ezio84/frameworks_base/commit/70f8151b8d20aac27979bb3c6f226c96d287fe31
-https://github.com/ezio84/frameworks_base/commit/f59c7fd3b8491372f4a22f3a90fb69154f7cd15b
-https://github.com/ezio84/frameworks_base/commit/72f5aea5df5f4eb2af2df88948814f674ec5f47b
-https://github.com/ezio84/frameworks_base/commit/4856ba501ed9c28da2a36db2f46df79846bbaa65
-https://github.com/ezio84/frameworks_base/commit/068652bf1dd9503ebc66d7713cd7ebf3416a76dd
-https://github.com/ezio84/frameworks_base/commit/6695d4e95c25b6fa3b8e696c4613fb8878df5b9a
-https://github.com/ezio84/frameworks_base/commit/fd2ae85128f15e607987061f8e28ffb53f88327e
-https://github.com/ezio84/frameworks_base/commit/b6ea53d349ee5b4f9fb933370a78aec317a62611
-https://github.com/ezio84/frameworks_base/commit/778d46dd071009a9527e0b8cc197f3e6c765c8a7
+https://github.com/ezio84/frameworks_base/commit/555c0b304656abd7ed9a2e9b7aa6f324333ebe8c <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/84f1e8a581b1cb152ff449083e0580278d4288cc <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/d0c57cdb189b595a5d6df6d9972e25529888d913 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/278cc5676d1e14c6e366a680f69d6628a7fbff34 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/2a13ba0465422dacea31f6d5f9075f95e5ea6122 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/cfb3c93a33ee08298c457f5f1eb1a5767feb0f7c <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/70f8151b8d20aac27979bb3c6f226c96d287fe31 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/f59c7fd3b8491372f4a22f3a90fb69154f7cd15b <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/72f5aea5df5f4eb2af2df88948814f674ec5f47b <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/4856ba501ed9c28da2a36db2f46df79846bbaa65 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/068652bf1dd9503ebc66d7713cd7ebf3416a76dd <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/6695d4e95c25b6fa3b8e696c4613fb8878df5b9a <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/fd2ae85128f15e607987061f8e28ffb53f88327e <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/b6ea53d349ee5b4f9fb933370a78aec317a62611 <-- MERGED INTO OFFICIAL SLIM CODE
+https://github.com/ezio84/frameworks_base/commit/778d46dd071009a9527e0b8cc197f3e6c765c8a7 <-- MERGED INTO OFFICIAL SLIM CODE
 UPDATE 07 FEB 2015:
 https://github.com/ezio84/packages_apps_Dialer/commit/b76037cb943fb997b5244f57a547d277ab4f2770
 https://github.com/ezio84/packages_apps_Settings/commit/635452aa11785972f97cf37d3afc4f7aef015e4e
@@ -199,12 +205,6 @@ https://github.com/ezio84/packages_apps_Settings/commit/b0697cebd07138ef71718ae0
 (enabled by default)
 https://github.com/ezio84/frameworks_base/commit/de09f25178c61aad7745994d77fbe04b1279775d
 https://github.com/ezio84/frameworks_base/commit/c1a886f3c59ddf2087e482d2e1f7acc78f0a1df5
-
-- Launch SuperSU from Settings
-If SuperSU is installed, show an entry in Settings below "Developer options", which launches SuperSU when tapped.
-At boot time SuperSU will detect if com.android.settings contains the resources from this patch, and if so it will hide itself from the launcher. 
-Don't show Superuser option if SuperSU is installed
-https://gerrit.slimroms.net/#/c/18654
 
 - Switch to Cyanogen AudioFX and Eleven player:
 https://github.com/ezio84/scripts/commit/5bbb880b6b8725b0284983d6399b5ecf0510fb73
