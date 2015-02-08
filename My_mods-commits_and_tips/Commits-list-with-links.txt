@@ -1,4 +1,5 @@
 - per-app Expanded desktop:
+(enable under Settings - Display)
 https://github.com/ezio84/packages_apps_Settings/commit/65901d3d04faaf081ce1d0717fe340d0f2a4ea92
 https://github.com/ezio84/frameworks_base/commit/f40892528ddb4b2903c45a808514b6b3690d2431
 
