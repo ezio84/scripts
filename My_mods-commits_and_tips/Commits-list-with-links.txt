@@ -77,6 +77,9 @@ https://github.com/ezio84/frameworks_base/commit/778d46dd071009a9527e0b8cc197f3e
 UPDATE 07 FEB 2015:
 https://github.com/ezio84/packages_apps_Dialer/commit/b76037cb943fb997b5244f57a547d277ab4f2770
 https://github.com/ezio84/packages_apps_Settings/commit/635452aa11785972f97cf37d3afc4f7aef015e4e
+UPDATE 23 FEB 2015:
+https://github.com/ezio84/frameworks_base/commit/b35eac9d76e3434c773029658a409cc2960946c7
+https://github.com/ezio84/frameworks_base/commit/ae92e1455277c3cdda7b472aa1e1543653550df3
 
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
@@ -107,6 +110,10 @@ https://github.com/ezio84/frameworks_base/commit/3dd6c5c90120a6d43d62d1311a042fe
 https://github.com/ezio84/packages_apps_Settings/commit/7b1bcf77dd1abe76e36966430aed5cf6e011913e
 https://github.com/ezio84/frameworks_opt_telephony/commit/7bae9b56c67e274793eca81cd3e625eab749abee
 https://github.com/ezio84/packages_services_Telephony/commit/124863ab1de15af85e782474e0a0469339177112
+UPDATE 23 FEB 2015:
+https://github.com/ezio84/frameworks_base/commit/2167793b5adff90833aa55fe20fdbacd327921be
+https://github.com/ezio84/packages_apps_Settings/commit/b1ea9a4a8a0f0e39c9dfe5ab9d3568acdbf0ef33
+https://github.com/ezio84/frameworks_base/commit/ec5757e07e8e906ff741dbf01ffe1fe27a55fad7
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
