@@ -111,7 +111,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/7b1bcf77dd1abe76e3696643
 https://github.com/ezio84/frameworks_opt_telephony/commit/7bae9b56c67e274793eca81cd3e625eab749abee
 https://github.com/ezio84/packages_services_Telephony/commit/124863ab1de15af85e782474e0a0469339177112
 UPDATE 23 FEB 2015:
-https://github.com/ezio84/frameworks_base/commit/2167793b5adff90833aa55fe20fdbacd327921be
+https://github.com/ezio84/frameworks_base/commit/4074ee43c3bec836902823a0a53ea6580bc2e691
 https://github.com/ezio84/packages_apps_Settings/commit/b1ea9a4a8a0f0e39c9dfe5ab9d3568acdbf0ef33
 https://github.com/ezio84/frameworks_base/commit/ec5757e07e8e906ff741dbf01ffe1fe27a55fad7
 
