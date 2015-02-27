@@ -1,3 +1,8 @@
+Torch tile and service improvements & fixes (it needs QS tiles customization commits):
+https://github.com/ezio84/frameworks_base/commit/71852cb75e69cf25acd8a868569e1ac7096fe119
+https://github.com/ezio84/frameworks_base/commit/d0757a329bf4081956e4cc0ec94057dd4a19492e
+https://github.com/ezio84/vendor_slim/commit/ab5abf4bc12cc006ce6351708ed8ef116eb49375
+
 - Add builtin SuperSU:
 https://github.com/ezio84/android_build/commit/b5ff5b069ee241e72a34577f3422f5f5727c4d6c
 https://github.com/ezio84/vendor_slim/commit/cd7405698547ef86130adba34865a435a0d2066c
@@ -43,7 +48,7 @@ https://github.com/ezio84/vendor_slim/commit/7d1e1d9f1b31f0973fac432963820be66e0
 
 - RRO layers 2 Theme support
 (http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
-To show an Interface-Layers entry in Settings if the app is installed: https://github.com/ezio84/packages_apps_Settings/commit/6b927ccd618d30aaab05ba0987264111a1c014aa
+To show an Interface-Themes configuration entry in Settings if the app is installed: https://github.com/ezio84/packages_apps_Settings/commit/6b927ccd618d30aaab05ba0987264111a1c014aa
 https://github.com/ezio84/packages_apps_Contacts/commit/d01a28c193e50a8cc1d258210566b16c76ac3e11 <-- MERGED INTO OFFICIAL SLIM CODE
 https://github.com/ezio84/packages_apps_Contacts/commit/09aeba9aa37d67dd66fd3a57fcd401f57c470eeb <-- MERGED INTO OFFICIAL SLIM CODE
 https://github.com/ezio84/packages_apps_ContactsCommon/commit/3ea357970172e7bfe340258124b927700f98fe16 <-- MERGED INTO OFFICIAL SLIM CODE
@@ -80,6 +85,9 @@ https://github.com/ezio84/packages_apps_Settings/commit/635452aa11785972f97cf37d
 UPDATE 23 FEB 2015:
 https://github.com/ezio84/frameworks_base/commit/b35eac9d76e3434c773029658a409cc2960946c7
 https://github.com/ezio84/frameworks_base/commit/ae92e1455277c3cdda7b472aa1e1543653550df3
+UPDATE 27 FEB 2015 (new built-in layers app 2.0 built-in):
+https://github.com/ezio84/vendor_slim/commit/97f8599eae440118706627fed09603becdd27475
+https://github.com/ezio84/packages_apps_Settings/commit/86702d09b702c1d105bcfff4348597866dbe8c7a
 
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
