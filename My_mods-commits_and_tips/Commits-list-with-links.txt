@@ -1,4 +1,7 @@
-Torch tile and service improvements & fixes (it needs QS tiles customization commits):
+- BootMessage: Show each app name being optimized during boot:
+https://github.com/ezio84/frameworks_base/commit/2eb442f02768375c0b033bebcf322ff3daa5b154
+
+- Torch tile and service improvements & fixes (it needs QS tiles customization commits):
 https://github.com/ezio84/frameworks_base/commit/71852cb75e69cf25acd8a868569e1ac7096fe119
 https://github.com/ezio84/frameworks_base/commit/d0757a329bf4081956e4cc0ec94057dd4a19492e
 https://github.com/ezio84/vendor_slim/commit/ab5abf4bc12cc006ce6351708ed8ef116eb49375
