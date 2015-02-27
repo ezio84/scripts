@@ -2,7 +2,7 @@
 https://github.com/ezio84/packages_apps_Settings/commit/0d33a8c9dfa1703dd184eb7f2aa69038df64f6f9
 
 - SystemUI: fix nav button ripple getting stuck:
-https://github.com/ezio84/frameworks_base/commit/c723bb7871d626691b9831d0bf8ed3cec4fcdddb
+https://github.com/ezio84/frameworks_base/commit/a5a728c33f9e1187eef7c41b5fab513694b895de
 
 - BootMessage: Show each app name being optimized during boot:
 https://github.com/ezio84/frameworks_base/commit/2eb442f02768375c0b033bebcf322ff3daa5b154
