@@ -53,5 +53,7 @@ echo -e "${bldgrn}Updating packages/apps/Contacts ${txtrst}"
 cd $rdir/packages/apps/Contacts && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_Contacts lp5.0
 echo -e "${bldgrn}Updating packages/apps/ContactsCommon ${txtrst}"
 cd $rdir/packages/apps/ContactsCommon && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.0
+echo -e "${bldgrn}Updating packages/apps/Mms ${txtrst}"
+cd $rdir/packages/apps/Mms && git fetch slimroms && git merge slimroms/lp5.0 && git push https://github.com/ezio84/packages_apps_Mms lp5.0
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
