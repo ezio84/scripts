@@ -1,6 +1,3 @@
-- Add LCD density setting:
-https://github.com/ezio84/packages_apps_Settings/commit/0d33a8c9dfa1703dd184eb7f2aa69038df64f6f9
-
 - SystemUI: fix nav button ripple getting stuck:
 https://github.com/ezio84/frameworks_base/commit/a5a728c33f9e1187eef7c41b5fab513694b895de
 
@@ -131,6 +128,9 @@ UPDATE 23 FEB 2015:
 https://github.com/ezio84/frameworks_base/commit/4074ee43c3bec836902823a0a53ea6580bc2e691
 https://github.com/ezio84/packages_apps_Settings/commit/b1ea9a4a8a0f0e39c9dfe5ab9d3568acdbf0ef33
 https://github.com/ezio84/frameworks_base/commit/ec5757e07e8e906ff741dbf01ffe1fe27a55fad7
+UPDATE 27 FEB 2015:
+https://github.com/ezio84/frameworks_base/commit/c87815a8efd6b42e12be8efbeea05c2b5c38730c
+https://github.com/ezio84/packages_apps_Settings/commit/3592078d55cf6d9cae0f707750cc7fc8cff92057
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
