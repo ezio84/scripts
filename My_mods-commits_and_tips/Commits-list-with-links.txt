@@ -1,3 +1,7 @@
+- Lockscreen: customizable bottom left and right shortcuts:
+https://github.com/ezio84/packages_apps_Settings/commit/7f953fa452c6932feb23cebaa989d04b924e85c8
+https://github.com/ezio84/frameworks_base/commit/27b5abd8a5cba0a214e9825008d716904224cc68
+
 - SystemUI: fix nav button ripple getting stuck:
 https://github.com/ezio84/frameworks_base/commit/a5a728c33f9e1187eef7c41b5fab513694b895de
 
