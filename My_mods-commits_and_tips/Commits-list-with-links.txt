@@ -1,3 +1,20 @@
+- Chamber of Secrets + Slim shortcuts + Slim actions:
+(go into Developer Settings and tap on the blank space at the bottom of the page)
+(shortcuts and actions can be called from the home launcher shortcuts or lockscreen shortcuts)
+https://github.com/ezio84/frameworks_base/commit/c5d43a42908adc8c6558c47d5e12dcc8e90dad46
+https://github.com/ezio84/frameworks_base/commit/faf627dee242c753e8e12c08b7cb45989bb29329
+https://github.com/ezio84/frameworks_base/commit/0b1f788633a0eefbf35d107a679ee387ea1357b5
+https://github.com/ezio84/packages_apps_Settings/commit/d3667f56af7492028f60c087affcc3eace41d0b7
+https://github.com/ezio84/packages_apps_Settings/commit/edfc07704e9b78d736fe31f3b93eb5bb4ac991e2
+https://github.com/ezio84/packages_apps_Settings/commit/617d6878a123ed5ecd945c20c04a5c58b5b46998
+https://github.com/ezio84/packages_apps_Settings/commit/617d6878a123ed5ecd945c20c04a5c58b5b46998
+
+- Global actions (power menu customization):
+(under Settings-Interface)
+https://github.com/ezio84/packages_apps_Settings/commit/09872a557e76100a847b5f85413dce9c339a4e83
+https://github.com/ezio84/packages_apps_Settings/commit/5cbe97f8df2f65b8fff9318fa32c39e499b9b9fe
+https://github.com/ezio84/frameworks_base/commit/96812a96ec8aea45e4188a4b8dab58af10a56dba
+
 - Lockscreen: customizable bottom left and right shortcuts:
 (under Settings-Security)
 https://github.com/ezio84/packages_apps_Settings/commit/76770401341ee771e541e572302d6546a5ed2602
@@ -39,7 +56,6 @@ then these are the new ones by Slim:
 https://github.com/ezio84/packages_apps_Settings/commit/2d03aea962548fc77339692b4f971985cd519940
 https://github.com/ezio84/frameworks_base/commit/268b1e7cafd151313ae29d7074afdd43a264f37b
 
-
 - Battery level: customizable icon and text (by CM) <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
 (under Interface - Status bar) <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
 https://github.com/ezio84/frameworks_base/commit/34a77b7efcb391de9e80f54a42902d808697d2e2 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
@@ -59,7 +75,7 @@ https://github.com/ezio84/vendor_slim/commit/7d1e1d9f1b31f0973fac432963820be66e0
 
 - RRO layers 2 Theme support
 (http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
-To show an Interface-Themes configuration entry in Settings if the app is installed: https://github.com/ezio84/packages_apps_Settings/commit/6b927ccd618d30aaab05ba0987264111a1c014aa
+To show an Interface-Themes configuration entry in Settings if the Layers app is installed: https://github.com/ezio84/packages_apps_Settings/commit/6b927ccd618d30aaab05ba0987264111a1c014aa
 https://github.com/ezio84/packages_apps_Contacts/commit/d01a28c193e50a8cc1d258210566b16c76ac3e11 <-- MERGED INTO OFFICIAL SLIM CODE
 https://github.com/ezio84/packages_apps_Contacts/commit/09aeba9aa37d67dd66fd3a57fcd401f57c470eeb <-- MERGED INTO OFFICIAL SLIM CODE
 https://github.com/ezio84/packages_apps_ContactsCommon/commit/3ea357970172e7bfe340258124b927700f98fe16 <-- MERGED INTO OFFICIAL SLIM CODE
@@ -96,9 +112,15 @@ https://github.com/ezio84/packages_apps_Settings/commit/635452aa11785972f97cf37d
 UPDATE 23 FEB 2015:
 https://github.com/ezio84/frameworks_base/commit/b35eac9d76e3434c773029658a409cc2960946c7
 https://github.com/ezio84/frameworks_base/commit/ae92e1455277c3cdda7b472aa1e1543653550df3
-UPDATE 27 FEB 2015 (new built-in layers app 2.0 built-in):
+UPDATE 27 FEB 2015 (new built-in layers app):
 https://github.com/ezio84/vendor_slim/commit/97f8599eae440118706627fed09603becdd27475
 https://github.com/ezio84/packages_apps_Settings/commit/86702d09b702c1d105bcfff4348597866dbe8c7a
+UPDATE 09 MAR 2015 (new built-in layers backup app):
+(after loading your overlays with the main Layers app, run this little jewel tool so a backup script will be created in the system addon.d folder and your overlays will survive after a rom dirty flash.)
+https://github.com/ezio84/vendor_slim/commit/6602281b8fd2714980426ea6aadb85f1cfdb7fcd
+https://github.com/ezio84/packages_apps_Settings/commit/39b2d1483df942df9fff4e3a2f01be5df5c64e8a
+UPDATE 09 MAR 2015 (main layers app update):
+https://github.com/ezio84/vendor_slim/commit/949caffe152e79fd3859ccebd2bd8ff0314a91d7
 
 - Navbar height & clear recents button
 (set under Interface - Navigation bar)
@@ -143,6 +165,8 @@ https://github.com/ezio84/frameworks_base/commit/13d396ba0e7a293eff3ab5176e17871
 https://github.com/ezio84/frameworks_base/commit/3f1e342e1aa6f879b7fba80848c806cd0b5ff8ef
 https://github.com/ezio84/frameworks_base/commit/2b075da72fd0c9f94097692dc4d2e7209846b208
 UPDATE 06 MAR 2015:
+https://github.com/ezio84/frameworks_base/commit/e867f5a9412574dd1d1109f6d7e571d44fcaa8d1
+UPDATE 08 MAR 2015:
 https://github.com/ezio84/frameworks_base/commit/e867f5a9412574dd1d1109f6d7e571d44fcaa8d1
 
 - Built-in CM Terminal app:
