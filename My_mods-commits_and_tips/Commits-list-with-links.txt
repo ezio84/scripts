@@ -168,6 +168,9 @@ UPDATE 06 MAR 2015:
 https://github.com/ezio84/frameworks_base/commit/e867f5a9412574dd1d1109f6d7e571d44fcaa8d1
 UPDATE 08 MAR 2015:
 https://github.com/ezio84/frameworks_base/commit/e867f5a9412574dd1d1109f6d7e571d44fcaa8d1
+UPDATE 09 MAR 2015:
+https://github.com/ezio84/packages_apps_Settings/commit/23f367fedf2470949d40962428ec596acaf5270f
+https://github.com/ezio84/frameworks_base/commit/feec1ab1dd43007b6245f07910b9bf1f15eb2351
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
