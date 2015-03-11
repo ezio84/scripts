@@ -1,3 +1,6 @@
+- Switch to UberTC toolchain for the rom (not the kernel):
+https://github.com/ezio84/scripts/commit/ce1a3e2ab5904fbea11388d3e34ea45adf825a01
+
 - Chamber of Secrets + Slim shortcuts + Slim actions:
 (go into Developer Settings and tap on the blank space at the bottom of the page)
 (shortcuts and actions can be called from the home launcher shortcuts or lockscreen shortcuts)
@@ -171,6 +174,9 @@ https://github.com/ezio84/frameworks_base/commit/e867f5a9412574dd1d1109f6d7e571d
 UPDATE 09 MAR 2015:
 https://github.com/ezio84/packages_apps_Settings/commit/23f367fedf2470949d40962428ec596acaf5270f
 https://github.com/ezio84/frameworks_base/commit/feec1ab1dd43007b6245f07910b9bf1f15eb2351
+UPDATE 11 MAR 2015:
+https://github.com/ezio84/frameworks_base/commit/e4e45ef34c0c22782de5f30ab5881c4d2510c552
+https://github.com/ezio84/frameworks_base/commit/1278f62abe5158d7eadf3a62cafc84e75aaffcb9
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
