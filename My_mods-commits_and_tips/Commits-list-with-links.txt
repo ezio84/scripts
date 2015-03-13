@@ -1,3 +1,13 @@
+- Nabar buttons customization:
+(set under Settings-Interface-Navigation bar)
+https://github.com/ezio84/packages_apps_Settings/commit/f4a8ea7078fae1f694f1e4a56416d126987b8978
+https://github.com/ezio84/frameworks_base/commit/c84a7beac779fee655e939f857b1c1f4155aad98
+
+- Navring targets customization:
+(set under Settings-Interface-Navigation bar)
+https://github.com/ezio84/packages_apps_Settings/commit/548cca0c8f3d2223f6aa823f6733d4d4398a6bdf
+https://github.com/ezio84/frameworks_base/commit/4897c971bcc7a721b4ba9e35ec237375b0213a98
+
 - Switch to UberTC toolchain for the rom (not the kernel):
 https://github.com/ezio84/scripts/commit/ce1a3e2ab5904fbea11388d3e34ea45adf825a01
 
