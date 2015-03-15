@@ -41,6 +41,8 @@
   <project path="packages/apps/ContactsCommon" name="ezio84/packages_apps_ContactsCommon" remote="github" revision="lp5.0" />
   <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="lp5.0" />
   <project path="packages/apps/Mms" name="ezio84/packages_apps_Mms" remote="github" revision="lp5.0" />
+  <remove-project path="packages/apps/PackageInstaller" name="SlimRoms/packages_apps_PackageInstaller" />
+  <project path="packages/apps/PackageInstaller" name="ezio84/packages_apps_PackageInstaller" remote="github" revision="lp5.0" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->

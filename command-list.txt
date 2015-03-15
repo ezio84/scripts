@@ -33,6 +33,9 @@ git push https://github.com/ezio84/frameworks_opt_telephony lp5.0
 git push https://github.com/ezio84/packages_apps_Dialer lp5.0
 git push https://github.com/ezio84/packages_apps_Contacts lp5.0
 git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.0
+git push https://github.com/ezio84/packages_apps_Mms lp5.0
+git push https://github.com/ezio84/packages_apps_PackageInstaller lp5.0
+
 
  . scripts/build_rom.sh mako nosync 7 noclean log
  . scripts/build_rom.sh hammerhead nosync 7 noclean log
@@ -46,7 +49,10 @@ git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.0
 
 ./fetch-merge-slimroms.sh
 
+ccache -C to reset ccache
+
 fetch only current branch from server:   repo sync -c (or --current-branch)
+force sync and don't care about repo errors: repo sync -f
 
 CTRL-ESC - brings up a proces table where you can kill individual processes
 CTRL-ALT-ESC - makes the cursur into a skill and cross bones where you can point at a rogue application and kill it
