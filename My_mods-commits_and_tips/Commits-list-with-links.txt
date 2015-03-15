@@ -1,4 +1,5 @@
 - Increasing ring and unlinked volumes (by CM)
+(set under Settings-Audio and notifications)
 https://github.com/ezio84/packages_apps_Settings/commit/133f51a19d37263494ffd736c177d3c0a31151fe
 https://github.com/ezio84/frameworks_base/commit/41464f61e5f7ea78c2b253a47f6dd84bda02e214
 https://github.com/ezio84/packages_services_Telecomm/commit/a7418b9339e53fa7cfdc552de8d6748afa78c5b5
