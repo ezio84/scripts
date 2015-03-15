@@ -1,3 +1,6 @@
+- PackageInstaller: Show current & new version:
+https://github.com/ezio84/packages_apps_PackageInstaller/commit/96757736ec7e18fd756e552a62859dfa7a37ccfc
+
 - Nabar buttons customization:
 (set under Settings-Interface-Navigation bar)
 https://github.com/ezio84/packages_apps_Settings/commit/f4a8ea7078fae1f694f1e4a56416d126987b8978
