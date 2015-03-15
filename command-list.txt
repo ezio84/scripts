@@ -35,7 +35,7 @@ git push https://github.com/ezio84/packages_apps_Contacts lp5.0
 git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.0
 git push https://github.com/ezio84/packages_apps_Mms lp5.0
 git push https://github.com/ezio84/packages_apps_PackageInstaller lp5.0
-
+git push https://github.com/ezio84/packages_services_Telecomm lp5.0
 
  . scripts/build_rom.sh mako nosync 7 noclean log
  . scripts/build_rom.sh hammerhead nosync 7 noclean log
