@@ -1,5 +1,5 @@
 - Increasing ring and unlinked volumes (by CM)
-https://github.com/ezio84/packages_apps_Settings/commit/44e2e965a390cbbaafe75b1f19fa89b70258ca46
+https://github.com/ezio84/packages_apps_Settings/commit/133f51a19d37263494ffd736c177d3c0a31151fe
 https://github.com/ezio84/frameworks_base/commit/41464f61e5f7ea78c2b253a47f6dd84bda02e214
 https://github.com/ezio84/packages_services_Telecomm/commit/a7418b9339e53fa7cfdc552de8d6748afa78c5b5
 
