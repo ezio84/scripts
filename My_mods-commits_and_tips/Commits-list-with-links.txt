@@ -1,3 +1,9 @@
+- Expandable volume panel:
+https://github.com/ezio84/frameworks_base/commit/737f68a1bc8680523ff257358fd223ac7c8c7b8a
+
+- Keep quiet when volume keys are used to wake up device:
+https://github.com/ezio84/frameworks_base/commit/25c8717d74f12f096c5032ecc138ba0682a990ab
+
 - Increasing ring and unlinked volumes (by CM)
 (set under Settings-Audio and notifications)
 https://github.com/ezio84/packages_apps_Settings/commit/133f51a19d37263494ffd736c177d3c0a31151fe
@@ -144,10 +150,13 @@ https://github.com/ezio84/packages_apps_Settings/commit/39b2d1483df942df9fff4e3a
 UPDATE 09 MAR 2015 (main layers app update):
 https://github.com/ezio84/vendor_slim/commit/949caffe152e79fd3859ccebd2bd8ff0314a91d7
 
-- Navbar height & clear recents button
+- Navbar height:
 (set under Interface - Navigation bar)
-https://github.com/ezio84/packages_apps_Settings/commit/73863435435c50a9bcc5449e781f4ba0d2cb87be
-https://github.com/ezio84/frameworks_base/commit/3b21bcdb3aa3b0f81efc0a68813c1cf24cf74f21
+https://github.com/ezio84/packages_apps_Settings/commit/8dabeb6b5f603a4275c755139795d887e7fb0d33
+https://github.com/ezio84/frameworks_base/commit/f2fb54c6c2d9e1b7ea2bf88ceabab93bc017c57b
+
+- Clear recents button:
+https://github.com/ezio84/frameworks_base/commit/ac0e64cfb1e3dabb5bce9ccc1fd8fdbb9c73befb
 
 - QS: change location sensors mode in quick settings
 (enable  under Interface - Quicksettings)
@@ -196,6 +205,8 @@ https://github.com/ezio84/frameworks_base/commit/feec1ab1dd43007b6245f07910b9bf1
 UPDATE 11 MAR 2015:
 https://github.com/ezio84/frameworks_base/commit/e4e45ef34c0c22782de5f30ab5881c4d2510c552
 https://github.com/ezio84/frameworks_base/commit/1278f62abe5158d7eadf3a62cafc84e75aaffcb9
+UPDATE 18 MAR 2015:
+https://github.com/ezio84/frameworks_base/commit/67427116516b1a187206540b5a93eec599b7ce7e
 
 - Built-in CM Terminal app:
 (enable under Developer settings)
