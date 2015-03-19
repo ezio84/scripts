@@ -36,6 +36,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/d3667f56af7492028f60c087
 https://github.com/ezio84/packages_apps_Settings/commit/edfc07704e9b78d736fe31f3b93eb5bb4ac991e2
 https://github.com/ezio84/packages_apps_Settings/commit/617d6878a123ed5ecd945c20c04a5c58b5b46998
 https://github.com/ezio84/packages_apps_Settings/commit/617d6878a123ed5ecd945c20c04a5c58b5b46998
+UPDATE 20 MAR 2015:
+https://github.com/ezio84/packages_apps_Settings/commit/ad52324053da53a322f96e3079053c2565af41bc
 
 - Global actions (power menu customization):
 (under Settings-Interface)
