@@ -41,8 +41,6 @@ https://github.com/ezio84/packages_apps_Settings/commit/edfc07704e9b78d736fe31f3
 https://github.com/ezio84/packages_apps_Settings/commit/617d6878a123ed5ecd945c20c04a5c58b5b46998
 https://github.com/ezio84/packages_apps_Settings/commit/617d6878a123ed5ecd945c20c04a5c58b5b46998
 UPDATE 20 MAR 2015:
-https://github.com/ezio84/packages_apps_Settings/commit/ad52324053da53a322f96e3079053c2565af41bc
-UPDATE 22 MAR 2015:
 https://github.com/ezio84/packages_apps_Settings/commit/ba3d62561338cc586f44a1584980fbe32b599829
 
 - Global actions (power menu customization):
@@ -215,7 +213,7 @@ https://github.com/ezio84/frameworks_base/commit/e4e45ef34c0c22782de5f30ab5881c4
 https://github.com/ezio84/frameworks_base/commit/1278f62abe5158d7eadf3a62cafc84e75aaffcb9
 UPDATE 18 MAR 2015:
 https://github.com/ezio84/frameworks_base/commit/67427116516b1a187206540b5a93eec599b7ce7e
-UPDATE 22 MAR 2015:
+UPDATE 20 MAR 2015:
 https://github.com/ezio84/packages_apps_Settings/commit/b9d6422629cf9cbd56c4ff621d56fb1ca597c43b
 https://github.com/ezio84/frameworks_base/commit/ff150272d169f2a7ab5fb4c8860d9e953d88e718
 https://github.com/ezio84/frameworks_base/commit/f0ad3f625748442e5d9556169af96d8ca79fca29
