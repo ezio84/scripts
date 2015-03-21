@@ -2,12 +2,12 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
         <Stable>
         <mako>
-                        <Filename>Slim.ezio84-mako-5.0.2.build.1.0xUBERTC-20150325</Filename>
+                        <Filename>Slim.ezio84-mako-5.0.2.build.1.0hUBERTC-20150321</Filename>
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=22910</DownloadUrl>
                         <ChangelogUrl>http://forum.xda-developers.com/showpost.php?p=55121776&amp;postcount=6</ChangelogUrl>
         </mako>
         <hammerhead>
-                        <Filename>Slim.ezio84-mako-5.0.2.build.1.0xUBERTC-20150325</Filename>
+                        <Filename>Slim.ezio84-hammerhead-5.0.2.build.1.0hUBERTC-20150321</Filename>
                         <DownloadUrl>https://www.androidfilehost.com/?w=files&amp;flid=22911</DownloadUrl>
                         <ChangelogUrl>http://forum.xda-developers.com/showpost.php?p=55121776&amp;postcount=6</ChangelogUrl>
         </hammerhead>
