@@ -12,6 +12,7 @@ SYNC="$2"
 THREADS="$3"
 CLEAN="$4"
 LOG="$5"
+RELEASE="$6"
 
 # Time of build startup
 res1=$(date +%s.%N)
@@ -31,6 +32,16 @@ echo -e "${bldblu}Setting up build environment ${txtrst}"
 export USE_CCACHE=1
 export CCACHE_DIR="/home/ezio/Android/ccache"
 /usr/bin/ccache -M 50G
+
+# Start compilation with or without log
+if [ "$RELEASE" == "release" ]
+then
+   echo -e "${bldblu}Creating a LAST_BUILD_PROP file: when you'll build again new a public (release) version of the rom, the automated Slimcenter changelog creation will track changes from the version you are building now${txtrst}"
+   export IS_RELEASED_BUILD=true
+else
+   echo -e "${bldblu}Not creating a LAST_BUILD_PROP file: when you'll build again new a public (release) version of the rom, the automated Slimcenter changelog creation will track changes from the last release version you built, not this one${txtrst}"
+   export IS_RELEASED_BUILD=false
+fi
 
 # For building recovery
 export BUILDING_RECOVERY=false
