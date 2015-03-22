@@ -2,5 +2,5 @@
 <manifest>
 <!--UberTC-->
 <remove-project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="pdk,linux,arm" />
-<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="aow1980/UberTC_arm-linux-androideabi-4.8" remote="github" revision="master" />
+<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="UBERTC/arm-linux-androideabi-4.8" remote="bitbucket" revision="master" />
 </manifest>
