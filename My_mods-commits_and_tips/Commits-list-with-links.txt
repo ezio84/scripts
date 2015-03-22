@@ -1,3 +1,9 @@
+- Automatic built detailed changelog shown in the slimcenter:
+https://github.com/ezio84/scripts/commit/46dd9a8de5ea12f8a36ebf5e4cea418bd986227d
+https://github.com/ezio84/vendor_slim/commit/574e420dc9ad16ad0a19f26752cfa1224b727ec3
+https://github.com/ezio84/android_build/commit/cd714df3a7257df35ef9788a02ebf27f600203be
+https://github.com/ezio84/packages_apps_SlimCenter/commit/200993edea8a766228dac5b6f78c6a58243f84b3
+
 - Add back Slimcenter and ota notifications:
 https://github.com/ezio84/packages_apps_SlimCenter
 uncomment the Slimcenter line in the vendor/common.mk
