@@ -40,7 +40,7 @@ then
    export IS_RELEASED_BUILD=true
 else
    echo -e "${bldblu}Not creating a LAST_BUILD_PROP file: when you'll build again new a public (release) version of the rom, the automated Slimcenter changelog creation will track changes from the last release version you built, not this one${txtrst}"
-   export IS_RELEASED_BUILD=false
+   export IS_RELEASED_BUILD=
 fi
 
 # For building recovery
