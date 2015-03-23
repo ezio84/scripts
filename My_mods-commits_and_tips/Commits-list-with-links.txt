@@ -1,3 +1,17 @@
+- DocumentsUI: Add a standalone File Manager:
+https://github.com/ezio84/frameworks_base/commit/b726858500a63a9af156ac77249d999febbee1b4
+https://github.com/ezio84/frameworks_base/commit/e6b6c1ae5c10de454a3d40e1bd80cd3c447a1cad
+https://github.com/ezio84/frameworks_base/commit/5ec48b050accd6b1755f32c31bc7f17650db46c9
+https://github.com/ezio84/frameworks_base/commit/a6d96bbd9bea9466c405a76e343fc5e65a4c2719
+https://github.com/ezio84/frameworks_base/commit/70025e1c922138999fbb042a07363890f098fbe4
+
+- Allow disabling adjusting volume sounds:
+https://github.com/ezio84/packages_apps_Settings/commit/0ad5db175084c878200a7a79b096daf447187794
+https://github.com/ezio84/frameworks_base/commit/c8db4322f2b7f5a4b25ad85400a72977b9d300fd
+
+- Partition information menu:
+https://github.com/ezio84/packages_apps_Settings/commit/6c19311fa9d6182426772b316641576ded3da080
+
 - Automatic built detailed changelog shown in the slimcenter:
 https://github.com/ezio84/scripts/commit/46dd9a8de5ea12f8a36ebf5e4cea418bd986227d
 https://github.com/ezio84/vendor_slim/commit/574e420dc9ad16ad0a19f26752cfa1224b727ec3
@@ -11,6 +25,13 @@ https://github.com/ezio84/packages_apps_SlimCenter/commit/b581bd1fab5c0c3f2696dc
 https://github.com/ezio84/packages_apps_SlimCenter/commit/34a2f332622bb251c8ad1a8f781342cd198853ec
 https://github.com/ezio84/vendor_slim/commit/675eaa52464311b28dd77168cb76f4ad3fa5c7b4
 https://github.com/ezio84/packages_apps_Settings/commit/07885c22ebf2915d867b2ef7bada2beee65c5096
+UPDATE 23 MAR 2015 (slimcenter in app changelog):
+https://github.com/ezio84/scripts/commit/46dd9a8de5ea12f8a36ebf5e4cea418bd986227d
+https://github.com/ezio84/android_build/commit/cd714df3a7257df35ef9788a02ebf27f600203be
+https://github.com/ezio84/android_build/commit/559577319c3daac91bd6fa00c488e2bdc081f3bc
+https://github.com/ezio84/vendor_slim/commit/574e420dc9ad16ad0a19f26752cfa1224b727ec3
+https://github.com/ezio84/packages_apps_SlimCenter/commit/200993edea8a766228dac5b6f78c6a58243f84b3
+https://github.com/ezio84/packages_apps_SlimCenter/commit/48bdd10218330742aafc47c08cf57bd1947114fc
 
 - Cyanogen fix for deep sleep and latest play services:
 https://github.com/ezio84/vendor_slim/commit/1e977b9e438663c51325f98c11974abc2019b5cf
@@ -18,6 +39,8 @@ https://github.com/ezio84/frameworks_base/commit/8566392188002acba3eb52d84507859
 
 - Expandable volume panel:
 https://github.com/ezio84/frameworks_base/commit/737f68a1bc8680523ff257358fd223ac7c8c7b8a
+UPDATE 23 MAR 2015:
+https://github.com/ezio84/frameworks_base/commit/aa375643d8f1f14f2fc57dc6e29f6d3dd6a14d6c
 
 - Keep quiet when volume keys are used to wake up device:
 https://github.com/ezio84/frameworks_base/commit/25c8717d74f12f096c5032ecc138ba0682a990ab
@@ -42,7 +65,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/548cca0c8f3d2223f6aa823f
 https://github.com/ezio84/frameworks_base/commit/4897c971bcc7a721b4ba9e35ec237375b0213a98
 
 - Switch to UberTC toolchain for the rom (not the kernel):
-https://github.com/ezio84/scripts/commit/ce1a3e2ab5904fbea11388d3e34ea45adf825a01
+https://github.com/ezio84/scripts/blob/lp5.0/My_mods-commits_and_tips/local_manifest_backup/uber-toolchain.xml
 
 - Chamber of Secrets + Slim shortcuts + Slim actions:
 (go into Developer Settings and tap on the blank space at the bottom of the page)
@@ -119,7 +142,7 @@ https://github.com/ezio84/frameworks_base/commit/e5b90d33f7b4108fe1a6040fc3c5317
 UPDATE 3 06 JAN 2015: <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
 https://github.com/ezio84/frameworks_base/commit/64db544431a637bb4c07d36683bca1b105be6104 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
 
-- Integrated SimpleExplorer:
+- Integrated SimpleExplorer: <-- REVERTED, CHECK THE ADVANCED DOCUMENTSUI COMMITS
 https://github.com/ezio84/vendor_slim/commit/7d1e1d9f1b31f0973fac432963820be66e07fc14
 (to update the app, just change the apk in the commit)
 
