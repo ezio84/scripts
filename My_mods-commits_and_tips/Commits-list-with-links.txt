@@ -1,6 +1,7 @@
 - CM incall recorder:
 (In the dialer settings, under the call settings menu, you can set the audio format. During a call, tap on the three dots at the top right to start or stop the recording.
-In the dialer history expand a call entry, tap on Details and there you can play the recording. The files are stored under /sdcard/CallRecordings.)
+In the dialer history expand a call entry, tap on Details and there you can play the recording. The files are stored under /sdcard/CallRecordings.
+Enable the speakerphone to record the interlocutor's voice too).
 https://github.com/ezio84/packages_apps_Dialer/commit/d4c3786d320a33e4575a0e72b426a62c0eeb17c4
 https://github.com/ezio84/packages_apps_InCallUI/commit/d03d2b4266ee1bacf01e7ee623b4bd370411f7ae
 https://github.com/ezio84/packages_services_Telecomm/commit/9398cb8dd8e0a54aca2c284d59d589b21d48e7ac
