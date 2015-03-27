@@ -62,6 +62,8 @@ https://github.com/ezio84/frameworks_base/commit/25c8717d74f12f096c5032ecc138ba0
 https://github.com/ezio84/packages_apps_Settings/commit/133f51a19d37263494ffd736c177d3c0a31151fe
 https://github.com/ezio84/frameworks_base/commit/41464f61e5f7ea78c2b253a47f6dd84bda02e214
 https://github.com/ezio84/packages_services_Telecomm/commit/a7418b9339e53fa7cfdc552de8d6748afa78c5b5
+UPDATE 27 MAR 2015:
+https://github.com/ezio84/packages_apps_Settings/commit/67c8951fb2b91966c444af342d5ae22207e30649
 
 - PackageInstaller: Show current & new version:
 https://github.com/ezio84/packages_apps_PackageInstaller/commit/96757736ec7e18fd756e552a62859dfa7a37ccfc
