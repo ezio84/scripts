@@ -7,6 +7,8 @@ https://github.com/ezio84/packages_apps_InCallUI/commit/d03d2b4266ee1bacf01e7ee6
 https://github.com/ezio84/packages_services_Telecomm/commit/9398cb8dd8e0a54aca2c284d59d589b21d48e7ac
 https://github.com/ezio84/packages_services_Telephony/commit/59c2aed6fb0b09ad37c8769fa692310d3255c70f
 https://github.com/ezio84/frameworks_base/commit/7399e458a006a1ae99b42e6d4713e863a89e31f1
+UPDATE 27 MAR 2015:
+https://github.com/ezio84/packages_services_Telephony/commit/90970c5043a8c6acfa8fbebcc3c10e8b6aef5c84
 
 - DocumentsUI: Add a standalone File Manager:
 https://github.com/ezio84/frameworks_base/commit/b726858500a63a9af156ac77249d999febbee1b4
