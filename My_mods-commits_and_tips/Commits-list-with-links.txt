@@ -123,83 +123,15 @@ https://github.com/ezio84/vendor_slim/commit/ab5abf4bc12cc006ce6351708ed8ef116eb
 https://github.com/ezio84/android_build/commit/b5ff5b069ee241e72a34577f3422f5f5727c4d6c
 https://github.com/ezio84/vendor_slim/commit/cd7405698547ef86130adba34865a435a0d2066c
 - Integrate SuperSU in the rom Settings menu:
-https://gerrit.slimroms.net/#/c/18654
+https://github.com/ezio84/packages_apps_Settings/commit/4a34a0c66b4f1b544864a7275d296341fff386cc
 
 - per-app Expanded desktop:
 (enable under Settings - Display)
 https://github.com/ezio84/packages_apps_Settings/commit/65901d3d04faaf081ce1d0717fe340d0f2a4ea92
 https://github.com/ezio84/frameworks_base/commit/f40892528ddb4b2903c45a808514b6b3690d2431
 
-- Battery level: customizable icon and text (NEW CODE BY SLIM):
-(under Interface - Status bar)
-revert the old CM commits if you had them, these are the revert commits:
-https://github.com/ezio84/frameworks_base/commit/c3c789858b38f6d8c494304b3402e5d2abf0036a
-https://github.com/ezio84/frameworks_base/commit/be10b87aea047d3e303cdf7aef1e9376a21e4c71
-https://github.com/ezio84/frameworks_base/commit/46eebaa397969f8512858ca9911cea3fec0f141a
-https://github.com/ezio84/frameworks_base/commit/345ec53ddc1f796782082a7872869a8eebb59507
-https://github.com/ezio84/packages_apps_Settings/commit/b7a6cd155ee2428eab4955290d5e1f8b6b0c091d
-https://github.com/ezio84/packages_apps_Settings/commit/e93c2dd33864fe11c0180d5ccca2e30afe01980f
-https://github.com/ezio84/packages_apps_Settings/commit/86ed51057350dfe941fc25bf02fcfb8c059cc449
-then these are the new ones by Slim:
-https://github.com/ezio84/packages_apps_Settings/commit/2d03aea962548fc77339692b4f971985cd519940
-https://github.com/ezio84/frameworks_base/commit/268b1e7cafd151313ae29d7074afdd43a264f37b
-
-- Battery level: customizable icon and text (by CM) <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-(under Interface - Status bar) <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/34a77b7efcb391de9e80f54a42902d808697d2e2 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-https://github.com/ezio84/packages_apps_Settings/commit/aacc94b7fd46fbaa825745406534fd6e68185690 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-https://github.com/ezio84/packages_apps_Settings/commit/9d6fa74c874264b8d918a3df45d08b71cd27e30d <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-UPDATE 30/12/2014:: <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/7a4957ba27b9bdfe2e9c18c763ae24a02d3994bf <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-https://github.com/ezio84/packages_apps_Settings/commit/f00791a64b99463c51a8515e3204d6971ddb9835 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-UPDATE 2 30/12/2014:: <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/e5b90d33f7b4108fe1a6040fc3c5317c74022362 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-UPDATE 3 06 JAN 2015: <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/64db544431a637bb4c07d36683bca1b105be6104 <-- REVERTED TO SWITCH TO THE NEW SLIM CODE
-
-- Integrated SimpleExplorer: <-- REVERTED, CHECK THE ADVANCED DOCUMENTSUI COMMITS
-https://github.com/ezio84/vendor_slim/commit/7d1e1d9f1b31f0973fac432963820be66e07fc14
-(to update the app, just change the apk in the commit)
-
-- RRO layers 2 Theme support
-(http://forum.xda-developers.com/android/themes/0-themes-official-mega-rro-themes-t3011075)
-To show an Interface-Themes configuration entry in Settings if the Layers app is installed: https://github.com/ezio84/packages_apps_Settings/commit/6b927ccd618d30aaab05ba0987264111a1c014aa
-https://github.com/ezio84/packages_apps_Contacts/commit/d01a28c193e50a8cc1d258210566b16c76ac3e11 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/packages_apps_Contacts/commit/09aeba9aa37d67dd66fd3a57fcd401f57c470eeb <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/packages_apps_ContactsCommon/commit/3ea357970172e7bfe340258124b927700f98fe16 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/packages_apps_InCallUI/commit/a62387e62409ce789dc7d543622243b60beb20a1 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/packages_apps_Dialer/commit/13362c5648dae12e397184c6a9b6cb19f6749a72 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/packages_apps_Dialer/commit/c36eb3c12682b18d1e314440c0787e8106a04391 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/packages_apps_Settings/commit/2de4e20d74856a42a77ebb30edb1a06ee668d7cd (commit to revert the Dark theme)
-https://github.com/ezio84/packages_apps_Settings/commit/ad629fb05be347efb302bf005b1ccecaef8bf282 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/packages_apps_Settings/commit/d204d6d3f459e4e0d2fc5c7e285788955f7e7eb1 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/packages_apps_Settings/commit/b6a603a1cd8a6c693d32b830426b02295e69f9e0 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/32ca2680a263dd1233026b08437d05732b33a6c9 (commit to revert the Dark theme)
-https://github.com/ezio84/frameworks_base/commit/3c26bf8b066cf9c3301269d0894fa0685f005c1f (commit to revert the Dark theme)
-https://github.com/ezio84/frameworks_base/commit/366dc1407b6ddfdc9e3e8ee77b24554955b55f5a (commit to revert the Dark theme)
-https://github.com/ezio84/frameworks_base/commit/d5523e26070f70933db5b743f5bdc884361a1332 (commit to revert the Dark theme)
-https://github.com/ezio84/frameworks_base/commit/994e9f46a88d15bdc3f40758444176a5186855cf (commit to revert the Dark theme)
-https://github.com/ezio84/frameworks_base/commit/555c0b304656abd7ed9a2e9b7aa6f324333ebe8c <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/84f1e8a581b1cb152ff449083e0580278d4288cc <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/d0c57cdb189b595a5d6df6d9972e25529888d913 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/278cc5676d1e14c6e366a680f69d6628a7fbff34 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/2a13ba0465422dacea31f6d5f9075f95e5ea6122 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/cfb3c93a33ee08298c457f5f1eb1a5767feb0f7c <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/70f8151b8d20aac27979bb3c6f226c96d287fe31 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/f59c7fd3b8491372f4a22f3a90fb69154f7cd15b <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/72f5aea5df5f4eb2af2df88948814f674ec5f47b <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/4856ba501ed9c28da2a36db2f46df79846bbaa65 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/068652bf1dd9503ebc66d7713cd7ebf3416a76dd <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/6695d4e95c25b6fa3b8e696c4613fb8878df5b9a <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/fd2ae85128f15e607987061f8e28ffb53f88327e <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/b6ea53d349ee5b4f9fb933370a78aec317a62611 <-- MERGED INTO OFFICIAL SLIM CODE
-https://github.com/ezio84/frameworks_base/commit/778d46dd071009a9527e0b8cc197f3e6c765c8a7 <-- MERGED INTO OFFICIAL SLIM CODE
-UPDATE 07 FEB 2015:
-https://github.com/ezio84/packages_apps_Dialer/commit/b76037cb943fb997b5244f57a547d277ab4f2770
-https://github.com/ezio84/packages_apps_Settings/commit/635452aa11785972f97cf37d3afc4f7aef015e4e
-UPDATE 23 FEB 2015:
-https://github.com/ezio84/frameworks_base/commit/b35eac9d76e3434c773029658a409cc2960946c7
-https://github.com/ezio84/frameworks_base/commit/ae92e1455277c3cdda7b472aa1e1543653550df3
+- To show an Interface-Themes configuration entry in Settings if the Layers app is installed: 
+https://github.com/ezio84/packages_apps_Settings/commit/6b927ccd618d30aaab05ba0987264111a1c014aa
 UPDATE 27 FEB 2015 (new built-in layers app):
 https://github.com/ezio84/vendor_slim/commit/97f8599eae440118706627fed09603becdd27475
 https://github.com/ezio84/packages_apps_Settings/commit/86702d09b702c1d105bcfff4348597866dbe8c7a
@@ -207,8 +139,6 @@ UPDATE 09 MAR 2015 (new built-in layers backup app):
 (after loading your overlays with the main Layers app, run this little jewel tool so a backup script will be created in the system addon.d folder and your overlays will survive after a rom dirty flash.)
 https://github.com/ezio84/vendor_slim/commit/6602281b8fd2714980426ea6aadb85f1cfdb7fcd
 https://github.com/ezio84/packages_apps_Settings/commit/39b2d1483df942df9fff4e3a2f01be5df5c64e8a
-UPDATE 09 MAR 2015 (main layers app update):
-https://github.com/ezio84/vendor_slim/commit/949caffe152e79fd3859ccebd2bd8ff0314a91d7
 
 - Navbar height:
 (set under Interface - Navigation bar)
@@ -222,6 +152,13 @@ https://github.com/ezio84/frameworks_base/commit/ac0e64cfb1e3dabb5bce9ccc1fd8fdb
 (enable  under Interface - Quicksettings)
 https://github.com/ezio84/packages_apps_Settings/commit/16ffaf3a2ffb49e916edd97c0d2e9eb7b2d8fa41
 https://github.com/ezio84/frameworks_base/commit/39567a6bc1ae6fba6b3fe66d48e4d7297f0f1a15
+
+QuickSettings stock tiles customization:
+- QuickSettings: Add long click support (long tap opens the related settings page) to stock tiles
+https://github.com/ezio84/frameworks_base/commit/6b4df8a368cf9b1afcbc4672533a4240b805ac46
+- SystemUI: Add sound item (notifications) in quick settings panel
+https://github.com/ezio84/frameworks_base/commit/d1ec93f556227238ef86dc220e4f8515cd823b55
+https://github.com/ezio84/frameworks_base/commit/288c70e4ea24871a1e543ea1eeb41747febfcbb0
 
 - Quicksettings tiles customization by CM - 19jan2015
 (set under Interface - Quicksettings)
@@ -280,49 +217,19 @@ https://github.com/ezio84/vendor_slim/commit/dad15cd97955589a50c969fdbf1bc7b731c
 https://github.com/ezio84/android_bionic/commit/951b695d3a1574c6f04d25e0381198dff8e9fa28
 https://github.com/ezio84/scripts/commit/16b8e0c27f72f3bccc78f5e992b0206b39beadd6
 
-- Mako: new DRM library (thanks to @ten_tickles ) to fix Play Movie and Netflix crashes
-till this fix is merged in the loonybin repo, you can do it manually:  copy "libwvdrmengine.so" from 
-"vendor/lge/hammerhead/proprietary/vendor/lib/mediadrm" into "vendor/lge/mako/proprietary"
-overwriting the existing one.
-
-- Dark material theme rework for Settings, Power menu (now with active state icon highlight), notifications
-(revert the old ones before adding these commits)
-https://github.com/ezio84/packages_apps_Settings/commit/2b9cb961eb99032822394628eedfbfc068866af5
-https://github.com/ezio84/frameworks_base/commit/f4b35ecc84cd6271a8d59ffae87e32db4c7f64db
-UPDATE STEP 2 03 JAN 2015 (revert black notifications):
-https://github.com/ezio84/frameworks_base/commit/681863a78be6e837f1b09b1cccc611b4b2c59418
-https://github.com/ezio84/frameworks_base/commit/767bb0e41dd56fa48602de640d01a549546b16c1
-UPDATE STEP 3 08 JAN 2015 (dark boot popup)::
-https://github.com/ezio84/frameworks_base/commit/c839ce4c6135be017100edc36c8c0382978ac345
-UPDATE 25 Jan 2015 (restore black notifications, now the text is fixed):
-https://github.com/ezio84/frameworks_base/commit/c0ef2e37cc92da92750c5e4f02482e20913ab82b
-
 - SystemUI: status bar brightness: store value as int (statusbar brightness slider fix)
 https://github.com/ezio84/frameworks_base/commit/abf811dc483b34a4683b0c7e716c6d1a9b97c74f
 
 - Automatic Proximity speaker (now it works for both mako and hammerhead)
 (Enable it in the Dialer settings)
-Slim commits: 		https://gerrit.slimroms.net/22232
-				https://gerrit.slimroms.net/22231
-				https://gerrit.slimroms.net/22230
-				https://gerrit.slimroms.net/24413
-				https://gerrit.slimroms.net/#/c/24674/
-				https://gerrit.slimroms.net/#/c/24671/
-My github commits:  https://github.com/ezio84/packages_apps_InCallUI/commit/449b56e8be2a248192bdd78f9053316527cd8355
-				https://github.com/ezio84/packages_apps_InCallUI/commit/7bfa69459d9545acfac58148add2b2b9844e7625
-				https://github.com/ezio84/packages_services_Telephony/commit/4b2034cee10e56c9ea396067fd8676475f4bf874
-				https://github.com/ezio84/packages_services_Telephony/commit/8240ff0136fac989657a96574fac8700bb14e0f2
-				https://github.com/ezio84/frameworks_base/commit/2ed7211962106d7b7cd64875271f568bce58f62e
-				https://github.com/ezio84/packages_apps_InCallUI/commit/e4b773f1887816b14b424907e6d10ec5aced605c
+https://github.com/ezio84/packages_apps_InCallUI/commit/449b56e8be2a248192bdd78f9053316527cd8355
+https://github.com/ezio84/packages_apps_InCallUI/commit/7bfa69459d9545acfac58148add2b2b9844e7625
+https://github.com/ezio84/packages_services_Telephony/commit/4b2034cee10e56c9ea396067fd8676475f4bf874
+https://github.com/ezio84/packages_services_Telephony/commit/8240ff0136fac989657a96574fac8700bb14e0f2
+https://github.com/ezio84/frameworks_base/commit/2ed7211962106d7b7cd64875271f568bce58f62e
+https://github.com/ezio84/packages_apps_InCallUI/commit/e4b773f1887816b14b424907e6d10ec5aced605c
 UPDATE 07 FEB 2015:
-				https://github.com/ezio84/frameworks_base/commit/a3309a20a408bcac378740a4a5835455505d6497
-
-- SystemUI: Add sound item (notifications) in quick settings panel
-https://github.com/ezio84/frameworks_base/commit/d1ec93f556227238ef86dc220e4f8515cd823b55
-https://github.com/ezio84/frameworks_base/commit/288c70e4ea24871a1e543ea1eeb41747febfcbb0
-
-- QuickSettings: Add long click support (long tap opens the related settings page)
-https://github.com/ezio84/frameworks_base/commit/6b4df8a368cf9b1afcbc4672533a4240b805ac46
+https://github.com/ezio84/frameworks_base/commit/a3309a20a408bcac378740a4a5835455505d6497
 
 - Color fade memory leak:
 https://github.com/ezio84/frameworks_base/commit/a4c51bc69b32f7f762f768296e579af6a20c3090
@@ -332,7 +239,7 @@ https://github.com/ezio84/frameworks_base/commit/d8492f283af794b0a3fd4baef90c7d4
 (enabled by default)
 https://github.com/ezio84/frameworks_base/commit/4d554248f49826716c08490afbe699ab4ca122cb
 
-- Add option to disable searchbar in recents (with fix to remove unused space)
+- Add option to disable searchbar in recents:
 (under Interface)
 https://github.com/ezio84/packages_apps_Settings/commit/c2916a1e9e9e8cca43616188b25935a93a4fe811
 https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e39866b1d4ddf
@@ -342,17 +249,11 @@ https://github.com/ezio84/frameworks_base/commit/5d767afe16905ef7f7568718293e398
 https://github.com/ezio84/frameworks_base/commit/0ff183b8c22b5e27f3f14760053617f4ce9391ce
 https://github.com/ezio84/packages_apps_Settings/commit/53bfad1526d4fd00285b12042d427ae9617c4eab
 
-- Settings: Doze (ambient display) timeout
-Slim commits: 		https://gerrit.slimroms.net/21692
-				https://gerrit.slimroms.net/21373
-				https://gerrit.slimroms.net/21567
-My github commits:  https://github.com/ezio84/packages_apps_Settings/commit/a83d1b3a494330d2cbd7e82474748fe3591eabcd
-				https://github.com/ezio84/packages_apps_Settings/commit/3458781fcebe253390f3f594730742f65b35df4d
-				https://github.com/ezio84/frameworks_base/commit/b783fbffe24ee4d8708417158dcc92f02160376c
-				https://github.com/ezio84/frameworks_base/commit/165b9f380edd11d5f669d5cffc42cdb859aaa1f9
-
-- Sim Pin unlock: fix github sync error adding the correct file code
-https://github.com/ezio84/frameworks_base/commit/5b79f8e6b10327a4d515fa2dbade0bfb6cc8d802
+- Settings: Doze (ambient display) timeout (disabled on mako with an overlay in the device folder, enabled on hammerhead)
+https://github.com/ezio84/packages_apps_Settings/commit/a83d1b3a494330d2cbd7e82474748fe3591eabcd
+https://github.com/ezio84/packages_apps_Settings/commit/3458781fcebe253390f3f594730742f65b35df4d
+https://github.com/ezio84/frameworks_base/commit/b783fbffe24ee4d8708417158dcc92f02160376c
+https://github.com/ezio84/frameworks_base/commit/165b9f380edd11d5f669d5cffc42cdb859aaa1f9
 
 - FWBase: Disabled lots of debugging:
 https://github.com/ezio84/frameworks_base/commit/675de590e51951994856218e5859639b62cba7b8
@@ -381,7 +282,7 @@ https://github.com/ezio84/device_lge_hammerhead/commit/97cc6a450d301b21889985eba
 - Higher dpi value (=stock-20)
 https://github.com/ezio84/vendor_slim/commit/7380ff20dca8a68adc7eaf15c11264ecc9856af9
 
-- Battery icon: enable in-icon percentage indicator
+- Battery icon: enable in-icon percentage indicator <--- Not needed if using advanced battery icon commits
 https://github.com/ezio84/frameworks_base/commit/1189e9c10ec242e3bff0bc41ecbdaa432f9aeb94
 
 - Data Usage menu: show the WIFI tab by default
@@ -409,7 +310,7 @@ https://github.com/ezio84/android_build/commit/b6a753eb06c8021eebf4ee851f15910c9
 - Change permission to keep root when installing OTA rom updates
 https://github.com/ezio84/android_system_core/commit/04bafdb0c8fe364624e7f3413672b6d306428d9b
 
-- Super uber mega iper ultra extra png compression (=smaller build zip) thanks to Master fusionjack and Cl3Kener:
+- Super uber mega iper ultra extra png compression (=smaller build zip):
 https://github.com/ezio84/vendor_slim/commit/ed1e087b4a6a6b49ea3a0ee80323c8be92a3db75
 https://github.com/ezio84/android_build/commit/15ad2e5918f510ea84cfdd1fe2023808024a9a38
 https://github.com/ezio84/vendor_slim/commit/f98b7409cc1380e6c3407fa0c6e9692c46b0f7d7

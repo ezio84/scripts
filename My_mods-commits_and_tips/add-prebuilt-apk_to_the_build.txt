@@ -1,10 +1,26 @@
-create a new folder/project in packages_apps_ (e.g. packages_apps_CameraNext)
+In the /vendor/slim/proprietary
 
-add the apk in the folder, and its libs if needed
+create the app folder (e.g. AdAway)
 
-create also Android.mk file:
+put into it the apk (AdAway.apk)
+
+in the same folder, create a Android.mk file, with this content:
+
+LOCAL_PATH:= $(call my-dir)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := AdAway
+LOCAL_SRC_FILES := $(LOCAL_MODULE).apk
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
+LOCAL_MODULE_CLASS := APPS
+LOCAL_CERTIFICATE := PRESIGNED
+include $(BUILD_PREBUILT)
 
 
+---
+
+to add a not prebuilt package like cameranext under packages_apps_:
 
 
 
@@ -35,4 +51,3 @@ LOCAL_MODULE_CLASS := SHARED_LIBRARIES
 LOCAL_MODULE_SUFFIX := .so
 LOCAL_MODULE_PATH := $(PRODUCT_OUT)/system/lib
 include $(BUILD_PREBUILT)
-
