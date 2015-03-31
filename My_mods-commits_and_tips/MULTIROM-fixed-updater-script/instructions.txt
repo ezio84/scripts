@@ -1,6 +1,0 @@
-- Download the fixed updater-script to your phone;
-- install ZArchiver from Playstore;
-- open the rom zip file with ZArchiver;
-- into the app, go to META-INF/com/google/android/;
-- choose to add a file, and select the fixed updater-script;
-- exit and reboot.
