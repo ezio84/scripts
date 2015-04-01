@@ -1,52 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Scripts to automate the building process and some backups -->
-  <project path="scripts" name="ezio84/scripts" remote="github" revision="lp5.0" />
+  <project path="scripts" name="ezio84/scripts" remote="github" revision="lp5.1" />
   <!-- kernel and device, useful to check or remove some overlays or test new kernel features.
          IMPORTANT: Remember to remove lines from the slim local manifest -->
-  <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.0" />
-  <project name="ezio84/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="lp5.0" />
-  <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.0" />
-  <project name="ezio84/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="lp5.0" />
+  <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.1" />
+  <!-- <project name="ezio84/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="lp5.1" /> -->
+  <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.1" />
+  <project name="ezio84/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="lp5.1" />
   <!-- Proprietary vendor blobs -->
   <project path="vendor/lge/" name="TheLoonyBin/proprietary_vendor_lge" remote="github" revision="lp5.0" />
   <project path="vendor/broadcom/" name="TheLoonyBin/proprietary_vendor_broadcom" remote="github" revision="lp5.0" />
   <project path="vendor/qcom/" name="TheLoonyBin/proprietary_vendor_qcom" remote="github" revision="lp5.0" />
   <!--Switch to my forked projects (only needed ones, for customizations or translations) -->
   <remove-project path="frameworks/base" name="SlimRoms/frameworks_base" />
-  <project path="frameworks/base" name="ezio84/frameworks_base" remote="github" revision="lp5.0" />
+  <project path="frameworks/base" name="ezio84/frameworks_base" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/Settings" name="SlimRoms/packages_apps_Settings" />
-  <project path="packages/apps/Settings" name="ezio84/packages_apps_Settings" remote="github" revision="lp5.0" />
+  <project path="packages/apps/Settings" name="ezio84/packages_apps_Settings" remote="github" revision="lp5.1" />
   <remove-project path="build" name="SlimRoms/android_build" />
-  <project path="build" name="ezio84/android_build" remote="github" revision="lp5.0" >
+  <project path="build" name="ezio84/android_build" remote="github" revision="lp5.1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <remove-project path="vendor/slim" name="SlimRoms/vendor_slim" />
-  <project path="vendor/slim" name="ezio84/vendor_slim" remote="github" revision="lp5.0" />
+  <project path="vendor/slim" name="ezio84/vendor_slim" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
-  <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.0" />
+  <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.1" />
   <remove-project path="system/core" name="SlimRoms/android_system_core" />
-  <project path="system/core" name="ezio84/android_system_core" remote="github" revision="lp5.0" />
+  <project path="system/core" name="ezio84/android_system_core" remote="github" revision="lp5.1" />
   <remove-project path="packages/services/Telephony" name="SlimRoms/packages_services_Telephony" />
-  <project path="packages/services/Telephony" name="ezio84/packages_services_Telephony" remote="github" revision="lp5.0" />
+  <project path="packages/services/Telephony" name="ezio84/packages_services_Telephony" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/InCallUI" name="SlimRoms/packages_apps_InCallUI" />
-  <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="lp5.0" />
+  <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="lp5.1" />
   <remove-project path="frameworks/opt/telephony" name="SlimRoms/frameworks_opt_telephony" />
-  <project path="frameworks/opt/telephony" name="ezio84/frameworks_opt_telephony" remote="github" revision="lp5.0" />
+  <project path="frameworks/opt/telephony" name="ezio84/frameworks_opt_telephony" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/Dialer" name="SlimRoms/packages_apps_Dialer" />
-  <project path="packages/apps/Dialer" name="ezio84/packages_apps_Dialer" remote="github" revision="lp5.0" />
+  <project path="packages/apps/Dialer" name="ezio84/packages_apps_Dialer" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/Contacts" name="SlimRoms/packages_apps_Contacts" />
   <remove-project path="packages/apps/ContactsCommon" name="SlimRoms/packages_apps_ContactsCommon" />
-  <project path="packages/apps/Contacts" name="ezio84/packages_apps_Contacts" remote="github" revision="lp5.0" />
-  <project path="packages/apps/ContactsCommon" name="ezio84/packages_apps_ContactsCommon" remote="github" revision="lp5.0" />
-  <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="lp5.0" />
-  <project path="packages/apps/Mms" name="ezio84/packages_apps_Mms" remote="github" revision="lp5.0" />
+  <project path="packages/apps/Contacts" name="ezio84/packages_apps_Contacts" remote="github" revision="lp5.1" />
+  <project path="packages/apps/ContactsCommon" name="ezio84/packages_apps_ContactsCommon" remote="github" revision="lp5.1" />
+  <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="lp5.1" />
+  <project path="packages/apps/Mms" name="ezio84/packages_apps_Mms" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/PackageInstaller" name="SlimRoms/packages_apps_PackageInstaller" />
-  <project path="packages/apps/PackageInstaller" name="ezio84/packages_apps_PackageInstaller" remote="github" revision="lp5.0" />
+  <project path="packages/apps/PackageInstaller" name="ezio84/packages_apps_PackageInstaller" remote="github" revision="lp5.1" />
   <remove-project path="packages/services/Telecomm" name="SlimRoms/packages_services_Telecomm" />
-  <project path="packages/services/Telecomm" name="ezio84/packages_services_Telecomm" remote="github" revision="lp5.0" />
+  <project path="packages/services/Telecomm" name="ezio84/packages_services_Telecomm" remote="github" revision="lp5.1" />
   <remove-project path="packages/providers/TelephonyProvider" name="SlimRoms/packages_providers_TelephonyProvider" />
-  <project path="packages/providers/TelephonyProvider" name="ezio84/packages_providers_TelephonyProvider" remote="github" revision="lp5.0" />
+  <project path="packages/providers/TelephonyProvider" name="ezio84/packages_providers_TelephonyProvider" remote="github" revision="lp5.1" />
+  <remove-project path="bionic" name="SlimRoms/android_bionic" />
+  <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.1" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
@@ -57,14 +59,9 @@
   <project path="external/android-visualizer" name="ezio84/android_external_android-visualizer" remote="github" revision="cm-12.0" />
   <project path="packages/apps/AudioFX" name="ezio84/android_packages_apps_AudioFX" remote="github" revision="cm-12.0" />
   <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.0" />
-  <!-- Built-in CyanogenMod Terminal app - the bionic repo is necessary because CM is now using pty.h instead of forkpty,
-         also Google has pty.h now. So, instead of reverting to forkpty, let's switch to pty.h too -->
+  <!-- Built-in CyanogenMod Terminal app -->
+  <remove-project path="packages/apps/Terminal" name="platform/packages/apps/Terminal" />
+  <remove-project path="external/libvterm" name="platform/external/libvterm" />
   <project path="packages/apps/Terminal" name="ezio84/android_packages_apps_Terminal" remote="github" revision="cm-12.0" />
   <project path="external/libvterm" name="CyanogenMod/android_external_libvterm" remote="github" revision="cm-12.0" />
-  <remove-project path="bionic" name="SlimRoms/android_bionic" />
-  <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.0" />
-  <!-- Gmail now supports exchange and the service is bundled with gapps, so let's get rid of the aosp one
-  <remove-project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" />
-  <remove-project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" />
-  <remove-project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" />  -->
 </manifest>

@@ -4,39 +4,37 @@ to type a tilde ~: AltGR+ì
 
 grep -r "TEXTtoFIND"
 
+git push ssh://ezio84@review.slimroms.eu:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/lp5.1
+git push ssh://ezio84@review.slimroms.eu:29418/SlimRoms/frameworks_base HEAD:refs/for/lp5.1
 
-git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/lp5.0
-git push ssh://ezio84-xda@gerrit.slimroms.net:29418/SlimRoms/frameworks_base HEAD:refs/for/lp5.0
-
-
-git push github lp5.0
+git push github lp5.1
 git remote set-url github http://github.com/ezio84/... (have to do this after deleting the local folder)
 
-git push https://github.com/ezio84/packages_apps_Settings lp5.0
-git push https://github.com/ezio84/frameworks_base lp5.0
-git push https://github.com/ezio84/vendor_slim lp5.0
-git push https://github.com/ezio84/android_build lp5.0
-git push https://github.com/ezio84/scripts lp5.0
-git push https://github.com/ezio84/packages_apps_SlimCenter lp5.0
-git push https://github.com/ezio84/device_lge_mako lp5.0
-git push https://github.com/ezio84/kernel_lge_mako lp5.0
-git push https://github.com/ezio84/device_lge_hammerhead lp5.0
-git push https://github.com/ezio84/kernel_lge_hammerhead lp5.0
-git push https://github.com/ezio84/packages_services_Telephony lp5.0
-git push https://github.com/ezio84/packages_apps_InCallUI/ lp5.0
+git push https://github.com/ezio84/packages_apps_Settings lp5.1
+git push https://github.com/ezio84/frameworks_base lp5.1
+git push https://github.com/ezio84/vendor_slim lp5.1
+git push https://github.com/ezio84/android_build lp5.1
+git push https://github.com/ezio84/scripts lp5.1
+git push https://github.com/ezio84/packages_apps_SlimCenter lp5.1
+git push https://github.com/ezio84/device_lge_mako lp5.1
+git push https://github.com/ezio84/kernel_lge_mako lp5.1
+git push https://github.com/ezio84/device_lge_hammerhead lp5.1
+git push https://github.com/ezio84/kernel_lge_hammerhead lp5.1
+git push https://github.com/ezio84/packages_services_Telephony lp5.1
+git push https://github.com/ezio84/packages_apps_InCallUI/ lp5.1
 git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.0
 git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.0
 git push https://github.com/ezio84/android_external_android-visualizer cm-12.0
 git push https://github.com/ezio84/android_packages_apps_Terminal cm-12.0
-git push https://github.com/ezio84/android_bionic lp5.0
-git push https://github.com/ezio84/frameworks_opt_telephony lp5.0
-git push https://github.com/ezio84/packages_apps_Dialer lp5.0
-git push https://github.com/ezio84/packages_apps_Contacts lp5.0
-git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.0
-git push https://github.com/ezio84/packages_apps_Mms lp5.0
-git push https://github.com/ezio84/packages_apps_PackageInstaller lp5.0
-git push https://github.com/ezio84/packages_services_Telecomm lp5.0
-git push https://github.com/ezio84/packages_providers_TelephonyProvider lp5.0
+git push https://github.com/ezio84/android_bionic lp5.1
+git push https://github.com/ezio84/frameworks_opt_telephony lp5.1
+git push https://github.com/ezio84/packages_apps_Dialer lp5.1
+git push https://github.com/ezio84/packages_apps_Contacts lp5.1
+git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.1
+git push https://github.com/ezio84/packages_apps_Mms lp5.1
+git push https://github.com/ezio84/packages_apps_PackageInstaller lp5.1
+git push https://github.com/ezio84/packages_services_Telecomm lp5.1
+git push https://github.com/ezio84/packages_providers_TelephonyProvider lp5.1
 
  . scripts/build_rom.sh mako nosync 7 noclean log release
  . scripts/build_rom.sh hammerhead nosync 7 noclean log release
@@ -44,13 +42,15 @@ git push https://github.com/ezio84/packages_providers_TelephonyProvider lp5.0
  . scripts/build_apk.sh mako nosync 7 noclean log SlimLauncher
  . scripts/build_apk.sh hammerhead nosync 7 noclean log SlimLauncher
 
- ./build_kernel.sh mako 7
-
-./generate_changelog.sh 1415705407 (utc in buildprop under out/target/product/mako/system)
-
 ./fetch-merge-slimroms.sh
 
+ ./build_kernel.sh mako 7
+
+ changelog 1427373965
+
 ccache -C to reset ccache
+
+git checkout --theirs (to load png from the commit you are picking)
 
 fetch only current branch from server:   repo sync -c (or --current-branch)
 force sync and don't care about repo errors: repo sync -f
