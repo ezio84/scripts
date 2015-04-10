@@ -1,0 +1,6 @@
+Turn art optimization to everything (more butter :D):
+https://github.com/ezio84/vendor_slim/commit/89f01b2b7e018895821a59ee38b2ea86d031dc6c
+
+- Enable dexpreopt optimization (bigger img size, smaller first boot time):
+https://github.com/ezio84/device_lge_mako/commit/16b5a4b1e86b8160624394ef566b3dd166ea85b8 (mako)
+https://github.com/ezio84/device_lge_hammerhead/commit/ef83d68774e39fc375d478b99f8174aea7deb7d7 (hammerhead)
