@@ -5,14 +5,13 @@
   <!-- kernel and device, useful to check or remove some overlays or test new kernel features.
          IMPORTANT: Remember to remove lines from the slim local manifest -->
   <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.1" />
-  <project name="SlimRoms/device_lge_mako-kernel" path="device/lge/mako-kernel" remote="github" revision="lp5.1" />
-  <!-- <project name="ezio84/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="lp5.1" /> -->
+  <project name="ezio84/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="lp5.1" />
   <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.1" />
   <project name="ezio84/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="lp5.1" />
   <!-- Proprietary vendor blobs -->
-  <project path="vendor/lge/" name="TheLoonyBin/proprietary_vendor_lge" remote="github" revision="lp5.0" />
-  <project path="vendor/broadcom/" name="TheLoonyBin/proprietary_vendor_broadcom" remote="github" revision="lp5.0" />
-  <project path="vendor/qcom/" name="TheLoonyBin/proprietary_vendor_qcom" remote="github" revision="lp5.0" />
+  <project path="vendor/lge/" name="TheLoonyBin/proprietary_vendor_lge" remote="github" revision="lp5.1" />
+  <project path="vendor/broadcom/" name="TheLoonyBin/proprietary_vendor_broadcom" remote="github" revision="lp5.1" />
+  <project path="vendor/qcom/" name="TheLoonyBin/proprietary_vendor_qcom" remote="github" revision="lp5.1" />
   <!--Switch to my forked projects (only needed ones, for customizations or translations) -->
   <remove-project path="frameworks/base" name="SlimRoms/frameworks_base" />
   <project path="frameworks/base" name="ezio84/frameworks_base" remote="github" revision="lp5.1" />
@@ -24,7 +23,7 @@
   </project>
   <remove-project path="vendor/slim" name="SlimRoms/vendor_slim" />
   <project path="vendor/slim" name="ezio84/vendor_slim" remote="github" revision="lp5.1" />
-  <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
+  <!-- <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" /> -->
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.1" />
   <remove-project path="system/core" name="SlimRoms/android_system_core" />
   <project path="system/core" name="ezio84/android_system_core" remote="github" revision="lp5.1" />
