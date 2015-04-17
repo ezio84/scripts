@@ -25,8 +25,8 @@ echo -e "${bldgrn}Updating system/core ${txtrst}"
 cd $rdir/system/core && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/android_system_core lp5.1
 echo -e "${bldgrn}Updating device/lge/mako ${txtrst}"
 cd $rdir/device/lge/mako && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/device_lge_mako lp5.1
-# echo -e "${bldgrn}Updating kernel/lge/mako ${txtrst}"
-# cd $rdir/kernel/lge/mako && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/kernel_lge_mako lp5.1
+echo -e "${bldgrn}Updating kernel/lge/mako ${txtrst}"
+cd $rdir/kernel/lge/mako && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/kernel_lge_mako lp5.1
 echo -e "${bldgrn}Updating device/lge/hammerhead ${txtrst}"
 cd $rdir/device/lge/hammerhead && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/device_lge_hammerhead lp5.1
 echo -e "${bldgrn}Updating kernel/lge/hammerhead ${txtrst}"
