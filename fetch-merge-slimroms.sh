@@ -53,17 +53,13 @@ echo -e "${bldgrn}Updating packages/services/Telecomm ${txtrst}"
 cd $rdir/packages/services/Telecomm && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_services_Telecomm lp5.1
 echo -e "${bldgrn}Updating packages/providers/TelephonyProvider ${txtrst}"
 cd $rdir/packages/providers/TelephonyProvider && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_providers_TelephonyProvider lp5.1
-# -----------------------------
-# Remember to switch cm-12.0 to 12.1 when available
 echo -e "${bldgrn}Updating AudioVisualizer by Cyanogen ${txtrst}"
-cd $rdir/external/android-visualizer && git checkout cm-12.0 && git fetch cm && git merge cm/cm-12.0 && git push https://github.com/ezio84/android_external_android-visualizer cm-12.0
+cd $rdir/external/android-visualizer && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_external_android-visualizer cm-12.1
 echo -e "${bldgrn}Updating AudioFX by Cyanogen ${txtrst}"
-cd $rdir/packages/apps/AudioFX && git checkout cm-12.0 && git fetch cm && git merge cm/cm-12.0 && git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.0
+cd $rdir/packages/apps/AudioFX && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.1
 echo -e "${bldgrn}Updating Eleven by Cyanogen ${txtrst}"
-cd $rdir/packages/apps/Eleven && git checkout cm-12.0 && git fetch cm && git merge cm/cm-12.0 && git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.0
+cd $rdir/packages/apps/Eleven && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.1
 echo -e "${bldgrn}Updating Terminal by Cyanogen ${txtrst}"
-cd $rdir/packages/apps/Terminal && git checkout cm-12.0 && git fetch cm && git merge cm/cm-12.0 && git push https://github.com/ezio84/android_packages_apps_Terminal cm-12.0
-# Remember to switch cm-12.0 to 12.1 when available
-# -----------------------------
+cd $rdir/packages/apps/Terminal && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_Terminal cm-12.1
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"
