@@ -51,10 +51,6 @@
   <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.1" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
-  <!-- Gmail now supports exchange and the service is bundled with gapps, so let's get rid of the aosp one  -->
-  <remove-project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" />
-  <remove-project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" />
-  <remove-project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
   <remove-project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <remove-project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
