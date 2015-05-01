@@ -1,3 +1,140 @@
-Turn art optimization to everything (more butter :D):
+Statusar: bring back Network indicators
+https://github.com/ezio84/packages_apps_Settings/commit/ef3ff1979b2134da582567127cf97b5aa3431103
+https://github.com/ezio84/frameworks_base/commit/f96ecbe5c24fbf88d5f48b89f9e3e845213b5b91
+
+Bring the baby back: longpress back button to kill the app
+https://github.com/ezio84/packages_apps_Settings/commit/bd1e5344eff9bd8a1b2294cb754f671e6f5ca031
+https://github.com/ezio84/frameworks_base/commit/939830fbd8fb43458916487f1915c940a923ab96
+
+Bring another baby back: longpress recents to go to last app 
+https://github.com/ezio84/frameworks_base/commit/7f53b20d0d9ee882ec2bf79a84870b1ed8f4bf14
+
+Unknown source apps: enable apk installation by default
+https://github.com/ezio84/frameworks_base/commit/c5ed5217fb2e11bfa103e4af78426432f0b102db
+
+Keep quiet when volume keys are used to wake up device
+https://github.com/ezio84/frameworks_base/commit/b706547e3e9f6de4033faf93b38ab978e80ca2b0
+
+Allow disabling adjusting volume sounds
+https://github.com/ezio84/frameworks_base/commit/d3b16396701f485f748cc6f476a0f92ca29a0dfc
+https://github.com/ezio84/packages_apps_Settings/commit/5e7a0947118dda87d5f25b2c19031aedb498aaee
+
+Add options for battery icon and text in status bar
+https://github.com/ezio84/packages_apps_Settings/commit/c311a6f2ff2a676f4e2c0455cbce355209079390
+https://github.com/ezio84/frameworks_base/commit/039a26dfa847931ac5130e0846a49fbb56206ebb
+
+Custom System Tools Menu in Settings
+https://github.com/ezio84/packages_apps_Settings/commit/0e0a80802f685b4f2581a468c27534aaf419baff
+
+StatusBar Ticker 
+https://github.com/ezio84/packages_apps_Settings/commit/5ab05899f4c727be16aba132629de98d5a4c6028
+https://github.com/ezio84/frameworks_base/commit/8dd933c1764ef7f47d40f1ac496be817745a3f2c
+
+SystemUI: Reduce activation area a bit of quick pulldown
+https://github.com/ezio84/frameworks_base/commit/ad7d54e6c617dd1f2f0c2bababcc99fee5680e03
+
+Partition information menu
+https://github.com/ezio84/packages_apps_Settings/commit/2d7fcd83f72b6884cf7f8fc770e62e88bc1fc435
+
+Data Usage menu: show the WIFI tab by default
+https://github.com/ezio84/packages_apps_Settings/commit/603171410891cf014cb1eb7f38f078df4ac7e642
+
+Screenshot delete button
+https://github.com/ezio84/frameworks_base/commit/d72b241a7edce7d747337cfee48dd93308e1f29e
+https://github.com/ezio84/frameworks_base/commit/451b873e8a8b304c082bdaa82b112224e9c75eae
+https://github.com/ezio84/frameworks_base/commit/5f553a52f2d259b834024cea71164595097dbf39
+
+Turn art optimization to everything (more butter :D)
 https://github.com/ezio84/vendor_slim/commit/89f01b2b7e018895821a59ee38b2ea86d031dc6c
 
+PackageInstaller: Show current & new version when installing apk
+https://github.com/ezio84/packages_apps_PackageInstaller/commit/a596b7b95dadcad66458753b12c048900e96da11
+
+RRO layers 2.1 commits:
+https://review.slimroms.eu/#/q/branch:lp5.1+topic:rro2.1
+
+Full switch to CM AudioFx and Eleven
+https://github.com/ezio84/vendor_slim/commit/e2b1a85e3109d600cd684f318996c8fa93bc8e47
+https://github.com/ezio84/android_build/commit/fa3a5f5d753dd37c2bbca698378ac5f44c85abff
+Then add these lines to the manifest:
+  <remove-project path="packages/apps/Music" name="platform/packages/apps/Music" />
+  <remove-project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
+  <remove-project path="packages/apps/AudioFX" name="SlimRoms/packages_apps_AudioFX" />
+  <remove-project path="external/android-visualizer" name="SlimRoms/android_external_android-visualizer" />
+  <project path="external/android-visualizer" name="ezio84/android_external_android-visualizer" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/AudioFX" name="ezio84/android_packages_apps_AudioFX" remote="github" revision="cm-12.1" />
+  <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.1" />
+
+Higher dpi value (=stock-20)
+https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e23bdc1
+
+Add prebuilt AdAway (latest xda version)
+https://github.com/ezio84/vendor_slim/commit/675d41381d6ed0467c0a4d0aa46e361a8637df41
+
+Add built-in Layer Backup app by @kantjer
+https://github.com/ezio84/vendor_slim/commit/b42d1de09370db76d33a8403bd4525105c4bee9e
+Layer Backup app by @kantjer: show a Settings entry
+https://github.com/ezio84/packages_apps_Settings/commit/f57e9f82bc8c0c367fce5b9233705ca1d71f20a1
+
+Add @lovejoy777 new Layers app to the build
+https://github.com/ezio84/vendor_slim/commit/14aee27cea4294b26ba011b89609e426cd04d90a
+RRO2 Layers: show an "Interface-Themes configuration" entry
+https://github.com/ezio84/packages_apps_Settings/commit/8a2261be7007bc19801a74b86db199adf9993cfd
+https://github.com/ezio84/packages_apps_Settings/commit/7e030e4e2cfdb4069ca1a18e90fec3ccb7e94f83
+
+Add SuperSU 
+https://github.com/ezio84/vendor_slim/commit/202dcb21590da70049345ccda128cbc06700b210
+https://github.com/ezio84/android_build/commit/e8ee199aaa668639e578417bebebd5674b5cdb6b
+
+Launch SuperSU from Settings
+https://github.com/ezio84/packages_apps_Settings/commit/cb0a2cae3ecf022d2d3fc8bc39bbd1713de511a1
+https://github.com/ezio84/packages_apps_Settings/commit/5be069e1c46ca5a80c67fcd742c634becf5ea0ae
+
+- Add back Slimcenter and ota notifications
+Add this line to the manifest: <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.1" />
+(remove the existing slimcenter project when slim devs bring it back)
+uncomment the Slimcenter line in the vendor/common.mk if it's commented with #
+https://github.com/ezio84/frameworks_base/commit/c412daa938ab19249e36d7a0c12409c945743a4a
+https://github.com/ezio84/packages_apps_SlimCenter/commit/5968c3cfac28d03c3d8c3dc98ed8c61bd12e521a (merged)
+https://github.com/ezio84/packages_apps_SlimCenter/commit/4bd8c64f81c649751ebced44234baf79aa1f6677 (merged)
+https://github.com/ezio84/packages_apps_SlimCenter/commit/34a2f332622bb251c8ad1a8f781342cd198853ec (merged)
+https://github.com/ezio84/packages_apps_SlimCenter/commit/b581bd1fab5c0c3f2696dc5fa9488697b5220fef (merged)
+https://github.com/ezio84/vendor_slim/commit/9a59f322536f14d3b57293574840e39f89b862bc
+https://github.com/ezio84/packages_apps_Settings/commit/6864727938cdbee4f3fdbe3f0765456deb741010
+
+SlimChangelog (also in a slimcenter tab)
+https://github.com/ezio84/android_build/commit/7e0de15a3b7370e89d08ec545eaca6bafa8d78f2
+https://github.com/ezio84/vendor_slim/commit/35253bad180cd35223dc77b0ef5621fc3a16c636
+https://github.com/ezio84/packages_apps_SlimCenter/commit/200993edea8a766228dac5b6f78c6a58243f84b3 (merged)
+https://github.com/ezio84/packages_apps_SlimCenter/commit/edd6c8eb877acafbb129dfa7a5bb275bdb55a3ac (merged)
+https://github.com/ezio84/packages_apps_SlimCenter/commit/48bdd10218330742aafc47c08cf57bd1947114fc (merged)
+https://github.com/ezio84/scripts/blob/lp5.1/build_rom.sh (release and norelease flag)
+
+Restore MD5 creation for the rom zip file
+https://github.com/ezio84/android_build/commit/559577319c3daac91bd6fa00c488e2bdc081f3bc
+
+Super uber mega iper ultra extra png compression (=smaller build zip)
+(need pngquant package installed in your linux distro)
+https://github.com/ezio84/vendor_slim/commit/acf9fffd072e655d52a42a63d5e5be448d09070e
+https://github.com/ezio84/vendor_slim/commit/3acbbdfb53bf1d33479715879e825624b9ed84d2
+https://github.com/ezio84/android_build/commit/0556ec8b16535d97529d5d78998dbd2232c0664c
+
+Updater-script: show build and device info in the recovery log
+https://github.com/ezio84/android_build/commit/3ed01e75a698e6ecc579829a2f6c06e9a5a68190
+
+Chromium prebuilts and common out (to speed up the build process and have device-specific common folders)
+https://github.com/ezio84/scripts/commit/6223d8c0f2a196d04fd57888ccdc1ba7e6a11862
+https://github.com/ezio84/scripts/commit/f68ceb28c6795e1a3277f13e2cac4f70bd102781
+https://github.com/ezio84/vendor_slim/commit/01202b95bd0631bdf56f963f3a198d330f3c4b6c
+https://github.com/ezio84/android_build/commit/05af9f841dc9146b84bf2b17b41dd8b1785c3c00
+
+Remove Browser
+https://github.com/ezio84/android_build/commit/f79ef959e67cf12ecbe9107628fa7f9757c1d133 (don't remove email and exchange, some stuff of them like emailcommon is needed by BT)
+Add this line in the manifest: <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
+
+Switch to UberTC toolchain for the rom (not the kernel)
+https://github.com/ezio84/scripts/blob/lp5.1/My_mods-commits_and_tips/local_manifest_backup/uber-toolchain.xml
+
+Cyanogen fix for deep sleep and latest play services 
+https://github.com/ezio84/vendor_slim/commit/f5c5d27fb067d6fe2ece598dda655d5aea14306b
+https://github.com/ezio84/frameworks_base/commit/0da1ca3e217cfa1a055cfed5d01671996aac17a5
