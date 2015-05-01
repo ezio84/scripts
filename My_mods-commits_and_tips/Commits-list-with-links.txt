@@ -1,3 +1,13 @@
+Enable led overlays for hammerhead (already enabled for mako)
+https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
+
+Implement system-wide Torch service and fix "cannot connect to camera" when using torch
+https://github.com/ezio84/frameworks_base/commit/0a73261e99d4e91d10c6cc98fb71b90cfc73537b
+https://github.com/ezio84/vendor_slim/commit/ab5abf4bc12cc006ce6351708ed8ef116eb49375 (already merged in slim 5.1)
+
+DocumentsUI: Add a standalone File Manager
+https://github.com/ezio84/frameworks_base/commit/0984942d51a903335cd3b555f966aee77e7acd44
+
 Statusar: bring back Network indicators
 https://github.com/ezio84/packages_apps_Settings/commit/ef3ff1979b2134da582567127cf97b5aa3431103
 https://github.com/ezio84/frameworks_base/commit/f96ecbe5c24fbf88d5f48b89f9e3e845213b5b91
