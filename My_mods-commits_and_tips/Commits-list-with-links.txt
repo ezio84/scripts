@@ -4,6 +4,9 @@ https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c0
 Implement system-wide Torch service and fix "cannot connect to camera" when using torch
 https://github.com/ezio84/frameworks_base/commit/0a73261e99d4e91d10c6cc98fb71b90cfc73537b
 https://github.com/ezio84/vendor_slim/commit/ab5abf4bc12cc006ce6351708ed8ef116eb49375 (already merged in slim 5.1)
+https://github.com/ezio84/frameworks_base/commit/55758ae3a0ec18c37e73e5ea70eb54784cd4441b
+https://github.com/ezio84/frameworks_base/commit/9fa3fd14e9b2855a0b8dd4b107354fc31d2f524b
+https://github.com/ezio84/frameworks_base/commit/ae3523b9e103129398b0f1bbbd7c3e336477f461
 
 DocumentsUI: Add a standalone File Manager
 https://github.com/ezio84/frameworks_base/commit/0984942d51a903335cd3b555f966aee77e7acd44
