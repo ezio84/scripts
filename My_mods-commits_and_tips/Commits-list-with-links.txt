@@ -52,11 +52,6 @@ https://github.com/ezio84/packages_apps_Settings/commit/2d7fcd83f72b6884cf7f8fc7
 Data Usage menu: show the WIFI tab by default
 https://github.com/ezio84/packages_apps_Settings/commit/603171410891cf014cb1eb7f38f078df4ac7e642
 
-Screenshot delete button
-https://github.com/ezio84/frameworks_base/commit/d72b241a7edce7d747337cfee48dd93308e1f29e
-https://github.com/ezio84/frameworks_base/commit/451b873e8a8b304c082bdaa82b112224e9c75eae
-https://github.com/ezio84/frameworks_base/commit/5f553a52f2d259b834024cea71164595097dbf39
-
 Turn art optimization to everything (more butter :D)
 https://github.com/ezio84/vendor_slim/commit/89f01b2b7e018895821a59ee38b2ea86d031dc6c
 
@@ -79,7 +74,7 @@ Then add these lines to the manifest:
   <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.1" />
 
 Higher dpi value (=stock-20)
-https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e23bdc1
+https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e23bdc1 (added but not working yet)
 
 Add prebuilt AdAway (latest xda version)
 https://github.com/ezio84/vendor_slim/commit/675d41381d6ed0467c0a4d0aa46e361a8637df41
