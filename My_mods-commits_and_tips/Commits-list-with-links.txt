@@ -1,3 +1,15 @@
+Proximity speaker
+https://github.com/ezio84/frameworks_base/commit/4b2247692b9590f5890a169bf5bd36b76a142969
+https://github.com/ezio84/frameworks_base/commit/9de0f45aa78567f5c861a36eb97e25594c639dd0
+https://github.com/ezio84/packages_services_Telephony/commit/ddda650aae385ab6bba9210a2c08c3b9c8372378
+https://github.com/ezio84/packages_apps_InCallUI/commit/019c65122c9c84e8a535fd21ec1239612c513873
+https://github.com/ezio84/packages_apps_InCallUI/commit/591aefe3d0d5315671f3daa1a0b594e4f0e46260
+https://github.com/ezio84/packages_apps_InCallUI/commit/c46f3fedad1b4808ef5d0c374465f12bbf892c1f
+
+Add ability to change the color in battery saver mode
+https://github.com/ezio84/packages_apps_Settings/commit/682ecd495d7cd84979106f60076cf266ad229565
+https://github.com/ezio84/frameworks_base/commit/9556802e9128e4964690d6d2f8e656ab53b3f5ef
+
 Show Optimizing app dialog on first boot 
 https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
 
