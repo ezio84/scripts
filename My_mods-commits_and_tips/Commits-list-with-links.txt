@@ -1,3 +1,16 @@
+Show Optimizing app dialog on first boot 
+https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
+
+Navbar custom height (WIP) needs to be fixed, back button is big)
+https://github.com/ezio84/packages_apps_Settings/commit/97e03fcaf78c1d55d132085bc9280b9f25f03cb3
+https://github.com/ezio84/frameworks_base/commit/b79edebf475a1353f1c404a59bdaba59de19cc20
+
+Add clear all recents action to recents panel
+https://github.com/ezio84/frameworks_base/commit/3e68fe65fb81b34753011d45fca2c2684e0f9336
+
+Show Optimizing app dialog on first boot
+https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
+
 Enable led overlays for hammerhead (already enabled for mako)
 https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
 
@@ -18,6 +31,7 @@ https://github.com/ezio84/frameworks_base/commit/f96ecbe5c24fbf88d5f48b89f9e3e84
 Bring the baby back: longpress back button to kill the app
 https://github.com/ezio84/packages_apps_Settings/commit/bd1e5344eff9bd8a1b2294cb754f671e6f5ca031
 https://github.com/ezio84/frameworks_base/commit/939830fbd8fb43458916487f1915c940a923ab96
+https://github.com/ezio84/packages_apps_Settings/commit/627030ae3dcec263c7d477fb00821f7c1c6a0cf2
 
 Bring another baby back: longpress recents to go to last app 
 https://github.com/ezio84/frameworks_base/commit/7f53b20d0d9ee882ec2bf79a84870b1ed8f4bf14
