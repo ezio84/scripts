@@ -1,9 +1,10 @@
 Show Optimizing app dialog on first boot 
 https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
 
-Navbar custom height (WIP) needs to be fixed, back button is big)
+Navbar custom height
 https://github.com/ezio84/packages_apps_Settings/commit/97e03fcaf78c1d55d132085bc9280b9f25f03cb3
 https://github.com/ezio84/frameworks_base/commit/b79edebf475a1353f1c404a59bdaba59de19cc20
+https://github.com/ezio84/frameworks_base/commit/1abed4c5930cd3df08243e062d04b7f1708391b0
 
 Add clear all recents action to recents panel
 https://github.com/ezio84/frameworks_base/commit/3e68fe65fb81b34753011d45fca2c2684e0f9336
