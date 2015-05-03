@@ -12,6 +12,7 @@ https://github.com/ezio84/packages_apps_InCallUI/commit/c46f3fedad1b4808ef5d0c37
 Add ability to change the color in battery saver mode
 https://github.com/ezio84/packages_apps_Settings/commit/682ecd495d7cd84979106f60076cf266ad229565
 https://github.com/ezio84/frameworks_base/commit/9556802e9128e4964690d6d2f8e656ab53b3f5ef
+https://github.com/ezio84/frameworks_base/commit/9257459d9319b4dd3a8bd95e6f3a2d0d6bb95efc
 
 Show Optimizing app dialog on first boot 
 https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
