@@ -1,3 +1,6 @@
+Hide useless misc battery stats
+https://github.com/ezio84/packages_apps_Settings/commit/0a6659a774d11f9c9d96d1ab5652a8c633f0bfd0
+
 Proximity speaker
 https://github.com/ezio84/frameworks_base/commit/4b2247692b9590f5890a169bf5bd36b76a142969
 https://github.com/ezio84/frameworks_base/commit/9de0f45aa78567f5c861a36eb97e25594c639dd0
