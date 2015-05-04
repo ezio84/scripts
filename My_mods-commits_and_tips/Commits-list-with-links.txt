@@ -1,6 +1,6 @@
 Bringup expanded desktop and implement per-user configuration
 https://github.com/ezio84/frameworks_base/commit/54a6f768a5057c855179a3548461683e6dde192c
-https://github.com/ezio84/packages_apps_Settings/commit/123d5c123f20d0aecd56aa2912ef4ea002536b64
+https://github.com/ezio84/packages_apps_Settings/commit/0c96eac358640e21791620876ae3d404e94e2f48
 
 Launch app privacy settings when tapping on PG notification
 https://github.com/ezio84/packages_apps_Settings/commit/73431ed403f613423f83f1e29f51fd45d716351b
