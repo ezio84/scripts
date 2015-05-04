@@ -1,3 +1,24 @@
+Bringup expanded desktop and implement per-user configuration
+https://github.com/ezio84/frameworks_base/commit/54a6f768a5057c855179a3548461683e6dde192c
+https://github.com/ezio84/packages_apps_Settings/commit/123d5c123f20d0aecd56aa2912ef4ea002536b64
+
+Launch app privacy settings when tapping on PG notification
+https://github.com/ezio84/packages_apps_Settings/commit/73431ed403f613423f83f1e29f51fd45d716351b
+https://github.com/ezio84/frameworks_base/commit/650ddc0d3a29613907d90c7d774daae5acbb1b7e
+
+Materialize volume panel in/out animation
+https://github.com/ezio84/frameworks_base/commit/02475e3415ed85d0b064df7f399076072245d0cb
+
+Built-in Terminal app
+https://github.com/ezio84/packages_apps_Settings/commit/536a3c8a5a8c1f37a48159dc210bf7eddce1bfc0
+https://github.com/ezio84/vendor_slim/commit/875a68011cb2f9ea9b7f90db0707bfc8679be641
+and these lines in the manifest:
+<!-- Built-in CyanogenMod Terminal app -->
+  <remove-project path="packages/apps/Terminal" name="platform/packages/apps/Terminal" />
+  <remove-project path="external/libvterm" name="platform/external/libvterm" />
+  <project path="packages/apps/Terminal" name="ezio84/android_packages_apps_Terminal" remote="github" revision="cm-12.1" />
+  <project path="external/libvterm" name="CyanogenMod/android_external_libvterm" remote="github" revision="cm-12.1" />
+
 Hide useless misc battery stats
 https://github.com/ezio84/packages_apps_Settings/commit/0a6659a774d11f9c9d96d1ab5652a8c633f0bfd0
 
