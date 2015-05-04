@@ -1,16 +1,16 @@
 Bringup expanded desktop and implement per-user configuration
-https://github.com/ezio84/frameworks_base/commit/54a6f768a5057c855179a3548461683e6dde192c
-https://github.com/ezio84/packages_apps_Settings/commit/0c96eac358640e21791620876ae3d404e94e2f48
+https://github.com/ezio84/packages_apps_Settings/commit/2c3019bf6644cdc70b1b23b0a493731474639b74
+https://github.com/ezio84/frameworks_base/commit/04db9dd799aff37a428570a7d83d492d44bc20e1
 
 Launch app privacy settings when tapping on PG notification
-https://github.com/ezio84/packages_apps_Settings/commit/73431ed403f613423f83f1e29f51fd45d716351b
+https://github.com/ezio84/packages_apps_Settings/commit/77b2c23c9634ff83fec6d0503aeb3088e5a535bd
 https://github.com/ezio84/frameworks_base/commit/650ddc0d3a29613907d90c7d774daae5acbb1b7e
 
 Materialize volume panel in/out animation
 https://github.com/ezio84/frameworks_base/commit/02475e3415ed85d0b064df7f399076072245d0cb
 
 Built-in Terminal app
-https://github.com/ezio84/packages_apps_Settings/commit/536a3c8a5a8c1f37a48159dc210bf7eddce1bfc0
+https://github.com/ezio84/packages_apps_Settings/commit/acfaf04ec7c4afee1eb87f25e2ff8d4ae6f9e08a
 https://github.com/ezio84/vendor_slim/commit/875a68011cb2f9ea9b7f90db0707bfc8679be641
 and these lines in the manifest:
 <!-- Built-in CyanogenMod Terminal app -->
