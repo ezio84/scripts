@@ -29,7 +29,7 @@ https://github.com/ezio84/packages_services_Telephony/commit/ddda650aae385ab6bba
 https://github.com/ezio84/packages_apps_InCallUI/commit/019c65122c9c84e8a535fd21ec1239612c513873
 https://github.com/ezio84/packages_apps_InCallUI/commit/591aefe3d0d5315671f3daa1a0b594e4f0e46260
 https://github.com/ezio84/packages_apps_InCallUI/commit/c46f3fedad1b4808ef5d0c374465f12bbf892c1f
-https://github.com/ezio84/packages_apps_InCallUI/commit/93918f30d800c1d3f42453d01e36d7d963744b96
+https://github.com/ezio84/packages_apps_InCallUI/commit/14460f2a7028dcc605f429be32ffebcd9b75007a
 
 Add ability to change the color in battery saver mode
 https://github.com/ezio84/packages_apps_Settings/commit/682ecd495d7cd84979106f60076cf266ad229565
