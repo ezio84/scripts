@@ -8,10 +8,11 @@
   <project name="ezio84/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="lp5.1" />
   <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.1" />
   <project name="ezio84/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="lp5.1" />
-  <!-- Proprietary vendor blobs -->
+  <!-- Proprietary vendor blobs - TEMPORARY DISABLED TILL HAMMERHEAD IS UPDATED BY SLIM TEAM, LET'S SWITCH TO CM ONES FOR HH AND SLIM -ALREADY UPDATED- ONES FOR MAKO
   <project path="vendor/lge/" name="TheLoonyBin/proprietary_vendor_lge" remote="github" revision="lp5.1" />
   <project path="vendor/broadcom/" name="TheLoonyBin/proprietary_vendor_broadcom" remote="github" revision="lp5.1" />
-  <project path="vendor/qcom/" name="TheLoonyBin/proprietary_vendor_qcom" remote="github" revision="lp5.1" />
+  <project path="vendor/qcom/" name="TheLoonyBin/proprietary_vendor_qcom" remote="github" revision="lp5.1" /> -->
+  <project path="vendor" name="ezio84/vendorblobs" remote="github" revision="master" />
   <!--Switch to my forked projects (only needed ones, for customizations or translations) -->
   <remove-project path="frameworks/base" name="SlimRoms/frameworks_base" />
   <project path="frameworks/base" name="ezio84/frameworks_base" remote="github" revision="lp5.1" />
