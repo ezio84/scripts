@@ -130,6 +130,11 @@ https://github.com/ezio84/packages_apps_PackageInstaller/commit/a596b7b95dadcad6
 
 RRO layers 2.1 commits:
 https://review.slimroms.eu/#/q/branch:lp5.1+topic:rro2.1
+PS: till themes are updated to support the icon tint, don't add these:
+https://review.slimroms.eu/2228
+https://review.slimroms.eu/2230
+https://review.slimroms.eu/2229
+
 
 Full switch to CM AudioFx and Eleven
 https://github.com/ezio84/vendor_slim/commit/e2b1a85e3109d600cd684f318996c8fa93bc8e47
