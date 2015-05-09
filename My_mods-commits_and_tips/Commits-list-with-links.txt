@@ -1,3 +1,7 @@
+Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)
+https://github.com/ezio84/frameworks_base/commit/0664705da8a84ceb64049a1b03df42cef2ec7052
+https://github.com/ezio84/packages_apps_Settings/commit/8b243ef0963ecf53c01034aef092b2edcc06557e
+
 Add led customization overlay for hammerhead
 https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
 
@@ -12,6 +16,9 @@ https://github.com/ezio84/packages_apps_Settings/commit/e9b2cbd730c6ed23b40828ec
 https://github.com/ezio84/packages_apps_Settings/commit/a67a7e224915e7a794a3203a28df7b0d1740b0b4
 https://github.com/ezio84/packages_services_Telephony/commit/697374c18ca2cedca57e2d202cb6d9ded9ab2634
 https://github.com/ezio84/packages_services_Telephony/commit/cb474a06ca0a9af0436e033c91e3b1e412577227
+https://github.com/ezio84/packages_apps_Settings/commit/3c5b02e5e4446d6e4f4d9c70ab40d86812ee706a
+https://github.com/ezio84/packages_apps_Settings/commit/dfe44e750fa5730a7bb7616f92570f559eea00d8
+https://github.com/ezio84/frameworks_base/commit/37f80f4ea7d60e04e2d6b7cecee4217af7dea82b
 
 Add LCD density setting
 https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
