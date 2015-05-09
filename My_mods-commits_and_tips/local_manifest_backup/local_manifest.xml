@@ -6,8 +6,11 @@
          IMPORTANT: Remember to remove lines from the slim local manifest -->
   <project name="ezio84/device_lge_mako" path="device/lge/mako" remote="github" revision="lp5.1" />
   <project name="ezio84/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="lp5.1" />
+  <!-- Temp switch to Robbie's trees till slim ones are updated)
   <project name="ezio84/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.1" />
-  <project name="ezio84/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="lp5.1" />
+  <project name="ezio84/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="lp5.1" /> -->
+  <project name="RobbieL811/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="lp5.1-test" />
+  <project name="RobbieL811/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="lp5.1" /> -->
   <!-- Proprietary vendor blobs - TEMPORARY DISABLED TILL HAMMERHEAD IS UPDATED BY SLIM TEAM, LET'S SWITCH TO CM ONES FOR HH AND SLIM -ALREADY UPDATED- ONES FOR MAKO
   <project path="vendor/lge/" name="TheLoonyBin/proprietary_vendor_lge" remote="github" revision="lp5.1" />
   <project path="vendor/broadcom/" name="TheLoonyBin/proprietary_vendor_broadcom" remote="github" revision="lp5.1" />
