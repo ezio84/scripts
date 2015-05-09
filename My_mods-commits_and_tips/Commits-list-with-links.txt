@@ -6,7 +6,6 @@ https://github.com/ezio84/frameworks_base/commit/fa5d22731631afe46db2499cc5738a6
 https://github.com/ezio84/frameworks_base/commit/f451c6c2b0c37e0504fbddf78324bd6a9bc9ebfe
 https://github.com/ezio84/frameworks_base/commit/b7a7d773ac373f40ff71812675ec3c2fda34c653
 https://github.com/ezio84/frameworks_base/commit/24ba30488fc391b35fafda4f08196cd982806a9f
-https://github.com/ezio84/frameworks_base/commit/c2f7f07b0c67396421289c9d3f379d538d25859d
 https://github.com/ezio84/frameworks_base/commit/4fbf279c3af75008d6a729ce6bf667c7d7e2b4c3
 https://github.com/ezio84/packages_apps_Settings/commit/250e5f6b840ab76025a9416c863a696b9d10f49b
 https://github.com/ezio84/packages_apps_Settings/commit/e9b2cbd730c6ed23b40828eccd72a5178910db40
