@@ -1,4 +1,7 @@
-Custom QS:
+Add led customization overlay for hammerhead
+https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
+
+Custom QS
 https://github.com/ezio84/frameworks_base/commit/fa5d22731631afe46db2499cc5738a674b5526b2
 https://github.com/ezio84/frameworks_base/commit/f451c6c2b0c37e0504fbddf78324bd6a9bc9ebfe
 https://github.com/ezio84/frameworks_base/commit/b7a7d773ac373f40ff71812675ec3c2fda34c653
