@@ -1,6 +1,26 @@
-Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)
-https://github.com/ezio84/frameworks_base/commit/0664705da8a84ceb64049a1b03df42cef2ec7052
-https://github.com/ezio84/packages_apps_Settings/commit/8b243ef0963ecf53c01034aef092b2edcc06557e
+Silent/interruption mode switch and silent mode with volume down keys + Unlinked volumes + Expandable volume panel:
+https://github.com/ezio84/packages_apps_Settings/commit/2a733cb96604ebde7bd764a4ca4d208afa36746b
+https://github.com/ezio84/packages_apps_Settings/commit/999f379b6fb787b9f825067bbbf71dee025b9fa0
+https://github.com/ezio84/packages_apps_Settings/commit/d86c0695c359030573e440eab2fdafe86591a4c2
+https://github.com/ezio84/packages_apps_Settings/commit/e2c60182ae3940cf532d5c9e3704b92275986ccb
+https://github.com/ezio84/frameworks_base/commit/6a84578c61e1ca69c31afdc4326e56d01fa7015d
+https://github.com/ezio84/frameworks_base/commit/a64e7453fd2d9d0f8157696f6242a18dcb0d313e
+https://github.com/ezio84/frameworks_base/commit/7743ab499dd27a4e33df023786e26420cc25c250
+https://github.com/ezio84/frameworks_base/commit/5724c22d03a6a8f6a86cd27e99ad7e8df5610c99
+https://github.com/ezio84/frameworks_base/commit/51f3783920f3fefb04b0a476e98a91f0a9f04a9f
+https://github.com/ezio84/frameworks_base/commit/030159804be45975c7b416bcf493de123896983b
+https://github.com/ezio84/packages_apps_DeskClock/commit/233dd270545093618a49a4755e5e723bb2ed4002
+
+Slim custom navbar
+https://github.com/ezio84/frameworks_base/commit/eca6c9f0dce61993fe9b374c4ed6b9aebfffdd6c
+https://github.com/ezio84/packages_apps_Settings/commit/5014f2daabe169646ca96a80929991fd444c99b6
+ORIGINAL COMMITS:
+https://review.slimroms.eu/2940
+https://review.slimroms.eu/2939
+
+Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
+https://github.com/ezio84/frameworks_base/commit/0664705da8a84ceb64049a1b03df42cef2ec7052   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
+https://github.com/ezio84/packages_apps_Settings/commit/8b243ef0963ecf53c01034aef092b2edcc06557e   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
 
 Add led customization overlay for hammerhead
 https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
@@ -65,10 +85,10 @@ https://github.com/ezio84/frameworks_base/commit/9257459d9319b4dd3a8bd95e6f3a2d0
 Show Optimizing app dialog on first boot 
 https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
 
-Navbar custom height
-https://github.com/ezio84/packages_apps_Settings/commit/97e03fcaf78c1d55d132085bc9280b9f25f03cb3
-https://github.com/ezio84/frameworks_base/commit/b79edebf475a1353f1c404a59bdaba59de19cc20
-https://github.com/ezio84/frameworks_base/commit/1abed4c5930cd3df08243e062d04b7f1708391b0
+Navbar custom height  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
+https://github.com/ezio84/packages_apps_Settings/commit/97e03fcaf78c1d55d132085bc9280b9f25f03cb3  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
+https://github.com/ezio84/frameworks_base/commit/b79edebf475a1353f1c404a59bdaba59de19cc20  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
+https://github.com/ezio84/frameworks_base/commit/1abed4c5930cd3df08243e062d04b7f1708391b0  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
 
 Add clear all recents action to recents panel
 https://github.com/ezio84/frameworks_base/commit/3e68fe65fb81b34753011d45fca2c2684e0f9336
@@ -93,13 +113,13 @@ Statusar: bring back Network indicators
 https://github.com/ezio84/packages_apps_Settings/commit/ef3ff1979b2134da582567127cf97b5aa3431103
 https://github.com/ezio84/frameworks_base/commit/f96ecbe5c24fbf88d5f48b89f9e3e845213b5b91
 
-Bring the baby back: longpress back button to kill the app
-https://github.com/ezio84/packages_apps_Settings/commit/bd1e5344eff9bd8a1b2294cb754f671e6f5ca031
-https://github.com/ezio84/frameworks_base/commit/939830fbd8fb43458916487f1915c940a923ab96
-https://github.com/ezio84/packages_apps_Settings/commit/627030ae3dcec263c7d477fb00821f7c1c6a0cf2
+Bring the baby back: longpress back button to kill the app  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
+https://github.com/ezio84/packages_apps_Settings/commit/bd1e5344eff9bd8a1b2294cb754f671e6f5ca031  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
+https://github.com/ezio84/frameworks_base/commit/939830fbd8fb43458916487f1915c940a923ab96  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
+https://github.com/ezio84/packages_apps_Settings/commit/627030ae3dcec263c7d477fb00821f7c1c6a0cf2  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
 
-Bring another baby back: longpress recents to go to last app 
-https://github.com/ezio84/frameworks_base/commit/7f53b20d0d9ee882ec2bf79a84870b1ed8f4bf14
+Bring another baby back: longpress recents to go to last app  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
+https://github.com/ezio84/frameworks_base/commit/7f53b20d0d9ee882ec2bf79a84870b1ed8f4bf14  <---REVERTED DUE TO THE NEW SLIM CUSTOM NAVBAR COMMIT
 
 Unknown source apps: enable apk installation by default
 https://github.com/ezio84/frameworks_base/commit/c5ed5217fb2e11bfa103e4af78426432f0b102db
