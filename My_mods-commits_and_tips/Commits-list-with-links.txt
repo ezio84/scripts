@@ -10,6 +10,7 @@ https://github.com/ezio84/frameworks_base/commit/5724c22d03a6a8f6a86cd27e99ad7e8
 https://github.com/ezio84/frameworks_base/commit/51f3783920f3fefb04b0a476e98a91f0a9f04a9f
 https://github.com/ezio84/frameworks_base/commit/030159804be45975c7b416bcf493de123896983b
 https://github.com/ezio84/packages_apps_DeskClock/commit/233dd270545093618a49a4755e5e723bb2ed4002
+Fix to fit the "Allow disabling adjusting volume sounds" commit: https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fcabd781718a
 
 Slim custom navbar
 https://github.com/ezio84/frameworks_base/commit/eca6c9f0dce61993fe9b374c4ed6b9aebfffdd6c
