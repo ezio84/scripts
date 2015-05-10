@@ -1,3 +1,8 @@
+Flip to Mute/Reject Call
+https://github.com/ezio84/frameworks_base/commit/80bfc50f0a250fbdc42c10f0ff3764339b180f3c
+https://github.com/ezio84/packages_services_Telephony/commit/4171c72acb10245c24542dd04003734b19b3906c
+https://github.com/ezio84/packages_apps_InCallUI/commit/f65014317203ce46363408a01b238ddf393549af
+
 Silent/interruption mode switch and silent mode with volume down keys + Unlinked volumes + Expandable volume panel:
 https://github.com/ezio84/packages_apps_Settings/commit/2a733cb96604ebde7bd764a4ca4d208afa36746b
 https://github.com/ezio84/packages_apps_Settings/commit/999f379b6fb787b9f825067bbbf71dee025b9fa0
