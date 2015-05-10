@@ -53,6 +53,8 @@
   <project path="packages/providers/TelephonyProvider" name="ezio84/packages_providers_TelephonyProvider" remote="github" revision="lp5.1" />
   <remove-project path="bionic" name="SlimRoms/android_bionic" />
   <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.1" />
+  <remove-project path="packages/apps/DeskClock" name="SlimRoms/packages_apps_DeskClock" />
+  <project path="packages/apps/DeskClock" name="ezio84/packages_apps_DeskClock" remote="github" revision="lp5.1" />
   <!-- I'm not using the aosp Browser anymore, Chrome works well -->
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
