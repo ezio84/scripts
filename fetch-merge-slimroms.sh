@@ -21,8 +21,6 @@ echo -e "${bldgrn}Updating vendor/slim ${txtrst}"
 cd $rdir/vendor/slim && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/vendor_slim lp5.1
 # echo -e "${bldgrn}Updating packages/apps/SlimCenter ${txtrst}"
 # cd $rdir/packages/apps/SlimCenter && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_SlimCenter lp5.1
-echo -e "${bldgrn}Updating packages/apps/SlimOTA ${txtrst}"
-cd $rdir/packages/apps/SlimOTA && git checkout lp5.1 && git fetch slimsaber && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_SlimOTA lp5.1
 echo -e "${bldgrn}Updating system/core ${txtrst}"
 cd $rdir/system/core && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/android_system_core lp5.1
 echo -e "${bldgrn}Updating device/lge/mako ${txtrst}"

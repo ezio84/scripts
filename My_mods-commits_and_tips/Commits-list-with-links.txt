@@ -2,13 +2,6 @@ Show application's package name in the "App info" screen
 https://github.com/ezio84/packages_apps_Settings/commit/eb0f56530e410cfa45b173aba8dbf13910ca76b0
 https://github.com/ezio84/packages_apps_Settings/commit/138fb7649f6df7c1ac0776ce2ed6b908d82afd4e
 
-SlimOTA
-https://github.com/ezio84/packages_apps_Settings/commit/061e7dd7e6624e887fb0d18a94316831218d8be1
-https://github.com/ezio84/vendor_slim/commit/c6d36b41cd06934b9fddcb916098e397bf17e683
-Local manifest: project path="packages/apps/SlimOTA" name="ezio84/packages_apps_SlimOTA" remote="github" revision="lp5.1" />
-Howto: https://github.com/ezio84/packages_apps_SlimOTA/blob/lp5.0/README.md
-My ota files parsing: https://github.com/ezio84/scripts/tree/lp5.1/My_mods-commits_and_tips/example-files-for-slimota
-
 Flip to Mute/Reject Call
 https://github.com/ezio84/frameworks_base/commit/80bfc50f0a250fbdc42c10f0ff3764339b180f3c
 https://github.com/ezio84/packages_services_Telephony/commit/4171c72acb10245c24542dd04003734b19b3906c
