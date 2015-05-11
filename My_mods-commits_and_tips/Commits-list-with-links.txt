@@ -1,3 +1,10 @@
+SlimOTA
+https://github.com/ezio84/packages_apps_Settings/commit/061e7dd7e6624e887fb0d18a94316831218d8be1
+https://github.com/ezio84/vendor_slim/commit/c6d36b41cd06934b9fddcb916098e397bf17e683
+Local manifest: project path="packages/apps/SlimOTA" name="ezio84/packages_apps_SlimOTA" remote="github" revision="lp5.1" />
+Howto: https://github.com/ezio84/packages_apps_SlimOTA/blob/lp5.0/README.md
+
+
 Flip to Mute/Reject Call
 https://github.com/ezio84/frameworks_base/commit/80bfc50f0a250fbdc42c10f0ff3764339b180f3c
 https://github.com/ezio84/packages_services_Telephony/commit/4171c72acb10245c24542dd04003734b19b3906c
@@ -211,24 +218,24 @@ Launch SuperSU from Settings
 https://github.com/ezio84/packages_apps_Settings/commit/cb0a2cae3ecf022d2d3fc8bc39bbd1713de511a1
 https://github.com/ezio84/packages_apps_Settings/commit/5be069e1c46ca5a80c67fcd742c634becf5ea0ae
 
-- Add back Slimcenter and ota notifications
-Add this line to the manifest: <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.1" />
-(remove the existing slimcenter project when slim devs bring it back)
-uncomment the Slimcenter line in the vendor/common.mk if it's commented with #
-https://github.com/ezio84/frameworks_base/commit/c412daa938ab19249e36d7a0c12409c945743a4a
-https://github.com/ezio84/packages_apps_SlimCenter/commit/5968c3cfac28d03c3d8c3dc98ed8c61bd12e521a (merged)
-https://github.com/ezio84/packages_apps_SlimCenter/commit/4bd8c64f81c649751ebced44234baf79aa1f6677 (merged)
-https://github.com/ezio84/packages_apps_SlimCenter/commit/34a2f332622bb251c8ad1a8f781342cd198853ec (merged)
-https://github.com/ezio84/packages_apps_SlimCenter/commit/b581bd1fab5c0c3f2696dc5fa9488697b5220fef (merged)
-https://github.com/ezio84/vendor_slim/commit/9a59f322536f14d3b57293574840e39f89b862bc
-https://github.com/ezio84/packages_apps_Settings/commit/6864727938cdbee4f3fdbe3f0765456deb741010
+- Add back Slimcenter and ota notifications <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+Add this line to the manifest: <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.1" /> <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+(remove the existing slimcenter project when slim devs bring it back) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+uncomment the Slimcenter line in the vendor/common.mk if it's commented with # <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/frameworks_base/commit/c412daa938ab19249e36d7a0c12409c945743a4a <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/packages_apps_SlimCenter/commit/5968c3cfac28d03c3d8c3dc98ed8c61bd12e521a (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/packages_apps_SlimCenter/commit/4bd8c64f81c649751ebced44234baf79aa1f6677 (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/packages_apps_SlimCenter/commit/34a2f332622bb251c8ad1a8f781342cd198853ec (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/packages_apps_SlimCenter/commit/b581bd1fab5c0c3f2696dc5fa9488697b5220fef (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/vendor_slim/commit/9a59f322536f14d3b57293574840e39f89b862bc <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/packages_apps_Settings/commit/6864727938cdbee4f3fdbe3f0765456deb741010 <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
 
 SlimChangelog (also in a slimcenter tab)
 https://github.com/ezio84/android_build/commit/7e0de15a3b7370e89d08ec545eaca6bafa8d78f2
 https://github.com/ezio84/vendor_slim/commit/35253bad180cd35223dc77b0ef5621fc3a16c636
-https://github.com/ezio84/packages_apps_SlimCenter/commit/200993edea8a766228dac5b6f78c6a58243f84b3 (merged)
-https://github.com/ezio84/packages_apps_SlimCenter/commit/edd6c8eb877acafbb129dfa7a5bb275bdb55a3ac (merged)
-https://github.com/ezio84/packages_apps_SlimCenter/commit/48bdd10218330742aafc47c08cf57bd1947114fc (merged)
+https://github.com/ezio84/packages_apps_SlimCenter/commit/200993edea8a766228dac5b6f78c6a58243f84b3 (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/packages_apps_SlimCenter/commit/edd6c8eb877acafbb129dfa7a5bb275bdb55a3ac (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
+https://github.com/ezio84/packages_apps_SlimCenter/commit/48bdd10218330742aafc47c08cf57bd1947114fc (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
 https://github.com/ezio84/scripts/blob/lp5.1/build_rom.sh (release and norelease flag)
 
 Restore MD5 creation for the rom zip file

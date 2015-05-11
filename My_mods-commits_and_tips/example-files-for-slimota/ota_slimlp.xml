@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <A0001>
+            <Filename>Slim.ezio84-mako-5.1.1.build.0.1a-20150511.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download SlimLPmod builds">https://www.androidfilehost.com/?w=files&amp;flid=22910</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Download SlimLPmod changelogs">http://forum.xda-developers.com/showpost.php?p=55121776&amp;postcount=6</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest SlimGapps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit SlimLPmod bacon thread">http://forum.xda-developers.com/showpost.php?p=55121776</XDAUrl>
+	</A0001>
+        <A0002>
+            <Filename>Slim.ezio84-hammerhead-5.1.1.build.0.1a-20150511.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download SlimLPmod builds">https://www.androidfilehost.com/?w=files&amp;flid=22911</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Download SlimLPmod changelogs">http://forum.xda-developers.com/showpost.php?p=55121776&amp;postcount=6</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest SlimGapps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit SlimLPmod bacon thread">http://forum.xda-developers.com/showpost.php?p=55121776</XDAUrl>
+	</A0002>
+    </Stable>
+</SlimOTA>

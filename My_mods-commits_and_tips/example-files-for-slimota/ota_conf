@@ -1,0 +1,41 @@
+#
+# OTA XML
+#
+# <?xml version="1.0" encoding="UTF-8"?>
+# <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+#   <Stable>
+#     <A0001>
+#       <Filename>SlimSaber-bacon-5.0.2-20150507</Filename>
+#       <RomUrl>https://www.androidfilehost.com/?w=files&amp;flid=21887</RomUrl>
+#       <GappsUrl>http://209.95.39.164/Gapps/Lollipop</GappsUrl>
+#       <ChangelogUrl>https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
+#     </A0001>
+#   </Stable>
+# </SlimOTA>
+#
+# Note:
+# * Multiple devices can be added in the xml file
+# * You can define any tags that end with 'Url'. These tags will be added in the UI automatically 
+#
+ota_url=https://dl.dropboxusercontent.com/u/11792878/ota_slimlp.xml/?dl=1
+release_type=Stable
+device_name=ro.product.device
+
+#
+# VERSION
+#
+# Example: Parse the 20150426 from the version name
+#
+# Version name: SlimSaber-bacon-5.0.2-20150426
+# Version delimiter: -
+# Version position: 3 (zero based)
+# Version format: yyyyMMdd
+#
+# Note :
+# * Version name must contain a parseable date
+# * Version name must match with the Filename in the OTA XML file in order to compare the date
+#
+version_name=ro.modversion
+version_delimiter=-
+version_position=3
+version_format=yyyyMMdd
