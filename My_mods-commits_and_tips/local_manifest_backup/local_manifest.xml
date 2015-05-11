@@ -27,6 +27,8 @@
   </project>
   <remove-project path="vendor/slim" name="SlimRoms/vendor_slim" />
   <project path="vendor/slim" name="ezio84/vendor_slim" remote="github" revision="lp5.1" />
+  <!-- Not needed with the advanced DocumentUI-->
+  <remove-project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" />
   <!-- <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.1" /> -->
   <project path="packages/apps/SlimOTA" name="ezio84/packages_apps_SlimOTA" remote="github" revision="lp5.1" />
