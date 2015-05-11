@@ -1,6 +1,6 @@
 Show application's package name in the "App info" screen
 https://github.com/ezio84/packages_apps_Settings/commit/eb0f56530e410cfa45b173aba8dbf13910ca76b0
-https://github.com/ezio84/packages_apps_Settings/commit/ea0de63398861e696bd66b771c82c7b2ef1ea2d3
+https://github.com/ezio84/packages_apps_Settings/commit/138fb7649f6df7c1ac0776ce2ed6b908d82afd4e
 
 SlimOTA
 https://github.com/ezio84/packages_apps_Settings/commit/061e7dd7e6624e887fb0d18a94316831218d8be1
@@ -62,6 +62,7 @@ https://github.com/ezio84/packages_services_Telephony/commit/cb474a06ca0a9af0436
 https://github.com/ezio84/packages_apps_Settings/commit/3c5b02e5e4446d6e4f4d9c70ab40d86812ee706a
 https://github.com/ezio84/packages_apps_Settings/commit/dfe44e750fa5730a7bb7616f92570f559eea00d8
 https://github.com/ezio84/frameworks_base/commit/37f80f4ea7d60e04e2d6b7cecee4217af7dea82b
+https://github.com/ezio84/frameworks_base/commit/451deafeaf85d7ef9ceadf82ef45de6cffd959cf
 
 Add LCD density setting
 https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
