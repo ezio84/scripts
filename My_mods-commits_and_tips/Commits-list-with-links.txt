@@ -127,6 +127,7 @@ https://github.com/ezio84/frameworks_base/commit/ae3523b9e103129398b0f1bbbd7c3e3
 
 DocumentsUI: Add a standalone File Manager
 https://github.com/ezio84/frameworks_base/commit/0984942d51a903335cd3b555f966aee77e7acd44
+https://github.com/ezio84/frameworks_base/commit/cd4517a2827f96b2c88fa9192016508ffe7e028f
 
 Statusar: bring back Network indicators
 https://github.com/ezio84/packages_apps_Settings/commit/ef3ff1979b2134da582567127cf97b5aa3431103
