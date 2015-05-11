@@ -1,3 +1,7 @@
+Show application's package name in the "App info" screen
+https://github.com/ezio84/packages_apps_Settings/commit/eb0f56530e410cfa45b173aba8dbf13910ca76b0
+https://github.com/ezio84/packages_apps_Settings/commit/ea0de63398861e696bd66b771c82c7b2ef1ea2d3
+
 SlimOTA
 https://github.com/ezio84/packages_apps_Settings/commit/061e7dd7e6624e887fb0d18a94316831218d8be1
 https://github.com/ezio84/vendor_slim/commit/c6d36b41cd06934b9fddcb916098e397bf17e683
