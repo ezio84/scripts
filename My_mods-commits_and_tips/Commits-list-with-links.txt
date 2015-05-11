@@ -29,10 +29,13 @@ https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e3458768682
 Slim custom navbar
 https://github.com/ezio84/frameworks_base/commit/172b13bc30799503fecdc61fb5decd5a77221da3
 https://github.com/ezio84/packages_apps_Settings/commit/629ec59e037ee74cf6e9dad0e02984479807781d
+https://github.com/ezio84/packages_apps_Settings/commit/e567843e2d74cc6926b54c09b756f31cc68639e1
+https://github.com/ezio84/packages_apps_Settings/commit/daf8ed4e8bff27408ac3f0cc7363ec02c2a31f60
+
 ORIGINAL COMMITS:
 https://review.slimroms.eu/2940
 https://review.slimroms.eu/2939
-Mod settings menu icon: https://github.com/ezio84/packages_apps_Settings/commit/e567843e2d74cc6926b54c09b756f31cc68639e1
+
 
 Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
 https://github.com/ezio84/frameworks_base/commit/0664705da8a84ceb64049a1b03df42cef2ec7052   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
