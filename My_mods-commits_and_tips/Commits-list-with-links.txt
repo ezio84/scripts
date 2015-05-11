@@ -3,7 +3,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/061e7dd7e6624e887fb0d18a
 https://github.com/ezio84/vendor_slim/commit/c6d36b41cd06934b9fddcb916098e397bf17e683
 Local manifest: project path="packages/apps/SlimOTA" name="ezio84/packages_apps_SlimOTA" remote="github" revision="lp5.1" />
 Howto: https://github.com/ezio84/packages_apps_SlimOTA/blob/lp5.0/README.md
-
+My ota files parsing: https://github.com/ezio84/scripts/tree/lp5.1/My_mods-commits_and_tips/example-files-for-slimota
 
 Flip to Mute/Reject Call
 https://github.com/ezio84/frameworks_base/commit/80bfc50f0a250fbdc42c10f0ff3764339b180f3c
