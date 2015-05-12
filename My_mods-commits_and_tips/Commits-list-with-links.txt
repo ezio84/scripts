@@ -1,3 +1,10 @@
+Add led, doze, proximity overlays for hammerhead
+https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
+https://github.com/ezio84/device_lge_hammerhead/commit/7158186ab534944cb31ff839934985e67670a6d0
+https://github.com/ezio84/device_lge_hammerhead/commit/abb3ecd63e38ad0b11d19daa8f8d1252bc6d33cc
+https://github.com/ezio84/device_lge_hammerhead/commit/9939790794c55a9f5be95c90a57aaa1e22903407
+(on mako, led and proximity are already merged, doze won't be due to some issues).
+
 Show application's package name in the "App info" screen
 https://github.com/ezio84/packages_apps_Settings/commit/eb0f56530e410cfa45b173aba8dbf13910ca76b0
 https://github.com/ezio84/packages_apps_Settings/commit/fbc51ffeaf291dbefb069b45c1b4435011298930
@@ -33,9 +40,6 @@ https://review.slimroms.eu/2939
 Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
 https://github.com/ezio84/frameworks_base/commit/0664705da8a84ceb64049a1b03df42cef2ec7052   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
 https://github.com/ezio84/packages_apps_Settings/commit/8b243ef0963ecf53c01034aef092b2edcc06557e   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
-
-Add led customization overlay for hammerhead
-https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
 
 Custom QS
 https://github.com/ezio84/frameworks_base/commit/fa5d22731631afe46db2499cc5738a674b5526b2
