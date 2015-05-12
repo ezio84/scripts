@@ -31,8 +31,9 @@ https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fca
 https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e34587686823496cd9cea6a8099
 
 Slim custom navbar
-https://github.com/ezio84/packages_apps_Settings/commit/dae863a6c82165707b27cc900081216493b414c6
+https://github.com/ezio84/packages_apps_Settings/commit/db7da1a2cf42658abff54efb6a73cb9e80da4023
 https://github.com/ezio84/frameworks_base/commit/12d4b98f597f031bbb35795d9f66e3aef99c846a
+https://github.com/ezio84/frameworks_base/commit/ad4770bf147fc9bc1fdfc9cd6f2da731656ace3d
 ORIGINAL COMMITS:
 https://review.slimroms.eu/2940
 https://review.slimroms.eu/2939
