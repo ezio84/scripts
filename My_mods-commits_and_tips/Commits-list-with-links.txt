@@ -1,3 +1,7 @@
+Recents: option to disable searchbar 
+https://github.com/ezio84/packages_apps_Settings/commit/d5194dbdd9fe429b93498b769287d3e1abe5d8b5
+https://github.com/ezio84/frameworks_base/commit/e95f1c1fecddb3e99bddd89c1a0eed6721a99ece
+
 Add led, doze, proximity overlays for hammerhead
 https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
 https://github.com/ezio84/device_lge_hammerhead/commit/7158186ab534944cb31ff839934985e67670a6d0
