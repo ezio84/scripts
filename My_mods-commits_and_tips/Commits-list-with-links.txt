@@ -1,6 +1,6 @@
 Show application's package name in the "App info" screen
 https://github.com/ezio84/packages_apps_Settings/commit/eb0f56530e410cfa45b173aba8dbf13910ca76b0
-https://github.com/ezio84/packages_apps_Settings/commit/138fb7649f6df7c1ac0776ce2ed6b908d82afd4e
+https://github.com/ezio84/packages_apps_Settings/commit/fbc51ffeaf291dbefb069b45c1b4435011298930
 
 Flip to Mute/Reject Call
 https://github.com/ezio84/frameworks_base/commit/80bfc50f0a250fbdc42c10f0ff3764339b180f3c
@@ -24,15 +24,11 @@ https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fca
 https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e34587686823496cd9cea6a8099
 
 Slim custom navbar
-https://github.com/ezio84/frameworks_base/commit/172b13bc30799503fecdc61fb5decd5a77221da3
-https://github.com/ezio84/packages_apps_Settings/commit/629ec59e037ee74cf6e9dad0e02984479807781d
-https://github.com/ezio84/packages_apps_Settings/commit/e567843e2d74cc6926b54c09b756f31cc68639e1
-https://github.com/ezio84/packages_apps_Settings/commit/daf8ed4e8bff27408ac3f0cc7363ec02c2a31f60
-
+https://github.com/ezio84/packages_apps_Settings/commit/dae863a6c82165707b27cc900081216493b414c6
+https://github.com/ezio84/frameworks_base/commit/12d4b98f597f031bbb35795d9f66e3aef99c846a
 ORIGINAL COMMITS:
 https://review.slimroms.eu/2940
 https://review.slimroms.eu/2939
-
 
 Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
 https://github.com/ezio84/frameworks_base/commit/0664705da8a84ceb64049a1b03df42cef2ec7052   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
@@ -56,6 +52,9 @@ https://github.com/ezio84/packages_apps_Settings/commit/3c5b02e5e4446d6e4f4d9c70
 https://github.com/ezio84/packages_apps_Settings/commit/dfe44e750fa5730a7bb7616f92570f559eea00d8
 https://github.com/ezio84/frameworks_base/commit/37f80f4ea7d60e04e2d6b7cecee4217af7dea82b
 https://github.com/ezio84/frameworks_base/commit/451deafeaf85d7ef9ceadf82ef45de6cffd959cf
+https://github.com/ezio84/frameworks_base/commit/e380a768cc9e94e754ac3e42430ea52020a33048
+https://github.com/ezio84/frameworks_base/commit/dd4d26f4dbf6ccbfee9c13afa6cbdbccf7878e81
+https://github.com/ezio84/frameworks_base/commit/65bc79e3a77c8e341e500f0b65d358d8e1f919b7
 
 Add LCD density setting
 https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
@@ -98,6 +97,7 @@ Add ability to change the color in battery saver mode
 https://github.com/ezio84/packages_apps_Settings/commit/682ecd495d7cd84979106f60076cf266ad229565
 https://github.com/ezio84/frameworks_base/commit/9556802e9128e4964690d6d2f8e656ab53b3f5ef
 https://github.com/ezio84/frameworks_base/commit/9257459d9319b4dd3a8bd95e6f3a2d0d6bb95efc
+code cleanup by Griff (for other features too): https://github.com/ezio84/frameworks_base/commit/cca21c41581c9830d1c22fd012b9d550fd5adcc9
 
 Show Optimizing app dialog on first boot 
 https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
@@ -152,6 +152,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/5e7a0947118dda87d5f25b2c
 Add options for battery icon and text in status bar
 https://github.com/ezio84/packages_apps_Settings/commit/c311a6f2ff2a676f4e2c0455cbce355209079390
 https://github.com/ezio84/frameworks_base/commit/039a26dfa847931ac5130e0846a49fbb56206ebb
+https://github.com/ezio84/packages_apps_Settings/commit/14b96ec010508f70ecb5f116903d9259270640e7
 
 Custom System Tools Menu in Settings
 https://github.com/ezio84/packages_apps_Settings/commit/0e0a80802f685b4f2581a468c27534aaf419baff
@@ -258,9 +259,9 @@ https://github.com/ezio84/scripts/commit/f68ceb28c6795e1a3277f13e2cac4f70bd10278
 https://github.com/ezio84/vendor_slim/commit/01202b95bd0631bdf56f963f3a198d330f3c4b6c
 https://github.com/ezio84/android_build/commit/05af9f841dc9146b84bf2b17b41dd8b1785c3c00
 
-Remove Browser
-https://github.com/ezio84/android_build/commit/f79ef959e67cf12ecbe9107628fa7f9757c1d133 (don't remove email and exchange, some stuff of them like emailcommon is needed by BT)
-Add this line in the manifest: <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
+Remove Browser <-- REVERTED, BROWSER IS USEFUL WHEN USING THE ROM WITHOUT GAPPS
+https://github.com/ezio84/android_build/commit/f79ef959e67cf12ecbe9107628fa7f9757c1d133 (don't remove email and exchange, some stuff of them like emailcommon is needed by BT) <-- REVERTED, BROWSER IS USEFUL WHEN USING THE ROM WITHOUT GAPPS
+Add this line in the manifest: <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" /> <-- REVERTED, BROWSER IS USEFUL WHEN USING THE ROM WITHOUT GAPPS
 
 Switch to UberTC toolchain for the rom (not the kernel)
 https://github.com/ezio84/scripts/blob/lp5.1/My_mods-commits_and_tips/local_manifest_backup/uber-toolchain.xml
