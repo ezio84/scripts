@@ -35,9 +35,13 @@ https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fca
 https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e34587686823496cd9cea6a8099
 
 Slim custom navbar
-https://github.com/ezio84/frameworks_base/commit/aceb6eb178c17708ae073c996805b9573c0c7b21
-https://github.com/ezio84/packages_apps_Settings/commit/1f83a865b99b935a0514cd973e07eea27734eb65
+https://github.com/ezio84/frameworks_base/commit/6ac39c34a7c915f579425baf102f41c90689da9b
+https://github.com/ezio84/frameworks_base/commit/7abfeb99567b2b85165659848f6dee55516a4096
+https://github.com/ezio84/packages_apps_Settings/commit/6baefcc5417e6274667726bcbcb613dcce698b43
+https://github.com/ezio84/packages_apps_Settings/commit/0cfa7c2ef726959b3fcea0a6e6a353168041680f
 ORIGINAL COMMITS:
+https://review.slimroms.eu/#/c/3098/6
+https://review.slimroms.eu/#/c/3098/
 https://review.slimroms.eu/2940
 https://review.slimroms.eu/2939
 
@@ -62,7 +66,6 @@ https://github.com/ezio84/frameworks_base/commit/37f80f4ea7d60e04e2d6b7cecee4217
 https://github.com/ezio84/frameworks_base/commit/451deafeaf85d7ef9ceadf82ef45de6cffd959cf
 https://github.com/ezio84/frameworks_base/commit/e380a768cc9e94e754ac3e42430ea52020a33048
 https://github.com/ezio84/frameworks_base/commit/dd4d26f4dbf6ccbfee9c13afa6cbdbccf7878e81
-https://github.com/ezio84/frameworks_base/commit/65bc79e3a77c8e341e500f0b65d358d8e1f919b7
 https://github.com/ezio84/frameworks_base/commit/e380a768cc9e94e754ac3e42430ea52020a33048
 
 Add LCD density setting
