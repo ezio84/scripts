@@ -18,6 +18,10 @@ LOCAL_CERTIFICATE := PRESIGNED
 include $(BUILD_PREBUILT)
 
 
+Then in the config/common.mk add the package line:
+ PRODUCT_PACKAGES += \
+       AdAway \
+
 ---
 
 to add a not prebuilt package like cameranext under packages_apps_:
