@@ -1,3 +1,14 @@
+Add back quick sound mode switch in the notification tile (custom QS commits are needed)
+https://github.com/ezio84/packages_apps_Settings/commit/d18ee2bcda149e7c6fd17c248c34d8a3670170cf
+https://github.com/ezio84/frameworks_base/commit/b13a330f81c4fb1b3d071853f689bb0cf2438286
+
+Telephony: Make voicemail notifications dismissable
+https://github.com/ezio84/packages_services_Telephony/commit/e68358a12b8ebdb80781e72e5a3a1f17baf9aae9
+
+Settings: Allow/Prevent notification light in Zen mode
+https://github.com/ezio84/packages_apps_Settings/commit/6879aaccf9504bf458e6fef937dc2da6574d8e7c
+https://github.com/ezio84/frameworks_base/commit/d41c3823f5b63bc91a3905ec481e0cb5af8f3fa3
+
 Some mtp settings improvements by CM
 https://github.com/ezio84/packages_apps_Settings/commit/15d4cd6a03c202172944cdeb99daf10695e0f03b
 https://github.com/ezio84/packages_apps_Settings/commit/ee49636260303818b2d2a7190f6a98768cb24b40
