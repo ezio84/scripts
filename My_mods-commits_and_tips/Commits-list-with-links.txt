@@ -1,15 +1,9 @@
 Add back quick sound mode switch in the notification tile (custom QS commits are needed)
-https://github.com/ezio84/packages_apps_Settings/commit/d18ee2bcda149e7c6fd17c248c34d8a3670170cf
-https://github.com/ezio84/frameworks_base/commit/b13a330f81c4fb1b3d071853f689bb0cf2438286
+https://github.com/ezio84/packages_apps_Settings/commit/f88011966b621388f4366fd0e4eababb88de2e8f
+https://github.com/ezio84/frameworks_base/commit/7346c7a3b5262c699f7ce54e297c7395829a0f7d
 
 Telephony: Make voicemail notifications dismissable
 https://github.com/ezio84/packages_services_Telephony/commit/e68358a12b8ebdb80781e72e5a3a1f17baf9aae9
-
-Settings: Allow/Prevent notification light in Zen mode
-https://github.com/ezio84/packages_apps_Settings/commit/6879aaccf9504bf458e6fef937dc2da6574d8e7c
-https://github.com/ezio84/frameworks_base/commit/d41c3823f5b63bc91a3905ec481e0cb5af8f3fa3
-https://github.com/ezio84/frameworks_base/commit/c21c77ce4c0d7013f3b078c5bc258fc972e97981
-https://github.com/ezio84/frameworks_base/commit/5a4cee07945bed02498b038b93cef7972c32ab40
 
 Some mtp settings improvements by CM
 https://github.com/ezio84/packages_apps_Settings/commit/15d4cd6a03c202172944cdeb99daf10695e0f03b
@@ -136,9 +130,6 @@ https://github.com/ezio84/frameworks_base/commit/1abed4c5930cd3df08243e062d04b7f
 
 Add clear all recents action to recents panel
 https://github.com/ezio84/frameworks_base/commit/3e68fe65fb81b34753011d45fca2c2684e0f9336
-
-Show Optimizing app dialog on first boot
-https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
 
 Enable led overlays for hammerhead (already enabled for mako)
 https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
