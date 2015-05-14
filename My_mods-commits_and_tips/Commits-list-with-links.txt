@@ -1,3 +1,10 @@
+Some mtp settings improvements by CM
+https://github.com/ezio84/packages_apps_Settings/commit/15d4cd6a03c202172944cdeb99daf10695e0f03b
+https://github.com/ezio84/packages_apps_Settings/commit/ee49636260303818b2d2a7190f6a98768cb24b40
+https://github.com/ezio84/packages_apps_Settings/commit/d956d9b8244073fa0eb5547707182fc696e5419c
+https://github.com/ezio84/packages_apps_Settings/commit/9d1999fff61ebc1bd79b673b3da3f8e6b52abb53
+https://github.com/ezio84/packages_apps_Settings/commit/f2674082a61fc7d3a13faabf6072783b5ebe0641
+
 Recents: option to disable searchbar 
 https://github.com/ezio84/packages_apps_Settings/commit/d5194dbdd9fe429b93498b769287d3e1abe5d8b5
 https://github.com/ezio84/frameworks_base/commit/e95f1c1fecddb3e99bddd89c1a0eed6721a99ece
@@ -35,11 +42,7 @@ https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fca
 https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e34587686823496cd9cea6a8099
 
 Slim custom navbar
-https://github.com/ezio84/frameworks_base/commit/6ac39c34a7c915f579425baf102f41c90689da9b
-https://github.com/ezio84/frameworks_base/commit/7abfeb99567b2b85165659848f6dee55516a4096
-https://github.com/ezio84/packages_apps_Settings/commit/6baefcc5417e6274667726bcbcb613dcce698b43
-https://github.com/ezio84/packages_apps_Settings/commit/0cfa7c2ef726959b3fcea0a6e6a353168041680f
-ORIGINAL COMMITS:
+ORIGINAL COMMITS (work in progress):
 https://review.slimroms.eu/#/c/3098/6
 https://review.slimroms.eu/#/c/3098/
 https://review.slimroms.eu/2940
@@ -67,6 +70,7 @@ https://github.com/ezio84/frameworks_base/commit/451deafeaf85d7ef9ceadf82ef45de6
 https://github.com/ezio84/frameworks_base/commit/e380a768cc9e94e754ac3e42430ea52020a33048
 https://github.com/ezio84/frameworks_base/commit/dd4d26f4dbf6ccbfee9c13afa6cbdbccf7878e81
 https://github.com/ezio84/frameworks_base/commit/e380a768cc9e94e754ac3e42430ea52020a33048
+https://github.com/ezio84/frameworks_base/commit/534a8bd48f7a3677d4462c72038764704c6cc51a
 
 Add LCD density setting
 https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
