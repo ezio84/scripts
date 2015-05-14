@@ -7,7 +7,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/f2674082a61fc7d3a13faabf
 
 Recents: option to disable searchbar 
 https://github.com/ezio84/packages_apps_Settings/commit/d5194dbdd9fe429b93498b769287d3e1abe5d8b5
-https://github.com/ezio84/frameworks_base/commit/e95f1c1fecddb3e99bddd89c1a0eed6721a99ece
+https://github.com/ezio84/frameworks_base/commit/bc0962e124dc3afd4b209289b00fe27bc6956a8b
 
 Add led, doze, proximity overlays for hammerhead
 https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
@@ -111,9 +111,7 @@ https://github.com/ezio84/packages_apps_InCallUI/commit/14460f2a7028dcc605f429be
 
 Add ability to change the color in battery saver mode
 https://github.com/ezio84/packages_apps_Settings/commit/682ecd495d7cd84979106f60076cf266ad229565
-https://github.com/ezio84/frameworks_base/commit/9556802e9128e4964690d6d2f8e656ab53b3f5ef
-https://github.com/ezio84/frameworks_base/commit/9257459d9319b4dd3a8bd95e6f3a2d0d6bb95efc
-code cleanup by Griff (for other features too): https://github.com/ezio84/frameworks_base/commit/cca21c41581c9830d1c22fd012b9d550fd5adcc9
+https://github.com/ezio84/frameworks_base/commit/3c881aab837398554288a46e71704251f97dafb6
 
 Show Optimizing app dialog on first boot 
 https://github.com/ezio84/frameworks_base/commit/fed5039d0cb844f1b320d0d30fa7f2db1e9ea1a5
