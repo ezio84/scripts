@@ -9,6 +9,7 @@ Settings: Allow/Prevent notification light in Zen mode
 https://github.com/ezio84/packages_apps_Settings/commit/6879aaccf9504bf458e6fef937dc2da6574d8e7c
 https://github.com/ezio84/frameworks_base/commit/d41c3823f5b63bc91a3905ec481e0cb5af8f3fa3
 https://github.com/ezio84/frameworks_base/commit/c21c77ce4c0d7013f3b078c5bc258fc972e97981
+https://github.com/ezio84/frameworks_base/commit/5a4cee07945bed02498b038b93cef7972c32ab40
 
 Some mtp settings improvements by CM
 https://github.com/ezio84/packages_apps_Settings/commit/15d4cd6a03c202172944cdeb99daf10695e0f03b
