@@ -35,7 +35,7 @@ cd $rdir/kernel/lge/mako && git checkout lp5.1 && git fetch slimroms && git merg
 echo -e "${bldgrn}Updating device/lge/hammerhead ${txtrst}"
 cd $rdir/device/lge/hammerhead && git checkout lp5.1-test && git fetch robbie && git merge robbie/lp5.1 && git push https://github.com/ezio84/device_lge_hammerhead lp5.1-test
 echo -e "${bldgrn}Updating kernel/lge/hammerhead ${txtrst}"
-cd $rdir/kernel/lge/hammerhead && git checkout lp5.1 && git fetch robbie && git merge robbie/lp5.1 && git push https://github.com/ezio84/kernel_lge_hammerhead lp5.1
+cd $rdir/kernel/lge/hammerhead && git checkout lp5.1-test && git fetch robbie && git merge robbie/lp5.1-test && git push https://github.com/ezio84/kernel_lge_hammerhead lp5.1-test
 # ----------------------------------------------------------------------------------------------------------TEMP
 echo -e "${bldgrn}Updating packages/apps/InCallUI ${txtrst}"
 cd $rdir/packages/apps/InCallUI && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_InCallUI lp5.1
