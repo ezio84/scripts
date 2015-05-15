@@ -4,6 +4,7 @@ https://github.com/ezio84/packages_services_Telephony/commit/9dcc9a01d82e79fb1fe
 Add back quick sound mode switch in the notification tile (custom QS commits are needed)
 https://github.com/ezio84/packages_apps_Settings/commit/f88011966b621388f4366fd0e4eababb88de2e8f
 https://github.com/ezio84/frameworks_base/commit/7346c7a3b5262c699f7ce54e297c7395829a0f7d
+https://github.com/ezio84/packages_apps_Settings/commit/3bbcef22e8886da9ca67a3990eb6510cd8fd9b98
 
 Telephony: Make voicemail notifications dismissable
 https://github.com/ezio84/packages_services_Telephony/commit/e68358a12b8ebdb80781e72e5a3a1f17baf9aae9
