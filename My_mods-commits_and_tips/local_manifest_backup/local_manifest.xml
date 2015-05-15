@@ -45,8 +45,6 @@
   <remove-project path="packages/apps/ContactsCommon" name="SlimRoms/packages_apps_ContactsCommon" />
   <project path="packages/apps/Contacts" name="ezio84/packages_apps_Contacts" remote="github" revision="lp5.1" />
   <project path="packages/apps/ContactsCommon" name="ezio84/packages_apps_ContactsCommon" remote="github" revision="lp5.1" />
-  <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="lp5.1" />
-  <project path="packages/apps/Mms" name="ezio84/packages_apps_Mms" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/PackageInstaller" name="SlimRoms/packages_apps_PackageInstaller" />
   <project path="packages/apps/PackageInstaller" name="ezio84/packages_apps_PackageInstaller" remote="github" revision="lp5.1" />
   <remove-project path="packages/services/Telecomm" name="SlimRoms/packages_services_Telecomm" />
@@ -86,5 +84,5 @@
   <remove-project name="platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField" />
   <remove-project name="platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam" />
   <remove-project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" />
-  <remove-project name="SlimRoms/packages_apps_Mms" path="packages/apps/Mms" />
+  <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" />
 </manifest>

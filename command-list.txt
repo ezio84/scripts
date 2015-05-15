@@ -34,7 +34,6 @@ git push https://github.com/ezio84/frameworks_opt_telephony lp5.1
 git push https://github.com/ezio84/packages_apps_Dialer lp5.1
 git push https://github.com/ezio84/packages_apps_Contacts lp5.1
 git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.1
-git push https://github.com/ezio84/packages_apps_Mms lp5.1
 git push https://github.com/ezio84/packages_apps_PackageInstaller lp5.1
 git push https://github.com/ezio84/packages_services_Telecomm lp5.1
 git push https://github.com/ezio84/packages_providers_TelephonyProvider lp5.1

@@ -51,8 +51,8 @@ echo -e "${bldgrn}Updating packages/apps/Contacts ${txtrst}"
 cd $rdir/packages/apps/Contacts && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Contacts lp5.1
 echo -e "${bldgrn}Updating packages/apps/ContactsCommon ${txtrst}"
 cd $rdir/packages/apps/ContactsCommon && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.1
-echo -e "${bldgrn}Updating packages/apps/Mms ${txtrst}"
-cd $rdir/packages/apps/Mms && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Mms lp5.1
+#echo -e "${bldgrn}Updating packages/apps/Mms ${txtrst}"
+#cd $rdir/packages/apps/Mms && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Mms lp5.1
 echo -e "${bldgrn}Updating packages/apps/PackageInstaller ${txtrst}"
 cd $rdir/packages/apps/PackageInstaller && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_PackageInstaller lp5.1
 echo -e "${bldgrn}Updating packages/services/Telecomm ${txtrst}"
