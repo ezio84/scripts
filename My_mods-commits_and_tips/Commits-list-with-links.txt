@@ -1,3 +1,6 @@
+Telephony: GSM: remove 'Carrier Settings' regardless of csp_enabled (FIx com.android.phone crash)
+https://github.com/ezio84/packages_services_Telephony/commit/9dcc9a01d82e79fb1fe95e28ee16c90576301258
+
 Add back quick sound mode switch in the notification tile (custom QS commits are needed)
 https://github.com/ezio84/packages_apps_Settings/commit/f88011966b621388f4366fd0e4eababb88de2e8f
 https://github.com/ezio84/frameworks_base/commit/7346c7a3b5262c699f7ce54e297c7395829a0f7d
