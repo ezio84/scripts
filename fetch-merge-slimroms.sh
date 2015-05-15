@@ -65,8 +65,8 @@ echo -e "${bldgrn}Updating AudioVisualizer by Cyanogen ${txtrst}"
 cd $rdir/external/android-visualizer && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_external_android-visualizer cm-12.1
 echo -e "${bldgrn}Updating AudioFX by Cyanogen ${txtrst}"
 cd $rdir/packages/apps/AudioFX && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.1
-echo -e "${bldgrn}Updating Eleven by Cyanogen ${txtrst}"
-cd $rdir/packages/apps/Eleven && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.1
+# echo -e "${bldgrn}Updating Eleven by Cyanogen ${txtrst}"
+#cd $rdir/packages/apps/Eleven && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.1
 echo -e "${bldgrn}Updating Terminal by Cyanogen ${txtrst}"
 cd $rdir/packages/apps/Terminal && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_Terminal cm-12.1
 # The end

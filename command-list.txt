@@ -26,7 +26,6 @@ git push https://github.com/ezio84/device_lge_hammerhead lp5.1-test
 git push https://github.com/ezio84/kernel_lge_hammerhead lp5.1
 git push https://github.com/ezio84/packages_services_Telephony lp5.1
 git push https://github.com/ezio84/packages_apps_InCallUI lp5.1
-git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.1
 git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.1
 git push https://github.com/ezio84/android_external_android-visualizer cm-12.1
 git push https://github.com/ezio84/android_packages_apps_Terminal cm-12.1
