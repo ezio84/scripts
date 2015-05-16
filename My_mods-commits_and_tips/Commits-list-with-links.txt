@@ -1,3 +1,7 @@
+Add double tap option to lockscreen shortcuts
+https://github.com/ezio84/frameworks_base/commit/ca20bb0d54257a0b60d6524b741050f024f0f921
+https://github.com/ezio84/packages_apps_Settings/commit/7b2ec49dc015bbea2cd628a34c0e4854c48fd387
+
 Show Toast if usb not connected in Storage Settings
 https://github.com/ezio84/packages_apps_Settings/commit/1965c65b99e1585fac530de441dd1b377dd6abcf
 
