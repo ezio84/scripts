@@ -1,3 +1,9 @@
+Show Toast if usb not connected in Storage Settings
+https://github.com/ezio84/packages_apps_Settings/commit/1965c65b99e1585fac530de441dd1b377dd6abcf
+
+TorchService: close all opened cameras
+https://github.com/ezio84/frameworks_base/commit/67ebe3ab5f1cc858a5c8fa034dc428a6493dfc17
+
 Telephony: GSM: remove 'Carrier Settings' regardless of csp_enabled (FIx com.android.phone crash)
 https://github.com/ezio84/packages_services_Telephony/commit/9dcc9a01d82e79fb1fe95e28ee16c90576301258
 
