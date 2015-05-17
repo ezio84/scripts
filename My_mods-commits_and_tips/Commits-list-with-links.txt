@@ -1,3 +1,10 @@
+Set "Prevent accidental wake-up" to off by default
+https://github.com/ezio84/packages_apps_Settings/commit/71d78c60cb9bd6bf37ae9acf1cd13f25e15ea69e
+
+Hide network activity arrows
+https://github.com/ezio84/packages_apps_Settings/commit/111e07b3db21e57bb7360aac1c10d04db90c5201
+https://github.com/ezio84/frameworks_base/commit/824a0e6e45570cd927972b5233783363863ab6d4
+
 Add double tap option to lockscreen shortcuts
 https://github.com/ezio84/frameworks_base/commit/ca20bb0d54257a0b60d6524b741050f024f0f921
 https://github.com/ezio84/packages_apps_Settings/commit/7b2ec49dc015bbea2cd628a34c0e4854c48fd387
@@ -36,6 +43,7 @@ https://github.com/ezio84/device_lge_hammerhead/commit/7158186ab534944cb31ff8399
 https://github.com/ezio84/device_lge_hammerhead/commit/abb3ecd63e38ad0b11d19daa8f8d1252bc6d33cc
 https://github.com/ezio84/device_lge_hammerhead/commit/9939790794c55a9f5be95c90a57aaa1e22903407
 (on mako, led and proximity are already merged, doze won't be due to some issues).
+https://github.com/ezio84/packages_apps_Settings/commit/0d1151ca0f92207c41f15c822072abaf0b8e717d
 
 Show application's package name in the "App info" screen
 https://github.com/ezio84/packages_apps_Settings/commit/eb0f56530e410cfa45b173aba8dbf13910ca76b0
@@ -63,7 +71,12 @@ https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fca
 https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e34587686823496cd9cea6a8099
 
 Slim custom navbar
-ORIGINAL COMMITS (work in progress):
+https://github.com/ezio84/frameworks_base/commit/ec6174d2952512d8f5cc1bd6032a5edc73b802a0
+https://github.com/ezio84/frameworks_base/commit/875167ddf533b3f2e08252d5b2f2f48e0b888133
+https://github.com/ezio84/packages_apps_Settings/commit/a44299a4fa3b9b12bf04e9921a7b1d08f70a6934
+https://github.com/ezio84/packages_apps_Settings/commit/cc5e0701ac2c2c5ce1b8d2555917465c972b401b
+https://github.com/ezio84/packages_apps_Settings/commit/7f8eaf21442ec2bd6b87fcf19e00e397047da776
+ORIGINAL COMMITS:
 https://review.slimroms.eu/#/c/3098/6
 https://review.slimroms.eu/#/c/3098/
 https://review.slimroms.eu/2940
