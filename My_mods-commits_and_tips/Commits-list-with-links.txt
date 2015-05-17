@@ -1,3 +1,6 @@
+DeskClock: Add back flip and shake actions
+https://github.com/ezio84/packages_apps_DeskClock/commit/164e8ba49b9e096fa57e8e8d8f86a87c0ffac5d3
+
 Set "Prevent accidental wake-up" to off by default
 https://github.com/ezio84/packages_apps_Settings/commit/71d78c60cb9bd6bf37ae9acf1cd13f25e15ea69e
 
