@@ -269,7 +269,7 @@ https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e2
 Add prebuilt AdAway (latest xda version)
 https://github.com/ezio84/vendor_slim/commit/675d41381d6ed0467c0a4d0aa46e361a8637df41
 
-Add built-in Layer Backup app by @kantjer
+Add built-in Layer Backup app by @kantjer <-- Temp removed due to autostarting monitor service
 https://github.com/ezio84/vendor_slim/commit/b42d1de09370db76d33a8403bd4525105c4bee9e
 Layer Backup app by @kantjer: show a Settings entry
 https://github.com/ezio84/packages_apps_Settings/commit/f57e9f82bc8c0c367fce5b9233705ca1d71f20a1
