@@ -1,3 +1,10 @@
+SlimPIE
+https://github.com/ezio84/packages_apps_Settings/commit/e6bd38cabab26c62ad970765a5bbf8735b86c010
+https://github.com/ezio84/frameworks_base/commit/0142e1e5dc172f6208ddd84af9cda743ba8b854e
+Gerrit commits:
+https://review.slimroms.eu/3670
+https://review.slimroms.eu/3669
+
 Heads up advanced configuration
 https://github.com/ezio84/frameworks_base/commit/87e7f5e983c3098e31008566fc5009f6594c0ff6
 https://github.com/ezio84/frameworks_base/commit/360f92d029ff5f8311f96e39be8f4bef718a5e44
