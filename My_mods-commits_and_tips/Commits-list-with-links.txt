@@ -261,7 +261,7 @@ Then add these lines to the manifest:
   <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.1" />
 
 Higher dpi value (=stock-20)
-https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e23bdc1 (added but not working yet)
+https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e23bdc1<-- WE HAVE A DIFFERENT WAY NOW, SEE THE COMMIT MESSAGER HERE: https://github.com/ezio84/vendor_slim/commit/eb5eb285f378c70c777775861ce5ce79adfad725
 
 Add prebuilt AdAway (latest xda version)
 https://github.com/ezio84/vendor_slim/commit/675d41381d6ed0467c0a4d0aa46e361a8637df41
