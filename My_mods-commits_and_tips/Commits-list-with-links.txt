@@ -1,5 +1,8 @@
+Remove the useless persistent plugged headset notification
+https://github.com/ezio84/packages_services_Telecomm/commit/595953bf9370509504dd901a4dedaf99b32ac9b0
+
 SlimPIE
-https://github.com/ezio84/packages_apps_Settings/commit/e6bd38cabab26c62ad970765a5bbf8735b86c010
+https://github.com/ezio84/packages_apps_Settings/commit/4c7d96079f5c274e4bab1006bce505100a16f113
 https://github.com/ezio84/frameworks_base/commit/0142e1e5dc172f6208ddd84af9cda743ba8b854e
 Gerrit commits:
 https://review.slimroms.eu/3670
