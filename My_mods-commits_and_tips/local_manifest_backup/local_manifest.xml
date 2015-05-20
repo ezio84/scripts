@@ -83,6 +83,6 @@
   <remove-project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" />
   <remove-project name="platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField" />
   <remove-project name="platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam" />
-  <remove-project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" />
   <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" />
+  <!--  NOW REMOVED FROM SLIM MANIFEST TOO: <remove-project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" /> -->
 </manifest>
