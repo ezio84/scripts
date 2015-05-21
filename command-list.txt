@@ -23,7 +23,7 @@ git push https://github.com/ezio84/scripts lp5.1
 git push https://github.com/ezio84/device_lge_mako lp5.1
 git push https://github.com/ezio84/kernel_lge_mako lp5.1
 git push https://github.com/ezio84/device_lge_hammerhead lp5.1-test
-git push https://github.com/ezio84/kernel_lge_hammerhead lp5.1-test
+git push https://github.com/ezio84/kernel_lge_hammerhead lp5.1
 git push https://github.com/ezio84/packages_services_Telephony lp5.1
 git push https://github.com/ezio84/packages_apps_InCallUI lp5.1
 git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.1
