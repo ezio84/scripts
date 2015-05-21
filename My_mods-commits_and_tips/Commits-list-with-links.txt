@@ -133,6 +133,7 @@ https://github.com/ezio84/frameworks_base/commit/e380a768cc9e94e754ac3e42430ea52
 https://github.com/ezio84/frameworks_base/commit/534a8bd48f7a3677d4462c72038764704c6cc51a
 https://github.com/ezio84/packages_apps_Settings/commit/1f992237637929798105c8e93d7a57d54f5076c0
 https://github.com/ezio84/frameworks_base/commit/3b629d3e4644d41da79e2965a819730393cd5a98
+https://github.com/ezio84/frameworks_base/commit/1ac5751b634f381c1b3f2b9fed2c6191764001d4
 
 Add LCD density setting
 https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
