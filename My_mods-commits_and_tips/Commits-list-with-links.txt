@@ -1,3 +1,8 @@
+Chamber of Secrets && SlimActions to shortcuts 
+https://github.com/ezio84/frameworks_base/commit/13a6a788940212d8bd02262c6e8f896ced403f49
+https://github.com/ezio84/frameworks_base/commit/44a6551176189411e008474554f69ea777526f01
+https://github.com/ezio84/packages_apps_Settings/commit/3530e9b30ca98974ffb5ef07260cb0495e98a122
+
 Remove the useless persistent plugged headset notification
 https://github.com/ezio84/packages_services_Telecomm/commit/595953bf9370509504dd901a4dedaf99b32ac9b0
 
@@ -58,10 +63,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/d5194dbdd9fe429b93498b76
 https://github.com/ezio84/frameworks_base/commit/bc0962e124dc3afd4b209289b00fe27bc6956a8b
 
 Add led, doze, proximity overlays for hammerhead
-https://github.com/ezio84/device_lge_hammerhead/commit/2cdc96a85fa441ee6d1bb92c00375756dcb8f2bb
-https://github.com/ezio84/device_lge_hammerhead/commit/7158186ab534944cb31ff839934985e67670a6d0
-https://github.com/ezio84/device_lge_hammerhead/commit/abb3ecd63e38ad0b11d19daa8f8d1252bc6d33cc
-https://github.com/ezio84/device_lge_hammerhead/commit/9939790794c55a9f5be95c90a57aaa1e22903407
+https://github.com/ezio84/device_lge_hammerhead/commit/cccbd0a8bc26abaf37e20a2fbe40955f80d3ed42
+https://github.com/ezio84/device_lge_hammerhead/commit/f06b3c8a6091dae1b404df123e32ee99e51777ac
 (on mako, led and proximity are already merged, doze won't be due to some issues).
 https://github.com/ezio84/packages_apps_Settings/commit/0d1151ca0f92207c41f15c822072abaf0b8e717d
 
@@ -135,6 +138,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/1f992237637929798105c8e9
 https://github.com/ezio84/frameworks_base/commit/3b629d3e4644d41da79e2965a819730393cd5a98
 https://github.com/ezio84/frameworks_base/commit/1ac5751b634f381c1b3f2b9fed2c6191764001d4
 https://github.com/ezio84/frameworks_base/commit/913286fa1c90ee6aaa4ff99ce2b44601726c73ea
+https://github.com/ezio84/packages_apps_Settings/commit/1f992237637929798105c8e93d7a57d54f5076c0
+https://github.com/ezio84/frameworks_base/commit/3b629d3e4644d41da79e2965a819730393cd5a98
 
 Add LCD density setting
 https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
@@ -272,7 +277,8 @@ Then add these lines to the manifest:
   <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.1" />
 
 Higher dpi value (=stock-20)
-https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e23bdc1<-- WE HAVE A DIFFERENT WAY NOW, SEE THE COMMIT MESSAGER HERE: https://github.com/ezio84/vendor_slim/commit/eb5eb285f378c70c777775861ce5ce79adfad725
+https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e23bdc1<-- WE HAVE A DIFFERENT WAY NOW, SEE THE COMMIT MESSAGER HERE: https://github.com/ezio84/vendor_slim/commit/eb5eb285f378c70c777775861ce5ce79adfad725 <-- EDIT AGAIN, see:
+https://github.com/ezio84/vendor_slim/commit/aac28ddc986d636af249b782a1bea8865bfc302f (now the value set in that python script is set for the persistent value (the one handled by the new lcd density feature), not the ro one
 
 Add prebuilt AdAway (latest xda version)
 https://github.com/ezio84/vendor_slim/commit/675d41381d6ed0467c0a4d0aa46e361a8637df41
