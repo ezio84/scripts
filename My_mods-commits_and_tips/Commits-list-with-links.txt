@@ -62,11 +62,13 @@ Recents: option to disable searchbar
 https://github.com/ezio84/packages_apps_Settings/commit/d5194dbdd9fe429b93498b769287d3e1abe5d8b5
 https://github.com/ezio84/frameworks_base/commit/bc0962e124dc3afd4b209289b00fe27bc6956a8b
 
-Add led, doze, proximity overlays for hammerhead
+Add led, doze, proximity wake- overlays for hammerhead
 https://github.com/ezio84/device_lge_hammerhead/commit/cccbd0a8bc26abaf37e20a2fbe40955f80d3ed42
-https://github.com/ezio84/device_lge_hammerhead/commit/f06b3c8a6091dae1b404df123e32ee99e51777ac
+https://github.com/ezio84/device_lge_hammerhead/commit/ee702264c7e83e66adef3182a7074b130263d9ae
+EDIT: prox wake disabled again due to power button delay: https://github.com/ezio84/device_lge_hammerhead/commit/747615037438303b9966fbbb93297caf5249f114
 (on mako, led and proximity are already merged, doze won't be due to some issues).
 https://github.com/ezio84/packages_apps_Settings/commit/0d1151ca0f92207c41f15c822072abaf0b8e717d
+
 
 Show application's package name in the "App info" screen
 https://github.com/ezio84/packages_apps_Settings/commit/eb0f56530e410cfa45b173aba8dbf13910ca76b0
