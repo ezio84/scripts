@@ -1,3 +1,7 @@
+DeskClock: Add option to hide AlarmClock Icon in StatusBar
+https://github.com/ezio84/packages_apps_DeskClock/commit/98d94b49f73244f74efe7ac5541419fc361ff650
+
+
 Chamber of Secrets && SlimActions to shortcuts 
 https://github.com/ezio84/frameworks_base/commit/13a6a788940212d8bd02262c6e8f896ced403f49
 https://github.com/ezio84/frameworks_base/commit/44a6551176189411e008474554f69ea777526f01
@@ -22,6 +26,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/e95cd1b7f19613ed33da38a5
 
 DeskClock: Add back flip and shake actions
 https://github.com/ezio84/packages_apps_DeskClock/commit/164e8ba49b9e096fa57e8e8d8f86a87c0ffac5d3
+https://github.com/ezio84/packages_apps_DeskClock/commit/75390196aae8154a5384510e95fe192c76c7e87e
 
 Set "Prevent accidental wake-up" to off by default
 https://github.com/ezio84/packages_apps_Settings/commit/71d78c60cb9bd6bf37ae9acf1cd13f25e15ea69e
