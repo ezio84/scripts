@@ -299,6 +299,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/7e030e4e2cfdb4069ca1a18e
 Add SuperSU 
 https://github.com/ezio84/vendor_slim/commit/202dcb21590da70049345ccda128cbc06700b210
 https://github.com/ezio84/android_build/commit/e8ee199aaa668639e578417bebebd5674b5cdb6b
+https://github.com/ezio84/android_build/commit/bab8e0dfb946455a69c2afe948cb5f7552d90696
 
 Launch SuperSU from Settings
 https://github.com/ezio84/packages_apps_Settings/commit/cb0a2cae3ecf022d2d3fc8bc39bbd1713de511a1
