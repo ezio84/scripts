@@ -30,7 +30,7 @@ echo -e "${bldblu}Setting up build environment ${txtrst}"
 
 # Setup ccache
 export USE_CCACHE=1
-export CCACHE_DIR="/home/ezio/Androidsource/ccache"
+export CCACHE_DIR="/home/ezio/Android/ccache"
 /usr/bin/ccache -M 50G
 
 # For building recovery
@@ -40,7 +40,7 @@ export BUILDING_RECOVERY=false
 export USE_PREBUILT_CHROMIUM=1
 
 # Fix common out folder not being a common
-# export ANDROID_FIXUP_COMMON_OUT=true
+export ANDROID_FIXUP_COMMON_OUT=true
 
 # Lunch device
 echo -e "${bldblu}Lunching device... ${txtrst}"
