@@ -1,7 +1,6 @@
 DeskClock: Add option to hide AlarmClock Icon in StatusBar
+https://github.com/ezio84/frameworks_base/commit/521d1de74cf5fd10ebfef13e8a6c700d2e5f4f74
 https://github.com/ezio84/packages_apps_DeskClock/commit/98d94b49f73244f74efe7ac5541419fc361ff650
-https://github.com/ezio84/frameworks_base/commit/2b73ca2da9d8fc2392fa81f919794b97afe947ca
-
 
 Chamber of Secrets && SlimActions to shortcuts 
 https://github.com/ezio84/frameworks_base/commit/13a6a788940212d8bd02262c6e8f896ced403f49
