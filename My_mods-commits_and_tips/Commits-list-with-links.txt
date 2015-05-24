@@ -1,3 +1,16 @@
+Blacklist:
+https://github.com/ezio84/packages_apps_Mms/commit/3147db6f63065cab1b79c07987ca693982d76151 (if you are building the MMS package)
+https://github.com/ezio84/frameworks_base/commit/8a832a4ecc7be9d09ea24c1c817136a5401526bc
+https://github.com/ezio84/packages_apps_Settings/commit/677a3f950e2a1e44260e19d3291f4c73c606b421
+https://github.com/ezio84/packages_apps_Dialer/commit/9fd844dc078f413ae82d49b58e4b7900f69f90d1
+https://github.com/ezio84/packages_apps_InCallUI/commit/5307e5d41d882ee5ab752059940c93ec8d24182f
+https://github.com/ezio84/packages_apps_InCallUI/commit/dc38580bb9e83e832949e0f1a80f1c668b22a91b
+https://github.com/ezio84/packages_apps_InCallUI/commit/9437da281cba42b0fafe739c69f6fb393cd09013
+https://github.com/ezio84/packages_services_Telephony/commit/d0134734fd48d4e3390e75a057c6625fa27e42e9
+https://github.com/ezio84/frameworks_opt_telephony/commit/5cdb0c329d733ccf95cf86c80afed64e1cb44f86
+https://github.com/ezio84/packages_providers_TelephonyProvider/commit/b74d4b3317e213cf612afb8f63e4ae0e9a369156
+https://github.com/ezio84/packages_services_Telecomm/commit/071c41aefaa4fe20d1dd68eb987d0cb94b37a927
+
 DeskClock: Add option to hide AlarmClock Icon in StatusBar
 https://github.com/ezio84/packages_apps_DeskClock/commit/98d94b49f73244f74efe7ac5541419fc361ff650
 https://github.com/ezio84/frameworks_base/commit/b37cae03ae47349c9e9781217ea433cd670314d5
