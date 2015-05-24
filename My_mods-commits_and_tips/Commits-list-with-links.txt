@@ -1,6 +1,6 @@
 DeskClock: Add option to hide AlarmClock Icon in StatusBar
-https://github.com/ezio84/frameworks_base/commit/b37cae03ae47349c9e9781217ea433cd670314d5
 https://github.com/ezio84/packages_apps_DeskClock/commit/98d94b49f73244f74efe7ac5541419fc361ff650
+https://github.com/ezio84/frameworks_base/commit/b37cae03ae47349c9e9781217ea433cd670314d5
 https://github.com/ezio84/packages_apps_DeskClock/commit/58fdd79ddc4a43cca5b578414c10ec4b097d751e
 
 Chamber of Secrets && SlimActions to shortcuts 
@@ -53,7 +53,8 @@ Add back quick sound mode switch in the notification tile (custom QS commits are
 https://github.com/ezio84/packages_apps_Settings/commit/f88011966b621388f4366fd0e4eababb88de2e8f
 https://github.com/ezio84/frameworks_base/commit/7346c7a3b5262c699f7ce54e297c7395829a0f7d
 https://github.com/ezio84/packages_apps_Settings/commit/3bbcef22e8886da9ca67a3990eb6510cd8fd9b98
-https://github.com/ezio84/frameworks_base/commit/ec6ae8d0c3acbfc5f4328ac91f9cf11e03847fcf (TEMP: https://github.com/ezio84/frameworks_base/commit/57264159803ac5117563941d3c0905bd472533c6)
+https://github.com/ezio84/frameworks_base/commit/ec6ae8d0c3acbfc5f4328ac91f9cf11e03847fcf 
+https://github.com/ezio84/frameworks_base/commit/e0b04fa744e1248d591087db28e06daccf0c1620
 
 Telephony: Make voicemail notifications dismissable
 https://github.com/ezio84/packages_services_Telephony/commit/e68358a12b8ebdb80781e72e5a3a1f17baf9aae9
