@@ -346,6 +346,7 @@ https://github.com/ezio84/packages_apps_SlimCenter/commit/200993edea8a766228dac5
 https://github.com/ezio84/packages_apps_SlimCenter/commit/edd6c8eb877acafbb129dfa7a5bb275bdb55a3ac (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
 https://github.com/ezio84/packages_apps_SlimCenter/commit/48bdd10218330742aafc47c08cf57bd1947114fc (merged) <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
 https://github.com/ezio84/scripts/blob/lp5.1/build_rom.sh (release and norelease flag)
+https://github.com/ezio84/vendor_slim/commit/c302e7f041cc5e8e4c6b4e728929b3c1ea769c7b
 
 Restore MD5 creation for the rom zip file
 https://github.com/ezio84/android_build/commit/559577319c3daac91bd6fa00c488e2bdc081f3bc
