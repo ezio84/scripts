@@ -1,3 +1,8 @@
+Increasing volume ring
+https://github.com/ezio84/packages_services_Telecomm/commit/e7944b380649e3277083a4a40a76d48d3df4c0d0
+https://github.com/ezio84/frameworks_base/commit/9d0b28a0be923ec133ec802070f487cd91bb2810
+https://github.com/ezio84/packages_apps_Settings/commit/10b55a23f729114f46d2dd501d5ff9e34400b1a7
+
 Blacklist:
 https://github.com/ezio84/packages_apps_Mms/commit/3147db6f63065cab1b79c07987ca693982d76151 (if you are building the MMS package)
 https://github.com/ezio84/frameworks_base/commit/8a832a4ecc7be9d09ea24c1c817136a5401526bc
