@@ -43,7 +43,7 @@ https://github.com/ezio84/frameworks_base/commit/360f92d029ff5f8311f96e39be8f4be
 https://github.com/ezio84/frameworks_base/commit/47557b8c7d3fbd47f8ea1427247905a9782f6418
 https://github.com/ezio84/packages_apps_Settings/commit/9cac26c3272c092ed57ee9c24bd38cd6c8a46fde
 https://github.com/ezio84/packages_apps_Settings/commit/e95cd1b7f19613ed33da38a517ee69221ce94147
-https://github.com/ezio84/packages_apps_Settings/commit/a7809717aaca04c5d620ed61f3499990632f4489
+https://github.com/ezio84/packages_apps_Settings/commit/9c1503821daafc1963011d6ddb133b202dda5316
 https://github.com/ezio84/frameworks_base/commit/3aa752aa264ae3bfc6e4d9f53f7931a197a395b1
 
 DeskClock: Add back flip and shake actions
@@ -133,7 +133,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/a44299a4fa3b9b12bf04e992
 https://github.com/ezio84/packages_apps_Settings/commit/cc5e0701ac2c2c5ce1b8d2555917465c972b401b
 https://github.com/ezio84/packages_apps_Settings/commit/7f8eaf21442ec2bd6b87fcf19e00e397047da776
 https://github.com/ezio84/packages_apps_Settings/commit/64da983951e15808b4511899c67021de14b77c23
-https://github.com/ezio84/packages_apps_Settings/commit/ba00b330ebb4cef4f81bdbaa8b039fafeae5a38b
+https://github.com/ezio84/packages_apps_Settings/commit/8fcca1547560046c6202828378d7a86ec6878bba
 https://github.com/ezio84/frameworks_base/commit/7307f39b0f3e4c50140524bf5e59ca1e4b4a395b
 https://github.com/ezio84/frameworks_base/commit/fcfa6568c1c94999235a5df1085baf5fe078f28a
 https://github.com/ezio84/frameworks_base/commit/2048b48d1635dafdcf028fb0886e906b21c71fb5
@@ -169,10 +169,9 @@ https://github.com/ezio84/packages_apps_Settings/commit/1f992237637929798105c8e9
 https://github.com/ezio84/frameworks_base/commit/3b629d3e4644d41da79e2965a819730393cd5a98
 
 Add LCD density setting
+https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
 https://github.com/ezio84/frameworks_base/commit/b4e8efb34b4b8f2ecbf74995c235bf35dfe0d97c
-https://github.com/ezio84/frameworks_base/commit/6ee7d78535bb049fcf8907b10c047233555426cc
-https://github.com/ezio84/packages_apps_Settings/commit/a7e64b034cf8ae11d4a3f3dc8fce5bafe2ef5e0a
-https://github.com/ezio84/packages_apps_Settings/commit/bbb4f2f44668821a463effd7998682a233c6dad4
+https://github.com/ezio84/packages_apps_Settings/commit/4ed46304f8766882f6bfab25911443a35583832e
 
 Bringup expanded desktop and implement per-user configuration
 https://github.com/ezio84/packages_apps_Settings/commit/2c3019bf6644cdc70b1b23b0a493731474639b74
