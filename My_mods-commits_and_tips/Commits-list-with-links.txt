@@ -173,7 +173,6 @@ https://github.com/ezio84/frameworks_base/commit/b4e8efb34b4b8f2ecbf74995c235bf3
 https://github.com/ezio84/frameworks_base/commit/6ee7d78535bb049fcf8907b10c047233555426cc
 https://github.com/ezio84/packages_apps_Settings/commit/a7e64b034cf8ae11d4a3f3dc8fce5bafe2ef5e0a
 https://github.com/ezio84/packages_apps_Settings/commit/bbb4f2f44668821a463effd7998682a233c6dad4
-temp till the feature is improved: value limits for hh and mako: https://github.com/ezio84/packages_apps_Settings/commit/7c94b3ebc18c0d8dc28ce628beff563358bada87
 
 Bringup expanded desktop and implement per-user configuration
 https://github.com/ezio84/packages_apps_Settings/commit/2c3019bf6644cdc70b1b23b0a493731474639b74
