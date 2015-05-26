@@ -43,6 +43,8 @@ https://github.com/ezio84/frameworks_base/commit/360f92d029ff5f8311f96e39be8f4be
 https://github.com/ezio84/frameworks_base/commit/47557b8c7d3fbd47f8ea1427247905a9782f6418
 https://github.com/ezio84/packages_apps_Settings/commit/9cac26c3272c092ed57ee9c24bd38cd6c8a46fde
 https://github.com/ezio84/packages_apps_Settings/commit/e95cd1b7f19613ed33da38a517ee69221ce94147
+https://github.com/ezio84/packages_apps_Settings/commit/a7809717aaca04c5d620ed61f3499990632f4489
+https://github.com/ezio84/frameworks_base/commit/3aa752aa264ae3bfc6e4d9f53f7931a197a395b1
 
 DeskClock: Add back flip and shake actions
 https://github.com/ezio84/packages_apps_DeskClock/commit/164e8ba49b9e096fa57e8e8d8f86a87c0ffac5d3
@@ -132,13 +134,9 @@ https://github.com/ezio84/packages_apps_Settings/commit/cc5e0701ac2c2c5ce1b8d255
 https://github.com/ezio84/packages_apps_Settings/commit/7f8eaf21442ec2bd6b87fcf19e00e397047da776
 https://github.com/ezio84/packages_apps_Settings/commit/64da983951e15808b4511899c67021de14b77c23
 https://github.com/ezio84/frameworks_base/commit/44b9882b6a3586ddcf21031b2ac802d94245018d
-ORIGINAL COMMITS:
-https://review.slimroms.eu/#/c/3098/6
-https://review.slimroms.eu/#/c/3098/
-https://review.slimroms.eu/2940
-https://review.slimroms.eu/2939
-https://review.slimroms.eu/3630
-https://review.slimroms.eu/#/c/3773/
+https://github.com/ezio84/packages_apps_Settings/commit/ba00b330ebb4cef4f81bdbaa8b039fafeae5a38b
+https://github.com/ezio84/frameworks_base/commit/7307f39b0f3e4c50140524bf5e59ca1e4b4a395b
+https://github.com/ezio84/frameworks_base/commit/26da193009a5910114e616633a8f855c225ffa4b
 
 Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
 https://github.com/ezio84/frameworks_base/commit/0664705da8a84ceb64049a1b03df42cef2ec7052   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
