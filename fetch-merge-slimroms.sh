@@ -51,6 +51,8 @@ cd $rdir/frameworks/opt/telephony && git checkout lp5.1 && git fetch slimroms &&
 #cd $rdir/packages/services/Telecomm && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_services_Telecomm lp5.1
 #echo -e "${bldgrn}Updating packages/providers/ContactsProvider ${txtrst}"
 #cd $rdir/packages/providers/ContactsProvider && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_providers_ContactsProvider lp5.1
+#echo -e "${bldgrn}Updating packages/apps/PhoneCommon ${txtrst}"
+#cd $rdir/packages/apps/PhoneCommon && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_PhoneCommon lp5.1
 echo -e "${bldgrn}Updating packages/apps/PackageInstaller ${txtrst}"
 cd $rdir/packages/apps/PackageInstaller && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_PackageInstaller lp5.1
 echo -e "${bldgrn}Updating packages/providers/TelephonyProvider ${txtrst}"
