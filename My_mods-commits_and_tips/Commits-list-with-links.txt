@@ -44,7 +44,7 @@ https://github.com/ezio84/frameworks_base/commit/47557b8c7d3fbd47f8ea1427247905a
 https://github.com/ezio84/packages_apps_Settings/commit/9cac26c3272c092ed57ee9c24bd38cd6c8a46fde
 https://github.com/ezio84/packages_apps_Settings/commit/e95cd1b7f19613ed33da38a517ee69221ce94147
 https://github.com/ezio84/packages_apps_Settings/commit/9c1503821daafc1963011d6ddb133b202dda5316
-https://github.com/ezio84/frameworks_base/commit/3aa752aa264ae3bfc6e4d9f53f7931a197a395b1
+https://github.com/ezio84/frameworks_base/commit/5688393dd726aaa2b37f912bde726a18c82dc6d1
 
 DeskClock: Add back flip and shake actions
 https://github.com/ezio84/packages_apps_DeskClock/commit/164e8ba49b9e096fa57e8e8d8f86a87c0ffac5d3
