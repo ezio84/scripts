@@ -47,6 +47,8 @@
   <project path="packages/services/Telecomm" name="ezio84/packages_services_Telecomm" remote="github" revision="lp5.1" />
   <remove-project path="packages/providers/TelephonyProvider" name="SlimRoms/packages_providers_TelephonyProvider" />
   <project path="packages/providers/TelephonyProvider" name="ezio84/packages_providers_TelephonyProvider" remote="github" revision="lp5.1" />
+  <remove-project path="packages/providers/ContactsProvider" name="SlimRoms/packages_providers_ContactsProvider" />
+  <project path="packages/providers/ContactsProvider" name="ezio84/packages_providers_ContactsProvider" remote="github" revision="lp5.1" />
   <remove-project path="bionic" name="SlimRoms/android_bionic" />
   <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/DeskClock" name="SlimRoms/packages_apps_DeskClock" />
