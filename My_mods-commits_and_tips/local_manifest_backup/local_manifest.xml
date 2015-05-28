@@ -35,30 +35,22 @@
   <project path="packages/apps/InCallUI" name="ezio84/packages_apps_InCallUI" remote="github" revision="lp5.1" />
   <remove-project path="frameworks/opt/telephony" name="SlimRoms/frameworks_opt_telephony" />
   <project path="frameworks/opt/telephony" name="ezio84/frameworks_opt_telephony" remote="github" revision="lp5.1" />
-  <remove-project path="frameworks/opt/net/ims" name="SlimRoms/frameworks_opt_net_ims" />
-  <project path="frameworks/opt/net/ims" name="ezio84/frameworks_opt_net_ims" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/Dialer" name="SlimRoms/packages_apps_Dialer" />
   <project path="packages/apps/Dialer" name="ezio84/packages_apps_Dialer" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/Contacts" name="SlimRoms/packages_apps_Contacts" />
   <project path="packages/apps/Contacts" name="ezio84/packages_apps_Contacts" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/ContactsCommon" name="SlimRoms/packages_apps_ContactsCommon" />
   <project path="packages/apps/ContactsCommon" name="ezio84/packages_apps_ContactsCommon" remote="github" revision="lp5.1" />
-  <remove-project path="packages/apps/PhoneCommon" name="SlimRoms/packages_apps_PhoneCommon" />
-  <project path="packages/apps/PhoneCommon" name="ezio84/packages_apps_Contacts" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/PackageInstaller" name="SlimRoms/packages_apps_PackageInstaller" />
   <project path="packages/apps/PackageInstaller" name="ezio84/packages_apps_PackageInstaller" remote="github" revision="lp5.1" />
   <remove-project path="packages/services/Telecomm" name="SlimRoms/packages_services_Telecomm" />
   <project path="packages/services/Telecomm" name="ezio84/packages_services_Telecomm" remote="github" revision="lp5.1" />
   <remove-project path="packages/providers/TelephonyProvider" name="SlimRoms/packages_providers_TelephonyProvider" />
   <project path="packages/providers/TelephonyProvider" name="ezio84/packages_providers_TelephonyProvider" remote="github" revision="lp5.1" />
-  <remove-project path="packages/providers/ContactsProvider" name="SlimRoms/packages_providers_ContactsProvider" />
-  <project path="packages/providers/ContactsProvider" name="ezio84/packages_providers_ContactsProvider" remote="github" revision="lp5.1" />
   <remove-project path="bionic" name="SlimRoms/android_bionic" />
   <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/DeskClock" name="SlimRoms/packages_apps_DeskClock" />
   <project path="packages/apps/DeskClock" name="ezio84/packages_apps_DeskClock" remote="github" revision="lp5.1" />
-  <remove-project path="packages/apps/Stk" name="SlimRoms/packages_apps_Stk" />
-  <project path="packages/apps/Stk" name="ezio84/packages_apps_Stk" remote="github" revision="lp5.1" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
   <remove-project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <remove-project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />

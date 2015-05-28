@@ -8,7 +8,7 @@ Blacklist:
 https://github.com/ezio84/packages_apps_Mms/commit/3147db6f63065cab1b79c07987ca693982d76151 (if you are building the MMS package)
 https://github.com/ezio84/frameworks_base/commit/8a832a4ecc7be9d09ea24c1c817136a5401526bc
 https://github.com/ezio84/packages_apps_Settings/commit/8b3a7c98aa724458e88e44837b88c3ef42f40f16
-https://github.com/ezio84/packages_apps_Dialer/commit/9fd844dc078f413ae82d49b58e4b7900f69f90d1
+https://github.com/ezio84/packages_apps_Dialer/commit/964a4b4c0a18e75dc72124ebf32cff86a00daf4a
 https://github.com/ezio84/packages_apps_InCallUI/commit/5307e5d41d882ee5ab752059940c93ec8d24182f
 https://github.com/ezio84/packages_apps_InCallUI/commit/dc38580bb9e83e832949e0f1a80f1c668b22a91b
 https://github.com/ezio84/packages_apps_InCallUI/commit/9437da281cba42b0fafe739c69f6fb393cd09013
