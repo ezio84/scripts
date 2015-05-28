@@ -57,6 +57,8 @@
   <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/DeskClock" name="SlimRoms/packages_apps_DeskClock" />
   <project path="packages/apps/DeskClock" name="ezio84/packages_apps_DeskClock" remote="github" revision="lp5.1" />
+  <remove-project path="packages/apps/Stk" name="SlimRoms/packages_apps_Stk" />
+  <project path="packages/apps/Stk" name="ezio84/packages_apps_Stk" remote="github" revision="lp5.1" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
   <remove-project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <remove-project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />

@@ -37,8 +37,8 @@ echo -e "${bldgrn}Updating packages/services/Telephony ${txtrst}"
 cd $rdir/packages/services/Telephony && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_services_Telephony lp5.1
 echo -e "${bldgrn}Updating bionic ${txtrst}"
 cd $rdir/bionic && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/android_bionic lp5.1
-echo -e "${bldgrn}Updating frameworks/opt/telephony ${txtrst}"
-cd $rdir/frameworks/opt/telephony && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_opt_telephony lp5.1
+#echo -e "${bldgrn}Updating frameworks/opt/telephony ${txtrst}"
+#cd $rdir/frameworks/opt/telephony && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_opt_telephony lp5.1
 #echo -e "${bldgrn}Updating frameworks/opt/net/ims ${txtrst}"
 #cd $rdir/frameworks/opt/net/ims && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_opt_net_ims lp5.1
 #echo -e "${bldgrn}Updating packages/apps/Dialer ${txtrst}"
@@ -55,6 +55,8 @@ cd $rdir/frameworks/opt/telephony && git checkout lp5.1 && git fetch slimroms &&
 #cd $rdir/packages/providers/ContactsProvider && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_providers_ContactsProvider lp5.1
 #echo -e "${bldgrn}Updating packages/apps/PhoneCommon ${txtrst}"
 #cd $rdir/packages/apps/PhoneCommon && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_PhoneCommon lp5.1
+#echo -e "${bldgrn}Updating packages/apps/Stk ${txtrst}"
+#cd $rdir/packages/apps/Stk && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Stk lp5.1
 echo -e "${bldgrn}Updating packages/apps/PackageInstaller ${txtrst}"
 cd $rdir/packages/apps/PackageInstaller && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_PackageInstaller lp5.1
 echo -e "${bldgrn}Updating packages/providers/TelephonyProvider ${txtrst}"
