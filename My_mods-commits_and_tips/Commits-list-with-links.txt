@@ -1,3 +1,6 @@
+Frameworks: follow charging notification settings also for wireless charging
+https://github.com/ezio84/frameworks_base/commit/b8514aecea3c69eea09a1e1c9a5eea7a812372b9
+
 Increasing volume ring
 https://github.com/ezio84/packages_services_Telecomm/commit/e7944b380649e3277083a4a40a76d48d3df4c0d0
 https://github.com/ezio84/frameworks_base/commit/9d0b28a0be923ec133ec802070f487cd91bb2810
