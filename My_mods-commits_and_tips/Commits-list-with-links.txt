@@ -1,3 +1,7 @@
+Ad htop task manager (you can run it in the terminal)
+https://github.com/ezio84/scripts/commit/e4664319d2fe3e013644ecdf7d08352b420239fb
+https://github.com/ezio84/vendor_slim/commit/56276e195f2ca3b37331e60b6f5ffdc0a9638587
+
 Fix play service fc with alternative toolchains
 https://github.com/ezio84/platform_libcore/commit/faeae8da0755f981612289c4eb5b0d12803c44a9
 
