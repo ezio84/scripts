@@ -61,11 +61,13 @@
   <project path="external/android-visualizer" name="ezio84/android_external_android-visualizer" remote="github" revision="cm-12.1" />
   <project path="packages/apps/AudioFX" name="ezio84/android_packages_apps_AudioFX" remote="github" revision="cm-12.1" />
   <!-- <project path="packages/apps/Eleven" name="ezio84/android_packages_apps_Eleven" remote="github" revision="cm-12.1" /> -->
-  <!-- Built-in CyanogenMod Terminal app -->
+  <!-- Built-in CyanogenMod apps -->
   <remove-project path="packages/apps/Terminal" name="platform/packages/apps/Terminal" />
   <remove-project path="external/libvterm" name="platform/external/libvterm" />
   <project path="packages/apps/Terminal" name="ezio84/android_packages_apps_Terminal" remote="github" revision="cm-12.1" />
   <project path="external/libvterm" name="CyanogenMod/android_external_libvterm" remote="github" revision="cm-12.1" />
+  <project path="external/htop" name="CyanogenMod/android_external_htop" remote="github" revision="cm-12.1" />
+  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="cm-12.1" />
   <!-- SlimLauncher till development starts again -->
   <remove-project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
   <!-- Blow shit up!! (Schwarznegger cit) and let the user install apps from playstore if needed -->
