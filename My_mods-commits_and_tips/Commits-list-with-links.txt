@@ -1,4 +1,8 @@
-Ad htop task manager (you can run it in the terminal)
+QS: led on/off tile
+https://github.com/ezio84/frameworks_base/commit/a46add23793054b3327e5a5ae279fea6bddc55cf
+https://github.com/ezio84/packages_apps_Settings/commit/e8ec498107387dbde05b36bffca8e6e227a1ac3c
+
+Add htop task manager (you can run it in the terminal)
 https://github.com/ezio84/scripts/commit/e4664319d2fe3e013644ecdf7d08352b420239fb
 https://github.com/ezio84/vendor_slim/commit/56276e195f2ca3b37331e60b6f5ffdc0a9638587
 
