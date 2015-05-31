@@ -40,6 +40,7 @@ git push https://github.com/ezio84/packages_services_Telecomm lp5.1
 git push https://github.com/ezio84/packages_providers_TelephonyProvider lp5.1
 git push https://github.com/ezio84/packages_apps_DeskClock lp5.1
 git push https://github.com/ezio84/platform_libcore lp5.1
+git push https://github.com/ezio84/android_art lp5.1
 
  . scripts/build_rom.sh hammerhead nosync 7 noclean log release
  . scripts/build_rom.sh mako nosync 7 noclean log release
