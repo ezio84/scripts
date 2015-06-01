@@ -1,6 +1,7 @@
 Slim recents
 https://github.com/ezio84/scripts/commit/b0b272cb75ffd3a144ddf9fd3917695a66168b27
 https://github.com/ezio84/packages_apps_Settings/commit/d85da1f97fc1c9fa5b98e3d76ef4d32d533a371b
+https://github.com/ezio84/packages_apps_Settings/commit/85a4b56bc82ae32c90647d820d517f4893c4f7b0
 https://github.com/ezio84/frameworks_base/commit/05e84d17b59e0b454b832485d478458981ebf374
 and revert the not needed "Recents: option to disable searchbar"
 
