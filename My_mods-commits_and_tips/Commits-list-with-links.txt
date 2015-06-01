@@ -1,3 +1,9 @@
+Dialer lookup
+https://github.com/ezio84/frameworks_base/commit/28fc8e7ceaa88c4c0eb789443255d552d02206f3
+https://github.com/ezio84/packages_apps_InCallUI/commit/5e316a312ae5eb4878e151ed61d74b484c1bd866
+https://github.com/ezio84/packages_apps_Dialer/commit/319b34db10da68010c2d3caeb91b66b50250362b
+https://github.com/ezio84/packages_services_Telephony/commit/76d1637622389e5d380ab9fa05d0acefbad86086
+
 QS: led on/off tile
 https://github.com/ezio84/frameworks_base/commit/a46add23793054b3327e5a5ae279fea6bddc55cf
 https://github.com/ezio84/packages_apps_Settings/commit/e8ec498107387dbde05b36bffca8e6e227a1ac3c
