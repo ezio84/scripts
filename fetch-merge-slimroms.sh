@@ -19,8 +19,6 @@ echo -e "${bldgrn}Updating build ${txtrst}"
 cd $rdir/build && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/android_build lp5.1
 echo -e "${bldgrn}Updating vendor/slim ${txtrst}"
 cd $rdir/vendor/slim && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/vendor_slim lp5.1
-# echo -e "${bldgrn}Updating packages/apps/SlimCenter ${txtrst}"
-# cd $rdir/packages/apps/SlimCenter && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_SlimCenter lp5.1
 echo -e "${bldgrn}Updating system/core ${txtrst}"
 cd $rdir/system/core && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/android_system_core lp5.1
 echo -e "${bldgrn}Updating device/lge/mako ${txtrst}"
@@ -47,8 +45,6 @@ echo -e "${bldgrn}Updating packages/apps/Contacts ${txtrst}"
 cd $rdir/packages/apps/Contacts && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Contacts lp5.1
 echo -e "${bldgrn}Updating packages/apps/ContactsCommon ${txtrst}"
 cd $rdir/packages/apps/ContactsCommon && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_ContactsCommon lp5.1
-echo -e "${bldgrn}Updating packages/apps/Mms ${txtrst}"
-cd $rdir/packages/apps/Mms && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Mms lp5.1
 echo -e "${bldgrn}Updating packages/services/Telecomm ${txtrst}"
 cd $rdir/packages/services/Telecomm && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_services_Telecomm lp5.1
 echo -e "${bldgrn}Updating packages/apps/PackageInstaller ${txtrst}"
@@ -65,8 +61,6 @@ echo -e "${bldgrn}Updating AudioVisualizer by Cyanogen ${txtrst}"
 cd $rdir/external/android-visualizer && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_external_android-visualizer cm-12.1
 echo -e "${bldgrn}Updating AudioFX by Cyanogen ${txtrst}"
 cd $rdir/packages/apps/AudioFX && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_AudioFX cm-12.1
-# echo -e "${bldgrn}Updating Eleven by Cyanogen ${txtrst}"
-#cd $rdir/packages/apps/Eleven && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_Eleven cm-12.1
 echo -e "${bldgrn}Updating Terminal by Cyanogen ${txtrst}"
 cd $rdir/packages/apps/Terminal && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_packages_apps_Terminal cm-12.1
 # The end
