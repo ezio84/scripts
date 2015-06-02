@@ -302,7 +302,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/5ab05899f4c727be16aba132
 https://github.com/ezio84/frameworks_base/commit/8dd933c1764ef7f47d40f1ac496be817745a3f2c
 
 SystemUI: Reduce activation area a bit of quick pulldown
-https://github.com/ezio84/frameworks_base/commit/ad7d54e6c617dd1f2f0c2bababcc99fee5680e03
+https://github.com/ezio84/frameworks_base/commit/ad7d54e6c617dd1f2f0c2bababcc99fee5680e03 <-- REVERTED
 
 Partition information menu
 https://github.com/ezio84/packages_apps_Settings/commit/2d7fcd83f72b6884cf7f8fc770e62e88bc1fc435
