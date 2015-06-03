@@ -8,8 +8,14 @@ and revert the not needed "Recents: option to disable searchbar"
 Dialer lookup
 https://github.com/ezio84/frameworks_base/commit/28fc8e7ceaa88c4c0eb789443255d552d02206f3
 https://github.com/ezio84/packages_apps_InCallUI/commit/5e316a312ae5eb4878e151ed61d74b484c1bd866
+https://github.com/ezio84/packages_apps_InCallUI/commit/4a15c38c093df8ffa8ee8d77db110de442250838
 https://github.com/ezio84/packages_apps_Dialer/commit/319b34db10da68010c2d3caeb91b66b50250362b
-https://github.com/ezio84/packages_services_Telephony/commit/76d1637622389e5d380ab9fa05d0acefbad86086
+https://github.com/ezio84/packages_apps_Dialer/commit/2ccfacdfac76cd60daf9516b248cd491665f5118
+https://github.com/ezio84/packages_apps_Dialer/commit/40041cb93bd7b4cafd77a9e4dd2bd16bd3616b5e
+https://github.com/ezio84/packages_apps_Dialer/commit/811bb2842e08df8a056b4ff0c1154305d3a612d3
+https://github.com/ezio84/packages_apps_Dialer/commit/c85668b94c848fd8eb04eb36c700a4087369bfc3
+https://github.com/ezio84/packages_apps_Dialer/commit/bfe128d0ee7aac71c18848269e812a730e341e57
+https://github.com/ezio84/packages_apps_Dialer/commit/c78a9b0aa0e0fb17497841c1961640a994e80400
 
 QS: led on/off tile
 https://github.com/ezio84/frameworks_base/commit/a46add23793054b3327e5a5ae279fea6bddc55cf
