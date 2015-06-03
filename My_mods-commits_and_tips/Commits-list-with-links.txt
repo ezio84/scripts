@@ -34,13 +34,13 @@ https://github.com/ezio84/packages_apps_Settings/commit/7dd5e4449de811be788521bd
 
 Blacklist:
 https://github.com/ezio84/packages_apps_Mms/commit/3147db6f63065cab1b79c07987ca693982d76151 (if you are building the MMS package)
-https://github.com/ezio84/frameworks_base/commit/8a832a4ecc7be9d09ea24c1c817136a5401526bc
+https://github.com/ezio84/frameworks_base/commit/6a92df475f46aebcc255ab4b9620980937b2e270
 https://github.com/ezio84/packages_apps_Settings/commit/8b3a7c98aa724458e88e44837b88c3ef42f40f16
 https://github.com/ezio84/packages_apps_Dialer/commit/964a4b4c0a18e75dc72124ebf32cff86a00daf4a
 https://github.com/ezio84/packages_apps_InCallUI/commit/5307e5d41d882ee5ab752059940c93ec8d24182f
 https://github.com/ezio84/packages_apps_InCallUI/commit/dc38580bb9e83e832949e0f1a80f1c668b22a91b
 https://github.com/ezio84/packages_apps_InCallUI/commit/9437da281cba42b0fafe739c69f6fb393cd09013
-https://github.com/ezio84/packages_services_Telephony/commit/d0134734fd48d4e3390e75a057c6625fa27e42e9
+https://github.com/ezio84/packages_services_Telephony/commit/5adbd1cd8acd934dd2f76f9618f53f30758c0c1a
 https://github.com/ezio84/frameworks_opt_telephony/commit/5cdb0c329d733ccf95cf86c80afed64e1cb44f86
 https://github.com/ezio84/packages_providers_TelephonyProvider/commit/b74d4b3317e213cf612afb8f63e4ae0e9a369156
 https://github.com/ezio84/packages_services_Telecomm/commit/071c41aefaa4fe20d1dd68eb987d0cb94b37a927
@@ -152,10 +152,9 @@ https://github.com/ezio84/frameworks_base/commit/51f3783920f3fefb04b0a476e98a91f
 https://github.com/ezio84/frameworks_base/commit/030159804be45975c7b416bcf493de123896983b
 https://github.com/ezio84/packages_apps_DeskClock/commit/233dd270545093618a49a4755e5e723bb2ed4002
 https://github.com/ezio84/packages_apps_Settings/commit/2118a8035bb10e732a05f9efad79620381dae576
-Fix to fit the "Allow disabling adjusting volume sounds" commit: 
 https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fcabd781718a
 https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e34587686823496cd9cea6a8099
-
+https://github.com/ezio84/frameworks_base/commit/bbeb29d9d9968b78d1f2a530bafbdc9aac60a2c3
 
 Slim custom navbar
 https://github.com/ezio84/frameworks_base/commit/ec6174d2952512d8f5cc1bd6032a5edc73b802a0
@@ -168,6 +167,14 @@ https://github.com/ezio84/packages_apps_Settings/commit/8fcca1547560046c62028283
 https://github.com/ezio84/frameworks_base/commit/7307f39b0f3e4c50140524bf5e59ca1e4b4a395b
 https://github.com/ezio84/frameworks_base/commit/fcfa6568c1c94999235a5df1085baf5fe078f28a
 https://github.com/ezio84/frameworks_base/commit/2048b48d1635dafdcf028fb0886e906b21c71fb5
+https://github.com/ezio84/frameworks_base/commit/deeac0f67feff346bdddb2472ba73e764f76a241
+https://github.com/ezio84/packages_apps_Settings/commit/048253d35450ec84151c87cbc4dbb4975ed89c2b
+https://github.com/ezio84/packages_apps_Settings/commit/4821645bbc680641e35c00eaf8771d644af4edad
+https://github.com/ezio84/frameworks_base/commit/14838b62896be4a2a8f2b34f74fce55feb37c6d5
+https://github.com/ezio84/frameworks_base/commit/c75655955e0e787a7f93f7991e7a2cbf9c649b3a
+https://github.com/ezio84/frameworks_base/commit/ce4df74d1aa37a2c5d4535ea0e7af7c3febc1f92
+
+
 
 Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
 https://github.com/ezio84/frameworks_base/commit/0664705da8a84ceb64049a1b03df42cef2ec7052   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
