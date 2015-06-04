@@ -37,6 +37,8 @@ https://github.com/ezio84/packages_services_Telecomm/commit/e7944b380649e3277083
 https://github.com/ezio84/frameworks_base/commit/9d0b28a0be923ec133ec802070f487cd91bb2810
 https://github.com/ezio84/packages_apps_Settings/commit/10b55a23f729114f46d2dd501d5ff9e34400b1a7
 https://github.com/ezio84/packages_apps_Settings/commit/7dd5e4449de811be788521bd357b8529c005fb0a
+https://github.com/ezio84/packages_apps_Settings/commit/656983d3f6f891a9ee40b47d96c1cb2cbd5c3de0
+https://github.com/ezio84/packages_apps_Settings/commit/21b5253824f75f4224254219aed6ed80518c3479
 
 Blacklist:
 https://github.com/ezio84/packages_apps_Mms/commit/3147db6f63065cab1b79c07987ca693982d76151 (if you are building the MMS package)
