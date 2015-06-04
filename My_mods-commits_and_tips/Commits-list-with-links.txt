@@ -161,6 +161,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/2118a8035bb10e732a05f9ef
 https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fcabd781718a
 https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e34587686823496cd9cea6a8099
 https://github.com/ezio84/frameworks_base/commit/bbeb29d9d9968b78d1f2a530bafbdc9aac60a2c3
+https://github.com/ezio84/frameworks_base/commit/277a084aa9ec73f08741a1954cf7e42699c12335
+https://github.com/ezio84/frameworks_base/commit/7723bedff2e64cfb6bb68b179532e8c4f294128d
 
 Slim custom navbar
 https://github.com/ezio84/frameworks_base/commit/ec6174d2952512d8f5cc1bd6032a5edc73b802a0
