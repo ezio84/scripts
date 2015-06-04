@@ -219,8 +219,9 @@ https://github.com/ezio84/frameworks_base/commit/239d9cfa4a0755ed88a672b61ba4b0f
 
 Add LCD density setting
 https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
+https://github.com/ezio84/packages_apps_Settings/commit/eb1eeedc5d00bf6c0fce6dc3361d45697267572b
 https://github.com/ezio84/frameworks_base/commit/b4e8efb34b4b8f2ecbf74995c235bf35dfe0d97c
-https://github.com/ezio84/packages_apps_Settings/commit/4ed46304f8766882f6bfab25911443a35583832e
+https://github.com/ezio84/frameworks_base/commit/458185e970fbf7e41aebffc9b6313d101aadc20e
 
 Bringup expanded desktop and implement per-user configuration
 https://github.com/ezio84/packages_apps_Settings/commit/2c3019bf6644cdc70b1b23b0a493731474639b74
