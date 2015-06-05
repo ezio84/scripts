@@ -1,9 +1,7 @@
 Slim recents
 https://github.com/ezio84/scripts/commit/b0b272cb75ffd3a144ddf9fd3917695a66168b27
-https://github.com/ezio84/packages_apps_Settings/commit/d85da1f97fc1c9fa5b98e3d76ef4d32d533a371b
-https://github.com/ezio84/packages_apps_Settings/commit/85a4b56bc82ae32c90647d820d517f4893c4f7b0
-https://github.com/ezio84/frameworks_base/commit/05e84d17b59e0b454b832485d478458981ebf374
-and revert the not needed "Recents: option to disable searchbar"
+https://review.slimroms.eu/#/c/4591/
+https://review.slimroms.eu/#/c/4592/
 
 Dialer lookup
 https://github.com/ezio84/frameworks_base/commit/28fc8e7ceaa88c4c0eb789443255d552d02206f3
@@ -126,8 +124,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/d956d9b8244073fa0eb55477
 https://github.com/ezio84/packages_apps_Settings/commit/9d1999fff61ebc1bd79b673b3da3f8e6b52abb53
 https://github.com/ezio84/packages_apps_Settings/commit/f2674082a61fc7d3a13faabf6072783b5ebe0641
 
-Recents: option to disable searchbar 
-https://github.com/ezio84/packages_apps_Settings/commit/d5194dbdd9fe429b93498b769287d3e1abe5d8b5
+Stock Recents: option to disable searchbar
+https://github.com/ezio84/packages_apps_Settings/commit/ac3fc829de80111921a2938fdfaf4bf223fefb10
 https://github.com/ezio84/frameworks_base/commit/bc0962e124dc3afd4b209289b00fe27bc6956a8b
 
 Add led, doze, proximity wake- overlays for hammerhead
