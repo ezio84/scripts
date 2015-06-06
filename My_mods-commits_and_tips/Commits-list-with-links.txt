@@ -62,7 +62,7 @@ https://github.com/ezio84/packages_apps_DeskClock/commit/58fdd79ddc4a43cca5b5784
 Chamber of Secrets && SlimActions to shortcuts 
 https://github.com/ezio84/frameworks_base/commit/13a6a788940212d8bd02262c6e8f896ced403f49
 https://github.com/ezio84/frameworks_base/commit/44a6551176189411e008474554f69ea777526f01
-https://github.com/ezio84/packages_apps_Settings/commit/3530e9b30ca98974ffb5ef07260cb0495e98a122
+https://github.com/ezio84/packages_apps_Settings/commit/9e36c4fc7d3914a4a93c921b7af5b89a2fc8dc9f
 
 Remove the useless persistent plugged headset notification
 https://github.com/ezio84/packages_services_Telecomm/commit/595953bf9370509504dd901a4dedaf99b32ac9b0
