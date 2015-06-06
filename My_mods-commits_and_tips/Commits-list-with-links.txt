@@ -1,3 +1,6 @@
+BootMessage: Show each app name being optimized during boot
+https://github.com/ezio84/frameworks_base/commit/2fdfe960cd07ebfb85d5189cbcf0d273b4e0937d
+
 Show multi-line notification if there's more than 1 missed call
 https://github.com/ezio84/packages_services_Telecomm/commit/0df15d901f6b14c239043af06d3f6c0f289bbddc
 
@@ -220,7 +223,10 @@ Add LCD density setting
 https://github.com/ezio84/packages_apps_Settings/commit/ecc5acf7eace8ca8a8cf39ad4984088e3e29b537
 https://github.com/ezio84/packages_apps_Settings/commit/eb1eeedc5d00bf6c0fce6dc3361d45697267572b
 https://github.com/ezio84/frameworks_base/commit/b4e8efb34b4b8f2ecbf74995c235bf35dfe0d97c
-https://github.com/ezio84/frameworks_base/commit/458185e970fbf7e41aebffc9b6313d101aadc20e
+https://github.com/ezio84/frameworks_base/commit/56ae60c73f58516d2c25e6cd5ff250ad99b662d7
+https://github.com/ezio84/frameworks_base/commit/cb474a25079224f03b1cb1f831f34269a6b2afc4
+https://github.com/ezio84/frameworks_base/commit/b046d39737b951ede69bce47df1f867d0d425dca
+https://github.com/ezio84/packages_apps_Settings/commit/d4fac6cc10c7f02022c9d0718c53aeb085508ef7
 
 Bringup expanded desktop and implement per-user configuration
 https://github.com/ezio84/packages_apps_Settings/commit/2c3019bf6644cdc70b1b23b0a493731474639b74
