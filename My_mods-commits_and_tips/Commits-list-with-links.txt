@@ -384,7 +384,7 @@ Higher dpi value (=stock-20)
 https://github.com/ezio84/vendor_slim/commit/a0a969699cdf3f639594f248c42e36bb7e23bdc1<-- WE HAVE A DIFFERENT WAY NOW, SEE THE COMMIT MESSAGER HERE: https://github.com/ezio84/vendor_slim/commit/eb5eb285f378c70c777775861ce5ce79adfad725 <-- EDIT AGAIN, see:
 https://github.com/ezio84/vendor_slim/commit/fb39369cfccda69cb5ae6fc4a79e4469b4ef4da3 (now the value set in that python script is set for the persistent value (the one handled by the new lcd density feature), not the ro one
 
-Add prebuilt AdAway (latest xda version)
+Add prebuilt AdAway (latest xda version) <- Reverted (let the user install the anti advertising app he wants.
 https://github.com/ezio84/vendor_slim/commit/675d41381d6ed0467c0a4d0aa46e361a8637df41
 
 Add built-in Layer Backup app by @kantjer <-- Temp removed due to autostarting monitor service
