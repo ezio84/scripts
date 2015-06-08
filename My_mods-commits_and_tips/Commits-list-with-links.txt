@@ -1,3 +1,18 @@
+Screen Recorder (add after global menu)
+https://github.com/ezio84/frameworks_base/commit/07d67d204dd8951dbf13a4ce141cbf4f2ccb2f8f
+https://github.com/ezio84/packages_apps_Settings/commit/6297bb8024aea8f9ec4d82626eb3051381ea2ade
+https://github.com/ezio84/vendor_slim/commit/71b5ba023a677e67601169176e2a654ec3bdd7f8
+https://github.com/ezio84/scripts/commit/b7f0bc763fe877a704f75e0069e0d3ac45493fd9
+
+Slim Global Menu (power menu configuration)
+https://github.com/ezio84/frameworks_base/commit/388b409188cabe12c783651989f5fe715212cecb
+https://github.com/ezio84/packages_apps_Settings/commit/5b974994e1ce26d9f221d78bb885d8f71e69c93e
+https://github.com/ezio84/packages_apps_Settings/commit/f27bde695dce3b4c3174749c212f67d8b341e53d
+
+Advanced reboot/power tile
+https://github.com/ezio84/frameworks_base/commit/5dd4063a92381a90cf22bd1ce996889dc15609bb
+https://github.com/ezio84/frameworks_base/commit/8c09c82c893c8221d414ffa5de5e35bb919bdb5a
+
 BootMessage: Show each app name being optimized during boot
 https://github.com/ezio84/frameworks_base/commit/2fdfe960cd07ebfb85d5189cbcf0d273b4e0937d
 
