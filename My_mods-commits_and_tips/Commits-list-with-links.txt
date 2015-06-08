@@ -1,3 +1,10 @@
+Display cursor buttons in navigation bar while typing
+https://github.com/ezio84/frameworks_base/commit/aaa5a67a417d5ba2cb0fac916e2156a7aeb2121c
+https://github.com/ezio84/frameworks_base/commit/b6f839c4060beebc8eafe7b6c863d8bf9e7b4af8
+https://github.com/ezio84/packages_apps_Settings/commit/9220bec43eb4c766310fd34c0392be200f38128a
+https://github.com/ezio84/packages_apps_Settings/commit/987230dc8e9d3872f5e0c62290f42dae1052e52e
+https://github.com/ezio84/packages_apps_Settings/commit/0e0743527d827cae18f143e12660ee3ed3c58d1a
+
 Screen Recorder (add after global menu)
 https://github.com/ezio84/frameworks_base/commit/07d67d204dd8951dbf13a4ce141cbf4f2ccb2f8f
 https://github.com/ezio84/packages_apps_Settings/commit/6297bb8024aea8f9ec4d82626eb3051381ea2ade
