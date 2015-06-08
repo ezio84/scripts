@@ -38,7 +38,7 @@ cd $rdir/bionic && git checkout lp5.1 && git fetch slimroms && git merge slimrom
 echo -e "${bldgrn}Updating frameworks/opt/telephony ${txtrst}"
 cd $rdir/frameworks/opt/telephony && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_opt_telephony lp5.1
 echo -e "${bldgrn}Updating frameworks/opt/cards ${txtrst}"
-cd $rdir/frameworks/opt/cards && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_opt_cards lp5.1
+cd $rdir/frameworks/opt/cards && git checkout lp5.1 && git fetch gmillz && git merge gmillz/lp5.1 && git push https://github.com/ezio84/frameworks_opt_cards lp5.1
 echo -e "${bldgrn}Updating packages/apps/Dialer ${txtrst}"
 cd $rdir/packages/apps/Dialer && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Dialer lp5.1
 echo -e "${bldgrn}Updating packages/apps/Contacts ${txtrst}"
@@ -53,10 +53,12 @@ echo -e "${bldgrn}Updating packages/providers/TelephonyProvider ${txtrst}"
 cd $rdir/packages/providers/TelephonyProvider && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_providers_TelephonyProvider lp5.1
 echo -e "${bldgrn}Updating packages/apps/DeskClock ${txtrst}"
 cd $rdir/packages/apps/DeskClock && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_DeskClock lp5.1
-echo -e "${bldgrn}Updating libcore ${txtrst}"
-cd $rdir/libcore && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/platform_libcore lp5.1
-echo -e "${bldgrn}Updating art ${txtrst}"
-cd $rdir/libcore && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/android_art lp5.1
+echo -e "${bldgrn}Updating packages/apps/ScreenRecorder ${txtrst}"
+cd $rdir/packages/apps/ScreenRecorder && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.0 && git push https://github.com/ezio84/packages_apps_ScreenRecorder lp5.1
+#echo -e "${bldgrn}Updating libcore ${txtrst}"
+#cd $rdir/libcore && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/platform_libcore lp5.1
+#echo -e "${bldgrn}Updating art ${txtrst}"
+#cd $rdir/libcore && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/android_art lp5.1
 echo -e "${bldgrn}Updating AudioVisualizer by Cyanogen ${txtrst}"
 cd $rdir/external/android-visualizer && git checkout cm-12.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/android_external_android-visualizer cm-12.1
 echo -e "${bldgrn}Updating AudioFX by Cyanogen ${txtrst}"
