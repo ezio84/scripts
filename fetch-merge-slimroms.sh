@@ -54,7 +54,7 @@ cd $rdir/packages/providers/TelephonyProvider && git checkout lp5.1 && git fetch
 echo -e "${bldgrn}Updating packages/apps/DeskClock ${txtrst}"
 cd $rdir/packages/apps/DeskClock && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_DeskClock lp5.1
 echo -e "${bldgrn}Updating packages/apps/ScreenRecorder ${txtrst}"
-cd $rdir/packages/apps/ScreenRecorder && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.0 && git push https://github.com/ezio84/packages_apps_ScreenRecorder lp5.1
+cd $rdir/packages/apps/ScreenRecorder && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.0 && git push https://github.com/ezio84/android_packages_apps_ScreenRecorder lp5.1
 #echo -e "${bldgrn}Updating libcore ${txtrst}"
 #cd $rdir/libcore && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/platform_libcore lp5.1
 #echo -e "${bldgrn}Updating art ${txtrst}"
