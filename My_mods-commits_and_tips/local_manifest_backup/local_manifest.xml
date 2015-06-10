@@ -27,6 +27,8 @@
   <remove-project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" />
   <!-- <remove-project path="packages/apps/SlimCenter" name="SlimRoms/packages_apps_SlimCenter" />
   <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.1" /> -->
+  <remove-project path="frameworks/av" name="SlimRoms/frameworks_av" />
+  <project path="frameworks/av" name="ezio84/frameworks_av" remote="github" revision="lp5.1" />
   <remove-project path="art" name="SlimRoms/android_art" />
   <project path="art" name="ezio84/android_art" remote="github" revision="lp5.1"  />
   <remove-project path="libcore" name="SlimRoms/android_libcore" />
