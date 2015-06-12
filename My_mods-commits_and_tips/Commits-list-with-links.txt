@@ -1,3 +1,11 @@
+Add charging connection sound(custom ringtone)/vib/silent setting (works for both wired and wireless charging)
+https://github.com/ezio84/packages_apps_Settings/commit/ce049c7b07c89bea590f71906ef68b6c496939b7
+https://github.com/ezio84/frameworks_base/commit/85a17badd9243df48e9b537355a7472c0174f8b4
+https://github.com/ezio84/frameworks_base/commit/b8514aecea3c69eea09a1e1c9a5eea7a812372b9
+
+SystemUI: fix keyguard charging text not showing 
+https://github.com/ezio84/frameworks_base/commit/d482f71d23c0cddba133242626a5eeb508a329f0
+
 Let the user switch from aosp to Google webview and viceversa just installing or uninstalling the app from playstore (ps: aosp webview bundled with the rom is the rock solid choice at the moment)
 https://github.com/ezio84/frameworks_base/commit/39e559cfaf083c3ec1ce15b319c147833f2e28e6
 
@@ -64,9 +72,6 @@ https://github.com/ezio84/vendor_slim/commit/56276e195f2ca3b37331e60b6f5ffdc0a96
 
 Fix play service fc with alternative toolchains
 https://github.com/ezio84/platform_libcore/commit/faeae8da0755f981612289c4eb5b0d12803c44a9
-
-Frameworks: follow charging notification settings also for wireless charging
-https://github.com/ezio84/frameworks_base/commit/b8514aecea3c69eea09a1e1c9a5eea7a812372b9
 
 Increasing volume ring
 https://github.com/ezio84/packages_services_Telecomm/commit/e7944b380649e3277083a4a40a76d48d3df4c0d0
@@ -255,6 +260,7 @@ https://github.com/ezio84/frameworks_base/commit/56ae60c73f58516d2c25e6cd5ff250a
 https://github.com/ezio84/frameworks_base/commit/cb474a25079224f03b1cb1f831f34269a6b2afc4
 https://github.com/ezio84/frameworks_base/commit/b046d39737b951ede69bce47df1f867d0d425dca
 https://github.com/ezio84/packages_apps_Settings/commit/d4fac6cc10c7f02022c9d0718c53aeb085508ef7
+https://github.com/ezio84/frameworks_base/commit/149993cd76b6a801888998c38a13bee42b77c284
 
 Bringup expanded desktop and implement per-user configuration
 https://github.com/ezio84/packages_apps_Settings/commit/2c3019bf6644cdc70b1b23b0a493731474639b74
