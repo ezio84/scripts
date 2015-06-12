@@ -1,4 +1,9 @@
-Add charging connection sound(custom ringtone)/vib/silent setting (works for both wired and wireless charging)
+Allow/Prevent notification light in Zen mode
+https://github.com/ezio84/packages_apps_Settings/commit/014e3a69e8840bc221bf01697d52cffcd15959ee
+https://github.com/ezio84/frameworks_base/commit/6b0fa3df516c3540d9660549130cb7cc428f0f3f
+https://github.com/ezio84/frameworks_base/commit/07fe11ab3ae849c18264189c5319816f1722e122
+
+Add charging connection sound (custom ringtone)/vib/silent setting (works for both wired and wireless charging)
 https://github.com/ezio84/packages_apps_Settings/commit/ce049c7b07c89bea590f71906ef68b6c496939b7
 https://github.com/ezio84/frameworks_base/commit/85a17badd9243df48e9b537355a7472c0174f8b4
 https://github.com/ezio84/frameworks_base/commit/b8514aecea3c69eea09a1e1c9a5eea7a812372b9
