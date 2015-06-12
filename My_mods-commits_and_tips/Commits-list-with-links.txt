@@ -46,8 +46,8 @@ https://github.com/ezio84/packages_services_Telecomm/commit/0df15d901f6b14c23904
 
 Slim recents
 https://github.com/ezio84/scripts/commit/b0b272cb75ffd3a144ddf9fd3917695a66168b27
-https://review.slimroms.eu/#/c/4591/
-https://review.slimroms.eu/#/c/4592/
+https://github.com/ezio84/packages_apps_Settings/commit/2908664915585db465ba27f940d17ddcd95b040f
+https://github.com/ezio84/frameworks_base/commit/e302eb6480e2da356b439f354e67fb53b0de1801
 Stock Recents: option to disable searchbar
 https://github.com/ezio84/packages_apps_Settings/commit/ac3fc829de80111921a2938fdfaf4bf223fefb10
 https://github.com/ezio84/frameworks_base/commit/bc0962e124dc3afd4b209289b00fe27bc6956a8b
