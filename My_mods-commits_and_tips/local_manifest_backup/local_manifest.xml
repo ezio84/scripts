@@ -57,6 +57,7 @@
   <project path="bionic" name="ezio84/android_bionic" remote="github" revision="lp5.1" />
   <remove-project path="packages/apps/DeskClock" name="SlimRoms/packages_apps_DeskClock" />
   <project path="packages/apps/DeskClock" name="ezio84/packages_apps_DeskClock" remote="github" revision="lp5.1" />
+  <remove-project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" />
   <project path="frameworks/opt/cards" name="ezio84/frameworks_opt_cards" remote="github" revision="lp5.1" />
   <!-- Screen recorder by ChamaleonOS-->
   <project path="packages/apps/ScreenRecorder" name="ezio84/android_packages_apps_ScreenRecorder" remote="github" revision="lp5.1" />

@@ -40,7 +40,7 @@ cd $rdir/bionic && git checkout lp5.1 && git fetch slimroms && git merge slimrom
 echo -e "${bldgrn}Updating frameworks/opt/telephony ${txtrst}"
 cd $rdir/frameworks/opt/telephony && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_opt_telephony lp5.1
 echo -e "${bldgrn}Updating frameworks/opt/cards ${txtrst}"
-cd $rdir/frameworks/opt/cards && git checkout lp5.1 && git fetch gmillz && git merge gmillz/lp5.1 && git push https://github.com/ezio84/frameworks_opt_cards lp5.1
+cd $rdir/frameworks/opt/cards && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_opt_cards lp5.1
 echo -e "${bldgrn}Updating packages/apps/Dialer ${txtrst}"
 cd $rdir/packages/apps/Dialer && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Dialer lp5.1
 echo -e "${bldgrn}Updating packages/apps/Contacts ${txtrst}"
