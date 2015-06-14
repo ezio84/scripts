@@ -41,9 +41,6 @@ https://github.com/ezio84/frameworks_base/commit/8c09c82c893c8221d414ffa5de5e35b
 BootMessage: Show each app name being optimized during boot
 https://github.com/ezio84/frameworks_base/commit/2fdfe960cd07ebfb85d5189cbcf0d273b4e0937d
 
-Show multi-line notification if there's more than 1 missed call
-https://github.com/ezio84/packages_services_Telecomm/commit/0df15d901f6b14c239043af06d3f6c0f289bbddc
-
 Slim recents
 https://github.com/ezio84/scripts/commit/b0b272cb75ffd3a144ddf9fd3917695a66168b27
 https://github.com/ezio84/packages_apps_Settings/commit/2908664915585db465ba27f940d17ddcd95b040f
