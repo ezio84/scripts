@@ -53,6 +53,7 @@ https://github.com/ezio84/frameworks_base/commit/bc0962e124dc3afd4b209289b00fe27
 https://github.com/ezio84/packages_apps_Settings/commit/f43368c0df3c505d625d584cbb71303be53c02b3
 https://github.com/ezio84/packages_apps_Settings/commit/79c9aa2ae24a5769f8e893d76c1ff438f7bd350b
 https://github.com/ezio84/frameworks_base/commit/9c397b92bde995aa658affac2f08516b7ac91d8f
+https://github.com/ezio84/frameworks_base/commit/26fcfadb60b91940e9e704925e3756da25488dff
 
 Dialer lookup
 https://github.com/ezio84/frameworks_base/commit/28fc8e7ceaa88c4c0eb789443255d552d02206f3
@@ -129,6 +130,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/9cac26c3272c092ed57ee9c2
 https://github.com/ezio84/packages_apps_Settings/commit/e95cd1b7f19613ed33da38a517ee69221ce94147
 https://github.com/ezio84/packages_apps_Settings/commit/9c1503821daafc1963011d6ddb133b202dda5316
 https://github.com/ezio84/frameworks_base/commit/5688393dd726aaa2b37f912bde726a18c82dc6d1
+https://github.com/ezio84/frameworks_base/commit/26c7361fde949ab722fa99778b71d028090cf617
+https://github.com/ezio84/packages_apps_Settings/commit/0e22828e80e81306bc6ed33a5475c91b90b8675d
 
 DeskClock: Add back flip and shake actions
 https://github.com/ezio84/packages_apps_DeskClock/commit/164e8ba49b9e096fa57e8e8d8f86a87c0ffac5d3
