@@ -52,8 +52,6 @@ https://github.com/ezio84/packages_apps_Settings/commit/ac3fc829de80111921a2938f
 https://github.com/ezio84/frameworks_base/commit/bc0962e124dc3afd4b209289b00fe27bc6956a8b
 https://github.com/ezio84/packages_apps_Settings/commit/f43368c0df3c505d625d584cbb71303be53c02b3
 https://github.com/ezio84/packages_apps_Settings/commit/79c9aa2ae24a5769f8e893d76c1ff438f7bd350b
-https://github.com/ezio84/frameworks_base/commit/9c397b92bde995aa658affac2f08516b7ac91d8f
-https://github.com/ezio84/frameworks_base/commit/26fcfadb60b91940e9e704925e3756da25488dff
 
 Dialer lookup
 https://github.com/ezio84/frameworks_base/commit/28fc8e7ceaa88c4c0eb789443255d552d02206f3
