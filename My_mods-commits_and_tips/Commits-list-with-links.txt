@@ -128,8 +128,8 @@ https://github.com/ezio84/packages_apps_Settings/commit/9cac26c3272c092ed57ee9c2
 https://github.com/ezio84/packages_apps_Settings/commit/e95cd1b7f19613ed33da38a517ee69221ce94147
 https://github.com/ezio84/packages_apps_Settings/commit/9c1503821daafc1963011d6ddb133b202dda5316
 https://github.com/ezio84/frameworks_base/commit/5688393dd726aaa2b37f912bde726a18c82dc6d1
-https://github.com/ezio84/frameworks_base/commit/26c7361fde949ab722fa99778b71d028090cf617
-https://github.com/ezio84/packages_apps_Settings/commit/0e22828e80e81306bc6ed33a5475c91b90b8675d
+https://github.com/ezio84/frameworks_base/commit/57fa7609bd337c04be63cc20d288874e53f4415b
+https://github.com/ezio84/packages_apps_Settings/commit/54db2389db0b194720816dd7bde510d884d07e45
 
 DeskClock: Add back flip and shake actions
 https://github.com/ezio84/packages_apps_DeskClock/commit/164e8ba49b9e096fa57e8e8d8f86a87c0ffac5d3
@@ -206,6 +206,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/2118a8035bb10e732a05f9ef
 https://github.com/ezio84/frameworks_base/commit/c8e8f6bbd54612361d5476d310e2fcabd781718a
 https://github.com/ezio84/packages_apps_Settings/commit/b01c35e30c5f9e34587686823496cd9cea6a8099
 https://github.com/ezio84/frameworks_base/commit/bbeb29d9d9968b78d1f2a530bafbdc9aac60a2c3
+https://github.com/ezio84/frameworks_base/commit/5261ea15ea8087a6cf3731050391f5cbbb2333cd
 
 Slim custom navbar
 https://github.com/ezio84/frameworks_base/commit/ec6174d2952512d8f5cc1bd6032a5edc73b802a0
