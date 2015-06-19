@@ -33,6 +33,8 @@ Slim Global Menu (power menu configuration)
 https://github.com/ezio84/frameworks_base/commit/388b409188cabe12c783651989f5fe715212cecb
 https://github.com/ezio84/packages_apps_Settings/commit/5b974994e1ce26d9f221d78bb885d8f71e69c93e
 https://github.com/ezio84/packages_apps_Settings/commit/f27bde695dce3b4c3174749c212f67d8b341e53d
+https://github.com/ezio84/frameworks_base/commit/7ac8355acdedfac94d42f7b08bd4fd9ed315972a
+https://github.com/ezio84/frameworks_base/commit/26956d1c9ad2343f735e53e9afad95f39f7de065
 
 Advanced reboot/power tile
 https://github.com/ezio84/frameworks_base/commit/5dd4063a92381a90cf22bd1ce996889dc15609bb
