@@ -226,7 +226,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/4821645bbc680641e35c00ea
 https://github.com/ezio84/frameworks_base/commit/14838b62896be4a2a8f2b34f74fce55feb37c6d5
 https://github.com/ezio84/frameworks_base/commit/c75655955e0e787a7f93f7991e7a2cbf9c649b3a
 https://github.com/ezio84/frameworks_base/commit/ce4df74d1aa37a2c5d4535ea0e7af7c3febc1f92
-https://github.com/ezio84/frameworks_base/commit/89642eb31ee5e582c9c5c9b371a26f5da01dd350 (good also for Pie)
+https://github.com/ezio84/frameworks_base/commit/b11fb03e526d6b181aeb2a40e1eebe8a40c1fcec (good also for Pie)
 
 
 
