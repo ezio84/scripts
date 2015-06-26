@@ -1,3 +1,6 @@
+Hammerhead usb fast charge support
+https://github.com/ezio84/kernel_lge_hammerhead/commit/5ae97734f6e7b88abeef50a2ff48e245046a2cb4
+
 Allow/Prevent notification light in Zen mode
 https://github.com/ezio84/packages_apps_Settings/commit/014e3a69e8840bc221bf01697d52cffcd15959ee
 https://github.com/ezio84/frameworks_base/commit/6b0fa3df516c3540d9660549130cb7cc428f0f3f
