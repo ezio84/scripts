@@ -134,6 +134,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/9c1503821daafc1963011d6d
 https://github.com/ezio84/frameworks_base/commit/5688393dd726aaa2b37f912bde726a18c82dc6d1
 https://github.com/ezio84/frameworks_base/commit/57fa7609bd337c04be63cc20d288874e53f4415b
 https://github.com/ezio84/packages_apps_Settings/commit/54db2389db0b194720816dd7bde510d884d07e45
+https://github.com/ezio84/frameworks_base/commit/82f73527a5d94b47ced10a5a866f0b8a3e35fb4c
 
 DeskClock: Add back flip and shake actions
 https://github.com/ezio84/packages_apps_DeskClock/commit/164e8ba49b9e096fa57e8e8d8f86a87c0ffac5d3
@@ -231,7 +232,7 @@ https://github.com/ezio84/frameworks_base/commit/c75655955e0e787a7f93f7991e7a2cb
 https://github.com/ezio84/frameworks_base/commit/ce4df74d1aa37a2c5d4535ea0e7af7c3febc1f92
 https://github.com/ezio84/packages_apps_Settings/commit/cb6d3a83e5097c6477d2e35a248c7506aa05a592 (good also for Pie and global menu)
 https://github.com/ezio84/frameworks_base/commit/dedbfa71b20cd88ff15caabb1d45e585524bfc4c (good also for Pie)
-https://github.com/ezio84/frameworks_base/commit/8273b73ac6adfed01ad63c4dbb33e4fb7d39638e (good also for Pie and global menu)
+https://github.com/ezio84/frameworks_base/commit/9fb5cfc36a6efdbafbc875ef6b506b793f9cd30f (good also for Pie and global menu)
 
 
 
