@@ -57,6 +57,8 @@ echo -e "${bldgrn}Updating packages/apps/DeskClock ${txtrst}"
 cd $rdir/packages/apps/DeskClock && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_DeskClock lp5.1
 echo -e "${bldgrn}Updating packages/apps/ScreenRecorder ${txtrst}"
 cd $rdir/packages/apps/ScreenRecorder && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/android_packages_apps_ScreenRecorder lp5.1
+echo -e "${bldgrn}Updating external/bluetooth/bluedroid/r ${txtrst}"
+cd $rdir/external/bluetooth/bluedroid/ && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push git push https://github.com/ezio84/android_external_bluetooth_bluedroid lp5.1
 #echo -e "${bldgrn}Updating libcore ${txtrst}"
 #cd $rdir/libcore && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/platform_libcore lp5.1
 #echo -e "${bldgrn}Updating art ${txtrst}"

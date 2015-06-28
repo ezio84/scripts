@@ -45,6 +45,7 @@ git push https://github.com/ezio84/platform_libcore lp5.1
 git push https://github.com/ezio84/android_art lp5.1
 git push https://github.com/ezio84/android_system_core lp5.1
 git push https://github.com/ezio84/android_packages_apps_ScreenRecorder lp5.1
+git push https://github.com/ezio84/android_external_bluetooth_bluedroid lp5.1
 
 
  . scripts/build_rom.sh hammerhead nosync 7 noclean log release

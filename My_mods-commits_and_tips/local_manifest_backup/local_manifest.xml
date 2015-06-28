@@ -59,6 +59,8 @@
   <project path="packages/apps/DeskClock" name="ezio84/packages_apps_DeskClock" remote="github" revision="lp5.1" />
   <remove-project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" />
   <project path="frameworks/opt/cards" name="ezio84/frameworks_opt_cards" remote="github" revision="lp5.1" />
+  <remove-project path="external/bluetooth/bluedroid" name="SlimRoms/android_external_bluetooth_bluedroid" />
+  <project path="external/bluetooth/bluedroid" name="ezio84/android_external_bluetooth_bluedroid" remote="github" revision="lp5.1" />
   <!-- Screen recorder by ChamaleonOS-->
   <project path="packages/apps/ScreenRecorder" name="ezio84/android_packages_apps_ScreenRecorder" remote="github" revision="lp5.1" />
   <!-- Switch from old DSP Manager to AudioFX and Eleven music player by CyanogenMod -->
