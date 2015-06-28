@@ -1,3 +1,6 @@
+Turn off "Mobile data" and "Data roaming" by default
+https://github.com/ezio84/vendor_slim/commit/a439bdabd761eac18638225cd777cbf3ce7a760a
+
 Hammerhead usb fast charge support
 https://github.com/ezio84/kernel_lge_hammerhead/commit/5ae97734f6e7b88abeef50a2ff48e245046a2cb4
 https://github.com/ezio84/kernel_lge_hammerhead/commit/f7ea31a42594cc9ea8ba9bbb5d9972993cf9a1a4
