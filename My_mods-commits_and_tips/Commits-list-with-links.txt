@@ -1,3 +1,7 @@
+Telephony: Non-intrusive InCall UI switch
+https://github.com/ezio84/packages_services_Telephony/commit/ac5eb6da51395b7656567b6b83504a1895c56e28
+https://github.com/ezio84/frameworks_base/commit/d81bb4618b915e27692116ee158f150ea2b007d3
+
 Turn off "Mobile data" and "Data roaming" by default
 https://github.com/ezio84/vendor_slim/commit/a439bdabd761eac18638225cd777cbf3ce7a760a
 
