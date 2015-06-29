@@ -408,7 +408,9 @@ https://github.com/ezio84/packages_apps_PackageInstaller/commit/a596b7b95dadcad6
 
 RRO layers 2.1 commits:
 https://review.slimroms.eu/#/q/branch:lp5.1+topic:rro2.1
-https://review.slimroms.eu/#/c/1477/ (for Doze color inversion)
+https://review.slimroms.eu/#/c/1477/ 
+https://github.com/ezio84/packages_apps_Dialer/commit/4a97a1704ff4ed19557ff2c630fd471d5f89ea87
+https://github.com/ezio84/packages_apps_Dialer/commit/958db6413addca34872147c75926c6f2a583abcf
 PS: till themes are updated to support the icon tint, don't add these:
 https://review.slimroms.eu/2228
 https://review.slimroms.eu/2230
