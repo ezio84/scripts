@@ -123,6 +123,7 @@ SlimPIE
 https://github.com/ezio84/packages_apps_Settings/commit/4c7d96079f5c274e4bab1006bce505100a16f113
 https://github.com/ezio84/frameworks_base/commit/0142e1e5dc172f6208ddd84af9cda743ba8b854e
 https://github.com/ezio84/frameworks_base/commit/fa9acd7404ea10e9848f4b897725d07f1c24962a
+https://github.com/ezio84/frameworks_base/commit/ca2e2bc01704e6844a50d1bf65cfdab906ec0061
 Gerrit commits:
 https://review.slimroms.eu/3670
 https://review.slimroms.eu/3669
@@ -138,7 +139,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/9c1503821daafc1963011d6d
 https://github.com/ezio84/frameworks_base/commit/5688393dd726aaa2b37f912bde726a18c82dc6d1
 https://github.com/ezio84/frameworks_base/commit/57fa7609bd337c04be63cc20d288874e53f4415b
 https://github.com/ezio84/packages_apps_Settings/commit/54db2389db0b194720816dd7bde510d884d07e45
-https://github.com/ezio84/frameworks_base/commit/27213b3aece95de7fd2404b75dc1ac5a715e3ac8
+https://github.com/ezio84/frameworks_base/commit/660de85293c4d9674ffc57af67c6d06a7425f752
 
 DeskClock: Add back flip and shake actions
 https://github.com/ezio84/packages_apps_DeskClock/commit/164e8ba49b9e096fa57e8e8d8f86a87c0ffac5d3
