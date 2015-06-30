@@ -323,10 +323,12 @@ https://github.com/ezio84/packages_apps_InCallUI/commit/591aefe3d0d5315671f3daa1
 https://github.com/ezio84/packages_apps_InCallUI/commit/c46f3fedad1b4808ef5d0c374465f12bbf892c1f
 https://github.com/ezio84/packages_apps_InCallUI/commit/14460f2a7028dcc605f429be32ffebcd9b75007a
 
-Long press to skip tracks
-https://github.com/ezio84/frameworks_base/commit/e4d82041ac8bf10db5b69caaa7c3987abb414821
-https://github.com/ezio84/frameworks_base/commit/fd07932f09f13bcaa9e9d626af1f240cdb1e7d51
+Long press volume rocker key to skip tracks
 https://github.com/ezio84/packages_apps_Settings/commit/d707adce89310692668e56c1d8e3a1a61ee5d5a5
+https://github.com/ezio84/frameworks_base/commit/e4d82041ac8bf10db5b69caaa7c3987abb414821
+https://github.com/ezio84/frameworks_base/commit/f7b7ca9613c00aafeface2d7985f9547b6d238fe
+https://github.com/ezio84/frameworks_base/commit/7712a73dd5960b54a827e863292673769b2f518e
+https://github.com/ezio84/frameworks_base/commit/ac2f9d6af6d38b53a8fcc200170a6902c5a4f27f
 
 Add ability to change the color in battery saver mode
 https://github.com/ezio84/packages_apps_Settings/commit/682ecd495d7cd84979106f60076cf266ad229565
