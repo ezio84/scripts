@@ -290,6 +290,7 @@ https://github.com/ezio84/frameworks_base/commit/cb474a25079224f03b1cb1f831f3426
 https://github.com/ezio84/frameworks_base/commit/b046d39737b951ede69bce47df1f867d0d425dca
 https://github.com/ezio84/packages_apps_Settings/commit/d4fac6cc10c7f02022c9d0718c53aeb085508ef7
 https://github.com/ezio84/frameworks_base/commit/149993cd76b6a801888998c38a13bee42b77c284
+https://github.com/ezio84/frameworks_base/commit/f13f1ee3a68ca1e852548cabfeee056fa42b6151
 
 Bringup expanded desktop and implement per-user configuration
 https://github.com/ezio84/packages_apps_Settings/commit/2c3019bf6644cdc70b1b23b0a493731474639b74
