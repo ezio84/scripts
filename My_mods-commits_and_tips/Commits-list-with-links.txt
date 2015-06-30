@@ -329,6 +329,7 @@ https://github.com/ezio84/frameworks_base/commit/e4d82041ac8bf10db5b69caaa7c3987
 https://github.com/ezio84/frameworks_base/commit/f7b7ca9613c00aafeface2d7985f9547b6d238fe
 https://github.com/ezio84/frameworks_base/commit/7712a73dd5960b54a827e863292673769b2f518e
 https://github.com/ezio84/frameworks_base/commit/ac2f9d6af6d38b53a8fcc200170a6902c5a4f27f
+https://github.com/ezio84/frameworks_base/commit/9e89476c080e4ed74063d40742f6f402bfa8ffc7
 
 Add ability to change the color in battery saver mode
 https://github.com/ezio84/packages_apps_Settings/commit/682ecd495d7cd84979106f60076cf266ad229565
