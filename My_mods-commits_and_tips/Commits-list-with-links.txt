@@ -1,3 +1,6 @@
+SystemUI: hide navigation bar faster in SetupWizard
+https://github.com/ezio84/frameworks_base/commit/5cc1e2357b1e6090d673547473794616aaa92d1d
+
 Telephony: Non-intrusive InCall UI switch
 https://github.com/ezio84/packages_services_Telephony/commit/ac5eb6da51395b7656567b6b83504a1895c56e28
 https://github.com/ezio84/frameworks_base/commit/d81bb4618b915e27692116ee158f150ea2b007d3
@@ -59,8 +62,6 @@ https://github.com/ezio84/packages_apps_Settings/commit/ac3fc829de80111921a2938f
 https://github.com/ezio84/frameworks_base/commit/bc0962e124dc3afd4b209289b00fe27bc6956a8b
 https://github.com/ezio84/packages_apps_Settings/commit/f43368c0df3c505d625d584cbb71303be53c02b3
 https://github.com/ezio84/packages_apps_Settings/commit/79c9aa2ae24a5769f8e893d76c1ff438f7bd350b
-https://github.com/ezio84/frameworks_base/commit/75ad3e3852896fef3314a0280226e97fe07d733d
-https://github.com/ezio84/frameworks_base/commit/13d0fe3618d3065e5b97407d17f7212985283f06
 
 Dialer lookup
 https://github.com/ezio84/frameworks_base/commit/28fc8e7ceaa88c4c0eb789443255d552d02206f3
