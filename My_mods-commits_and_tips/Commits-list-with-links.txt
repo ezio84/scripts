@@ -107,6 +107,8 @@ https://github.com/ezio84/packages_services_Telephony/commit/5adbd1cd8acd934dd2f
 https://github.com/ezio84/frameworks_opt_telephony/commit/5cdb0c329d733ccf95cf86c80afed64e1cb44f86
 https://github.com/ezio84/packages_providers_TelephonyProvider/commit/b74d4b3317e213cf612afb8f63e4ae0e9a369156
 https://github.com/ezio84/packages_services_Telecomm/commit/071c41aefaa4fe20d1dd68eb987d0cb94b37a927
+https://github.com/ezio84/packages_services_Telecomm/commit/4526e5af6f7ad0b0a57fe962ea86e22d7b6cde2e
+https://github.com/ezio84/frameworks_opt_telephony/commit/0b55fd811244e04f173820e6a1fe1448ccf52681
 
 DeskClock: Add option to hide AlarmClock Icon in StatusBar
 https://github.com/ezio84/packages_apps_DeskClock/commit/98d94b49f73244f74efe7ac5541419fc361ff650
