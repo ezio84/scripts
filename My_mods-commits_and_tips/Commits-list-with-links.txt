@@ -1,3 +1,6 @@
+Add hotspot icon to status bar
+https://github.com/ezio84/frameworks_base/commit/c445b6f865500143a79e619b6bbaeb601b3765c1
+
 SystemUI: hide navigation bar faster in SetupWizard
 https://github.com/ezio84/frameworks_base/commit/5cc1e2357b1e6090d673547473794616aaa92d1d
 
