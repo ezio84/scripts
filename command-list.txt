@@ -18,6 +18,8 @@ git remote set-url github http://github.com/ezio84/... (have to do this after de
 git push https://github.com/ezio84/packages_apps_Settings lp5.1
 git push https://github.com/ezio84/frameworks_base lp5.1
 git push https://github.com/ezio84/frameworks_av lp5.1
+git push https://github.com/ezio84/frameworks_native lp5.1
+git push https://github.com/ezio84/android_external_stagefright-plugins lp5.1
 git push https://github.com/ezio84/vendor_slim lp5.1
 git push https://github.com/ezio84/android_build lp5.1
 git push https://github.com/ezio84/scripts lp5.1

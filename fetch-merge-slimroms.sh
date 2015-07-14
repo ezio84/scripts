@@ -17,6 +17,10 @@ echo -e "${bldgrn}Updating packages/apps/Settings ${txtrst}"
 cd $rdir/packages/apps/Settings && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Settings lp5.1
 echo -e "${bldgrn}Updating frameworks/av ${txtrst}"
 cd $rdir/frameworks/av && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_av lp5.1
+echo -e "${bldgrn}Updating frameworks/native ${txtrst}"
+cd $rdir/frameworks/native && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_native lp5.1
+echo -e "${bldgrn}Updating external/stagefright-plugins ${txtrst}"
+cd $rdir/external/stagefright-plugins && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/android_external_stagefright-plugins lp5.1
 echo -e "${bldgrn}Updating build ${txtrst}"
 cd $rdir/build && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/android_build lp5.1
 echo -e "${bldgrn}Updating vendor/slim ${txtrst}"
