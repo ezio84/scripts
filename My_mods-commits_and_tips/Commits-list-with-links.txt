@@ -1,6 +1,6 @@
 SlimDim (set a timeout to dim nav buttons after inactivity)
-https://github.com/ezio84/frameworks_base/commit/7a7f8d0630f950a19cd51e3f8f682a93b5844cc8
-https://github.com/ezio84/packages_apps_Settings/commit/39375b17996f342c4608bd2a1be93628f93d1256
+https://github.com/ezio84/packages_apps_Settings/commit/c2459f0105fa500a99bb65efb958a93f2856d178
+https://github.com/ezio84/frameworks_base/commit/6beee8cda710d6046c5b0b0192f030951d072127
 
 Add hotspot icon to status bar
 https://github.com/ezio84/frameworks_base/commit/c445b6f865500143a79e619b6bbaeb601b3765c1
