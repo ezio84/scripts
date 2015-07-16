@@ -1,6 +1,10 @@
+Custom NavRing
+https://github.com/ezio84/packages_apps_Settings/commit/38b2ac1dcd700bfd05a0c019373b535bcf3d7c73
+https://github.com/ezio84/frameworks_base/commit/64875e1a7092679f168338ba9d32eb0922d3e097
+
 SlimDim (set a timeout to dim nav buttons after inactivity)
 https://github.com/ezio84/packages_apps_Settings/commit/c2459f0105fa500a99bb65efb958a93f2856d178
-https://github.com/ezio84/frameworks_base/commit/6beee8cda710d6046c5b0b0192f030951d072127
+https://github.com/ezio84/frameworks_base/commit/64875e1a7092679f168338ba9d32eb0922d3e097
 
 Add hotspot icon to status bar
 https://github.com/ezio84/frameworks_base/commit/c445b6f865500143a79e619b6bbaeb601b3765c1
