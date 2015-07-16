@@ -1,3 +1,6 @@
+DeskClock increasing ring
+https://github.com/ezio84/packages_apps_DeskClock/commit/9e22ac780595e06e8f77d2ab8e38553cf63b3d30
+
 Custom NavRing
 https://github.com/ezio84/packages_apps_Settings/commit/38b2ac1dcd700bfd05a0c019373b535bcf3d7c73
 https://github.com/ezio84/packages_apps_Settings/commit/f1350ba4b2433b171c321a0b7e7a528112a8f4c4
