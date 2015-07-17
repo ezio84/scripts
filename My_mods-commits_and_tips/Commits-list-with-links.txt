@@ -5,7 +5,7 @@ Custom NavRing
 https://github.com/ezio84/packages_apps_Settings/commit/38b2ac1dcd700bfd05a0c019373b535bcf3d7c73
 https://github.com/ezio84/packages_apps_Settings/commit/f1350ba4b2433b171c321a0b7e7a528112a8f4c4
 https://github.com/ezio84/packages_apps_Settings/commit/63438fc6c5d13c784c91abe378ba8388b98c1695
-https://github.com/ezio84/frameworks_base/commit/b68de8c7fce2de6f014a84d0add4fb297e792798
+https://github.com/ezio84/frameworks_base/commit/c182fe538ebf597ae473b33f12fb6869def35f62
 
 SlimDim (set a timeout to dim nav buttons after inactivity)
 https://github.com/ezio84/packages_apps_Settings/commit/c2459f0105fa500a99bb65efb958a93f2856d178
