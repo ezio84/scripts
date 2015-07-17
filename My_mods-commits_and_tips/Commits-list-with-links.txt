@@ -1,3 +1,6 @@
+Let's use the home button during a ringing call (need testing mostly on low end device)
+https://github.com/ezio84/frameworks_base/commit/8f250df2c20aa8b392d309ef14aff90355539573
+
 DeskClock increasing ring
 https://github.com/ezio84/packages_apps_DeskClock/commit/9e22ac780595e06e8f77d2ab8e38553cf63b3d30
 
@@ -10,6 +13,7 @@ https://github.com/ezio84/frameworks_base/commit/c182fe538ebf597ae473b33f12fb686
 SlimDim (set a timeout to dim nav buttons after inactivity)
 https://github.com/ezio84/packages_apps_Settings/commit/c2459f0105fa500a99bb65efb958a93f2856d178
 https://github.com/ezio84/frameworks_base/commit/02db738d5bea4fdc7d8857cf6d6adc5c3b5405d9
+https://github.com/ezio84/frameworks_base/commit/6f7aca6d177170261e647cc77a230abc3abfc929
 
 Add hotspot icon to status bar
 https://github.com/ezio84/frameworks_base/commit/c445b6f865500143a79e619b6bbaeb601b3765c1
@@ -262,6 +266,7 @@ https://github.com/ezio84/frameworks_base/commit/ce4df74d1aa37a2c5d4535ea0e7af7c
 https://github.com/ezio84/packages_apps_Settings/commit/cb6d3a83e5097c6477d2e35a248c7506aa05a592 (good also for Pie and global menu)
 https://github.com/ezio84/frameworks_base/commit/dedbfa71b20cd88ff15caabb1d45e585524bfc4c (good also for Pie)
 https://github.com/ezio84/frameworks_base/commit/9fb5cfc36a6efdbafbc875ef6b506b793f9cd30f (good also for Pie and global menu)
+https://github.com/ezio84/packages_apps_Settings/commit/18ff7ae9de36ee3febcde63832956049fa6716f5
 
 
 
