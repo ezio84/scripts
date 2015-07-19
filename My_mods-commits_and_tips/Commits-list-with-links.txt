@@ -5,10 +5,8 @@ DeskClock increasing ring
 https://github.com/ezio84/packages_apps_DeskClock/commit/9e22ac780595e06e8f77d2ab8e38553cf63b3d30
 
 Custom NavRing
-https://github.com/ezio84/packages_apps_Settings/commit/38b2ac1dcd700bfd05a0c019373b535bcf3d7c73
-https://github.com/ezio84/packages_apps_Settings/commit/f1350ba4b2433b171c321a0b7e7a528112a8f4c4
-https://github.com/ezio84/packages_apps_Settings/commit/63438fc6c5d13c784c91abe378ba8388b98c1695
-https://github.com/ezio84/frameworks_base/commit/c182fe538ebf597ae473b33f12fb6869def35f62
+https://github.com/ezio84/frameworks_base/commit/a619856045e2c7b4f32ba6ad2831ee5c43d10a68
+https://github.com/ezio84/packages_apps_Settings/commit/fe1dacd18be85ebeed07a374cda42d887c521072
 
 SlimDim (set a timeout to dim nav buttons after inactivity)
 https://github.com/ezio84/packages_apps_Settings/commit/c2459f0105fa500a99bb65efb958a93f2856d178
@@ -17,6 +15,7 @@ https://github.com/ezio84/frameworks_base/commit/6f7aca6d177170261e647cc77a230ab
 https://github.com/ezio84/frameworks_base/commit/bc345c802edc7ca2dc3200c7e8ba2b211718a803
 https://github.com/ezio84/packages_apps_Settings/commit/5642a31128308b734281575607c8b4d43d653ab5
 https://github.com/ezio84/frameworks_base/commit/a230438eccd48011a5da1154883354cbfa5ef20e
+https://github.com/ezio84/frameworks_base/commit/bcbf02e7086cd267841a1216cea2b68bcb6dfc87
 
 Add hotspot icon to status bar
 https://github.com/ezio84/frameworks_base/commit/c445b6f865500143a79e619b6bbaeb601b3765c1
