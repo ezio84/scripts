@@ -15,7 +15,7 @@ https://github.com/ezio84/frameworks_base/commit/6f7aca6d177170261e647cc77a230ab
 https://github.com/ezio84/frameworks_base/commit/bc345c802edc7ca2dc3200c7e8ba2b211718a803
 https://github.com/ezio84/packages_apps_Settings/commit/5642a31128308b734281575607c8b4d43d653ab5
 https://github.com/ezio84/frameworks_base/commit/a230438eccd48011a5da1154883354cbfa5ef20e
-https://github.com/ezio84/frameworks_base/commit/bcbf02e7086cd267841a1216cea2b68bcb6dfc87
+https://github.com/ezio84/frameworks_base/commit/58cb04fc0aaca679c89765c3c72a1820a4337d18
 
 Add hotspot icon to status bar
 https://github.com/ezio84/frameworks_base/commit/c445b6f865500143a79e619b6bbaeb601b3765c1
