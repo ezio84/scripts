@@ -1,6 +1,6 @@
 Mobile data single click to switch off data
 https://github.com/ezio84/frameworks_base/commit/562b6218d3d5a38305e1128492e31d904b76fc53
-https://github.com/ezio84/frameworks_base/commit/1c318f6099f4158dc4ba18577f345a529a48ad88
+https://github.com/ezio84/frameworks_base/commit/1c18edfbd6e438f1317a2433eba5c5c8d8f7d211
 
 
 Let's use the home button during a ringing call (need testing mostly on low end device)
