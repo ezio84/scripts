@@ -37,7 +37,7 @@ export CCACHE_DIR="/home/ezio/Android/ccache"
 export BUILDING_RECOVERY=false
 
 # Prebuilt chromium
-export USE_PREBUILT_CHROMIUM=1
+# export USE_PREBUILT_CHROMIUM=1
 
 # Fix common out folder not being a common
 export ANDROID_FIXUP_COMMON_OUT=true

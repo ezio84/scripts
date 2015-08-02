@@ -25,7 +25,7 @@ export BUILDING_RECOVERY=false
 # make clobber;
 
 # Prebuilt chromium
-export USE_PREBUILT_CHROMIUM=1
+# export USE_PREBUILT_CHROMIUM=1
 
 # Lunch device
 echo -e "${bldblu}Lunching device... ${txtrst}"
