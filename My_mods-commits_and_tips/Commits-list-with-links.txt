@@ -50,6 +50,15 @@ https://github.com/ezio84/frameworks_base/commit/d482f71d23c0cddba133242626a5eeb
 
 Let the user switch from aosp to Google webview and viceversa just installing or uninstalling the app from playstore (ps: aosp webview bundled with the rom is the rock solid choice at the moment)
 https://github.com/ezio84/frameworks_base/commit/39e559cfaf083c3ec1ce15b319c147833f2e28e6
+**Built-in Google webview:
+- fork this tree: https://github.com/ezio84/android_frameworks_webview and track it in your manifest: https://github.com/ezio84/scripts/commit/c196b6585a815ecd4b038b2af9c5cae6c42f6c43
+- then add the above 39e559cfaf083c3ec1ce15b319c147833f2e28e6
+- then revert the old prebuilt chromium commits (without reverting the fixed out folder code, it's still useful):
+https://github.com/ezio84/android_build/commit/7f7d54847fb87bac76ae7cacd348dd1b841ce41f
+https://github.com/ezio84/vendor_slim/commit/072565ede74dd50e17474800d99b1f35be595371
+https://github.com/ezio84/scripts/commit/9159423b9bb5b3e845e4db546b44a8dcdb53db99
+-then add:
+https://github.com/ezio84/android_build/commit/90d967871ca4452cf79fc8d82ec836cce43866b1
 
 Display cursor buttons in navigation bar while typing
 https://github.com/ezio84/frameworks_base/commit/aaa5a67a417d5ba2cb0fac916e2156a7aeb2121c
@@ -528,11 +537,11 @@ https://github.com/ezio84/android_build/commit/0556ec8b16535d97529d5d78998dbd223
 Updater-script: show build and device info in the recovery log
 https://github.com/ezio84/android_build/commit/3ed01e75a698e6ecc579829a2f6c06e9a5a68190
 
-Chromium prebuilts and common out (to speed up the build process and have device-specific common folders)
-https://github.com/ezio84/scripts/commit/6223d8c0f2a196d04fd57888ccdc1ba7e6a11862
-https://github.com/ezio84/scripts/commit/f68ceb28c6795e1a3277f13e2cac4f70bd102781
-https://github.com/ezio84/vendor_slim/commit/01202b95bd0631bdf56f963f3a198d330f3c4b6c
-https://github.com/ezio84/android_build/commit/05af9f841dc9146b84bf2b17b41dd8b1785c3c00
+Chromium prebuilts and common out (to speed up the build process and have device-specific common folders) <---**********OLD: see "built-in Google webview" commits (btw you can still use the fixed OUT folder code of these old commits)
+https://github.com/ezio84/scripts/commit/6223d8c0f2a196d04fd57888ccdc1ba7e6a11862 <---**********OLD: see "built-in Google webview" commits (btw you can still use the fixed OUT folder code of these old commits)
+https://github.com/ezio84/scripts/commit/f68ceb28c6795e1a3277f13e2cac4f70bd102781 <---**********OLD: see "built-in Google webview" commits (btw you can still use the fixed OUT folder code of these old commits)
+https://github.com/ezio84/vendor_slim/commit/01202b95bd0631bdf56f963f3a198d330f3c4b6c <---**********OLD: see "built-in Google webview" commits (btw you can still use the fixed OUT folder code of these old commits)
+https://github.com/ezio84/android_build/commit/05af9f841dc9146b84bf2b17b41dd8b1785c3c00 <---**********OLD: see "built-in Google webview" commits (btw you can still use the fixed OUT folder code of these old commits)
 
 Remove Browser <-- REVERTED, BROWSER IS USEFUL WHEN USING THE ROM WITHOUT GAPPS
 https://github.com/ezio84/android_build/commit/f79ef959e67cf12ecbe9107628fa7f9757c1d133 (don't remove email and exchange, some stuff of them like emailcommon is needed by BT) <-- REVERTED, BROWSER IS USEFUL WHEN USING THE ROM WITHOUT GAPPS
