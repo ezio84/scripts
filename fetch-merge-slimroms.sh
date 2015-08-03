@@ -70,7 +70,7 @@ cd $rdir/vendor/qcom/ && git checkout lp5.1 && git fetch robbie && git merge rob
 echo -e "${bldgrn}Updating vendor/lge ${txtrst}"
 cd $rdir/vendor/lge/ && git checkout lp5.1 && git fetch robbie && git merge robbie/lp5.1 && git push https://github.com/ezio84/proprietary_vendor_lge lp5.1
 echo -e "${bldgrn}Updating frameworks/webview ${txtrst}"
-cd $rdir/frameworks/webview && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/frameworks_webview lp5.1
+cd $rdir/frameworks/webview && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/android_frameworks_webview lp5.1
 #echo -e "${bldgrn}Updating libcore ${txtrst}"
 #cd $rdir/libcore && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/platform_libcore lp5.1
 #echo -e "${bldgrn}Updating art ${txtrst}"
