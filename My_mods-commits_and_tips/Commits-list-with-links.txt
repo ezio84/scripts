@@ -2,7 +2,6 @@ Mobile data single click to switch off data
 https://github.com/ezio84/frameworks_base/commit/562b6218d3d5a38305e1128492e31d904b76fc53
 https://github.com/ezio84/frameworks_base/commit/1c18edfbd6e438f1317a2433eba5c5c8d8f7d211
 
-
 Let's use the home button during a ringing call (need testing mostly on low end device)
 https://github.com/ezio84/frameworks_base/commit/8f250df2c20aa8b392d309ef14aff90355539573
 
@@ -13,7 +12,7 @@ Custom NavRing
 https://github.com/ezio84/frameworks_base/commit/2d0b6048bfde9b2215839dc57c6c7e2b3f54d8d9
 https://github.com/ezio84/packages_apps_Settings/commit/3fe8cd00a3b14c435d82fcce517412ba8f34ede7
 
-SlimDim (set a timeout to dim nav buttons after inactivity) *************CAN CAUSE LOCKSCREEN FREEZES, STILL UNDER DEVELOPMENT******************
+SlimDim (set a timeout to dim nav buttons after inactivity)
 https://github.com/ezio84/packages_apps_Settings/commit/c2459f0105fa500a99bb65efb958a93f2856d178
 https://github.com/ezio84/frameworks_base/commit/02db738d5bea4fdc7d8857cf6d6adc5c3b5405d9
 https://github.com/ezio84/frameworks_base/commit/6f7aca6d177170261e647cc77a230abc3abfc929
@@ -21,6 +20,7 @@ https://github.com/ezio84/frameworks_base/commit/bc345c802edc7ca2dc3200c7e8ba2b2
 https://github.com/ezio84/packages_apps_Settings/commit/5642a31128308b734281575607c8b4d43d653ab5
 https://github.com/ezio84/frameworks_base/commit/a230438eccd48011a5da1154883354cbfa5ef20e
 https://github.com/ezio84/frameworks_base/commit/58cb04fc0aaca679c89765c3c72a1820a4337d18
+https://github.com/ezio84/frameworks_base/commit/10db88b00ea033c1a02c5c13bb3664e76c1d4eed
 
 Add hotspot icon to status bar
 https://github.com/ezio84/frameworks_base/commit/c445b6f865500143a79e619b6bbaeb601b3765c1
