@@ -10,7 +10,7 @@ https://github.com/ezio84/packages_apps_DeskClock/commit/9e22ac780595e06e8f77d2a
 
 Custom NavRing
 https://github.com/ezio84/frameworks_base/commit/2d0b6048bfde9b2215839dc57c6c7e2b3f54d8d9
-https://github.com/ezio84/packages_apps_Settings/commit/3fe8cd00a3b14c435d82fcce517412ba8f34ede7
+https://github.com/ezio84/packages_apps_Settings/commit/3105d0cf2c3904ef76c16ad862c7b661cff53e9d
 
 SlimDim (set a timeout to dim nav buttons after inactivity)
 https://github.com/ezio84/packages_apps_Settings/commit/c2459f0105fa500a99bb65efb958a93f2856d178
