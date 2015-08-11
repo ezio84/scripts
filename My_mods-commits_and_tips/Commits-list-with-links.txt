@@ -1,3 +1,7 @@
+Left clock 
+https://github.com/ezio84/frameworks_base/commit/5cfac9bf49853b48494ff89262405f2bc20e7d39
+https://github.com/ezio84/packages_apps_Settings/commit/0f86d318909e1abbbab8cb4e5e705a5999c0e481
+
 Mobile data single click to switch off data
 https://github.com/ezio84/frameworks_base/commit/562b6218d3d5a38305e1128492e31d904b76fc53
 https://github.com/ezio84/frameworks_base/commit/1c18edfbd6e438f1317a2433eba5c5c8d8f7d211
