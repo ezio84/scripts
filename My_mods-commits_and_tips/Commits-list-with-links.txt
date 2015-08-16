@@ -1,6 +1,7 @@
 Allow to change wifi AP priorities
 https://github.com/ezio84/frameworks_opt_net_wifi/commit/64292d56d91440273deac10d1d9b87c076054c94
 https://github.com/ezio84/frameworks_base/commit/eae622e26960c7090186c955e8e91914bd5674e5
+https://github.com/ezio84/packages_apps_Settings/commit/e0dbf35272afeb3185f7d46594679829daa0bae4
 
 Allow to change the current country setting (which will stick till the next mobile network change) or to set a constant override which will stick also after mobile network change
 https://github.com/ezio84/frameworks_base/commit/e2aae0998bccaec93c30802081e1404e86d75e02
