@@ -1,4 +1,4 @@
-Allow to change wifi AP priorities
+Allow to change wifi AP priorities (wifi settings - save networks - tap on the 3 dots - disable auto priority - then you can drag networks in the list)
 https://github.com/ezio84/frameworks_opt_net_wifi/commit/64292d56d91440273deac10d1d9b87c076054c94
 https://github.com/ezio84/frameworks_base/commit/eae622e26960c7090186c955e8e91914bd5674e5
 https://github.com/ezio84/packages_apps_Settings/commit/e0dbf35272afeb3185f7d46594679829daa0bae4
