@@ -16,7 +16,7 @@ cd $rdir/frameworks/base && git checkout lp5.1 && git fetch slimroms && git merg
 echo -e "${bldgrn}Updating packages/apps/Settings ${txtrst}"
 cd $rdir/packages/apps/Settings && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/packages_apps_Settings lp5.1
 echo -e "${bldgrn}Updating frameworks/av ${txtrst}"
-cd $rdir/frameworks/av && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_av lp5.1
+cd $rdir/frameworks/av && git checkout lp5.1 && git fetch cm && git merge cm/cm-12.1 && git push https://github.com/ezio84/frameworks_av lp5.1
 echo -e "${bldgrn}Updating frameworks/native ${txtrst}"
 cd $rdir/frameworks/native && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_native lp5.1
 echo -e "${bldgrn}Updating external/stagefright-plugins ${txtrst}"
