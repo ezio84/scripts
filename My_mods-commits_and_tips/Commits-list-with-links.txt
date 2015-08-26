@@ -1,3 +1,7 @@
+Add lockscreen rotation as an optional rotation setting
+https://github.com/ezio84/frameworks_base/commit/959fd2203e0d82a80d63657148e76f889b2d1ba9
+https://github.com/ezio84/packages_apps_Settings/commit/1b986d22d8b8b1efd782f7f00f386dabeb7ef4eb
+
 Soft reboot:
 https://github.com/ezio84/frameworks_base/commit/a0b5381082a21e595699e3ce81fce0ae77f8bfeb
 
