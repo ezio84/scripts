@@ -1,3 +1,6 @@
+Show icon of package associated with Toast
+https://github.com/ezio84/frameworks_base/commit/f4dee9e7852eb32695ebdea638e226ef54362c16
+
 Display apk path in App info
 https://github.com/ezio84/packages_apps_Settings/commit/4019e23b11555d01e1d3f399520df238af9689a5
 
