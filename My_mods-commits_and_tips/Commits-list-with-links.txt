@@ -1,3 +1,6 @@
+ResolverActivity: reduce elevation to make it flat (Before: http://i.imgur.com/N1S3GJq.png - After: http://i.imgur.com/Vkk1lj4.png):
+https://github.com/ezio84/frameworks_base/commit/ff868420ec06ae8ac894f74fe99e5071affacc28
+
 Show icon of package associated with Toast
 https://github.com/ezio84/frameworks_base/commit/f4dee9e7852eb32695ebdea638e226ef54362c16
 
