@@ -69,6 +69,9 @@
   <project path="hardware/libhardware" name="ezio84/hardware_libhardware" remote="github" revision="lp5.1" />
   <remove-project path="frameworks/opt/net/wifi" name="SlimRoms/frameworks_opt_net_wifi" />
   <project path="frameworks/opt/net/wifi" name="ezio84/frameworks_opt_net_wifi" remote="github" revision="lp5.1" />
+  <!-- Kernel config app-->
+  <project path="packages/apps/KernelAdiutor" name="ezio84/KernelAdiutor" remote="github" revision="lp5.1" />
+  <project name="SlimSaber/android-floating-action-button" path="packages/apps/FloatingActionButton" remote="github" revision="lp5.1" />
   <!-- Prebuilt Google Webview-->
   <remove-project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/webview" name="ezio84/android_frameworks_webview" remote="github" revision="lp5.1" />
