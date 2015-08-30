@@ -1,3 +1,13 @@
+Slim Recent App Sidebar
+https://github.com/ezio84/frameworks_base/commit/41ec9f7fdbbded2b14f1343b037f6cb2f7439f38
+https://github.com/ezio84/packages_apps_Settings/commit/cc050f00eb766999948d26dd55331ec09d4f2559
+
+Floating mode
+https://github.com/ezio84/packages_apps_Settings/commit/8819a4ac910611d606765e37adf24dfbaee5fa49
+https://github.com/ezio84/packages_apps_Settings/commit/00f46237a55d4ae3773f5e208c72180b4134b57c
+https://github.com/ezio84/packages_apps_Settings/commit/69910cd11f8826d289ecf33f4edce0b28c6de5a6
+https://github.com/ezio84/frameworks_base/commit/b1f649ba6f3d421df5f18e841df561732a654709
+
 ResolverActivity: reduce elevation to make it flat (Before: http://i.imgur.com/N1S3GJq.png - After: http://i.imgur.com/Vkk1lj4.png):
 https://github.com/ezio84/frameworks_base/commit/ff868420ec06ae8ac894f74fe99e5071affacc28
 
@@ -531,6 +541,7 @@ https://github.com/ezio84/android_build/commit/bab8e0dfb946455a69c2afe948cb5f755
 Launch SuperSU from Settings
 https://github.com/ezio84/packages_apps_Settings/commit/cb0a2cae3ecf022d2d3fc8bc39bbd1713de511a1
 https://github.com/ezio84/packages_apps_Settings/commit/5be069e1c46ca5a80c67fcd742c634becf5ea0ae
+https://github.com/ezio84/packages_apps_Settings/commit/5fc921b8ec401fa7a0d017189018b876b31a5422
 
 - Add back Slimcenter and ota notifications <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
 Add this line to the manifest: <project path="packages/apps/SlimCenter" name="ezio84/packages_apps_SlimCenter" remote="github" revision="lp5.1" /> <--OLD, NOW I'M USING SLIMOTA BY FUSIONJACK 
