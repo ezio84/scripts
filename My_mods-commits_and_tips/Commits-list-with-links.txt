@@ -5,7 +5,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/cc050f00eb766999948d26dd
 Floating mode
 https://github.com/ezio84/packages_apps_Settings/commit/8819a4ac910611d606765e37adf24dfbaee5fa49
 https://github.com/ezio84/packages_apps_Settings/commit/00f46237a55d4ae3773f5e208c72180b4134b57c
-https://github.com/ezio84/packages_apps_Settings/commit/10f923ca8ed28a2a930778dc96ca27cfb120d7c0
+https://github.com/ezio84/packages_apps_Settings/commit/2b69fa834dac711dc8f5dabf43326c30c8f49b28
 https://github.com/ezio84/frameworks_base/commit/b1f649ba6f3d421df5f18e841df561732a654709
 https://github.com/ezio84/frameworks_base/commit/dcfa0226924ce0c6e0f183b39acb1334f73c09f1
 
