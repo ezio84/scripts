@@ -6,6 +6,7 @@ Floating mode
 https://github.com/ezio84/packages_apps_Settings/commit/8819a4ac910611d606765e37adf24dfbaee5fa49
 https://github.com/ezio84/packages_apps_Settings/commit/00f46237a55d4ae3773f5e208c72180b4134b57c
 https://github.com/ezio84/frameworks_base/commit/b1f649ba6f3d421df5f18e841df561732a654709
+https://github.com/ezio84/frameworks_base/commit/dcfa0226924ce0c6e0f183b39acb1334f73c09f1
 
 ResolverActivity: reduce elevation to make it flat (Before: http://i.imgur.com/N1S3GJq.png - After: http://i.imgur.com/Vkk1lj4.png):
 https://github.com/ezio84/frameworks_base/commit/ff868420ec06ae8ac894f74fe99e5071affacc28
