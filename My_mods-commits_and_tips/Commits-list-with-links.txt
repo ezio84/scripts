@@ -1,3 +1,7 @@
+Double tap to sleep anywhere on the lock screen
+https://github.com/ezio84/frameworks_base/commit/d1924a737e383b6191d1d45791843dc4ec1ffccd
+https://github.com/ezio84/packages_apps_Settings/commit/6fde5fa5c381a7af9a204c9120a7d4ec5fd62e2d
+
 Quick Settings: add an option to hide sensitive data tiles when on a secure lockscreen (enable it in the QS settings)
 https://github.com/ezio84/frameworks_base/commit/79d607e938eb557d71ecd5a33a0855ab28d90310
 https://github.com/ezio84/packages_apps_Settings/commit/fee0b9420fecc68041adb60cadfb8f805000cc19
