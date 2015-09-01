@@ -1,6 +1,6 @@
 Quick Settings: add an option to hide sensitive data tiles when on a secure lockscreen (AdbOverNetworkTile, AirplaneModeTile, ApnTile, BluetoothTile, DataTile, HotspotTile, LocationTile, LockscreenToggleTile, RoamingTile, SyncTile, UsbTetherTile, WifiTile)
 https://github.com/ezio84/frameworks_base/commit/79d607e938eb557d71ecd5a33a0855ab28d90310
-https://github.com/ezio84/packages_apps_Settings/commit/e521c73148c589198ac32675757353766ac720f3
+https://github.com/ezio84/packages_apps_Settings/commit/fee0b9420fecc68041adb60cadfb8f805000cc19
 
 Slim Recent App Sidebar
 https://github.com/ezio84/frameworks_base/commit/41ec9f7fdbbded2b14f1343b037f6cb2f7439f38
