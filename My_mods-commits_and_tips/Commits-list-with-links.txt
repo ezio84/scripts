@@ -260,6 +260,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/3bbcef22e8886da9ca67a399
 https://github.com/ezio84/frameworks_base/commit/ec6ae8d0c3acbfc5f4328ac91f9cf11e03847fcf 
 https://github.com/ezio84/frameworks_base/commit/e0b04fa744e1248d591087db28e06daccf0c1620
 https://github.com/ezio84/frameworks_base/commit/cd76292ee8f6a4ad37f1e17547a4153428846f34
+https://github.com/ezio84/frameworks_base/commit/d9f4e27d271d5e31cd119e7906ae3371b42e46b6
 
 Telephony: Make voicemail notifications dismissable
 https://github.com/ezio84/packages_services_Telephony/commit/e68358a12b8ebdb80781e72e5a3a1f17baf9aae9
