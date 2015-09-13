@@ -77,6 +77,8 @@ echo -e "${bldgrn}Updating frameworks/opt/net/wifi ${txtrst}"
 cd $rdir/frameworks/opt/net/wifi && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/frameworks_opt_net_wifi lp5.1
 echo -e "${bldgrn}Updating packages/apps/KernelAdiutor ${txtrst}"
 cd $rdir/packages/apps/KernelAdiutor && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/KernelAdiutor lp5.1
+echo -e "${bldgrn}Updating device/qcom/common/ ${txtrst}"
+cd $rdir/device/qcom/common && git checkout lp5.1 && git fetch slimroms && git merge slimroms/lp5.1 && git push https://github.com/ezio84/device_qcom_common lp5.1
 #echo -e "${bldgrn}Updating libcore ${txtrst}"
 #cd $rdir/libcore && git checkout lp5.1 && git fetch slimsaber && git merge slimsaber/lp5.1 && git push https://github.com/ezio84/platform_libcore lp5.1
 #echo -e "${bldgrn}Updating art ${txtrst}"
