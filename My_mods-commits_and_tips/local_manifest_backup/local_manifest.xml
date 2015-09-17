@@ -75,9 +75,6 @@
   <project path="system/extras" name="ezio84/android_system_extras" remote="github" revision="lp5.1" />
   <remove-project path="external/f2fs-tools" name="SlimRoms/android_external_f2fs-tools" />
   <project path="external/f2fs-tools" name="ezio84/android_external_f2fs-tools" remote="github" revision="lp5.1" />
-  <!-- Kernel config app-->
-  <project path="packages/apps/KernelAdiutor" name="ezio84/KernelAdiutor" remote="github" revision="lp5.1" />
-  <project name="SlimSaber/android-floating-action-button" path="packages/apps/FloatingActionButton" remote="github" revision="lp5.1" />
   <!-- Prebuilt Google Webview-->
   <remove-project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/webview" name="ezio84/android_frameworks_webview" remote="github" revision="lp5.1" />
