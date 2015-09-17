@@ -336,7 +336,7 @@ https://github.com/ezio84/frameworks_base/commit/9fb5cfc36a6efdbafbc875ef6b506b7
 https://github.com/ezio84/packages_apps_Settings/commit/18ff7ae9de36ee3febcde63832956049fa6716f5
 https://github.com/ezio84/packages_apps_Settings/commit/ef90ca11618f03e03bc5cde48d1b79d5812a1579
 https://github.com/ezio84/frameworks_base/commit/d35fecbe53ae0001b5f05f9845f8590e101faa31
-https://github.com/ezio84/frameworks_base/commit/cea9d12bae7cb9135e7f7d7d7f2fb749c298a995
+https://github.com/ezio84/frameworks_base/commit/a4f8664e0596a56b38b4b3db4eea2e29f181bdc5
 
 
 Return of Silent mode (the user can set Silent instead of NoInterruption so alarms will be still active)   <---REVERTED DUE TO THE NEW OMNIROM SILENT MODE COMMITS
