@@ -206,7 +206,7 @@ https://github.com/ezio84/frameworks_base/commit/dca9d98b2fe4a17641f55ed5fc1ca06
 https://github.com/ezio84/frameworks_base/commit/44a6551176189411e008474554f69ea777526f01
 https://github.com/ezio84/packages_apps_Settings/commit/dfef554665fd0d94da505a4c7491b6ef4d25d5dc
 https://github.com/ezio84/packages_apps_Settings/commit/2a913b645935e7dfb58529553d008e728f524eff
-https://github.com/ezio84/frameworks_base/commit/08c235567a4caad7ffcfd6631e9820e72a3f24d5
+https://github.com/ezio84/frameworks_base/commit/26da78a12fba3ddb358610ef9a60c075a83f0bfe
 https://github.com/ezio84/packages_apps_Settings/commit/ec09a679558a2d6ff9159bec5db4bb3c3993eb02
 
 Remove the useless persistent plugged headset notification
