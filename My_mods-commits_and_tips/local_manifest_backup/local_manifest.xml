@@ -75,6 +75,8 @@
   <project path="system/extras" name="ezio84/android_system_extras" remote="github" revision="lp5.1" />
   <remove-project path="external/f2fs-tools" name="SlimRoms/android_external_f2fs-tools" />
   <project path="external/f2fs-tools" name="ezio84/android_external_f2fs-tools" remote="github" revision="lp5.1" />
+  <remove-project path="device/qcom/sepolicy" name="SlimRoms/device_qcom_sepolicy" />
+  <project path="device/qcom/sepolicy" name="ezio84/device_qcom_sepolicy" remote="github" revision="lp5.1" />
   <!-- Prebuilt Google Webview-->
   <remove-project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/webview" name="ezio84/android_frameworks_webview" remote="github" revision="lp5.1" />
