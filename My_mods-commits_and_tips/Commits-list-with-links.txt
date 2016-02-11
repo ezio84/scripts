@@ -1,4 +1,8 @@
-- Let's use the home button during a ringing call
+Let's use the home button during a ringing call
 https://github.com/ezio84/purenexus_frameworks_base/commit/6d0c77eb514a0763feeb030de9eefa5fa2f82474
+
+Show icon of package associated with Toast
+https://github.com/ezio84/purenexus_frameworks_base/commit/a1b60bf262c61c082263f32f4b2e81c15c1406f0
+
 
 
