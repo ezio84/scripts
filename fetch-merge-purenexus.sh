@@ -21,5 +21,7 @@ echo -e "${bldgrn}Updating build ${txtrst}"
 cd $rdir/build && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_build mm
 echo -e "${bldgrn}Updating vendor/nexus/ ${txtrst}"
 cd $rdir/vendor/nexus && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_vendor_nexus mm
+# echo -e "${bldgrn}Updating frameworks/opt/cards ${txtrst}"
+# cd $rdir/frameworks/opt/cards && git checkout mm && git fetch slimroms && git merge slimroms/mm && git push https://github.com/ezio84/frameworks_opt_cards mm
 # The end
 echo -e "${bldgrn}Done, exiting ${txtrst}"

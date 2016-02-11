@@ -17,6 +17,7 @@ git push https://github.com/ezio84/purenexus_packages_apps_Settings mm
 git push https://github.com/ezio84/android_packages_apps_PureNexusSettings mm
 git push https://github.com/ezio84/purenexus_build mm
 git push https://github.com/ezio84/purenexus_vendor_nexus
+git push https://github.com/ezio84/frameworks_opt_cards lp5.1
 git push https://github.com/ezio84/scripts mm
 
 adb root // adb remount // adb push SystemUI.apk /system/priv-app/SystemUI/SystemUI.apk

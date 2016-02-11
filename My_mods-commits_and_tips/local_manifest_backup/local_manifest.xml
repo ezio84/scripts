@@ -19,6 +19,7 @@
   <project path="build" name="ezio84/purenexus_build" remote="github" revision="mm" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  <project path="frameworks/opt/cards" name="ezio84/frameworks_opt_cards" remote="github" revision="mm" />
   <!-- Blow shit up!! (Schwarznegger cit) and let the user install apps from playstore if needed
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <remove-project path="packages/apps/Calendar" name="SlimRoms/packages_apps_Calendar" />
