@@ -11,6 +11,8 @@
   <project path="frameworks/base" name="ezio84/purenexus_frameworks_base" remote="github" revision="mm" />
   <remove-project path="packages/apps/Settings" name="android_packages_apps_Settings" />
   <project path="packages/apps/Settings" name="ezio84/purenexus_packages_apps_Settings" remote="github" revision="mm" />
+  <remove-project path="packages/apps/PureNexusSettings" name="android_packages_apps_PureNexusSettings" />
+  <project path="packages/apps/PureNexusSettings" name="ezio84/android_packages_apps_PureNexusSettings" remote="github" revision="mm" />
   <remove-project path="vendor/nexus" name="android_vendor_nexus" />
   <project path="vendor/nexus" name="ezio84/purenexus_vendor_nexus" remote="github" revision="mm" />
   <remove-project path="build" name="android_build" />
