@@ -1,6 +1,0 @@
- for google, exynos and non qcom devices:
-
-repo init -u git://github.com/SlimRoms/platform_manifest.git -b lp5.1
-for qcom devices which are using CodeAuroraForum trees:
-
-repo init -u git://github.com/SlimRoms/platform_manifest.git -b lp5.1-caf

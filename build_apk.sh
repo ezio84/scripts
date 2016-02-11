@@ -9,10 +9,9 @@ txtrst=$(tput sgr0)             # Reset
 
 DEVICE="$1"
 SYNC="$2"
-THREADS="$3"
-CLEAN="$4"
-LOG="$5"
-APK="$6"
+CLEAN="$3"
+LOG="$4"
+APK="$5"
 
 # Time of build startup
 res1=$(date +%s.%N)
@@ -21,7 +20,7 @@ res1=$(date +%s.%N)
 if [ "$SYNC" == "sync" ]
 then
    echo -e "${bldblu}Syncing latest sources ${txtrst}"
-   repo sync -j"$THREADS"
+   repo sync
 fi
 
 # Setup environment
@@ -33,18 +32,9 @@ export USE_CCACHE=1
 export CCACHE_DIR="/home/ezio/Android/ccache"
 /usr/bin/ccache -M 50G
 
-# For building recovery
-export BUILDING_RECOVERY=false
-
-# Prebuilt chromium
-# export USE_PREBUILT_CHROMIUM=1
-
-# Fix common out folder not being a common
-export ANDROID_FIXUP_COMMON_OUT=true
-
-# Lunch device
-echo -e "${bldblu}Lunching device... ${txtrst}"
-lunch "slim_$DEVICE-userdebug"
+# Set the device
+echo -e "Setting the device... ${txtrst}"
+breakfast "nexus_$DEVICE-userdebug"
 
 # Clean out folder
 if [ "$CLEAN" == "clean" ]
@@ -56,18 +46,14 @@ else
   make installclean;
 fi
 
-# Remove previous build info
-# echo -e "${bldblu}Removing previous build.prop ${txtrst}"
-# rm $OUT/system/build.prop;
-
 # Start compilation with or without log
 if [ "$LOG" == "log" ]
 then
    echo -e "${bldblu}Compiling $APK apk for $DEVICE and saving a build-apk log file ${txtrst}"
-   make $APK -j"$THREADS" 2>&1 | tee build-apk.log;
+   make $APK 2>&1 | tee build-apk.log;
 else
    echo -e "${bldblu}Compiling $APK for $DEVICE without saving a build log file ${txtrst}"
-   make $APK -j"$THREADS";
+   make $APK;
 fi
 
 # Get elapsed time

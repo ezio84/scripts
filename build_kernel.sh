@@ -8,7 +8,6 @@ bldblu=${txtbld}$(tput setaf 4) #  blue
 txtrst=$(tput sgr0)             # Reset
 
 DEVICE="$1"
-THREADS="$2"
 
 # Time of build startup
 res1=$(date +%s.%N)
@@ -16,24 +15,19 @@ res1=$(date +%s.%N)
 # Setup environment
 echo -e "${bldblu}Setting up build environment ${txtrst}"
 . build/envsetup.sh
+
+# Setup ccache
 export USE_CCACHE=1
-export CCACHE_DIR="/home/ezio/Androidsource/ccache"
+export CCACHE_DIR="/home/ezio/Android/ccache"
 /usr/bin/ccache -M 50G
-export BUILDING_RECOVERY=false
 
-# echo -e "${bldblu}Cleaning up out folder ${txtrst}"
-# make clobber;
-
-# Prebuilt chromium
-# export USE_PREBUILT_CHROMIUM=1
-
-# Lunch device
-echo -e "${bldblu}Lunching device... ${txtrst}"
-lunch "slim_$DEVICE-userdebug"
+# Set the device
+echo -e "Setting the device... ${txtrst}"
+breakfast "nexus_$DEVICE-userdebug"
 
 # Start compilation
 echo -e "${bldblu}Starting build kernel for $DEVICE ${txtrst}"
-make -j"$THREADS" bootzip
+mka bootzip
 
 # Get elapsed time
 res2=$(date +%s.%N)
