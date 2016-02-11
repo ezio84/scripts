@@ -4,5 +4,8 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/6d0c77eb514a0763feeb0
 Show icon of package associated with Toast
 https://github.com/ezio84/purenexus_frameworks_base/commit/a1b60bf262c61c082263f32f4b2e81c15c1406f0
 
-
+Add back mka bootzip 
+https://github.com/ezio84/purenexus_build/commit/ca2a359c9a7aad9b035db12906fc7cc3ac9f98c3
+https://github.com/ezio84/purenexus_build/commit/534eec7553026e51be14130a1aef692ac27053fe
+https://github.com/ezio84/purenexus_build/commit/a532d9c06fb04893f068049073c52bef73aa2310
 
