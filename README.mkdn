@@ -1,72 +1,33 @@
-build_rom.sh
----------
+** build_rom.sh **
 
-	 . scripts/build_rom.sh mako nosync 7 clean log release
+Command example:	 . scripts/build_rom.sh hammerhead nosync clean log
  
 Parameter 1: The device tree: mako | hammeread | others
 
-Parameter 2: Sync or don't sync the source: sync | nosync
+Parameter 2: Repo sync or don't sync the source: sync | nosync
 
-Parameter 3: Number of threads (-j#)
+Parameter 3: Make a clean build: clean to run a "make clobber" | noclean to run a "make installclean" (hint: installclean is usually enough to build without errors)
 
-Parameter 4: Make a clean build: clean to make clobber | noclean to make installclean
-
-Parameter 5: Save a txt log in the root repo folder: log | nolog
-
-Parameterr 6: 
-release: Write a LAST_BUILD_PROP file: when you'll build again new a public (release) version of the rom, the automated Slimcenter changelog creation will track changes from the version you are building now.
-norelease  (or leave it empty): Don't write a LAST_BUILD_PROP file: when you'll build again new a public (release) version of the rom, the automated Slimcenter changelog creation will track changes from the last release version you built, not this one.
-
-----
-NB: after changing toolchains or making other important changes to the build, it's a good idea to
-disable prebuilt-chromium (export USE_PREBUILT_CHROMIUM=0) in the script
+Parameter 4: Save a txt log in the root repo folder: log | nolog
 
 
-build_apk.sh
----------
-
-	 . scripts/build_rom.sh mako nosync 7 clean log
- 
-Parameter 1: The device tree: mako | hammeread | others
-
-Parameter 2: Sync or don't sync the source: sync | nosync
-
-Parameter 3: Number of threads (-j#)
-
-Parameter 4: Make a clean build: clean to make clobber| noclean to make installclean
-
-Parameter 5: Save a txt log in the root repo folder: log | nolog (or leave it empty)
-
-Parameter 6: The apk you want to build, for example SlimLauncher
-
-
-build_kernel.sh
 ----------------
 
-	. build_kernel.sh mako 7
+** build_apk.sh **
+
+Command example:	 . scripts/build_rom.sh hammerhead nosync clean log SystemUI
+ 
+Parameters 1, 2, 3, 4: like the ones in the build rom script
+
+Parameter 5: The apk package name you want to build, for example SystemUI
+
+
+---------------------
+
+** build_kernel.sh **
+
+
+Command example:	. build_kernel.sh hammerhead
 
 Parameter 1: The device tree: mako | hammeread | others
 
-Parameter 2: Number of threads (-j#).
-
-
-generate_changelog.sh
----------------------
-
-Generate changelog since last build:
-
-	. generate_changelog.sh 1401821253
-	
-Parameter 1: A timestamp in UTC format that you can take from build.prop (ro.build.date.utc)
-
-PS: place it in the root repo folder!
-
-
-rom_to_device.sh or kernel__to_device.sh
----------------------
-
-Send the freshly compiled build (.zip and .md5) to your device:
-
-	. rom_to_device.sh /sdcard/SlimKat
-	
-Parameter 1: Destination path. You can leave this empty and the standard path "/sdcard/SlimLP" will be used
