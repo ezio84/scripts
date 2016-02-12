@@ -9,3 +9,15 @@ https://github.com/ezio84/purenexus_build/commit/ca2a359c9a7aad9b035db12906fc7cc
 https://github.com/ezio84/purenexus_build/commit/534eec7553026e51be14130a1aef692ac27053fe
 https://github.com/ezio84/purenexus_build/commit/a532d9c06fb04893f068049073c52bef73aa2310
 
+SlimRecent
+https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/c661da75bad424288db166cb638edd5639ca9057
+https://github.com/ezio84/purenexus_frameworks_base/commit/3a950c67960ea8e10a4be38af1b999d56778e1a0
+https://github.com/ezio84/purenexus_frameworks_base/commit/f385588db381bc8e6f2350c801ed08986cea03f0
+https://github.com/ezio84/purenexus_frameworks_base/commit/f7f64069f86e94b7754d85bcbb6dc015b8bdcfb0
+https://github.com/ezio84/purenexus_frameworks_base/commit/f0d2147835d828f308b7322cb8341636f2428aa9
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/e6ce8bee131664462c1e33c70c52bf23a1a3af64
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/30459a7c0078df367917c5be5b1a3231982a980c
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/7bbaa8740accf800d0217b134911720a39c6ab62
+https://github.com/ezio84/scripts/commit/fa6becc484a02125c0ecd57c45c3fb60fd541b30 (add frameworks_opt_cards to the local manifest)
+
+
