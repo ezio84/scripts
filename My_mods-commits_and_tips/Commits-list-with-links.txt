@@ -29,8 +29,11 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/f67a4d95a3ca4a5768f62
 https://github.com/ezio84/purenexus_frameworks_base/commit/8f37741110b7b7a96ffc6ff83773825486849f5d
 https://github.com/ezio84/purenexus_frameworks_base/commit/14e07c6d8e092f6094ea932349db3eeeeca918d5
 
-Change dev settings animations speed:
+Change dev settings animations speed
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/e15498077e41fd08e96295fa320bc7cdbfcfa645
 https://github.com/ezio84/purenexus_frameworks_base/commit/d4c78112b4ee5458356d92d02798988787108a42
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/b1b55f2750d31162d55f89742814e782520a91ed
 
+Add built-in htop terminal file manager
+https://github.com/ezio84/scripts/commit/802af1de078d17a73ced5d03fb54f4378728c40b
+https://github.com/ezio84/purenexus_vendor_nexus/commit/7609c476b4e12abba9f33fe2de01c7d37171fec8
