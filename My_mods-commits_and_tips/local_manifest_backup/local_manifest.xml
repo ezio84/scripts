@@ -31,5 +31,5 @@
   <remove-project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" />
   <remove-project name="platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField" />
   <remove-project name="platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam" />
-
+  <remove-project path="packages/apps/Messaging" name="android_packages_apps_Messaging" />
 </manifest>
