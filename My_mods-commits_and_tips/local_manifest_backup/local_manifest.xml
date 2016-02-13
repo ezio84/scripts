@@ -23,21 +23,13 @@
   <!-- Built-in extra apps -->
   <project path="external/htop" name="CyanogenMod/android_external_htop" remote="github" revision="cm-13.0" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="cm-13.0" />
-  <!-- Blow shit up!! (Schwarznegger cit) and let the user install apps from playstore if needed
-  <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
-  <remove-project path="packages/apps/Calendar" name="SlimRoms/packages_apps_Calendar" />
-  <remove-project path="packages/apps/Camera2" name="SlimRoms/packages_apps_Camera2" />
-  <remove-project path="packages/apps/FMRadio" name="platform/packages/apps/FMRadio" />
+  <!-- Blow shit up!! (Schwarznegger cit) and let the user install apps from playstore if needed -->
   <remove-project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" />
   <remove-project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" />
   <remove-project name="platform/packages/wallpapers/Galaxy4" path="packages/wallpapers/Galaxy4" />
   <remove-project name="platform/packages/wallpapers/HoloSpiral" path="packages/wallpapers/HoloSpiral" />
   <remove-project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" />
-  <remove-project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" />
   <remove-project name="platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField" />
   <remove-project name="platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam" />
-  <remove-project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" />
-  <remove-project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" /> 
-  -->
 
 </manifest>
