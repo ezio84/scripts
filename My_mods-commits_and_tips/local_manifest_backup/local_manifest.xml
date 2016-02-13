@@ -20,6 +20,9 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="frameworks/opt/cards" name="ezio84/frameworks_opt_cards" remote="github" revision="mm" />
+  <!-- Built-in extra apps -->
+  <project path="external/htop" name="CyanogenMod/android_external_htop" remote="github" revision="cm-13.0" />
+  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="cm-13.0" />
   <!-- Blow shit up!! (Schwarznegger cit) and let the user install apps from playstore if needed
   <remove-project path="packages/apps/Browser" name="SlimRoms/packages_apps_Browser" />
   <remove-project path="packages/apps/Calendar" name="SlimRoms/packages_apps_Calendar" />
