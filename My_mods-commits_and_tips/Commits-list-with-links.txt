@@ -40,3 +40,8 @@ https://github.com/ezio84/purenexus_vendor_nexus/commit/39cac65eda55217f93faa1ba
 
 Long press on recent button to switch to last app: remove custom animation and switch back to the stock aosp one (from bottom to top)
 https://github.com/ezio84/purenexus_frameworks_base/commit/3a9efb19ad98d9df0693e661130671b595917fb6
+
+Hide QS tiles with sensitive data on secured lockscreen
+https://github.com/ezio84/purenexus_frameworks_base/commit/feddae792d36e9631735751b64086db83b021560
+https://github.com/ezio84/purenexus_frameworks_base/commit/b6154ba54c7a28ae29f6814c4eefd180a1217cf5
+https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/8a4150b93c22a508bdf12771cd9b95410e1e7080
