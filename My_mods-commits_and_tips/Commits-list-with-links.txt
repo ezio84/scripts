@@ -45,3 +45,6 @@ Hide QS tiles with sensitive data on secured lockscreen
 https://github.com/ezio84/purenexus_frameworks_base/commit/feddae792d36e9631735751b64086db83b021560
 https://github.com/ezio84/purenexus_frameworks_base/commit/b6154ba54c7a28ae29f6814c4eefd180a1217cf5
 https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/8a4150b93c22a508bdf12771cd9b95410e1e7080
+
+Hide a system app from launcher
+https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/a90e510cf03be960af6daa87e51bc504f10163a5
