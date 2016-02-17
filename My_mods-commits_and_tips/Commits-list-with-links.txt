@@ -55,3 +55,7 @@ https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/8a4150b
 
 Hide a system app from launcher
 https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/a90e510cf03be960af6daa87e51bc504f10163a5
+
+Multirom kernel support
+https://github.com/ezio84/purenexus_kernel_lge_hammerhead/commit/7e58949c8638e179a5db7f06d6a19547761e1c36
+https://github.com/ezio84/purenexus_kernel_lge_hammerhead/commit/cd72b7fec014e4aa21da7e427d40b2c52e7dc4e8
