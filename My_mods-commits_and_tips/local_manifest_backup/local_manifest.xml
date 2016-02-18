@@ -15,6 +15,7 @@
   <project path="build" name="ezio84/purenexus_build" remote="github" revision="mm" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  <remove-project path="frameworks/opt/cards" name="android_frameworks_opt_cards" />
   <project path="frameworks/opt/cards" name="ezio84/frameworks_opt_cards" remote="github" revision="mm" />
   <!-- Built-in extra apps -->
   <project path="external/htop" name="CyanogenMod/android_external_htop" remote="github" revision="cm-13.0" />
