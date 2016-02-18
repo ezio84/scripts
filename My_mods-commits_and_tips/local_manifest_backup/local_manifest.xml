@@ -31,4 +31,6 @@
   <!-- Device stuff-->
   <remove-project path="kernel/lge/hammerhead" name="android_kernel_lge_hammerhead" />
   <project path="kernel/lge/hammerhead" name="ezio84/purenexus_kernel_lge_hammerhead" groups="device,hammerhead,broadcom_pdk,generic_fs" remote="github" revision="mm" />
+  <remove-project path="device/lge/hammerhead" name="android_device_lge_hammerhead" />
+  <project path="device/lge/hammerhead" name="ezio84/purenexus_device_lge_hammerhead" groups="device,hammerhead,broadcom_pdk,generic_fs" remote="github" revision="mm" />
 </manifest>
