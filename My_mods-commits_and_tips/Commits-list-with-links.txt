@@ -62,3 +62,6 @@ https://github.com/ezio84/purenexus_kernel_lge_hammerhead/commit/cd72b7fec014e4a
 
 Change default lcd density
 https://github.com/ezio84/purenexus_device_lge_hammerhead/commit/ee12b1e8ec3a615cb5cf95443d6e7f4583e8fc9e
+
+QS quick pulldown: bigger activation area 
+https://github.com/ezio84/purenexus_frameworks_base/commit/accbf647cbb4e1cbea5ac779f6c31bbe1bb62252
