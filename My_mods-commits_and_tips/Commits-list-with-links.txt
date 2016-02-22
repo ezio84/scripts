@@ -67,4 +67,4 @@ QS quick pulldown: bigger activation area
 https://github.com/ezio84/purenexus_frameworks_base/commit/accbf647cbb4e1cbea5ac779f6c31bbe1bb62252
 
 Layers: dynamic backup script (no custom layers loss after a dirty flash)
-https://github.com/krexus/vendor_krexus/commit/8f508b019e13d0d0830db56f378d07655f94d1be
+https://github.com/ezio84/purenexus_vendor_nexus/commit/4bd1189efd58440a27446e0535ba48d2c2e92da3
