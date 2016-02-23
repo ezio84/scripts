@@ -13,6 +13,10 @@ SlimRecent: let the user set the desired immersive/fullscreen mode
 https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/045168ed9687287d2e361def82323a0bc8c3d63d
 https://github.com/ezio84/purenexus_frameworks_base/commit/da51badb4b81c2d6a6c30465f023e08c1eeea238
 
+SlimRecent: fix text centering when the panel size is different from 100%
+https://github.com/ezio84/frameworks_opt_cards/commit/0bc73f913063bca0a40366589d73a74031f6ac11
+https://github.com/ezio84/frameworks_opt_cards/commit/405536eff5b1277f2dfa3d556e4eb13a9bc63105
+
 SlimRecent *******OLD: now added by default with improved code in official PureNexus*************
 https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/c661da75bad424288db166cb638edd5639ca9057 ******OLD*********
 https://github.com/ezio84/purenexus_frameworks_base/commit/2ff5dcd3208a3c21944e041987933bdf0d8d32f3 ******OLD*********
