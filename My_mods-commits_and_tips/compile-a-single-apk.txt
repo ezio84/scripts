@@ -8,7 +8,7 @@ Daniel Koman
 Anyway after you get the app, just do:
 adb root
 adb remount
-adb push Dialer.apk /system/priv-app/Dialer.apk
+adb push Dialer.apk /system/priv-app/Dialer/Dialer.apk
 adb reboot
 
 
