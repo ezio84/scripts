@@ -72,3 +72,11 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/accbf647cbb4e1cbea5ac
 
 Layers: dynamic backup script (no custom layers loss after a dirty flash)
 https://github.com/ezio84/purenexus_vendor_nexus/commit/4bd1189efd58440a27446e0535ba48d2c2e92da3
+
+Switch from CM navbar to Slim navbar / slim dim
+https://github.com/ezio84/purenexus_frameworks_base/commit/c143597639a1cf4d8b2e100db9f57646f59f9302
+https://github.com/ezio84/purenexus_frameworks_base/commit/1a28058c3ac2daca946f44f660e0d8682dd96a95
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/97fcb4dfb34fcff38c78465944a6ba012627ad20
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/e18e1af258b0f9905b503bde325d985099157736
+https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/6e742327e9628d50e9207402a5553a252c8e77a1
+https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/05bf79d56c32f487b9bbc41b6750cd9f306565cb
