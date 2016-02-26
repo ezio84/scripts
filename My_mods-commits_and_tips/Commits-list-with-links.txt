@@ -81,3 +81,14 @@ https://github.com/ezio84/purenexus_packages_apps_Settings/commit/e18e1af258b0f9
 https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/6e742327e9628d50e9207402a5553a252c8e77a1
 https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/05bf79d56c32f487b9bbc41b6750cd9f306565cb
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/b58370a872700297fba9471aaf668baabb13b193
+
+Add increasing ring feature
+https://github.com/ezio84/purenexus_frameworks_base/commit/e7ca0fbb3e992189a11337ea9b2af89273759cce
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/cd41a1c5e896a5a8212fe6e53efa567de1542930
+https://github.com/ezio84/purenexus_packages_services_Telecomm/commit/c9479919b713e051d9d8c89ed318fe73359a4cac
+
+Flip to Mute/Reject Call 
+https://github.com/ezio84/purenexus_frameworks_base/commit/084c9fe99742c8f9e5a0361be6b39d57c6d6ff9a
+https://github.com/ezio84/purenexus_packages_services_Telephony/commit/ca41ea37bf9834abbec985ec2bc4062f7857f811
+https://github.com/ezio84/purenexus_packages_apps_InCallUI/commit/5f533d54805153f5d44a5a231a1713fb74b254f7
+
