@@ -24,6 +24,7 @@ git push https://github.com/ezio84/purenexus_vendor_nexus mm
 git push https://github.com/ezio84/frameworks_opt_cards mm
 git push https://github.com/ezio84/purenexus_packages_services_Telecomm mm
 git push https://github.com/ezio84/purenexus_packages_services_Telephony mm
+git push https://github.com/ezio84/purenexus_packages_apps_InCallUI mm
 git push https://github.com/ezio84/purenexus_kernel_lge_hammerhead mm
 git push https://github.com/ezio84/purenexus_device_lge_hammerhead mm
 git push https://github.com/ezio84/scripts mm
