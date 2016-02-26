@@ -17,6 +17,10 @@
   </project>
   <remove-project path="frameworks/opt/cards" name="android_frameworks_opt_cards" />
   <project path="frameworks/opt/cards" name="ezio84/frameworks_opt_cards" remote="github" revision="mm" />
+  <remove-project path="packages/services/Telecomm" name="android_packages_services_Telecomm" />
+  <project path="packages/services/Telecomm" name="ezio84/purenexus_packages_services_Telecomm" remote="github" revision="mm" />
+  <remove-project path="packages/services/Telephony" name="android_packages_services_Telephony" />
+  <project path="packages/services/Telephony" name="ezio84/purenexus_packages_services_Telephony" remote="github" revision="mm" />
   <!-- Built-in extra apps -->
   <project path="external/htop" name="CyanogenMod/android_external_htop" remote="github" revision="cm-13.0" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="cm-13.0" />

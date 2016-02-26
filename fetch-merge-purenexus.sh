@@ -25,6 +25,10 @@ echo -e "${bldgrn}Updating kernel/lge/hammerhead/ ${txtrst}"
 cd $rdir/kernel/lge/hammerhead/ && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_kernel_lge_hammerhead mm
 echo -e "${bldgrn}Updating device/lge/hammerhead/ ${txtrst}"
 cd $rdir/device/lge/hammerhead/ && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_device_lge_hammerhead mm
+echo -e "${bldgrn}Updating packages/services/Telephony ${txtrst}"
+cd $rdir/packages/services/Telephony && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_packages_services_Telephony mm
+echo -e "${bldgrn}Updating packages/services/Telecomm ${txtrst}"
+cd $rdir/packages/services/Telecomm && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_packages_services_Telecomm mm
 # echo -e "${bldgrn}Updating frameworks/opt/cards ${txtrst}"
 # cd $rdir/frameworks/opt/cards && git checkout mm && git fetch slimroms && git merge slimroms/mm && git push https://github.com/ezio84/frameworks_opt_cards mm
 # The end
