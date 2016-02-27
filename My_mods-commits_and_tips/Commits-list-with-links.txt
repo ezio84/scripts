@@ -96,3 +96,8 @@ CoS && SlimActions to shortcuts
 https://github.com/ezio84/purenexus_frameworks_base/commit/cb035ccde612462510caf8ca42fcb1472c919707
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/1ab1a2fe5fae4c999007d6086c37d8343fd6508f
 
+SlimPie
+https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/4fc2a90ec3637aff7d6d10ef1c1e14bf828ab27e
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/ff9178e7100a05e8dd8e18f6b3e40eb2cff8a707
+https://github.com/ezio84/purenexus_frameworks_base/commit/4eb50acdc33d7abebcbd94cbf48952f71615ce04
+https://github.com/ezio84/purenexus_vendor_nexus/commit/b76c9c756e24d7e499394925aae6ac4be1cb7f23
