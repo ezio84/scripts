@@ -212,7 +212,7 @@ https://github.com/ezio84/packages_apps_Settings/commit/ec09a679558a2d6ff9159bec
 Remove the useless persistent plugged headset notification
 https://github.com/ezio84/packages_services_Telecomm/commit/595953bf9370509504dd901a4dedaf99b32ac9b0
 
-SlimPIE
+SlimPIE (REMINDER: this is needed too: https://github.com/ezio84/vendor_slim/commit/a134a7273e0f511016bbcfe1d10cac8870b06447)
 https://github.com/ezio84/packages_apps_Settings/commit/4c7d96079f5c274e4bab1006bce505100a16f113
 https://github.com/ezio84/frameworks_base/commit/0142e1e5dc172f6208ddd84af9cda743ba8b854e
 https://github.com/ezio84/frameworks_base/commit/fa9acd7404ea10e9848f4b897725d07f1c24962a
