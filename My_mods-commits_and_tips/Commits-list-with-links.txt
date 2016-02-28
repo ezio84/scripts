@@ -103,4 +103,4 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/4eb50acdc33d7abebcbd9
 https://github.com/ezio84/purenexus_vendor_nexus/commit/b76c9c756e24d7e499394925aae6ac4be1cb7f23
 https://github.com/ezio84/purenexus_frameworks_base/commit/bb46a3a4e10e51486cf4d824f2ccd305e19042fc
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/0e523ff42ae227efacb473b5e7a026815be29cb9
-
+TEMP commit: https://github.com/ezio84/purenexus_frameworks_base/commit/6d1e616fdef684f784d39e93fec8b6efbca2178d
