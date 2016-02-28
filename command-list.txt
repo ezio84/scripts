@@ -19,6 +19,7 @@ git push github mm
 git push https://github.com/ezio84/purenexus_frameworks_base mm
 git push https://github.com/ezio84/purenexus_packages_apps_Settings mm
 git push https://github.com/ezio84/android_packages_apps_PureNexusSettings mm
+git push https://github.com/ezio84/purenexus_frameworks_native mm
 git push https://github.com/ezio84/purenexus_build mm
 git push https://github.com/ezio84/purenexus_vendor_nexus mm
 git push https://github.com/ezio84/frameworks_opt_cards mm
