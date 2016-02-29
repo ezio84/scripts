@@ -73,7 +73,7 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/accbf647cbb4e1cbea5ac
 Layers: dynamic backup script (no custom layers loss after a dirty flash)
 https://github.com/ezio84/purenexus_vendor_nexus/commit/4bd1189efd58440a27446e0535ba48d2c2e92da3
 
-Switch from CM navbar to Slim navbar / slim dim
+Switch from CM navbar to Slim navbar / slim dim (see also slimpie commits for improvements on navbar code too)
 https://github.com/ezio84/purenexus_frameworks_base/commit/c143597639a1cf4d8b2e100db9f57646f59f9302
 https://github.com/ezio84/purenexus_frameworks_base/commit/1a28058c3ac2daca946f44f660e0d8682dd96a95
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/97fcb4dfb34fcff38c78465944a6ba012627ad20
@@ -92,7 +92,7 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/084c9fe99742c8f9e5a03
 https://github.com/ezio84/purenexus_packages_services_Telephony/commit/ca41ea37bf9834abbec985ec2bc4062f7857f811
 https://github.com/ezio84/purenexus_packages_apps_InCallUI/commit/5f533d54805153f5d44a5a231a1713fb74b254f7
 
-CoS && SlimActions to shortcuts 
+CoS && SlimActions to shortcuts (see also latest slimpie commits for torch and nowontap actions)
 https://github.com/ezio84/purenexus_frameworks_base/commit/cb035ccde612462510caf8ca42fcb1472c919707
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/1ab1a2fe5fae4c999007d6086c37d8343fd6508f
 
@@ -104,3 +104,13 @@ https://github.com/ezio84/purenexus_vendor_nexus/commit/b76c9c756e24d7e499394925
 https://github.com/ezio84/purenexus_frameworks_base/commit/bb46a3a4e10e51486cf4d824f2ccd305e19042fc
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/0e523ff42ae227efacb473b5e7a026815be29cb9
 TEMP commit: https://github.com/ezio84/purenexus_frameworks_base/commit/6d1e616fdef684f784d39e93fec8b6efbca2178d
+FIX for the tmp commit: https://github.com/ezio84/purenexus_frameworks_base/commit/7090b28754b3555bb3bf2adc138460d972383fa8
+https://github.com/ezio84/purenexus_frameworks_base/commit/2b962ba60d3d97484676dd9ac2ab5ca42403b80c
+https://github.com/ezio84/purenexus_frameworks_base/commit/e950031052f7ec0b5aecf316c41b6a4929ab2855
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/1cdc8c3faf958941144c7291c839320b00f1fb1e
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/5f7a44346ef3a263bc2c1742f28882095060d02d
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/90070d1b5ce3cd4d41b751a9f66a0776bca07900
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/4c22d2bcec636b5ceda2ff2d927e8d331e4a2707
+
+
+
