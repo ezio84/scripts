@@ -35,6 +35,8 @@ echo -e "${bldgrn}Updating packages/apps/InCallUI ${txtrst}"
 cd $rdir/packages/apps/InCallUI && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_packages_apps_InCallUI mm
 echo -e "${bldgrn}Updating packages/apps/Dialer ${txtrst}"
 cd $rdir/packages/apps/Dialer && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_packages_apps_Dialer mm
+echo -e "${bldgrn}Updating art ${txtrst}"
+cd $rdir/art && git checkout mm && git fetch purenexus && git merge purenexus/mm && git push https://github.com/ezio84/purenexus_android_art mm
 # echo -e "${bldgrn}Updating frameworks/opt/cards ${txtrst}"
 # cd $rdir/frameworks/opt/cards && git checkout mm && git fetch slimroms && git merge slimroms/mm && git push https://github.com/ezio84/frameworks_opt_cards mm
 # The end

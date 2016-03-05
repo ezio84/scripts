@@ -27,6 +27,8 @@
   <project path="packages/apps/Dialer" name="ezio84/purenexus_packages_apps_Dialer" remote="github" revision="mm" />
   <remove-project path="frameworks/native" name="android_frameworks_native" />
   <project path="frameworks/native" name="ezio84/purenexus_frameworks_native" remote="github" revision="mm" />
+  <remove-project path="art" name="android_art" />
+  <project path="art" name="ezio84/purenexus_android_art" groups="pdk" remote="github" revision="mm" />
   <!-- Built-in extra apps -->
   <project path="external/htop" name="CyanogenMod/android_external_htop" remote="github" revision="cm-13.0" />
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="cm-13.0" />
