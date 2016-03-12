@@ -115,3 +115,6 @@ https://github.com/ezio84/purenexus_packages_apps_Settings/commit/4c22d2bcec636b
 Keyguard: show charging current in mAh on lockscreen 
 https://github.com/ezio84/purenexus_frameworks_base/commit/4525015c2e5985c4a1865a7c818becd83ef5e8f1
 
+Add option to enable or disable fullscreen keyboard
+https://github.com/ezio84/purenexus_frameworks_base/commit/3854122a92f32819fa3a21954ddae4479be53de9
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/852c7bb7eddcbaf014d826dfef0a220b9cac3883
