@@ -29,9 +29,6 @@
   <project path="frameworks/native" name="ezio84/purenexus_frameworks_native" remote="github" revision="mm" />
   <remove-project path="art" name="android_art" />
   <project path="art" name="ezio84/purenexus_android_art" groups="pdk" remote="github" revision="mm" />
-  <!-- Built-in extra apps -->
-  <project path="external/htop" name="CyanogenMod/android_external_htop" remote="github" revision="cm-13.0" />
-  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="github" revision="cm-13.0" />
   <!-- Blow shit up!! (Schwarznegger cit) and let the user install apps from playstore if needed -->
   <remove-project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" />
   <remove-project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" />
