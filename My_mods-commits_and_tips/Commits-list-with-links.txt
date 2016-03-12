@@ -112,5 +112,6 @@ https://github.com/ezio84/purenexus_packages_apps_Settings/commit/5f7a44346ef3a2
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/90070d1b5ce3cd4d41b751a9f66a0776bca07900
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/4c22d2bcec636b5ceda2ff2d927e8d331e4a2707
 
-
+Keyguard: show charging current in mAh on lockscreen 
+https://github.com/ezio84/purenexus_frameworks_base/commit/4525015c2e5985c4a1865a7c818becd83ef5e8f1
 
