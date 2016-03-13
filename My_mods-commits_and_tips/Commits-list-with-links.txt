@@ -118,3 +118,7 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/4525015c2e5985c4a1865
 Add option to enable or disable fullscreen keyboard
 https://github.com/ezio84/purenexus_frameworks_base/commit/3854122a92f32819fa3a21954ddae4479be53de9
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/852c7bb7eddcbaf014d826dfef0a220b9cac3883
+
+Fix slow notification/QS panel pulldown animation when called externally (e.g. Nova without root, or Slim Actions)
+https://github.com/ezio84/purenexus_frameworks_base/commit/eeee71167aea6942a5d36806ad6122fbdae132b4
+https://github.com/ezio84/purenexus_frameworks_base/commit/79905e83e09ba87a4b18009167adf3cf5290efd3
