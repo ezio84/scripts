@@ -52,6 +52,9 @@ https://github.com/ezio84/purenexus_vendor_nexus/commit/39cac65eda55217f93faa1ba
 Long press on recent button to switch to last app: remove custom animation and switch back to the stock aosp one (from bottom to top)
 https://github.com/ezio84/purenexus_frameworks_base/commit/3a9efb19ad98d9df0693e661130671b595917fb6
 
+Mobile data tile behavior: single tap to switch data on/off, secondary click when set as main tile in the first row to show data details, longpress for mobile settings menu
+https://github.com/ezio84/purenexus_frameworks_base/commit/9026f7e4dd0571397fe960d496f577cec30d2693
+
 Hide QS tiles with sensitive data on secured lockscreen
 https://github.com/ezio84/purenexus_frameworks_base/commit/feddae792d36e9631735751b64086db83b021560
 https://github.com/ezio84/purenexus_frameworks_base/commit/b6154ba54c7a28ae29f6814c4eefd180a1217cf5
