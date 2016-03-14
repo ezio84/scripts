@@ -86,6 +86,7 @@ https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/6e74232
 https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/05bf79d56c32f487b9bbc41b6750cd9f306565cb
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/b58370a872700297fba9471aaf668baabb13b193
 https://github.com/ezio84/purenexus_frameworks_base/commit/db195501209095c4d6d23b43682dcb8a4890e1c6
+https://github.com/ezio84/purenexus_frameworks_base/commit/71f0958bfd54e94f5f74c53e2220872f3c8b699d
 
 Add increasing ring feature
 https://github.com/ezio84/purenexus_frameworks_base/commit/e7ca0fbb3e992189a11337ea9b2af89273759cce
