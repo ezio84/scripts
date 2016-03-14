@@ -70,8 +70,9 @@ https://github.com/ezio84/purenexus_device_lge_hammerhead/commit/ee12b1e8ec3a615
 QS quick pulldown: bigger activation area 
 https://github.com/ezio84/purenexus_frameworks_base/commit/accbf647cbb4e1cbea5ac779f6c31bbe1bb62252
 
-Layers: dynamic backup script (no custom layers loss after a dirty flash)
+Layers-Fonts-DPI: dynamic backup script (no custom configs loss after a dirty flash)
 https://github.com/ezio84/purenexus_vendor_nexus/commit/4bd1189efd58440a27446e0535ba48d2c2e92da3
+https://github.com/ezio84/purenexus_vendor_nexus/commit/431fdcf5a1a4b94caa2928faab238a9e07a8053d
 
 Switch from CM navbar to Slim navbar / slim dim (see also slimpie commits for improvements on navbar code too)
 https://github.com/ezio84/purenexus_frameworks_base/commit/c143597639a1cf4d8b2e100db9f57646f59f9302
