@@ -3,6 +3,7 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/6d0c77eb514a0763feeb0
 
 Show icon of package associated with Toast
 https://github.com/ezio84/purenexus_frameworks_base/commit/a1b60bf262c61c082263f32f4b2e81c15c1406f0
+PS: to show them only for background apps: https://github.com/ezio84/purenexus_frameworks_base/commit/b32fa15fdd55c0cd31dccae98c9077a9488220f1
 
 Add back mka bootzip 
 https://github.com/ezio84/purenexus_build/commit/ca2a359c9a7aad9b035db12906fc7cc3ac9f98c3
