@@ -4,7 +4,7 @@ to type a tilde ~: AltGR+ì (o Alt+126 da shell)
 
  Shift + Alt Gr + +  --for: }
 
-
+find strings in the rom source:
 grep -r "TEXTtoFIND"
 
 . mkgapps.sh
@@ -16,22 +16,6 @@ grep -r "TEXTtoFIND"
  
 git push github mm
  
-git push https://github.com/ezio84/purenexus_frameworks_base mm
-git push https://github.com/ezio84/purenexus_packages_apps_Settings mm
-git push https://github.com/ezio84/android_packages_apps_PureNexusSettings mm
-git push https://github.com/ezio84/purenexus_build mm
-git push https://github.com/ezio84/purenexus_frameworks_native mm
-git push https://github.com/ezio84/purenexus_vendor_nexus mm
-git push https://github.com/ezio84/frameworks_opt_cards mm
-git push https://github.com/ezio84/purenexus_packages_services_Telecomm mm
-git push https://github.com/ezio84/purenexus_packages_services_Telephony mm
-git push https://github.com/ezio84/purenexus_packages_apps_InCallUI mm
-git push https://github.com/ezio84/purenexus_kernel_lge_hammerhead mm
-git push https://github.com/ezio84/purenexus_device_lge_hammerhead mm
-git push https://github.com/ezio84/purenexus_kernel_huawei_angler mm
-git push https://github.com/ezio84/purenexus_device_huawei_angler mm
-git push https://github.com/ezio84/purenexus_android_art mm
-git push https://github.com/ezio84/scripts mm
 
 adb remount
 adb push Settings.apk /system/priv-app/Settings/Settings.apk
