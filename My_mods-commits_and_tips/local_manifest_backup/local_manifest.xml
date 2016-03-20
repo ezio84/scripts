@@ -44,4 +44,8 @@
   <project path="kernel/lge/hammerhead" name="ezio84/purenexus_kernel_lge_hammerhead" groups="device,hammerhead,broadcom_pdk,generic_fs" remote="github" revision="mm" />
   <remove-project path="device/lge/hammerhead" name="android_device_lge_hammerhead" />
   <project path="device/lge/hammerhead" name="ezio84/purenexus_device_lge_hammerhead" groups="device,hammerhead,broadcom_pdk,generic_fs" remote="github" revision="mm" />
+  <remove-project path="kernel/huawei/angler" name="android_kernel_huawei_angler" />
+  <project path="kernel/huawei/angler" name="ezio84/purenexus_kernel_huawei_angler" groups="device,angler,broadcom_pdk" remote="github" revision="mm" />
+  <remove-project path="device/huawei/angler" name="android_device_huawei_angler" />
+  <project path="device/huawei/angler" name="ezio84/purenexus_device_huawei_angler" groups="device,angler,broadcom_pdk" remote="github" revision="mm" />
 </manifest>
