@@ -131,5 +131,5 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/eeee71167aea6942a5d36
 https://github.com/ezio84/purenexus_frameworks_base/commit/79905e83e09ba87a4b18009167adf3cf5290efd3
 
 Add dt2w on doze:
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/643e68196825f95210ae96487ce4c47e773e03fa
 https://github.com/ezio84/purenexus_frameworks_base/commit/2e3ac1af48399496cabe930d15730aaca6f09457
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/9ca9d6d90bf0b1052761248151bd1b977b561126
