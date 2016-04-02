@@ -133,3 +133,14 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/79905e83e09ba87a4b180
 Add dt2w on doze:
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/643e68196825f95210ae96487ce4c47e773e03fa
 https://github.com/ezio84/purenexus_frameworks_base/commit/2e3ac1af48399496cabe930d15730aaca6f09457
+
+Angler kcal support:
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/d8f402396a5f30495ba8f3d4dcfb22c3c9208e10
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/fd4a8a8485bb8a8da4647c69ffd35e6995765c2d
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/8f4d818f8ca6e5a04536006ec9853f690ba742ff
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/f60d97af2ecd26bde21de3badf332ffec58243cf
+AD backlight fix: https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/3ed537f0a12a1c40a1f606fb06df36e0128a9492
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/b727919c34a3e7a712cca4fffeecee4c5d66f3dd
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/775a245c5c3c95e23c243fb1ad7b2c55bc65a0c0
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/51a2d7650a41ab88b2e05d95ec8683fb28e1cc23
+
