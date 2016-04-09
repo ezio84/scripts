@@ -144,3 +144,8 @@ https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/b727919c34a3e7a7
 https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/775a245c5c3c95e23c243fb1ad7b2c55bc65a0c0
 https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/51a2d7650a41ab88b2e05d95ec8683fb28e1cc23
 
+Add manual pause/resume feature for downloads (tap on the download notification to open the download manager, then tap on the entry in the manager to pause/resume it)
+https://github.com/ezio84/purenexus_frameworks_base/commit/f41b08a68188041752bd086796194c69ec49c8ab
+https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/68a23a1c6e55e997c9406f00bf94506c39a28923
+https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/8ecf767138708fddefef7f5665ba913a5314e8a4
+
