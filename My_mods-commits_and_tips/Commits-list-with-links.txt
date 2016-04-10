@@ -149,3 +149,7 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/f41b08a68188041752bd0
 https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/68a23a1c6e55e997c9406f00bf94506c39a28923
 https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/8ecf767138708fddefef7f5665ba913a5314e8a4
 
+QS customization improvements by Griffin Millender (in the QS customizer, drag main tiles down on the 2nd row to disable the first main tiles row - drag again a tile into the first row to enable the main tiles row - up to 3 tiles in the main row - QS code cleanup and fixes)
+https://github.com/ezio84/purenexus_frameworks_base/commit/9d9654513f3a0655291f6bfba01bd5dc229f4ac8
+https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/4af9d73a486e1531cfb51066299e7391e907cf51
+https://github.com/ezio84/purenexus_frameworks_base/commit/9ea34e7c0ecb61b2c74a75dcca9301100b34ff23
