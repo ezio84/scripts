@@ -153,3 +153,7 @@ QS customization improvements by Griffin Millender (in the QS customizer, drag m
 https://github.com/ezio84/purenexus_frameworks_base/commit/9d9654513f3a0655291f6bfba01bd5dc229f4ac8
 https://github.com/ezio84/android_packages_apps_PureNexusSettings/commit/4af9d73a486e1531cfb51066299e7391e907cf51
 https://github.com/ezio84/purenexus_frameworks_base/commit/9ea34e7c0ecb61b2c74a75dcca9301100b34ff23
+
+Show/hide IME switcher in navbar or statusbar
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/cb86aa851431b72a17defb6a701593940276df2c
+https://github.com/ezio84/purenexus_frameworks_base/commit/18919e7962374565b509c9a672314a28899ffd87
