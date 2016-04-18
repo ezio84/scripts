@@ -32,6 +32,7 @@
   <remove-project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DownloadProvider" name="ezio84/purenexus_packages_providers_DownloadProvider" groups="pdk-cw-fs" remote="github" revision="mm" />
   <!-- Blow shit up!! (Schwarznegger cit) and let the user install apps from playstore if needed -->
+  <remove-project path="packages/apps/LockClock" name="android_packages_apps_LockClock" />
   <remove-project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" />
   <remove-project name="platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic" />
   <remove-project name="platform/packages/wallpapers/Galaxy4" path="packages/wallpapers/Galaxy4" />
