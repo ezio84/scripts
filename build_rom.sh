@@ -7,6 +7,9 @@ bldgrn=${txtbld}$(tput setaf 2) #  green
 bldblu=${txtbld}$(tput setaf 4) #  blue
 txtrst=$(tput sgr0)             # Reset
 
+ROOT_PATH=$PWD
+BUILD_PATH="$ROOT_PATH/out/target/product/$DEVICE"
+
 DEVICE="$1"
 SYNC="$2"
 CLEAN="$3"
@@ -54,6 +57,13 @@ else
    echo -e "${bldblu}Compiling for $DEVICE without saving a build log file ${txtrst}"
    mka bacon;
 fi
+
+# copy ROM.zip to root
+echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
+cp $BUILD_PATH/pure_*.zip $ROOT_PATH
+
+# back to root dir
+cd $ROOT_PATH
 
 # Get elapsed time
 res2=$(date +%s.%N)
