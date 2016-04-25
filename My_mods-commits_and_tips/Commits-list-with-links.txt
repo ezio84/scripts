@@ -157,3 +157,12 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/9ea34e7c0ecb61b2c74a7
 Show/hide IME switcher in navbar or statusbar
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/cb86aa851431b72a17defb6a701593940276df2c
 https://github.com/ezio84/purenexus_frameworks_base/commit/18919e7962374565b509c9a672314a28899ffd87
+
+Slim lockscreen shortcuts
+https://github.com/ezio84/purenexus_packages_apps_PureNexusSettings/commit/5bf339d66ecd93e3d483e01879959c42245937a5
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/39042a1dbf0b2844a6cb7bd9b52a2c778d29b088
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d4c4b699ab189b675c173c57da01588a4ed04fa0
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/bcd8b4876d55d577b025f19a85a08443cf5ca500
+https://github.com/ezio84/purenexus_frameworks_base/commit/2cbb902ba6cc0cf3c161a5a588e347dc705cd54f
+https://github.com/ezio84/purenexus_frameworks_base/commit/c2740c55bfc0cc08a06579773f54a0289d92bf29
+Fix to hide shortcuts when dozing: ://github.com/ezio84/purenexus_frameworks_base/commit/ca08efcd1a96179f91a4795aa0963f50ac7a0d94
