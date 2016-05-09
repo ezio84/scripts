@@ -7,13 +7,13 @@ bldgrn=${txtbld}$(tput setaf 2) #  green
 bldblu=${txtbld}$(tput setaf 4) #  blue
 txtrst=$(tput sgr0)             # Reset
 
-ROOT_PATH=$PWD
-BUILD_PATH="$ROOT_PATH/out/target/product/$DEVICE"
-
 DEVICE="$1"
 SYNC="$2"
 CLEAN="$3"
 LOG="$4"
+
+ROOT_PATH=$PWD
+BUILD_PATH="$ROOT_PATH/out/target/product/$DEVICE"
 
 # Time of build startup
 res1=$(date +%s.%N)
