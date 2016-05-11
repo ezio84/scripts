@@ -166,3 +166,12 @@ https://github.com/ezio84/purenexus_packages_apps_Settings/commit/bcd8b4876d55d5
 https://github.com/ezio84/purenexus_frameworks_base/commit/2cbb902ba6cc0cf3c161a5a588e347dc705cd54f
 https://github.com/ezio84/purenexus_frameworks_base/commit/c2740c55bfc0cc08a06579773f54a0289d92bf29
 Fix to hide shortcuts when dozing: ://github.com/ezio84/purenexus_frameworks_base/commit/ca08efcd1a96179f91a4795aa0963f50ac7a0d94
+
+Aosp Multi windows improvements
+https://github.com/ezio84/purenexus_frameworks_base/commit/d05c53ee1b18ada1c7b6afb5867b5e2ec344df16
+https://github.com/ezio84/purenexus_frameworks_base/commit/db5e30df49788319ea256c8a97b364a4fa692c8a
+https://github.com/ezio84/purenexus_frameworks_base/commit/4f16cf607d7973aed42d258945b811e234d59c81
+
+Allow unlocked usb access
+https://github.com/ezio84/purenexus_frameworks_base/commit/465109b09f0db916dc39431c3ffa6dee8a07133f
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/7e95ac3c39407135c07e4fa87c18f5fb05fef141
