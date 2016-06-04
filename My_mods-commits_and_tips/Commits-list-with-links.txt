@@ -74,6 +74,10 @@ https://github.com/ezio84/purenexus_device_lge_hammerhead/commit/ee12b1e8ec3a615
 QS quick pulldown: bigger activation area 
 https://github.com/ezio84/purenexus_frameworks_base/commit/accbf647cbb4e1cbea5ac779f6c31bbe1bb62252
 
+Smart pulldown (fixed version for M):
+https://github.com/PureNexusProject/android_packages_apps_PureSettings/commit/344339fa0148a024108813c51c0533858436daae
+https://github.com/PureNexusProject/android_frameworks_base/commit/620ecb66ae3cb5f945bd0a7ed5b2e66881b934ba
+
 Layers-Fonts-DPI: dynamic backup script (no custom configs loss after a dirty flash)
 https://github.com/ezio84/purenexus_vendor_nexus/commit/4bd1189efd58440a27446e0535ba48d2c2e92da3
 https://github.com/ezio84/purenexus_vendor_nexus/commit/431fdcf5a1a4b94caa2928faab238a9e07a8053d
