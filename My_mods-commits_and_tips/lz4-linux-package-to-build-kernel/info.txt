@@ -1,4 +1,4 @@
-If you build with a more recent lz4 package, you'll have a bootloop after the Google logo on your device (at least on mako). This is because of the different compression given by newer lz4 version.
+If you build with a more recent lz4 package, you could have a bootloop after the Google logo on your device (at least on mako). This is because of the different compression given by newer lz4 version.
 
 So let's us the last working one (114) taken from ubuntu deb packages. Just put the files in the /usr folder of your distro (following the subfolders scheme in the zip file).
 

@@ -14,7 +14,7 @@ grep -r "TEXTtoFIND"
  . scripts/build_kernel.sh angler
  ./fetch-merge-purenexus.sh
  
-git push pure mm
+git push pure mm2
  
 
 adb remount
@@ -47,7 +47,7 @@ adb root // adb remount // adb push SystemUI.apk /system/priv-app/SystemUI/Syste
 
 
 ./fetch-merge-purenexus.sh
-fake merge: git merge purenexus/mm -s ours
+fake merge: git merge purenexus/mm2 -s ours
 
 ccache -C to reset ccache
 
