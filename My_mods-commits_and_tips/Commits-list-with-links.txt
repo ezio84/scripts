@@ -17,6 +17,10 @@ https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/e98176c3b6
 https://github.com/ezio84/purenexus_frameworks_base/commit/a7135f5a21870d103e5797ee8f5bae37bf07293a
 https://github.com/ezio84/purenexus_frameworks_base/commit/92dbfd3d29216c645797f79a159f54a34df44c1a
 https://github.com/ezio84/purenexus_frameworks_base/commit/a166fdf02297d4eda232f35095315b213ef01abe
+Stock immersive recents:
+https://github.com/ezio84/purenexus_frameworks_base/commit/be51ce57b7113fbd3f4b765251d39ddab4b9726d
+https://github.com/ezio84/purenexus_frameworks_base/commit/4e116c568b524d59b71bb071cccd9e107f48d80b (
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/e10962597b637e6db6a7ef0bd5b5426fa209cbaa
 
 Double tap on nav to sleep
 https://github.com/ezio84/purenexus_frameworks_base/commit/9515df49a1752f872a245baec9b2556f660ff9be
@@ -103,10 +107,71 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/b2f0ab1d0b913f89bff57
 Speed up the notification panel pulldown animation when called externally (e.g. Nova)
 https://github.com/ezio84/purenexus_frameworks_base/commit/0a9a7b4f08a78cda1785b3aa123c195bfa0a703e
 
-QS quick pulldown: bigger activation area
-https://github.com/ezio84/purenexus_frameworks_base/commit/2e85aca3cdd3718fd9c197c2b815551c45f52ab2
-
 Increasing ring
 https://github.com/ezio84/purenexus_frameworks_base/commit/d73140d4ee0a6fc2af52f8e92acf89ab503e5888
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/07169ab4f50adc686b00e88cddef5016056cd331
 https://github.com/ezio84/purenexus_packages_services_Telecomm/commit/5fbc11df51b08cb8581becab6a3316c6ad92e7ac
+
+Allow to swap volume buttons rotation based
+https://github.com/ezio84/purenexus_frameworks_base/commit/b016e6f1eb1f678a30c410f7b05beea43c6d30bb
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/4fe1b12f395c64e5134a279ad1cfe82a8d90ba14
+
+QS Pulldown options
+https://github.com/ezio84/purenexus_frameworks_base/commit/b03656ae828ebcc8432f1c72ae160758fe4ab369
+https://github.com/ezio84/purenexus_frameworks_base/commit/620ecb66ae3cb5f945bd0a7ed5b2e66881b934ba
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/b4884f386dd111df8680d5c33e7f14fd78d767e3
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/344339fa0148a024108813c51c0533858436daae
+QS quick pulldown: bigger activation area
+https://github.com/ezio84/purenexus_frameworks_base/commit/2e85aca3cdd3718fd9c197c2b815551c45f52ab2
+
+Double tap to sleep anywhere on the lock screen
+https://github.com/ezio84/purenexus_frameworks_base/commit/d261379de33cbf2cd4e31b68b04dd85e3e655e0e
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/43961f3a9e8999f4d1040ed813e2551934b166f6
+
+Statusbar add double-tap to sleep
+https://github.com/ezio84/purenexus_frameworks_base/commit/67fcaf8ae641d19ddf0b95378bd4f0daf00ea84f
+https://github.com/ezio84/purenexus_frameworks_base/commit/9f21217525f41bedf9261975ae8c0e1339a8d2cc
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/9a87cb21d527881dc03a70c7df41a095742e46ca
+
+Network Traffic indicator
+https://github.com/ezio84/purenexus_frameworks_base/commit/4f94c1dbc07ee57ae31b6e7649c4f47516cb38e4
+https://github.com/ezio84/purenexus_frameworks_base/commit/1a781930d535394a1917ba9ec36f83266694ff4e
+https://github.com/ezio84/purenexus_frameworks_base/commit/9ace275a4a0020478c8fb6059d15f1e49c263996
+https://github.com/ezio84/purenexus_frameworks_base/commit/6656469c8e9b512f3fe14dd4a5d446de3ba9017e
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/a8468f8999489fa2717de92d703801ee745389bc
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/eba16e902c58a8e10cce5a605d26ae45e27f321f
+
+Volume keys features
+    https://github.com/ezio84/purenexus_frameworks_base/commit/b71dfa3b7e8ef4601deb4f7d42850494fa609aeb
+    https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/31d5f39898c8eafeb93f1c9b299943422a864e88
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/e4832da0b84a8fa94a16055d0958d4b3f6c3d8d8
+https://github.com/ezio84/purenexus_frameworks_base/commit/68b39c57c3c403232f6b0ffec11164f0f803adde
+        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/83b0b2d87ac7734d865ff2d2a5528392c1bec981
+        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/16b17deeaa5620ef6732873add582e39a73628e1
+        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/668d68f31dee15db92b4a121ea2bb15459ba497c
+        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/f570626d64387ddce1bb8a690265626d8da1d946
+        https://github.com/ezio84/purenexus_frameworks_base/commit/6dfedd7b900cac9e5cc7d786ba70299295fcb29e
+        https://github.com/ezio84/purenexus_frameworks_base/commit/953263d520fb7af9db555df2c9d30803399991b3
+        https://github.com/ezio84/purenexus_frameworks_base/commit/534fc72d094927913bb4b24bee62c6a45908054c
+        https://github.com/ezio84/purenexus_frameworks_base/commit/2a1795c805e3aca6c3191dc9fe53f568fba411e4
+        https://github.com/ezio84/purenexus_frameworks_base/commit/019e42ec2b15fce08c53796edaa20634d96e9716
+        https://github.com/ezio84/purenexus_frameworks_base/commit/1f6b4fbaca1524d6c273565141fd862e56f97cc9
+        https://github.com/ezio84/purenexus_frameworks_base/commit/cae053c33f71c308662cfee79ffbc9fe6a82e5a8
+
+Allow unlinking ringer with notification volume
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/7f6880fa0b0a558fd3b74dff412ecff892df89c0
+https://github.com/ezio84/purenexus_frameworks_base/commit/0b8217ccaad862412f6b09b3d41b7f9f8ffd7cee
+
+Wake on plug
+https://github.com/ezio84/purenexus_frameworks_base/commit/c417f4970bfba2989eddbfd07f3fa2782d322311
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/037e0836836b0d6b2fb71f516f95910e74284929
+
+Expanded desktop
+https://github.com/ezio84/purenexus_frameworks_base/commit/e4fd6512b273d06c491b1c202f6463604aaf6303
+
+Make clock and time clickable in statusbar
+https://github.com/ezio84/purenexus_frameworks_base/commit/d442e5b082a0f94d7420e43fb19c131c5e767ae1
+
+Allow/Prevent notification light in Zen mode
+https://github.com/ezio84/purenexus_frameworks_base/commit/3a69e0a5833b796d6b562a67be2b1597af157aa0
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d90ca4da38cd720ace5cdc48f04e4cf09280535c
