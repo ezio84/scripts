@@ -157,6 +157,8 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/68b39c57c3c403232f6b0
         https://github.com/ezio84/purenexus_frameworks_base/commit/019e42ec2b15fce08c53796edaa20634d96e9716
         https://github.com/ezio84/purenexus_frameworks_base/commit/1f6b4fbaca1524d6c273565141fd862e56f97cc9
         https://github.com/ezio84/purenexus_frameworks_base/commit/cae053c33f71c308662cfee79ffbc9fe6a82e5a8
+https://github.com/PureNexusProject/android_frameworks_base/commit/a3d19ae870ee2067923d9640a565cebd1ef99593
+https://github.com/PureNexusProject/android_packages_apps_PureSettings/commit/a6d05dd5c7408ecb4dff548b961c8602914da9a6
 
 Allow unlinking ringer with notification volume
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/7f6880fa0b0a558fd3b74dff412ecff892df89c0
@@ -175,3 +177,8 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/d442e5b082a0f94d7420e
 Allow/Prevent notification light in Zen mode
 https://github.com/ezio84/purenexus_frameworks_base/commit/3a69e0a5833b796d6b562a67be2b1597af157aa0
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d90ca4da38cd720ace5cdc48f04e4cf09280535c
+
+Open app when clicking on icon in App Info screen
+https://github.com/PureNexusProject/android_packages_apps_Settings/commit/e391b76569fabb831b87264d78e5e0d8d70905e9
+
+
