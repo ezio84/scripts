@@ -100,6 +100,9 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/b4d6739be50a50f1a337b
 
 Show icon of package associated with Toast (only background apps)
 https://github.com/ezio84/purenexus_frameworks_base/commit/cd64b313b99acec2b6f32741c687189f35ba05c9
+Enable/disable switch:
+https://github.com/ezio84/purenexus_frameworks_base/commit/f9939d6ef63f7b1bd3c636c166291423373e81a0
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/c64456cab7c38acd01c690dde133a29f088c4ce3
 
 Let's use the home button during a ringing call 
 https://github.com/ezio84/purenexus_frameworks_base/commit/b2f0ab1d0b913f89bff57faadb97872768b916b1
