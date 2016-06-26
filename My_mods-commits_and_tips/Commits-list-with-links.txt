@@ -5,6 +5,7 @@ Slim Nav+Pie+Actions+CoS system:
 https://github.com/ezio84/purenexus_frameworks_base/commit/bc8696ffb11ae3ef996903a7fd229bc8092eff69
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/18d8b5191a7c68ff3447a7652d62ba1c0a89bd81
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/23c586a98a1551a50d081a546fd622895052b97c
+https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d378775d70acaba65ebbb436e09827f5bff8b036
 https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/3606741c3e7d7a213d66f941ee128ba0130a3b42
 https://github.com/ezio84/purenexus_vendor_nexus/commit/c577516f7c00c633891b83573309117c4d1784d5
 ****To use the new PN improved colorpicker:
