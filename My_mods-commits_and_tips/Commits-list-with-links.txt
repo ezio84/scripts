@@ -8,6 +8,7 @@ https://github.com/ezio84/purenexus_packages_apps_Settings/commit/23c586a98a1551
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d378775d70acaba65ebbb436e09827f5bff8b036
 https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/3606741c3e7d7a213d66f941ee128ba0130a3b42
 https://github.com/ezio84/purenexus_vendor_nexus/commit/c577516f7c00c633891b83573309117c4d1784d5
+https://github.com/ezio84/purenexus_frameworks_base/commit/a7314e2b3ccf0cdf6a634799b49a5c09508f64a1
 ****To use the new PN improved colorpicker:
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d77905c654b8278efabe4f947b53382cb889200f
 https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/d22bc8f13e8bd1b3c0d409aea9c3affdadb0c3f5
