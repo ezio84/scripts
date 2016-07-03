@@ -16,9 +16,12 @@ https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/d22bc8f13e
 SlimRecents (need the new PN improved colorpicker commits, take them from slim nav list)
 https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/f06e5dec86ac65393aa156a1607c9cbc9d31d017
 https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/e98176c3b6b5d16f16dfe97b3e9b97cad7fa4c16
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/c785a373240ecb2fcbd37eaa3c4c307b87cdf8e6
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/83b7d631810ac726db4a856c9fd6567b83d50910
 https://github.com/ezio84/purenexus_frameworks_base/commit/a7135f5a21870d103e5797ee8f5bae37bf07293a
 https://github.com/ezio84/purenexus_frameworks_base/commit/92dbfd3d29216c645797f79a159f54a34df44c1a
 https://github.com/ezio84/purenexus_frameworks_base/commit/a166fdf02297d4eda232f35095315b213ef01abe
+
 Stock immersive recents:
 https://github.com/ezio84/purenexus_frameworks_base/commit/be51ce57b7113fbd3f4b765251d39ddab4b9726d
 https://github.com/ezio84/purenexus_frameworks_base/commit/4e116c568b524d59b71bb071cccd9e107f48d80b (
