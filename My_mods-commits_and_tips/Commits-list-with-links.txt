@@ -191,4 +191,8 @@ https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d90ca4da38cd72
 Open app when clicking on icon in App Info screen
 https://github.com/PureNexusProject/android_packages_apps_Settings/commit/e391b76569fabb831b87264d78e5e0d8d70905e9
 
+Automatic build changelog
+https://github.com/ezio84/purenexus_vendor_nexus/commit/b15b09fd569b2cf905ea8b2599f3d314e1e4dad2
+https://github.com/ezio84/purenexus_build/commit/3c03693ebd296eb3e441c5d610a4913b52e1f455
+
 
