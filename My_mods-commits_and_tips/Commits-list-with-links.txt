@@ -114,6 +114,10 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/b2f0ab1d0b913f89bff57
 
 Speed up the notification panel pulldown animation when called externally (e.g. Nova)
 https://github.com/ezio84/purenexus_frameworks_base/commit/0a9a7b4f08a78cda1785b3aa123c195bfa0a703e
+(the above commit is a squashed one of these 2: 
+https://github.com/ezio84/purenexus_frameworks_base/commit/eeee71167aea6942a5d36806ad6122fbdae132b4
+https://github.com/ezio84/purenexus_frameworks_base/commit/79905e83e09ba87a4b18009167adf3cf5290efd3
+)
 
 Increasing ring
 https://github.com/ezio84/purenexus_frameworks_base/commit/d73140d4ee0a6fc2af52f8e92acf89ab503e5888
