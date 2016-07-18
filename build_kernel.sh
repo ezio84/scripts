@@ -8,6 +8,7 @@ bldblu=${txtbld}$(tput setaf 4) #  blue
 txtrst=$(tput sgr0)             # Reset
 
 DEVICE="$1"
+LOG="$2"
 
 # Time of build startup
 res1=$(date +%s.%N)
@@ -25,9 +26,15 @@ export CCACHE_DIR="/home/ezio/Android/ccache"
 echo -e "Setting the device... ${txtrst}"
 breakfast "nexus_$DEVICE-userdebug"
 
-# Start compilation
-echo -e "${bldblu}Starting build kernel for $DEVICE ${txtrst}"
-mka bootzip
+# Start compilation with or without log
+if [ "$LOG" == "log" ]
+then
+    echo -e "${bldblu}Starting build kernel for $DEVICE and saving a build log file ${txtrst}"
+    mka bootzip 2>&1 | tee buildkernel.log;
+else
+   echo -e "${bldblu}Starting build kernel for $DEVICE without saving a build log file ${txtrst}"
+   mka bootzip;
+fi
 
 # Get elapsed time
 res2=$(date +%s.%N)

@@ -2,7 +2,7 @@
 
 Command example:	 . scripts/build_rom.sh hammerhead nosync clean log
  
-Parameter 1: The device tree: mako | hammeread | others
+Parameter 1: The device tree: angler | hammeread | others
 
 Parameter 2: Repo sync or don't sync the source: sync | nosync
 
@@ -27,7 +27,8 @@ Parameter 5: The apk package name you want to build, for example SystemUI
 ** build_kernel.sh **
 
 
-Command example:	. build_kernel.sh hammerhead
+Command example:	. build_kernel.sh hammerhead log
 
-Parameter 1: The device tree: mako | hammeread | others
+Parameter 1: The device tree: angler | hammeread | others
 
+Parameter 2: Save a txt log in the root repo folder: log | nolog
