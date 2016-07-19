@@ -8,14 +8,14 @@ find strings in the rom source:
 grep -r "TEXTtoFIND"
 
 . mkgapps.sh
- . scripts/build_rom.sh hammerhead nosync noclean log
- . scripts/build_rom.sh angler nosync noclean log
+ . scripts/build_rom.sh hammerhead nosync noclean log on
+ . scripts/build_rom.sh angler nosync noclean log on
  . scripts/build_apk.sh angler nosync noclean log SystemUI
  . scripts/build_kernel.sh angler log
 
 
 git push pure mm2oms
- 
+
 
 adb remount
 adb push Settings.apk /system/priv-app/Settings/Settings.apk

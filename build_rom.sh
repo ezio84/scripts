@@ -11,6 +11,7 @@ DEVICE="$1"
 SYNC="$2"
 CLEAN="$3"
 LOG="$4"
+SHUTDOWN="$5"
 
 ROOT_PATH=$PWD
 BUILD_PATH="$ROOT_PATH/out/target/product/$DEVICE"
@@ -68,3 +69,9 @@ cd $ROOT_PATH
 # Get elapsed time
 res2=$(date +%s.%N)
 echo "${bldgrn}Total time elapsed: ${txtrst}${grn}$(echo "($res2 - $res1) / 60"|bc ) minutes ($(echo "$res2 - $res1"|bc ) seconds) ${txtrst}"
+
+# Shutdown the system if required by the user
+if [ "$SHUTDOWN" == "off" ]
+then
+  qdbus org.kde.ksmserver /KSMServer logout 0 2 2
+fi
