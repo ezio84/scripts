@@ -59,11 +59,13 @@ else
    mka bacon;
 fi
 
-# copy ROM.zip to root
+# Copy ROM.zip to root
 echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
+for file in pure_*.zip
+do
+    mv -i "${file}" "${file/pure/OLD_pure}"
+done
 cp $BUILD_PATH/pure_*.zip $ROOT_PATH
-
-# back to root dir
 cd $ROOT_PATH
 
 # Get elapsed time
