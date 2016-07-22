@@ -136,6 +136,10 @@ https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/344339fa01
 QS quick pulldown: bigger activation area
 https://github.com/ezio84/purenexus_frameworks_base/commit/2e85aca3cdd3718fd9c197c2b815551c45f52ab2
 
+QS tiles animations
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/47552ea534ff55c1e2fcec9adf8f942d59da0299
+https://github.com/ezio84/purenexus_frameworks_base/commit/eb7efed43e54f73961751d7e0cf6990a5b99eee0
+
 Double tap to sleep anywhere on the lock screen
 https://github.com/ezio84/purenexus_frameworks_base/commit/d261379de33cbf2cd4e31b68b04dd85e3e655e0e
 https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/43961f3a9e8999f4d1040ed813e2551934b166f6
