@@ -59,9 +59,10 @@ else
    mka bacon;
 fi
 
-# Copy ROM.zip to root
+# Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
 echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
-for file in pure_*.zip
+rm OLD_pure_nexus_$DEVICE-*.zip
+for file in pure_nexus_$DEVICE-*.zip
 do
     mv -i "${file}" "${file/pure/OLD_pure}"
 done
