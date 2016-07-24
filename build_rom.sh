@@ -1,11 +1,14 @@
 #!/bin/bash
 
 # Colorize and add text parameters
+red=$(tput setaf 1)             #  red
 grn=$(tput setaf 2)             #  green
-txtbld=$(tput bold)             # Bold
-bldgrn=${txtbld}$(tput setaf 2) #  green
-bldblu=${txtbld}$(tput setaf 4) #  blue
-txtrst=$(tput sgr0)             # Reset
+blu=$(tput setaf 4)             #  blue
+txtbld=$(tput bold)             #  bold
+bldgrn=${txtbld}$(tput setaf 1) #  bold red
+bldgrn=${txtbld}$(tput setaf 2) #  bold green
+bldblu=${txtbld}$(tput setaf 4) #  bold blue
+txtrst=$(tput sgr0)             #  reset
 
 DEVICE="$1"
 SYNC="$2"
@@ -16,8 +19,14 @@ SHUTDOWN="$5"
 ROOT_PATH=$PWD
 BUILD_PATH="$ROOT_PATH/out/target/product/$DEVICE"
 
-# Time of build startup
-res1=$(date +%s.%N)
+# Start tracking time
+echo -e ${bldblu}
+echo -e "---------------------------------------"
+echo -e "SCRIPT STARTING AT $(date +%D\ %r)"
+echo -e "---------------------------------------"
+echo -e ${txtrst}
+
+START=$(date +%s)
 
 # Sync with latest sources
 if [ "$SYNC" == "sync" ]
@@ -43,7 +52,7 @@ breakfast "nexus_$DEVICE-userdebug"
 if [ "$CLEAN" == "clean" ]
 then
   echo -e "${bldblu}Cleaning up the OUT folder with make clobber ${txtrst}"
-  make clobber;
+  make clean;
 else
   echo -e "${bldblu}No make clobber so just make installclean ${txtrst}"
   make installclean;
@@ -59,19 +68,40 @@ else
    mka bacon;
 fi
 
-# Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
-echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
-rm OLD_pure_nexus_$DEVICE-*.zip
-for file in pure_nexus_$DEVICE-*.zip
-do
-    mv -i "${file}" "${file/pure/OLD_pure}"
-done
-cp $BUILD_PATH/pure_*.zip $ROOT_PATH
+# If the above was successful
+if [ `ls $BUILD_PATH/pure_*.zip 2>/dev/null | wc -l` != "0" ]
+then
+   BUILD_RESULT="Build successful"
+
+   # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
+   echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
+   rm OLD_pure_nexus_$DEVICE-*.zip
+   for file in pure_nexus_$DEVICE-*.zip
+   do
+       mv -f "${file}" "${file/pure/OLD_pure}"
+   done
+   cp $BUILD_PATH/pure_*.zip $ROOT_PATH
+
+   # If the build failed
+   else
+   BUILD_RESULT="Build failed"
+fi
+
+# back to root dir
 cd $ROOT_PATH
 
-# Get elapsed time
-res2=$(date +%s.%N)
-echo "${bldgrn}Total time elapsed: ${txtrst}${grn}$(echo "($res2 - $res1) / 60"|bc ) minutes ($(echo "$res2 - $res1"|bc ) seconds) ${txtrst}"
+# Stop tracking time
+END=$(date +%s)
+echo -e ${bldblu}
+echo -e "-------------------------------------"
+echo -e "SCRIPT ENDING AT $(date +%D\ %r)"
+echo -e ""
+echo -e "${BUILD_RESULT}!"
+echo -e "TIME: $(echo $((${END}-${START})) | awk '{print int($1/60)" MINUTES AND "int($1%60)" SECONDS"}')"
+echo -e "-------------------------------------"
+echo -e ${txtrst}
+
+BUILDTIME="Build time: $(echo $((${END}-${START})) | awk '{print int($1/60)" minutes and "int($1%60)" seconds"}')"
 
 # Shutdown the system if required by the user
 if [ "$SHUTDOWN" == "off" ]
