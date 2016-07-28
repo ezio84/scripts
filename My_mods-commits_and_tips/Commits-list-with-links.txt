@@ -205,4 +205,5 @@ Automatic build changelog
 https://github.com/ezio84/purenexus_vendor_nexus/commit/b15b09fd569b2cf905ea8b2599f3d314e1e4dad2
 https://github.com/ezio84/purenexus_build/commit/3c03693ebd296eb3e441c5d610a4913b52e1f455
 
-
+Download speed in notifications
+https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/6a52908bab631bbec4cf512078edcec217a8082a
