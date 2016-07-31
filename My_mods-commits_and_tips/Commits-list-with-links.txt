@@ -1,3 +1,7 @@
+BT headset battery level in statusbar if supported
+https://github.com/ezio84/purenexus_packages_apps_Bluetooth/commit/208ff13a865e3404d3ec5a76bc07217f3f53d66f
+https://github.com/ezio84/purenexus_frameworks_base/commit/3831ccd99e5c063839a0f1cbaf5725d6662b1cf7
+
 Switch helpers:
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/9fe1e1ac082d100f2ed60d8e9a4ddee6e8b66879
 
