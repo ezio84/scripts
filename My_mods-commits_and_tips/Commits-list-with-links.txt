@@ -21,6 +21,7 @@ https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/83b7d63181
 https://github.com/ezio84/purenexus_frameworks_base/commit/a7135f5a21870d103e5797ee8f5bae37bf07293a
 https://github.com/ezio84/purenexus_frameworks_base/commit/92dbfd3d29216c645797f79a159f54a34df44c1a
 https://github.com/ezio84/purenexus_frameworks_base/commit/a166fdf02297d4eda232f35095315b213ef01abe
+https://github.com/ezio84/purenexus_frameworks_base/commit/f4e2519b23dceb4b5725a8d46967fb384dbd845e
 
 Stock immersive recents:
 https://github.com/ezio84/purenexus_frameworks_base/commit/be51ce57b7113fbd3f4b765251d39ddab4b9726d
