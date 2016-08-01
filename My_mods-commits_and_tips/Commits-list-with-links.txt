@@ -213,7 +213,7 @@ https://github.com/ezio84/purenexus_build/commit/3c03693ebd296eb3e441c5d610a4913
 Download speed in notifications
 https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/6a52908bab631bbec4cf512078edcec217a8082a
 
-Custom dexopt screen (from Nameless rom)
+Custom dexopt screen (from Nameless rom) (preview https://s32.postimg.org/vgn8ray79/IMG_20160801_204823.jpg)
 https://github.com/ezio84/purenexus_frameworks_base/commit/9f7924ece002024d6dec3432a3f632eb38d2f9b1
 https://github.com/ezio84/purenexus_frameworks_base/commit/1d937e6cb620186bcf9c8d6af0662d8617fca424
 https://github.com/ezio84/purenexus_frameworks_base/commit/59dbac7245ab477746cefa87ed33c1e849029466
