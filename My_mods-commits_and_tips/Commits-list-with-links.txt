@@ -218,3 +218,6 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/9f7924ece002024d6dec3
 https://github.com/ezio84/purenexus_frameworks_base/commit/1d937e6cb620186bcf9c8d6af0662d8617fca424
 https://github.com/ezio84/purenexus_frameworks_base/commit/59dbac7245ab477746cefa87ed33c1e849029466
 https://github.com/ezio84/purenexus_device_huawei_angler/commit/cc1bfea8b6af8fbb73cd3ac5ac12b946691e4b52
+
+Custom hosts file
+https://github.com/ezio84/purenexus_system_core/commit/92aa645cdce609f2823d60057abf67b8bb619e24
