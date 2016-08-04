@@ -87,9 +87,10 @@ https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/b171ea5f81a0176e
 Custom lcd density
 https://github.com/ezio84/purenexus_device_huawei_angler/commit/232845817c49150533701f36b663ad86eece0d7a
 
-Allow unlocked USB data access (usb settings stick after reboot when non secured lockscreen)
+Allow unlocked USB data access (usb settings stick after reboot when non secured lockscreen) <<- Can give issues with Android Auto *under testing*
 https://github.com/ezio84/purenexus_frameworks_base/commit/26f8f55bb31ec4c62329cdc81e21430511e8565a
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/cc31a78b45e5fd66134173c90c70d80c62f6d240
+https://github.com/PureNexusProject/android_packages_apps_Settings/commit/dbdc08fb192a7f415dbe82b6b6cce90b32f4de3f
 
 Add dt2w on doze
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/bec70adbc02b15fc26813fa0515b32592dbf80d6
