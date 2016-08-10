@@ -81,7 +81,11 @@ Nexus 6p Kcal custom colors support
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/9e39152c0fad0f616b2f8438b19353fc0ea892b9
 https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/ca91c722abf8190dfc3e1cbb98295f2734b59d8d
 
-Nexus 69 multirom support
+Nexus 6p High Brightness Mode:
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/09d565b0461794e7c1570166ba2a1e0a0b1f4f3c
+("echo 1 > /sys/devices/virtual/graphics/fb0/hbm" to enalble, echo 0 to disable )
+
+Nexus 6p multirom support
 https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/b171ea5f81a0176e32d7830c3c5d6334caaf5823
 
 Custom lcd density
