@@ -83,7 +83,8 @@ https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/ca91c722abf8190d
 
 Nexus 6p High Brightness Mode:
 https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/09d565b0461794e7c1570166ba2a1e0a0b1f4f3c
-("echo 1 > /sys/devices/virtual/graphics/fb0/hbm" to enalble, echo 0 to disable )
+("echo 1 > /sys/devices/virtual/graphics/fb0/hbm" to enalble, echo 0 to disable, or install this app from playstore:
+https://play.google.com/store/apps/details?id=flar2.hbmwidget&hl=en)
 
 Nexus 6p multirom support
 https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/b171ea5f81a0176e32d7830c3c5d6334caaf5823
