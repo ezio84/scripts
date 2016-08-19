@@ -115,6 +115,9 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/afc2f7bc2df83752a6bf7
 
 Keyguard: show charging current in mAh on lockscreen
 https://github.com/ezio84/purenexus_frameworks_base/commit/b4d6739be50a50f1a337bafd4dd84663bdc3b2bf
+https://github.com/ezio84/purenexus_frameworks_base/commit/d767ed56b403f735d7e469bdd4f339736a991562
+https://github.com/ezio84/purenexus_frameworks_base/commit/a5464c647eea84f108b248893db623863aee8931
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/7fa6460af8c81567f35a33b28b5c7a848c0fc8c9
 
 Show icon of package associated with Toast (only background apps)
 https://github.com/ezio84/purenexus_frameworks_base/commit/cd64b313b99acec2b6f32741c687189f35ba05c9
