@@ -230,3 +230,7 @@ https://github.com/ezio84/purenexus_device_huawei_angler/commit/cc1bfea8b6af8fbb
 
 Custom hosts file
 https://github.com/ezio84/purenexus_system_core/commit/92aa645cdce609f2823d60057abf67b8bb619e24
+
+Show data connection type in signal icon when roaming and data is connected
+https://github.com/ezio84/purenexus_frameworks_base/commit/c446cb5846bc53f3f51042b7efacfefbb8da13fd
+https://github.com/ezio84/purenexus_packages_services_Telephony/commit/20f7b1ca29f19cd895992fb88135d900f55f4c09
