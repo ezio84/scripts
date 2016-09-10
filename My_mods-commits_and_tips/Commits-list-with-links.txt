@@ -1,241 +1,42 @@
-BT headset battery level in statusbar if supported
-https://github.com/ezio84/purenexus_packages_apps_Bluetooth/commit/208ff13a865e3404d3ec5a76bc07217f3f53d66f
-https://github.com/ezio84/purenexus_frameworks_base/commit/3831ccd99e5c063839a0f1cbaf5725d6662b1cf7
+System animations speed
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/51055faa20a4b6f6d7b3705c086130bf1e80f8ad
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/7ce6e2472ac635f75716d23e4a05b20b8154e841
 
-Switch helpers:
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/9fe1e1ac082d100f2ed60d8e9a4ddee6e8b66879
+SysUI Tuner: add back Google navbar tuner and night mode
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/3136fa79edc9bf096bd1c612754ea508958b8c51
 
-Slim Nav+Pie+Actions+CoS system:
-https://github.com/ezio84/purenexus_frameworks_base/commit/bc8696ffb11ae3ef996903a7fd229bc8092eff69
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/18d8b5191a7c68ff3447a7652d62ba1c0a89bd81
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/23c586a98a1551a50d081a546fd622895052b97c
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d378775d70acaba65ebbb436e09827f5bff8b036
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/3606741c3e7d7a213d66f941ee128ba0130a3b42
-https://github.com/ezio84/purenexus_vendor_nexus/commit/c577516f7c00c633891b83573309117c4d1784d5
-https://github.com/ezio84/purenexus_frameworks_base/commit/a7314e2b3ccf0cdf6a634799b49a5c09508f64a1
-****To use the new PN improved colorpicker:
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d77905c654b8278efabe4f947b53382cb889200f
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/d22bc8f13e8bd1b3c0d409aea9c3affdadb0c3f5
+Quick tiles: show 5 tiles per row
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/16d28b97cc93ddf7be4579d88054148264cff401
 
-SlimRecents (need the new PN improved colorpicker commits, take them from slim nav list)
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/f06e5dec86ac65393aa156a1607c9cbc9d31d017
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/e98176c3b6b5d16f16dfe97b3e9b97cad7fa4c16
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/c785a373240ecb2fcbd37eaa3c4c307b87cdf8e6
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/83b7d631810ac726db4a856c9fd6567b83d50910
-https://github.com/ezio84/purenexus_frameworks_base/commit/a7135f5a21870d103e5797ee8f5bae37bf07293a
-https://github.com/ezio84/purenexus_frameworks_base/commit/92dbfd3d29216c645797f79a159f54a34df44c1a
-https://github.com/ezio84/purenexus_frameworks_base/commit/a166fdf02297d4eda232f35095315b213ef01abe
-https://github.com/ezio84/purenexus_frameworks_base/commit/f4e2519b23dceb4b5725a8d46967fb384dbd845e
-
-Stock immersive recents:
-https://github.com/ezio84/purenexus_frameworks_base/commit/be51ce57b7113fbd3f4b765251d39ddab4b9726d
-https://github.com/ezio84/purenexus_frameworks_base/commit/4e116c568b524d59b71bb071cccd9e107f48d80b (
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/e10962597b637e6db6a7ef0bd5b5426fa209cbaa
-
-Double tap on nav to sleep
-https://github.com/ezio84/purenexus_frameworks_base/commit/9515df49a1752f872a245baec9b2556f660ff9be
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/3ab0032870b070fe0ecf4629f6de6d789dae959c
-
-Add Camera sound toggle
-https://github.com/ezio84/purenexus_frameworks_base/commit/be3dc0ff6183cd41f68117a0ed8effcaf23cc195
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/d9eb3045fb5ac6de75038a1dc722931ee77c3ea0
-https://github.com/ezio84/purenexus_frameworks_av/commit/f407560a2e10338c05e1706a2119b610eedb72f1
-
-DownloadProvider: add to support pause/resume download by manual (open the download manager and tap on the currrent download to pause it)
-https://github.com/ezio84/purenexus_frameworks_base/commit/73752af23da13f3816212514cab019559f7433f2
-https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/9368f8e68adb14b50c1efffb23f6a4f424b2ab90
-https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/4530a6e6e6b59e17a9f8c75a766d057d8d6c500c
-
-Flip to Mute/Reject Call
-https://github.com/ezio84/purenexus_packages_apps_InCallUI/commit/d1270d7023759e9eb81b20d8402940dacb4482dc
-https://github.com/ezio84/purenexus_packages_services_Telephony/commit/d0d89fbebc2d2574ec394b1055a90403ffcb5191
-https://github.com/ezio84/purenexus_frameworks_base/commit/c92fce7715618ad6ad4b5fe70f6e9b706db7865d
-
-Proximity speaker
-https://github.com/ezio84/purenexus_packages_apps_InCallUI/commit/e191cd1dc5c9eb7d08baba426a6c864427d10333
-https://github.com/ezio84/purenexus_packages_apps_Dialer/commit/f6f77f33b16de7827d11d7756bee7d0e89db5c29
-https://github.com/ezio84/purenexus_frameworks_base/commit/8f0aff8d4a942a76b65d0c8ee653522990770056
-
-Kantjer and krexus auto backup restore scripts:
-https://github.com/ezio84/purenexus_vendor_nexus/commit/b711ec032333fe75b6cb0dd7123a94a304b08447
-https://github.com/ezio84/purenexus_vendor_nexus/commit/13f4cf6060aa293013082f4d56de05e326b6b7fe
-
-Hide qs tiles with sensitive data on secured lockscreen
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/c2e0130c1a6280a15bb11d755b2740294cd6aa22
-https://github.com/ezio84/purenexus_frameworks_base/commit/b255943f93dbaaacb5d456433808c56c503630cc
-
-Mobile data tile: change click behavior
-https://github.com/ezio84/purenexus_frameworks_base/commit/095aef1952f0fb2e128c96e78bcf7bb14aeed01e
-https://github.com/ezio84/purenexus_frameworks_base/commit/b2d53b7bbc7422c6ff7fd21b56c9026157c19dd4
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commits/mm2oms
-
-Enable/disable notification color inversion 
-https://github.com/ezio84/purenexus_frameworks_base/commit/defd73de57a3f1bca1dcadd62b2908203554ceba
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/5e34502bade8a98a192001f7c314d51abf7d2859
-
-Show hide IME switcher in nav and status bar
-https://github.com/ezio84/purenexus_frameworks_base/commit/f53f2156214b21ed68139d3783e77aa59f47de85
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/4df9efe9a90cfb9fa9f84c7f43b4f49f78ec2cdb
-
-Nexus 6p Kcal custom colors support
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/9e39152c0fad0f616b2f8438b19353fc0ea892b9
-https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/ca91c722abf8190dfc3e1cbb98295f2734b59d8d
-
-Nexus 6p High Brightness Mode:
-https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/09d565b0461794e7c1570166ba2a1e0a0b1f4f3c
-("echo 1 > /sys/devices/virtual/graphics/fb0/hbm" to enalble, echo 0 to disable, or install this app from playstore:
-https://play.google.com/store/apps/details?id=flar2.hbmwidget&hl=en)
-
-Nexus 6p multirom support
-https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/b171ea5f81a0176e32d7830c3c5d6334caaf5823
-
-Custom lcd density
-https://github.com/ezio84/purenexus_device_huawei_angler/commit/232845817c49150533701f36b663ad86eece0d7a
-
-Allow unlocked USB data access (usb settings stick after reboot when non secured lockscreen) <<- Can give issues with Android Auto *under testing*
-https://github.com/ezio84/purenexus_frameworks_base/commit/26f8f55bb31ec4c62329cdc81e21430511e8565a
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/cc31a78b45e5fd66134173c90c70d80c62f6d240
-https://github.com/PureNexusProject/android_packages_apps_Settings/commit/dbdc08fb192a7f415dbe82b6b6cce90b32f4de3f
-
-Add dt2w on doze
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/bec70adbc02b15fc26813fa0515b32592dbf80d6
-https://github.com/ezio84/purenexus_frameworks_base/commit/9aaf46390a98d13fd30c8e6da275954dda826d9e
-
-Power connect/disconnect notification
-https://github.com/ezio84/purenexus_frameworks_base/commit/44894a7973559bef71f84c4efab0a2aec71dc0c4
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/ae1a9347236b59e2550f29900b73b4a701aa41a2
-
-Custom animations speed
-https://github.com/ezio84/purenexus_frameworks_base/commit/9fb13efbb4bd8178ca18b51db088445cb1d887a4
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/55e7b2c5767f2e65156a313664ad93f8cdf89667
-
-Add option to enable or disable fullscreen keyboard
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/1b914f4378de69cbfb783770b556e6a243901158
-https://github.com/ezio84/purenexus_frameworks_base/commit/afc2f7bc2df83752a6bf748e45d3f534293d53a0
-
-Keyguard: show charging current in mAh on lockscreen
-https://github.com/ezio84/purenexus_frameworks_base/commit/b4d6739be50a50f1a337bafd4dd84663bdc3b2bf
-https://github.com/ezio84/purenexus_frameworks_base/commit/d767ed56b403f735d7e469bdd4f339736a991562
-https://github.com/ezio84/purenexus_frameworks_base/commit/a5464c647eea84f108b248893db623863aee8931
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/7fa6460af8c81567f35a33b28b5c7a848c0fc8c9
-
-Show icon of package associated with Toast (only background apps)
-https://github.com/ezio84/purenexus_frameworks_base/commit/cd64b313b99acec2b6f32741c687189f35ba05c9
-Enable/disable switch:
-https://github.com/ezio84/purenexus_frameworks_base/commit/f9939d6ef63f7b1bd3c636c166291423373e81a0
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/c64456cab7c38acd01c690dde133a29f088c4ce3
+SystemUI: make clock and time clickable in statusbar
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/03daf5817942b3ce072e4b93f1c0b0fa19234971
 
 Let's use the home button during a ringing call 
-https://github.com/ezio84/purenexus_frameworks_base/commit/b2f0ab1d0b913f89bff57faadb97872768b916b1
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/7354f07baab6be993e36c966267d05cc4fc8f0e0
 
-Speed up the notification panel pulldown animation when called externally (e.g. Nova)
-https://github.com/ezio84/purenexus_frameworks_base/commit/0a9a7b4f08a78cda1785b3aa123c195bfa0a703e
-(the above commit is a squashed one of these 2: 
-https://github.com/ezio84/purenexus_frameworks_base/commit/eeee71167aea6942a5d36806ad6122fbdae132b4
-https://github.com/ezio84/purenexus_frameworks_base/commit/79905e83e09ba87a4b18009167adf3cf5290efd3
-)
+SystemUI: add volume tones and toggle back
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/82863346d586cb8c160321f9724aaae1bf8fcdea
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/022ac7c4ae1fa9c9f7e4c3f9945605c459e865d6
 
-Increasing ring
-https://github.com/ezio84/purenexus_frameworks_base/commit/d73140d4ee0a6fc2af52f8e92acf89ab503e5888
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/07169ab4f50adc686b00e88cddef5016056cd331
-https://github.com/ezio84/purenexus_packages_services_Telecomm/commit/5fbc11df51b08cb8581becab6a3316c6ad92e7ac
+Materialize something more
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/0e6ed21b90524f7c02d31c8751b6f357b85d19d3
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/fca821010f5d6d151591fd9b66723cdbe497150b
 
-Allow to swap volume buttons rotation based
-https://github.com/ezio84/purenexus_frameworks_base/commit/b016e6f1eb1f678a30c410f7b05beea43c6d30bb
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/4fe1b12f395c64e5134a279ad1cfe82a8d90ba14
+Advanced Reboot + Fixs (Squashed) 
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/62d8fb2d03026162942b80ed4f69918b1dce9fd9
 
-QS Pulldown options
-https://github.com/ezio84/purenexus_frameworks_base/commit/b03656ae828ebcc8432f1c72ae160758fe4ab369
-https://github.com/ezio84/purenexus_frameworks_base/commit/620ecb66ae3cb5f945bd0a7ed5b2e66881b934ba
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/b4884f386dd111df8680d5c33e7f14fd78d767e3
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/344339fa0148a024108813c51c0533858436daae
-QS quick pulldown: bigger activation area
-https://github.com/ezio84/purenexus_frameworks_base/commit/2e85aca3cdd3718fd9c197c2b815551c45f52ab2
+add reboot, airplane mode to the global action list
+https://github.com/PureNexusProject/android_vendor_nexus/commit/5219e22203e54439e630fc7c312b17b1d97e2910
 
-QS tiles animations
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/47552ea534ff55c1e2fcec9adf8f942d59da0299
-https://github.com/ezio84/purenexus_frameworks_base/commit/eb7efed43e54f73961751d7e0cf6990a5b99eee0
+Show application's package name in the "App info" screen.
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/47cf17035234b4bae1e87dc76712d9477fec6330
 
-Double tap to sleep anywhere on the lock screen
-https://github.com/ezio84/purenexus_frameworks_base/commit/d261379de33cbf2cd4e31b68b04dd85e3e655e0e
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/43961f3a9e8999f4d1040ed813e2551934b166f6
+user builds: set ro.debuggable=1, ro.secure=0
+https://github.com/ezio84/pnmod-n_build/commit/d91b3db6a803834fbd1f556386f073a11131e7b0
 
-Statusbar add double-tap to sleep
-https://github.com/ezio84/purenexus_frameworks_base/commit/67fcaf8ae641d19ddf0b95378bd4f0daf00ea84f
-https://github.com/ezio84/purenexus_frameworks_base/commit/9f21217525f41bedf9261975ae8c0e1339a8d2cc
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/9a87cb21d527881dc03a70c7df41a095742e46ca
+Angler kcal support
+https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/6782c194daf52cffe190d28953c4ac818ccd2b4d
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/c0814a65c8137264db9d7523ca21ee6c65eb6d68
 
-Network Traffic indicator
-https://github.com/ezio84/purenexus_frameworks_base/commit/4f94c1dbc07ee57ae31b6e7649c4f47516cb38e4
-https://github.com/ezio84/purenexus_frameworks_base/commit/1a781930d535394a1917ba9ec36f83266694ff4e
-https://github.com/ezio84/purenexus_frameworks_base/commit/9ace275a4a0020478c8fb6059d15f1e49c263996
-https://github.com/ezio84/purenexus_frameworks_base/commit/6656469c8e9b512f3fe14dd4a5d446de3ba9017e
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/a8468f8999489fa2717de92d703801ee745389bc
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/eba16e902c58a8e10cce5a605d26ae45e27f321f
-
-Volume keys features
-    https://github.com/ezio84/purenexus_frameworks_base/commit/b71dfa3b7e8ef4601deb4f7d42850494fa609aeb
-    https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/31d5f39898c8eafeb93f1c9b299943422a864e88
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/e4832da0b84a8fa94a16055d0958d4b3f6c3d8d8
-https://github.com/ezio84/purenexus_frameworks_base/commit/68b39c57c3c403232f6b0ffec11164f0f803adde
-        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/83b0b2d87ac7734d865ff2d2a5528392c1bec981
-        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/16b17deeaa5620ef6732873add582e39a73628e1
-        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/668d68f31dee15db92b4a121ea2bb15459ba497c
-        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/f570626d64387ddce1bb8a690265626d8da1d946
-        https://github.com/ezio84/purenexus_frameworks_base/commit/6dfedd7b900cac9e5cc7d786ba70299295fcb29e
-        https://github.com/ezio84/purenexus_frameworks_base/commit/953263d520fb7af9db555df2c9d30803399991b3
-        https://github.com/ezio84/purenexus_frameworks_base/commit/534fc72d094927913bb4b24bee62c6a45908054c
-        https://github.com/ezio84/purenexus_frameworks_base/commit/2a1795c805e3aca6c3191dc9fe53f568fba411e4
-        https://github.com/ezio84/purenexus_frameworks_base/commit/019e42ec2b15fce08c53796edaa20634d96e9716
-        https://github.com/ezio84/purenexus_frameworks_base/commit/1f6b4fbaca1524d6c273565141fd862e56f97cc9
-        https://github.com/ezio84/purenexus_frameworks_base/commit/cae053c33f71c308662cfee79ffbc9fe6a82e5a8
-https://github.com/PureNexusProject/android_frameworks_base/commit/a3d19ae870ee2067923d9640a565cebd1ef99593
-https://github.com/PureNexusProject/android_packages_apps_PureSettings/commit/a6d05dd5c7408ecb4dff548b961c8602914da9a6
-        https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/69b1037996e4d393b3f5ebf9791b4e9b4ffc85dc
-        https://github.com/ezio84/purenexus_frameworks_base/commit/226172def72105a4551881902805bf9651d5a401
-
-Allow unlinking ringer with notification volume
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/7f6880fa0b0a558fd3b74dff412ecff892df89c0
-https://github.com/ezio84/purenexus_frameworks_base/commit/0b8217ccaad862412f6b09b3d41b7f9f8ffd7cee
-
-Wake on plug
-https://github.com/ezio84/purenexus_frameworks_base/commit/c417f4970bfba2989eddbfd07f3fa2782d322311
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/037e0836836b0d6b2fb71f516f95910e74284929
-
-Expanded desktop
-https://github.com/ezio84/purenexus_frameworks_base/commit/e4fd6512b273d06c491b1c202f6463604aaf6303
-
-Make clock and time clickable in statusbar
-https://github.com/ezio84/purenexus_frameworks_base/commit/d442e5b082a0f94d7420e43fb19c131c5e767ae1
-
-Allow/Prevent notification light in Zen mode
-https://github.com/ezio84/purenexus_frameworks_base/commit/3a69e0a5833b796d6b562a67be2b1597af157aa0
-https://github.com/ezio84/purenexus_packages_apps_Settings/commit/d90ca4da38cd720ace5cdc48f04e4cf09280535c
-
-Open app when clicking on icon in App Info screen
-https://github.com/PureNexusProject/android_packages_apps_Settings/commit/e391b76569fabb831b87264d78e5e0d8d70905e9
-
-Automatic build changelog
-https://github.com/ezio84/purenexus_vendor_nexus/commit/b15b09fd569b2cf905ea8b2599f3d314e1e4dad2
-https://github.com/ezio84/purenexus_build/commit/3c03693ebd296eb3e441c5d610a4913b52e1f455
-
-Download speed in notifications
-https://github.com/ezio84/purenexus_packages_providers_DownloadProvider/commit/6a52908bab631bbec4cf512078edcec217a8082a
-
-Custom dexopt screen (from Nameless rom) (preview https://s32.postimg.org/vgn8ray79/IMG_20160801_204823.jpg)
-https://github.com/ezio84/purenexus_frameworks_base/commit/9f7924ece002024d6dec3432a3f632eb38d2f9b1
-https://github.com/ezio84/purenexus_frameworks_base/commit/1d937e6cb620186bcf9c8d6af0662d8617fca424
-https://github.com/ezio84/purenexus_frameworks_base/commit/59dbac7245ab477746cefa87ed33c1e849029466
-https://github.com/ezio84/purenexus_device_huawei_angler/commit/cc1bfea8b6af8fbb73cd3ac5ac12b946691e4b52
-
-Custom hosts file
-https://github.com/ezio84/purenexus_system_core/commit/92aa645cdce609f2823d60057abf67b8bb619e24
-
-Show data connection type in signal icon when roaming and data is connected
-https://github.com/ezio84/purenexus_frameworks_base/commit/c446cb5846bc53f3f51042b7efacfefbb8da13fd
-https://github.com/ezio84/purenexus_packages_services_Telephony/commit/8c26a8c11d0a4f99a146bb2db8babce3a706a8da
-
-Add back mka bootzip 
-https://github.com/ezio84/purenexus_build/commit/ca2a359c9a7aad9b035db12906fc7cc3ac9f98c3
-https://github.com/ezio84/purenexus_build/commit/534eec7553026e51be14130a1aef692ac27053fe
-https://github.com/ezio84/purenexus_build/commit/a532d9c06fb04893f068049073c52bef73aa2310
+Add High Brightness Mode
+https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/63a9f8d89b0d5ba976d937ac8b52329818a365d6
