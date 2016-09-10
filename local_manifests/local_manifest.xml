@@ -4,6 +4,7 @@
   <remote name="pnmod"
            fetch="https://github.com/ezio84/" /> 
 
+  <project path="scripts" name="scripts" remote="pnmod" revision="n" />
   <!-- Pure Repo's -->
   <remove-project path="build" name="android_build" />
   <project path="build" name="pnmod-n_build" groups="pdk" remote="pnmod" revision="n" >
