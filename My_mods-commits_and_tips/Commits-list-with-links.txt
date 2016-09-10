@@ -8,9 +8,6 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/3136fa79edc9bf096bd1c61
 Quick tiles: show 5 tiles per row
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/16d28b97cc93ddf7be4579d88054148264cff401
 
-SystemUI: make clock and time clickable in statusbar
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/03daf5817942b3ce072e4b93f1c0b0fa19234971
-
 Let's use the home button during a ringing call 
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/7354f07baab6be993e36c966267d05cc4fc8f0e0
 
