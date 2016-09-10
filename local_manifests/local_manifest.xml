@@ -18,5 +18,6 @@
   <project path="packages/apps/Settings" name="pnmod-n_packages_apps_Settings" groups="pdk-fs" remote="pnmod" revision="n" />
   <remove-project path="kernel/huawei/angler" name="android_kernel_huawei_angler" />
   <project path="kernel/huawei/angler" name="pnmod-n_kernel_huawei_angler" groups="device,angler,broadcom_pdk" remote="pnmod" revision="n" />
-
+  <remove-project path="vendor/huawei" name="proprietary_vendor_huawei" />
+  <project path="vendor/huawei" name="pnmod-n_vendor_huawei" remote="pnmod" revision="master" />
 </manifest>
