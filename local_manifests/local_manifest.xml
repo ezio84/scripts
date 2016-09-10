@@ -20,4 +20,6 @@
   <project path="kernel/huawei/angler" name="pnmod-n_kernel_huawei_angler" groups="device,angler,broadcom_pdk" remote="pnmod" revision="n" />
   <remove-project path="vendor/huawei" name="proprietary_vendor_huawei" />
   <project path="vendor/huawei" name="pnmod-n_vendor_huawei" remote="pnmod" revision="master" />
+  <remove-project path="vendor/nexus" name="android_vendor_nexus" />
+  <project path="vendor/nexus" name="pnmod-n_vendor_nexus" remote="pnmod" revision="n" />
 </manifest>
