@@ -193,6 +193,7 @@ https://github.com/PureNexusProject/android_frameworks_base/commit/a3d19ae870ee2
 https://github.com/PureNexusProject/android_packages_apps_PureSettings/commit/a6d05dd5c7408ecb4dff548b961c8602914da9a6
         https://github.com/ezio84/purenexus_packages_apps_PureSettings/commit/69b1037996e4d393b3f5ebf9791b4e9b4ffc85dc
         https://github.com/ezio84/purenexus_frameworks_base/commit/226172def72105a4551881902805bf9651d5a401
+https://github.com/ezio84/purenexus_kernel_huawei_angler/commit/052fd8ceaf615ecb09f20f1644b3f024cdabffc3
 
 Allow unlinking ringer with notification volume
 https://github.com/ezio84/purenexus_packages_apps_Settings/commit/7f6880fa0b0a558fd3b74dff412ecff892df89c0
