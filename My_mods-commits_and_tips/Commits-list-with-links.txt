@@ -74,7 +74,19 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/379887a6f81590f73ceaf11
 Navbar height default value
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/80df10b4e46432e662985ba04a6fceff1882539a
 
-Volumer rocker features *****wip*****
+Volumer rocker features
 https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/78d266a1f87db4bb8a4fb2b8540ec9cb217f29a6
-*****
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/870c7e737663b54c009c7ad34ebfa70903229761
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/69484c2eafb8bf29f007a502d8dfee9b2525175b
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/1d8fcfcd13f71be7804d97c925a2f2d62ad8a9f8
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/b772d6621be0571baeeefc8106b83037d5e65164
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/8afa3ffb1e7858fea3d053cfc0f956b036d5f616
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/e56c1f2aad708ad084805e9700cc0941282c0289
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/7af029e1842d07e26aaa8cc282fc9642aa090825
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/4bb38c98fb694fb48197dfc7ce141be579927a99
+https://github.com/ezio84/pnmod-n_frameworks_native/commit/c5292c8581ea7fc85ddb7377ba0d78aab1f00db9
+
+Display bluetooth battery status when available
+https://github.com/ezio84/pnmod-n_packages_apps_Bluetooth/commit/c1e5bf28e3cadfffbd74faf62ecd8252dce424c2
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/9f6218fb83e4942bdeba86b9d46f2b27d840f5d4
 
