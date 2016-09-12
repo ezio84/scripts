@@ -42,16 +42,17 @@ https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/63a9f8d89b0d5ba976
 
 Add double tap to sleep gesture
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/f89a43a87a0349d258253233fcb25319e4ae136c
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/8cbf385284bcfe8ba4da51804c2a7851a622835a
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/1dca8f50b5d5db4d08b32ec8e0f171d564d95b9e
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/d6ba810034337c70c62ee25be17b4b07de5a4a1b
+* https://github.com/ezio84/pnmod-n_frameworks_base/commit/0491e34023433129f60db4c03234c02d0cc0338e
 
 Double tap to sleep anywhere on the lock screen
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/65b74c3ae0c82a75e44adc1cabe54e9478049829
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/79927d424b4f0450825613276ef15076045592a5
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5514bbe2345932c7236536efc44e80e484a26094
 
 Double tap to sleep on navigation bar
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2515ce461b515398b01ec639a8a265fd9b60c4bf
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/aa12fd8a5a5e839aa9d9fbde95c849de9e0fea77
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/b0b3904fad4344b67f8ea47059bfba4c6d213100
 
 Custom settings helpers
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/728779652e7c194b1a19c7f595ff862cc2868d46
@@ -60,6 +61,7 @@ Add quick-quick settings pulldown
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/0a9bfdb80c67008ab5a5a72ff1561d0b37960581
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/6e268685b60eaa8103c9f9dc6001dd36f2dde427
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/53c7441356b678e880c54f7d54f4c8150a88aa2f
+* https://github.com/ezio84/pnmod-n_frameworks_base/commit/0491e34023433129f60db4c03234c02d0cc0338e
 
 UI Tuner temp fix for battery percentage and clock settings reset when you open the tuner
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/edad9a543d73717864f7fb9580a0154cd3864b86
