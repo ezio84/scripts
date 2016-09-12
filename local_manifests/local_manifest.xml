@@ -25,5 +25,7 @@
   <remove-project path="packages/apps/PureSettings" name="android_packages_apps_PureSettings" />
   <project path="packages/apps/PureSettings" name="pnmod-n_packages_apps_PureSettings" remote="pnmod" revision="n" />
   <remove-project path="frameworks/native" name="platform/frameworks/native" />
-  <project path="frameworks/native" name="pnmod-n_frameworks_native" groups="pdk" remote="pnmod" revision="n"/>
+  <project path="frameworks/native" name="pnmod-n_frameworks_native" groups="pdk" remote="pnmod" revision="n" />
+  <remove-project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="pnmod-n_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="pnmod" revision="n" />
 </manifest>
