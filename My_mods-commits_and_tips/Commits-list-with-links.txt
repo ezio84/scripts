@@ -71,6 +71,9 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/edad9a543d73717864f7fb9
 Allow prevention of doze notification color inversion
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/379887a6f81590f73ceaf1157f31256b185e4737
 
+Navbar height default value
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/80df10b4e46432e662985ba04a6fceff1882539a
+
 Volumer rocker features *****wip*****
 https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/78d266a1f87db4bb8a4fb2b8540ec9cb217f29a6
 *****
