@@ -56,6 +56,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/b0b3904fad4344b67f8ea47
 
 Custom settings helpers
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/728779652e7c194b1a19c7f595ff862cc2868d46
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/743b65af3f8217d464db5c98ab6df9f0e42ecc12
 
 Add quick-quick settings pulldown
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/0a9bfdb80c67008ab5a5a72ff1561d0b37960581
