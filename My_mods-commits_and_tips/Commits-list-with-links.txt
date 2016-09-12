@@ -1,3 +1,5 @@
+********CUSTOM FEATURES********
+
 System animations speed
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/51055faa20a4b6f6d7b3705c086130bf1e80f8ad
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/9dbf2a7629c8a8e962cecba0102b878f72e8386a
@@ -37,3 +39,31 @@ https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/c0814a65c8137264
 
 Add High Brightness Mode
 https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/63a9f8d89b0d5ba976d937ac8b52329818a365d6
+
+Add double tap to sleep gesture
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/f89a43a87a0349d258253233fcb25319e4ae136c
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/8cbf385284bcfe8ba4da51804c2a7851a622835a
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/d6ba810034337c70c62ee25be17b4b07de5a4a1b
+
+Double tap to sleep anywhere on the lock screen
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/65b74c3ae0c82a75e44adc1cabe54e9478049829
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5514bbe2345932c7236536efc44e80e484a26094
+
+Double tap to sleep on navigation bar
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2515ce461b515398b01ec639a8a265fd9b60c4bf
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/aa12fd8a5a5e839aa9d9fbde95c849de9e0fea77
+
+Custom settings helpers
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/728779652e7c194b1a19c7f595ff862cc2868d46
+
+Add quick-quick settings pulldown
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/0a9bfdb80c67008ab5a5a72ff1561d0b37960581
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/6e268685b60eaa8103c9f9dc6001dd36f2dde427
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/53c7441356b678e880c54f7d54f4c8150a88aa2f
+
+UI Tuner temp fix for battery percentage and clock settings reset when you open the tuner
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/edad9a543d73717864f7fb9580a0154cd3864b86
+(the only drawback with this is that if you disable the tuner at all, then enable it again, the default battery percentage settings switches to enabled).
+
+Allow prevention of doze notification color inversion
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/379887a6f81590f73ceaf1157f31256b185e4737
