@@ -91,6 +91,6 @@ https://github.com/ezio84/pnmod-n_packages_apps_Bluetooth/commit/c1e5bf28e3cadff
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/9f6218fb83e4942bdeba86b9d46f2b27d840f5d4
 
 Proximity wake
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/fdfe6e1a3277c771fb64a6c971bcb2e1bb291d51
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/876914572aee80a739a7af58e4aea75c642b39a8
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d44da1a58c99f35825302f6c0bea465950a1e6f9
-
+https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/e8d3c5a3789b0e86d58011cea172621935cc3ce7
