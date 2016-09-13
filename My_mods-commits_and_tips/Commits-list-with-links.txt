@@ -101,3 +101,6 @@ https://github.com/ezio84/pnmod-n_build/commit/1f5f68204d2313afc5fb0f8e75bfc31a1
 
 Build without NINJA
 https://github.com/ezio84/pnmod-n_build/commit/098297890c434918dedd12beab3da2584f7be4da
+
+Don't refresh ui when screen off
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6393b904d9a446f11beb404bfe7dcc84f77d0f8
