@@ -82,8 +82,8 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/1d8fcfcd13f71be7804d97c
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/b772d6621be0571baeeefc8106b83037d5e65164
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/8afa3ffb1e7858fea3d053cfc0f956b036d5f616
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/e56c1f2aad708ad084805e9700cc0941282c0289
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/7af029e1842d07e26aaa8cc282fc9642aa090825
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/4bb38c98fb694fb48197dfc7ce141be579927a99
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/cdb11f12cb5970a10bc5fe8b2850ebc0587aed39
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/fa39c18d947e48408b0a819ddad57bd8e0bce44a
 https://github.com/ezio84/pnmod-n_frameworks_native/commit/c5292c8581ea7fc85ddb7377ba0d78aab1f00db9
 
 Display bluetooth battery status when available
@@ -91,7 +91,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_Bluetooth/commit/c1e5bf28e3cadff
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/9f6218fb83e4942bdeba86b9d46f2b27d840f5d4
 
 Proximity wake
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/3795173181dc2f2cd105625692655170492d63d7
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/d78b11e173f30da15f780444acfdcca99ea21c8e
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d44da1a58c99f35825302f6c0bea465950a1e6f9
 https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/e8d3c5a3789b0e86d58011cea172621935cc3ce7
 
@@ -104,3 +104,7 @@ https://github.com/ezio84/pnmod-n_build/commit/098297890c434918dedd12beab3da2584
 
 Don't refresh ui when screen off
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6393b904d9a446f11beb404bfe7dcc84f77d0f8
+
+Hide power menu on lockscreen
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/cc6f830c8161b1e6ae6e1bd84e53fc77a560e2e4
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/37396a8bb5405d3ffe2b981b569a83587acd230a
