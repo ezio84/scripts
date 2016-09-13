@@ -98,3 +98,6 @@ https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/e8d3c5a3789b0e86d5
 Build "user" build instead "userdebug" with adb enabled
 https://github.com/ezio84/pnmod-n_build/commit/d91b3db6a803834fbd1f556386f073a11131e7b0
 https://github.com/ezio84/pnmod-n_build/commit/1f5f68204d2313afc5fb0f8e75bfc31a1de2b850
+
+Build without NINJA
+https://github.com/ezio84/pnmod-n_build/commit/098297890c434918dedd12beab3da2584f7be4da
