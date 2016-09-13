@@ -69,18 +69,18 @@ else
 fi
 
 # If the above was successful
-if [ `ls $BUILD_PATH/pure_*.zip 2>/dev/null | wc -l` != "0" ]
+if [ `ls $BUILD_PATH/pnmod_*.zip 2>/dev/null | wc -l` != "0" ]
 then
    BUILD_RESULT="Build successful"
 
    # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
    echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
-   rm OLD_pure_nexus_$DEVICE-*.zip
-   for file in pure_nexus_$DEVICE-*.zip
+   rm OLD_pnmod_nexus_$DEVICE-*.zip
+   for file in pnmod_nexus_$DEVICE-*.zip
    do
-       mv -f "${file}" "${file/pure/OLD_pure}"
+       mv -f "${file}" "${file/pnmod/OLD_pnmod}"
    done
-   cp $BUILD_PATH/pure_*.zip $ROOT_PATH
+   cp $BUILD_PATH/pnmod_*.zip $ROOT_PATH
 
    # If the build failed
    else
