@@ -44,9 +44,6 @@ export USE_CCACHE=1
 export CCACHE_DIR="/home/ezio/Android/ccache"
 /usr/bin/ccache -M 50G
 
-# Disable Ninja for now
-export USE_NINJA=false
-
 # Set the device
 echo -e "Setting the device... ${txtrst}"
 breakfast "nexus_$DEVICE-user"
