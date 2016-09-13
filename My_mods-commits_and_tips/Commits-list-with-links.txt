@@ -94,3 +94,7 @@ Proximity wake
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/3795173181dc2f2cd105625692655170492d63d7
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d44da1a58c99f35825302f6c0bea465950a1e6f9
 https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/e8d3c5a3789b0e86d58011cea172621935cc3ce7
+
+Build "user" build instead "userdebug" with adb enabled
+https://github.com/ezio84/pnmod-n_build/commit/d91b3db6a803834fbd1f556386f073a11131e7b0
+https://github.com/ezio84/pnmod-n_build/commit/1f5f68204d2313afc5fb0f8e75bfc31a1de2b850
