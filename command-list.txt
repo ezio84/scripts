@@ -1,20 +1,9 @@
-to type a tilde ~: AltGR+ì (o Alt+126 da shell) 
-
- Shift + Alt Gr + è  --for: {
-
- Shift + Alt Gr + +  --for: }
-
-find strings in the rom source:
-grep -r "TEXTtoFIND"
-
-. mkgapps.sh
- . scripts/build_rom.sh hammerhead nosync noclean log on
  . scripts/build_rom.sh angler nosync noclean log on
  . scripts/build_apk.sh angler nosync noclean log SystemUI
  . scripts/build_kernel.sh angler log
+. mkgapps.sh
 
-
-git push pure mm2oms
+git push pnmod n
 
 
 adb remount
@@ -22,6 +11,20 @@ adb push Settings.apk /system/priv-app/Settings/Settings.apk
 adb push Settings.apk /system/priv-app/PureNexusSettings/PureNexusSettings.apk
 adb push SystemUI.apk /system/priv-app/SystemUI/SystemUI.apk
 
+find strings in the rom source: grep -r "TEXTtoFIND"
+
+ccache -C to reset ccache
+
+git checkout --theirs (to load png from the commit you are picking)
+
+fetch only current branch from server:   repo sync -c (or --current-branch)
+force sync and don't care about repo errors: repo sync -f
+
+to type a tilde ~: AltGR+ì (or Alt+126 on Win) 
+ Shift + Alt Gr + è  --for: {
+ Shift + Alt Gr + +  --for: }
+ 
+ 
 git push ssh://ezio84@review.slimroms.org:29418/SlimRoms/packages_apps_Settings HEAD:refs/for/lp5.1
 
 git push ssh://ezio84@review.slimroms.org:29418/SlimRoms/frameworks_base HEAD:refs/for/lp5.1
@@ -36,17 +39,7 @@ git remote set-url github http://github.com/ezio84/... (have to do this after de
 
 
 ./fetch-merge-purenexus.sh
-fake merge: git merge purenexus/mm2 -s ours
-
-ccache -C to reset ccache
-
-
-git checkout --theirs (to load png from the commit you are picking)
-
-
-fetch only current branch from server:   repo sync -c (or --current-branch)
-
-force sync and don't care about repo errors: repo sync -f
+fake merge: git merge purenexus/n -s ours
 
 
 CTRL-ESC - brings up a proces table where you can kill individual processes
@@ -59,20 +52,14 @@ If you hit Ctrl-Alt-F1 (or F2 through 6), you'll be dropped to a virtual console
 
 
 
-
 opensuse shutdown from terminal: qdbus org.kde.ksmserver /KSMServer logout 0 2 2
-
 0 1 2 for reboot
-
 without su or sudo
 
 
 
-
 kdesu APPNAME
-
 e.g.:    kdesu kwrite
-
 otherwise open Su dolphin and open the file from it, it will be editable as root 
 
 

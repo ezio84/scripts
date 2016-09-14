@@ -1,6 +1,6 @@
 ** build_rom.sh **
 
-Command example:	 . scripts/build_rom.sh hammerhead nosync clean log
+Command example:	 . scripts/build_rom.sh hammerhead nosync clean log on
  
 Parameter 1: The device tree: angler | hammeread | others
 
