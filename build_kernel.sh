@@ -24,7 +24,7 @@ export CCACHE_DIR="/home/ezio/Android/ccache"
 
 # Set the device
 echo -e "Setting the device... ${txtrst}"
-breakfast "nexus_$DEVICE-user"
+breakfast "nexus_$DEVICE-userdebug"
 
 # Start compilation with or without log
 if [ "$LOG" == "log" ]
