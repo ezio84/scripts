@@ -108,3 +108,11 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6393b904d9a446f11beb40
 Hide power menu on lockscreen
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/cc6f830c8161b1e6ae6e1bd84e53fc77a560e2e4
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/37396a8bb5405d3ffe2b981b569a83587acd230a
+
+Add custom hosts file to block some s#it by default
+https://github.com/ezio84/pnmod-n_system_core/commit/080fb1a90bd5f6f209d27fc90fb10c6ba231edb5
+
+Show icon of package associated with Toast 
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/aeab61bc31aea2a41d5b1b75b21c0bfaf7384667
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/e3479b5037a4e26254ba962b9abc0a1c5cfbd083
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/1671daf73f7de713ff21c9c28aeecb3952b02e24
