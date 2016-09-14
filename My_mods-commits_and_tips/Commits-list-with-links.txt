@@ -85,6 +85,8 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/e56c1f2aad70
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/cdb11f12cb5970a10bc5fe8b2850ebc0587aed39
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/fa39c18d947e48408b0a819ddad57bd8e0bce44a
 https://github.com/ezio84/pnmod-n_frameworks_native/commit/c5292c8581ea7fc85ddb7377ba0d78aab1f00db9
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/ecd9f9703d9568047ae81a436c78999b3fc29bda
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/956dd2f893852d7a6a7d1891073d2eb7a06a05f6
 
 Display bluetooth battery status when available
 https://github.com/ezio84/pnmod-n_packages_apps_Bluetooth/commit/c1e5bf28e3cadfffbd74faf62ecd8252dce424c2
