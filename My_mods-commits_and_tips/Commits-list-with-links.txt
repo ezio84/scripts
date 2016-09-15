@@ -53,6 +53,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5514bbe23459
 Double tap to sleep on navigation bar
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/cb6ead7debed145eed480a3a5520082c70f66e0a
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/b0b3904fad4344b67f8ea47059bfba4c6d213100
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/17b3b98f2c275c2af3c496b930a7dcd8a99cb00c
 
 Custom settings helpers
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/728779652e7c194b1a19c7f595ff862cc2868d46
