@@ -67,7 +67,7 @@ https://github.com/ezio84/purenexus_frameworks_base/commit/b255943f93dbaaacb5d45
 Mobile data tile: change click behavior
 https://github.com/ezio84/purenexus_frameworks_base/commit/095aef1952f0fb2e128c96e78bcf7bb14aeed01e
 https://github.com/ezio84/purenexus_frameworks_base/commit/b2d53b7bbc7422c6ff7fd21b56c9026157c19dd4
-https://github.com/ezio84/purenexus_packages_apps_PureSettings/commits/mm2oms
+https://github.com/ezio84/purenexus_packages_apps_PureSettings/commits/981088ca5957b0e592ba0d68ae77fa5645d12055
 
 Enable/disable notification color inversion 
 https://github.com/ezio84/purenexus_frameworks_base/commit/defd73de57a3f1bca1dcadd62b2908203554ceba
