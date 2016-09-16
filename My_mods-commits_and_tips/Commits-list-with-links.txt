@@ -65,9 +65,26 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/6e268685b60eaa8103c9f9d
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/53c7441356b678e880c54f7d54f4c8150a88aa2f
 * https://github.com/ezio84/pnmod-n_frameworks_base/commit/0491e34023433129f60db4c03234c02d0cc0338e
 
-UI Tuner temp fix for battery percentage and clock settings reset when you open the tuner
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/edad9a543d73717864f7fb9580a0154cd3864b86
-(the only drawback with this is that if you disable the tuner at all, then enable it again, the default battery percentage settings switches to enabled).
+Custom clock config
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/440615091d478bfe5538a6daeb7fca2f5f7804d4
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/ab43cf5993bee68f81f8bebd40ab0752e937b896
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f2190310ba632226366f4cb45cd1e6fe67410708
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/baaf49fa4197832d26811c4343162b89115ba326
+
+UI Tuner: fixes/improvements and Settings menu integration + Brightness slider config
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/930dd8f3874a8421f3b98606bd4042b646745a1b
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/8bb9e1473655a161fdad95e502732eaebd5c8b55
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/b6f50eb04125d7c1dbc9a73cb2bb6a1fc914f176
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/a9eef62a2be9362f9792ba4af173d806c7bd758d
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/b59ac5a18d4a06972d3178bae5ba94e5081b9da0
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/43460c2507cdafae072f110adb357cf6efb3c315
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/ee19560615b818f534e3a4ece386a45bf8eb0a35
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/df66bf8e8a64ac534968b89c9e375e7760008bce
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/8604643cf6dd0775e8e1780ca004806e91227e81
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/6ac94002bc5d38c256a388625c52297707fd488a
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/1368bc48eea5738e40b52455c5bce6adedc29cbb
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/3846ced1ba7ef84d8fb95b0e4ec3bbcc56f5f0b8
+
 
 Allow prevention of doze notification color inversion
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/379887a6f81590f73ceaf1157f31256b185e4737
@@ -119,3 +136,10 @@ Show icon of package associated with Toast
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/aeab61bc31aea2a41d5b1b75b21c0bfaf7384667
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/e3479b5037a4e26254ba962b9abc0a1c5cfbd083
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/1671daf73f7de713ff21c9c28aeecb3952b02e24
+
+Statusbar Network Indicators 
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/7927fc8ff7a2a664c209f11027e24f2d032918ef
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/cc088f94e40045a1bc59a2e79ad9d764fdec15e1
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/82643a26b9ff28c151197848531dc7c4cf886e2a
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/d32a7361121f8d03fe072dbb8779e9f0906a2751
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/1ee6e408d920a5ef61195df81a2d06716086c92c
