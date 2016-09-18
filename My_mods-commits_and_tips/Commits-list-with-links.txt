@@ -145,3 +145,18 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/1ee6e408d920a5ef61195df
 Advanced reboot menu
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/62d8fb2d03026162942b80ed4f69918b1dce9fd9
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/7898d78b8077bc7971ffc66de667f36e2f289e5e
+
+Create build changelog
+https://github.com/ezio84/pnmod-n_vendor_nexus/commit/75ac6f881735bf94c090ec736441fbb465e60df4
+https://github.com/ezio84/pnmod-n_vendor_nexus/commit/dc82e7ee9709759d52d8e98d3b1aec98dd88e6a8
+https://github.com/ezio84/pnmod-n_build/commit/180f860699ae396280b1607cee87ceebaac26665
+
+Ambient display customization
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/439b4bdb1eb8f0ed2d288571ee437e6888c2f273
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/c38007deabe885ab941f4db2ab5d17f358d6e5a0
+
+Ambient doze dt2w
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/40a071245d80072ae1c0d8882f368e2cd20d51eb
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/e6dde876a3b1efafb9f92a18491fcdd4d848b4d2
+
+
