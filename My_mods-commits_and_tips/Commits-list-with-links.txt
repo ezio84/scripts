@@ -81,7 +81,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/8604643cf6dd0775e8e1780
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/6ac94002bc5d38c256a388625c52297707fd488a
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/1368bc48eea5738e40b52455c5bce6adedc29cbb
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/3846ced1ba7ef84d8fb95b0e4ec3bbcc56f5f0b8
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/1094c0ac94a9935e244d90b7c0ad21f707e0e590
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/dd991f90f0b417a255defd405ab46faaedf5d542
 
 
 Allow prevention of doze notification color inversion
@@ -141,3 +141,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/cc088f94e40045a1bc59a2e
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/82643a26b9ff28c151197848531dc7c4cf886e2a
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d32a7361121f8d03fe072dbb8779e9f0906a2751
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/1ee6e408d920a5ef61195df81a2d06716086c92c
+
+Advanced reboot menu
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/62d8fb2d03026162942b80ed4f69918b1dce9fd9
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/7898d78b8077bc7971ffc66de667f36e2f289e5e
