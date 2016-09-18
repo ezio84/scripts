@@ -159,4 +159,8 @@ Ambient doze dt2w
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/40a071245d80072ae1c0d8882f368e2cd20d51eb
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/e6dde876a3b1efafb9f92a18491fcdd4d848b4d2
 
-
+Additional QS tiles
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/606e2564a3705b79338a54fa91a9b6a261984e70
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/52a0cd7d9577f4892aacfff3f621566f0e8ebb5a
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/21396453541d38e7d88242f2774ff0637bb1e335
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/458367531396a9ebdbae6441243da2f07362c3f0
