@@ -67,6 +67,8 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/440615091d478bfe5538a6d
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/ab43cf5993bee68f81f8bebd40ab0752e937b896
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f2190310ba632226366f4cb45cd1e6fe67410708
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/baaf49fa4197832d26811c4343162b89115ba326
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/8b703eb7c0e7347136ac4c1663aeddc438764d3f
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/df3505f0b1ba1875f1d7e3f90adb85b9dbfabe7d
 
 UI Tuner: fixes/improvements and Settings menu integration + Brightness slider config
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/930dd8f3874a8421f3b98606bd4042b646745a1b
