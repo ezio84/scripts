@@ -145,6 +145,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/1ee6e408d920a5ef61195df
 Advanced reboot menu
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/62d8fb2d03026162942b80ed4f69918b1dce9fd9
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/7898d78b8077bc7971ffc66de667f36e2f289e5e
+https://github.com/ezio84/pnmod-n_vendor_nexus/commit/5219e22203e54439e630fc7c312b17b1d97e2910
 
 Create build changelog
 https://github.com/ezio84/pnmod-n_vendor_nexus/commit/75ac6f881735bf94c090ec736441fbb465e60df4
