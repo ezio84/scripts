@@ -184,3 +184,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/d3fd1d322c85b76b82ed0a7
 Data tile behavior: make it customizable by the user 
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/06e986eddadaf0ab38f10f2e7c3ebfe8143371f6
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d61da8456256eb8bd67
+
+Disable Lockscreen Media Art
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/c58d9964240ef6977a8381242bae0b9b7ef5186d
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/7efc5766f1008a649b3132d1fd5df7a4547646a0
