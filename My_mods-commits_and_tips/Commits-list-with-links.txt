@@ -37,6 +37,11 @@ https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/c0814a65c8137264
 Add High Brightness Mode
 https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/63a9f8d89b0d5ba976d937ac8b52329818a365d6
 
+Franco sound high performance audio control
+https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/ed0674ed38c50404e283cb386176d956e26be5f9
+https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/580c98b7281b55573199fb31c4499081fc237a66
+https://github.com/ezio84/pnmod-n_kernel_huawei_angler/commit/a06148a46aaddafd9df42ae6c276f2d00e3ce922
+
 Add double tap to sleep gesture
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/f89a43a87a0349d258253233fcb25319e4ae136c
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/1dca8f50b5d5db4d08b32ec8e0f171d564d95b9e
