@@ -89,7 +89,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/6ac94002bc5d38c256a3886
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/1368bc48eea5738e40b52455c5bce6adedc29cbb
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/3846ced1ba7ef84d8fb95b0e4ec3bbcc56f5f0b8
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/dd991f90f0b417a255defd405ab46faaedf5d542
-
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/0212c59a429aa79e872730630f0750779e6316d2
 
 Allow prevention of doze notification color inversion
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/379887a6f81590f73ceaf1157f31256b185e4737
