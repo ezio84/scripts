@@ -180,3 +180,7 @@ kill app long press back
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/8bc7300bc97e266855743552947a033d435e5fbe
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/b1c52729c00a5a9016f91d47ea7d654c69b9c17f
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d3fd1d322c85b76b82ed0a78fd9def3ae1aa6dbe
+
+Data tile behavior: make it customizable by the user 
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/06e986eddadaf0ab38f10f2e7c3ebfe8143371f6
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d61da8456256eb8bd67
