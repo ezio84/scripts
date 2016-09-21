@@ -188,3 +188,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d6
 Disable Lockscreen Media Art
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/c58d9964240ef6977a8381242bae0b9b7ef5186d
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/7efc5766f1008a649b3132d1fd5df7a4547646a0
+
+LED notification stuff
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/2e387d4a59a373b837d0958e7df68b3bcad62189
+https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/d29bb2d3be1f7d492185243480492f5590840819
