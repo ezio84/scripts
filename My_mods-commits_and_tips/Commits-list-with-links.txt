@@ -18,12 +18,6 @@ Materialize something more
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/0e6ed21b90524f7c02d31c8751b6f357b85d19d3
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/fca821010f5d6d151591fd9b66723cdbe497150b
 
-Advanced Reboot + Fixs (Squashed) 
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/62d8fb2d03026162942b80ed4f69918b1dce9fd9
-
-add reboot, airplane mode to the global action list
-https://github.com/PureNexusProject/android_vendor_nexus/commit/5219e22203e54439e630fc7c312b17b1d97e2910
-
 Show application's package name in the "App info" screen.
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/47cf17035234b4bae1e87dc76712d9477fec6330
 
