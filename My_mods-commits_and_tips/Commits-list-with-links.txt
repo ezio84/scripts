@@ -194,3 +194,6 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/a81dd7bdf64775b6a40fd44
 Improve Vendor img checks:
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d18bf6948b66b66acdb6e49f9cc2fe7ed74a1c2c
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/34c575345ac8e3eada88cfe14aa7e34842b13ca7
+
+Make camera works when building for hammerhead and other devices not supperted by Nougat
+http://forum.xda-developers.com/showpost.php?p=68821325&postcount=13032
