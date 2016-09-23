@@ -190,3 +190,7 @@ https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/d29bb2d3be1f7d4921
 Disable app verification (fix slow Titanium restoring) and enable manual apk installation by default
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/ef57d7143d80de677866e2519b85b39a4c8c8599
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a81dd7bdf64775b6a40fd44a050d290c7c2470ad
+
+Improve Vendor img checks:
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/d18bf6948b66b66acdb6e49f9cc2fe7ed74a1c2c
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/34c575345ac8e3eada88cfe14aa7e34842b13ca7
