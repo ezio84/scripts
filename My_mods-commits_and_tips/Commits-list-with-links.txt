@@ -197,6 +197,8 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a934410de398
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/935eedce4416ee59ccf663649d843a9ac9065a14
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5922fed6040b661930c814cc586ca367048760c7
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/bc179f364c714489b2dc9229a54ea0490b0ee1d9
+https://github.com/ezio84/pnmod-n_packages_services_Telephony/commit/53df3fbf82965977f96d59d84c38abd1aa5e665b
+https://github.com/ezio84/pnmod-n_packages_services_Telecomm/commit/809f35c8ca58487ab5b1428e579e8ed4e27a9a6a
 
 Disable app verification (fix slow Titanium restoring) and enable manual apk installation by default
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/ef57d7143d80de677866e2519b85b39a4c8c8599
