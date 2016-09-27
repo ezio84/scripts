@@ -171,7 +171,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/539b4fc9b685ead260bc5c8
     https://github.com/ezio84/pnmod-n_frameworks_base/commit/f436388ee2ede6dce1eaf90a025234373f327356
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/5da1b37f0acf8d2548a408635059d743c6498bd1
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/930e21b1cf8e2b2c8f7a183ec71753e7cd3d55aa
-https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/99b99e7f3e80f942d3f4b6b60389811f1c987c7b
+https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/9d531f0e402f6c0945e23ca1fb10d60755854b1f
 
 kill app long press back
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/8bc7300bc97e266855743552947a033d435e5fbe
@@ -187,19 +187,9 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/c58d9964240ef6977a83812
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/7efc5766f1008a649b3132d1fd5df7a4547646a0
 
 LED notification stuff
-https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/2e387d4a59a373b837d0958e7df68b3bcad62189
-https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/0a373a4d7cd8e0d2c14f6c7375895c78399b2581
-https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/f5a015ddced1c25391fbeca48ddc4c12962c1b56
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/6f4f574d6934cc8f43e5d3bfe11987e7bc6294cb
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/79cb9f3b0ebb79227e49564761164514033d7753
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/651fa0625182f4056503d1a2e47f934afb69752e
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a934410de3983bfe2a9f836a0f3b41946d73078f
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/935eedce4416ee59ccf663649d843a9ac9065a14
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5922fed6040b661930c814cc586ca367048760c7
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/bc179f364c714489b2dc9229a54ea0490b0ee1d9
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a8658e0787aaece5900b78fd0e4801df29c6874
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/d42bcb7ae6c09015c307e2f6611bd8cb898ac208
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/340396e937971b24cd54351b01cfe4d79ed57217
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/a1c946f635b3c1e2118535f9896bf1dc5f49d6b6
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/44947cf4b6ae1d41d8b2afdda2f38712b7f378f0
+https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/b0c31ca2f80b10cbf330471ea85454ac23d29665
 
 Disable app verification (fix slow Titanium restoring) and enable manual apk installation by default
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/ef57d7143d80de677866e2519b85b39a4c8c8599
