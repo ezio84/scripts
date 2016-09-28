@@ -205,3 +205,12 @@ http://forum.xda-developers.com/showpost.php?p=68821325&postcount=13032
 Add download speed, remaining time, and percentage in notification
 https://github.com/ezio84/pnmod-n_packages_providers_DownloadProvider/commit/6fe3d72755919f03d1af579747cea82ecac62336
 https://github.com/ezio84/pnmod-n_packages_providers_DownloadProvider/commit/2235589f9bf37953216dbc5e9a355663c688a6b6
+
+Automatic Proximity speaker
+https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/7a38ec217fd9a966bd40938e6c1ccf84c60b19f4
+https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/cb4cff06ae029e1481ab1b274724de28337f1621
+https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/f5ce7431820103770e81fd0e49427689722ba580
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/ad8516343a118b27380ca73ac401343260fc944d
+
+Dialer: fix compilation issues when importing System Settings
+https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/f5ce7431820103770e81fd0e49427689722ba580
