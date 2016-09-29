@@ -187,8 +187,8 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/c58d9964240ef6977a83812
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/7efc5766f1008a649b3132d1fd5df7a4547646a0
 
 LED notification stuff
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/a1c946f635b3c1e2118535f9896bf1dc5f49d6b6
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/975f33c2f0811d3a3116eb6a15c8604b5bd49bae
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/dfae07279fd28c5fdb57f6a639a2acda1d3daf5d
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/26ab582a31c9ec64039b57220993610329969c1a
 https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/b0c31ca2f80b10cbf330471ea85454ac23d29665
 
 Disable app verification (fix slow Titanium restoring) and enable manual apk installation by default
