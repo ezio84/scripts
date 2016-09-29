@@ -214,3 +214,8 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/ad8516343a118b27380ca73
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/f5ce7431820103770e81fd0e49427689722ba580
+
+Calls flip actions to dismiss or mute
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/0f9e182fa6e6e5a15a6f0e501381badeecb82717
+https://github.com/ezio84/pnmod-n_packages_services_Telephony/commit/8779438ba55915824641009cd0a5a6d65f104a9c
+https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/7df3971d158e791293c76c1955b1f43fcba9b7c5
