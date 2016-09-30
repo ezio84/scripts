@@ -1,4 +1,9 @@
 ********CUSTOM FEATURES********
+Gapps permissions fixes
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/40217369b09427ed85b1c2bf43bdb01fe0f6d6c8
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/f7fe243e224f900e8ee7ef11b60a74db55c1c581
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/585cf5d85dd0b14f79b4b0bedb79310f28b1296c
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/454e66210eb734a4a39f43a908e308cb3e33d1f4
 
 System animations speed
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/51055faa20a4b6f6d7b3705c086130bf1e80f8ad
@@ -62,12 +67,11 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/53c7441356b678e880c54f7
 * https://github.com/ezio84/pnmod-n_frameworks_base/commit/0491e34023433129f60db4c03234c02d0cc0338e
 
 Custom clock config
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/440615091d478bfe5538a6daeb7fca2f5f7804d4
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/ab43cf5993bee68f81f8bebd40ab0752e937b896
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f2190310ba632226366f4cb45cd1e6fe67410708
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/baaf49fa4197832d26811c4343162b89115ba326
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/8b703eb7c0e7347136ac4c1663aeddc438764d3f
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/df3505f0b1ba1875f1d7e3f90adb85b9dbfabe7d
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/5dbca27c6e9d67b0fed9d437d7c6e9d75e7177d3
+(remove also the "<com.android.systemui.tuner.ClockPreference" in packages/SystemUI/res/xml/tuner_prefs.xml)
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b3727c0d7afb849af4b4c38a92f43532584865d0
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/abb117325a108c10993927c1e55c2e00d51aaf3c
+
 
 UI Tuner: fixes/improvements and Settings menu integration + Brightness slider config
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/930dd8f3874a8421f3b98606bd4042b646745a1b
