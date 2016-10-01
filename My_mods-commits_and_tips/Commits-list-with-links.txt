@@ -71,7 +71,8 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/5dbca27c6e9d67b0fed9d43
 (remove also the "<com.android.systemui.tuner.ClockPreference" in packages/SystemUI/res/xml/tuner_prefs.xml)
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b3727c0d7afb849af4b4c38a92f43532584865d0
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/abb117325a108c10993927c1e55c2e00d51aaf3c
-
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/083253016845e6cee69369185508c186a0554500
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/36ffa0c8d4146aaf21b8cf260c70a740b3e5ed3b
 
 UI Tuner: fixes/improvements and Settings menu integration + Brightness slider config
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/930dd8f3874a8421f3b98606bd4042b646745a1b
