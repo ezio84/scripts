@@ -233,3 +233,9 @@ https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/b5664902432580ab
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/19f5a3fb3d98b300abf8950786acddd8245a3aab
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/a135fd513bea20d18ba3f428e46d5e7eea5fb4bd
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/e5e14cc27c1fab0880b70125c8fc623b16c72365
+
+External webview provider developer setting: set Chrome Stable as default provider if installed, aosp Webview will be instead the
+default fallback if Chrome not installed, other Chrome versions (beta dev canary) and Playstore webview will be available as optional if installed
+https://github.com/ezio84/pnmod-n_vendor_nexus/commit/06b84cd5a6f3a2228e78f953cd73d943cc8630ed
+https://github.com/ezio84/pnmod-n_vendor_nexus/commit/d5b7da5410180b8f6365af1f74de8ca17a60685c
+https://github.com/ezio84/pnmod-n_vendor_nexus/commit/bfbd06b9daddeaf50223bd22e857ad80075cb84a
