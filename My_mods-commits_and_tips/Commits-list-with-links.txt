@@ -180,6 +180,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/539b4fc9b685ead260bc5c8
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/5da1b37f0acf8d2548a408635059d743c6498bd1
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/930e21b1cf8e2b2c8f7a183ec71753e7cd3d55aa
 https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/9d531f0e402f6c0945e23ca1fb10d60755854b1f
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6ed5f0a588833d24852c7aeecca0d14927ea3e8
 
 kill app long press back
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/8bc7300bc97e266855743552947a033d435e5fbe
