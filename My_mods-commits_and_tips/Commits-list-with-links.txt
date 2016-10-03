@@ -243,3 +243,6 @@ default fallback if Chrome not installed, other Chrome versions (beta dev canary
 https://github.com/ezio84/pnmod-n_vendor_nexus/commit/06b84cd5a6f3a2228e78f953cd73d943cc8630ed
 https://github.com/ezio84/pnmod-n_vendor_nexus/commit/d5b7da5410180b8f6365af1f74de8ca17a60685c
 https://github.com/ezio84/pnmod-n_vendor_nexus/commit/bfbd06b9daddeaf50223bd22e857ad80075cb84a
+
+Materialize toast frames
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/0e6ed21b90524f7c02d31c8751b6f357b85d19d3
