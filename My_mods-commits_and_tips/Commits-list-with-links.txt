@@ -246,3 +246,7 @@ https://github.com/ezio84/pnmod-n_vendor_nexus/commit/bfbd06b9daddeaf50223bd22e8
 
 Materialize toast frames
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/0e6ed21b90524f7c02d31c8751b6f357b85d19d3
+
+Pin scramble
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/4af23d8bd4db73ad8819089fbc3f3eb3ed8318b5
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/d13d2cf5cb38861c83caada2ddb09b562d46e90c
