@@ -250,3 +250,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/0e6ed21b90524f7c02d31c8
 Pin scramble
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/4af23d8bd4db73ad8819089fbc3f3eb3ed8318b5
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/835a7667dac454b12006cad1294b02167206b980
+
+3G heap for 3GB ram devices
+https://github.com/ezio84/pnmod-n_frameworks_native/commit/08ff99b6d81a666f1e35d675712fb485589fb190
+https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/13d0fa500eb858b318da92b6393322b460e1d2aa
