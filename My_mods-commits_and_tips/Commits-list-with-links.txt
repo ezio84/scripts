@@ -263,6 +263,7 @@ Battery icon customization
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/20abc4c19b6acb309f2b5fe388ecd785c0a84d13
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/53db2e069c2123f583e42ed8ec9b72debdfac1e6
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/138c762ec3c5a8dd6b1daed2975b3dce12b9b889
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/558558ccb489632b00b55ae74973f0ffd1186754
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/921f0971f0390e2c1e740b943d742843238e1a94
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/e286d819dc2552e4b94131a5701583ff0fdd294c
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5cbe2cd3c2ddd1c9b7cada16de82aea4a08aba89
