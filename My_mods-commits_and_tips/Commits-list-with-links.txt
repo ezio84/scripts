@@ -294,9 +294,10 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/0253dcea0f30c92e16807e1
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/0cff698afa58d2bd22061d583b571bef84409a3c
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a68f88cad6407d9a26c3feaf6b590aa251ea3cd6
 
-Navbar toggle
+Navbar toggle (option and qs tile)
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/cbd4db80525c00eee5a5d0918a56fb3e0424446b
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d041b5a881f428c1c8e155ce5b7c9b07bc43941f
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/7cb86e104a9dfea2276be958548240e715679309
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/4579cbc2fd8f9a713c9cd7fd071f1ef4a8f1224a
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/ee53e4efa3e3ab025016055d3394865ac0816a52
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/cd1a77dd859c515eb8ac73388968a8b162b98c18
