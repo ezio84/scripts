@@ -304,3 +304,9 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/5ce97914a970ed87f8ad3c6
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/2a7671307be5178f11e9ab14de8e5cb92e52725c
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/ee53e4efa3e3ab025016055d3394865ac0816a52
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/cd1a77dd859c515eb8ac73388968a8b162b98c18
+
+Lockscreen items config and clock fonts
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/13c0cc683794a68bf5bea75eb9fc91c3232bb03a
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/686ab2c9064e3c63cec2bb50ada0789a5f84bdf6
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/08a000d80514c5ed92bba5873827a337b69e30ad
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/70d1e2a894f11d40b2dc7db4b03cc1ccfa5a549b
