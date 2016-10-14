@@ -183,16 +183,22 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/539b4fc9b685ead260bc5c8
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/5da1b37f0acf8d2548a408635059d743c6498bd1
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/930e21b1cf8e2b2c8f7a183ec71753e7cd3d55aa
 https://github.com/ezio84/pnmod-n_vendor_nexus/commit/7855e09e464b42000d3bf3b9fc08bd9ed5130b02
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6ed5f0a588833d24852c7aeecca0d14927ea3e8
+    https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6ed5f0a588833d24852c7aeecca0d14927ea3e8
+
+Data tile easy toggle
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/06e986eddadaf0ab38f10f2e7c3ebfe8143371f6
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d61da8456256eb8bd67
+    BT tile easy toggle
+    https://github.com/ezio84/pnmod-n_frameworks_base/commit/c5040fe56e7a350c530db9e9c6cec299409ea3ac
+    https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/677e479b5337d37b457d4d76247da2fb5b019a10
+WiFi tile easy toggle
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/443b721d6662dd301d6f78133d336456d07b7f30
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f82bf6bfda1ca9559a3ba2fced77eb0a8fd946ec
 
 kill app long press back
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/8bc7300bc97e266855743552947a033d435e5fbe
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/b1c52729c00a5a9016f91d47ea7d654c69b9c17f
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d3fd1d322c85b76b82ed0a78fd9def3ae1aa6dbe
-
-Data tile behavior: make it customizable by the user 
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/06e986eddadaf0ab38f10f2e7c3ebfe8143371f6
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d61da8456256eb8bd67
 
 Disable Lockscreen Media Art
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/c58d9964240ef6977a8381242bae0b9b7ef5186d
