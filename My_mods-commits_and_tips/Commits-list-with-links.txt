@@ -168,6 +168,9 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/026fe188519d
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/84c1181e9033c86dbcdc23c5feee0561202e2bee
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/f4d33e916563e38350bfeb2f1465ce86998a1f64
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d6fc1ba4a951979acad3cc81f38fa3781c9fad01
+Custom small QS tiles 
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/cf7b4a49615b3f636e15235e482f4494002e13e7
+Custom small QS tiles 
 
 Additional QS tiles
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/606e2564a3705b79338a54fa91a9b6a261984e70
@@ -203,7 +206,6 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/1684512f5a24
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2e103391a7e77f981b595447710ba5a99e2fe281
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2107096f43048f449c3974c656d30a690b667ca1
 https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/b0c31ca2f80b10cbf330471ea85454ac23d29665
-
 
 Disable app verification (fix slow Titanium restoring) and enable manual apk installation by default
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/ef57d7143d80de677866e2519b85b39a4c8c8599
