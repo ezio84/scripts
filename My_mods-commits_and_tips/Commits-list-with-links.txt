@@ -191,9 +191,11 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d6
     BT tile easy toggle
     https://github.com/ezio84/pnmod-n_frameworks_base/commit/c5040fe56e7a350c530db9e9c6cec299409ea3ac
     https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/677e479b5337d37b457d4d76247da2fb5b019a10
+    https://github.com/ezio84/pnmod-n_frameworks_base/commit/93809ee16b2a01e54f1c4ffeb8b8368a55ebfd98
 WiFi tile easy toggle
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/443b721d6662dd301d6f78133d336456d07b7f30
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f82bf6bfda1ca9559a3ba2fced77eb0a8fd946ec
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/3cc8b01d50437c820e2d394b22267ae40ebabc12
     DND tile improvements
     https://github.com/ezio84/pnmod-n_frameworks_base/commit/866cf8eec57190bec0023aeb958a7b407ed0f45a
 
