@@ -194,6 +194,8 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d6
 WiFi tile easy toggle
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/443b721d6662dd301d6f78133d336456d07b7f30
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f82bf6bfda1ca9559a3ba2fced77eb0a8fd946ec
+    DND tile improvements
+    https://github.com/ezio84/pnmod-n_frameworks_base/commit/866cf8eec57190bec0023aeb958a7b407ed0f45a
 
 kill app long press back
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/8bc7300bc97e266855743552947a033d435e5fbe
