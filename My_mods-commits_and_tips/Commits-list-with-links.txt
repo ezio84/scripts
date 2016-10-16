@@ -216,6 +216,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/1d61c207ae69def5a8f966d
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/1684512f5a24da97de5adb46abf78adcb8c6322b
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2e103391a7e77f981b595447710ba5a99e2fe281
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2107096f43048f449c3974c656d30a690b667ca1
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/e44ecad4e100fa58eee377a77abb788202234368
 https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/b0c31ca2f80b10cbf330471ea85454ac23d29665
 
 
