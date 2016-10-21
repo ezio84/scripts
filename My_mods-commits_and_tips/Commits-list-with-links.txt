@@ -185,6 +185,9 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/930e21b1cf8e2b2c8f7a183
 https://github.com/ezio84/pnmod-n_vendor_nexus/commit/7855e09e464b42000d3bf3b9fc08bd9ed5130b02
     https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6ed5f0a588833d24852c7aeecca0d14927ea3e8
 
+Night mode tile fix
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/afe378712c791a0f1c2c8c10f3a9ec14359f8f3f
+
 Data tile easy toggle
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/06e986eddadaf0ab38f10f2e7c3ebfe8143371f6
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d61da8456256eb8bd67
@@ -293,6 +296,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/0b5722e04ce5
 Allow disabling quick settings when on secured lock screen
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/882a07458f4209daa4d7b0b5a5a6faefd80992e6
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d5cbc80ffa03569d488c8c17b66691a999354178
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/c505010f730ec0429a4267352d00c78aeb1e446a
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a480c4a4b27426da494514183e6fc49625e7a6b7
 
 Make voicemail notifications dismissable on all carriers
@@ -323,3 +327,48 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/13c0cc683794a68bf5bea75
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/686ab2c9064e3c63cec2bb50ada0789a5f84bdf6
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/08a000d80514c5ed92bba5873827a337b69e30ad
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/70d1e2a894f11d40b2dc7db4b03cc1ccfa5a549b
+
+Fingerprint authentication vibration
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/77d131ea886fbf4b4be857859c98ed808fcc8f56
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/713f3cb7c93571993753a6f7d90e08a7caf92d68
+
+Custom rom branding
+https://github.com/ezio84/pnmod-n_build/commit/dda610398a9daa6ff31738539822769e7bf4e1b8
+https://github.com/ezio84/pnmod-n_build/commit/e55c9fc288689b655c7b45834a9fc2827e650a27
+https://github.com/ezio84/pnmod-n_build/commit/221a27c0be3de4eb69c32a74de3069ed3aef8b11
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/8ce30173e93c0bf39c6345cb15f288f83bc665ac
+
+Add dirty flash backup scripts for layers and fonts 
+https://github.com/ezio84/pnmod-n_vendor_nexus/commit/eb0cd2f5f08bdebcded1ae1fe5b54d5acb594651
+
+Fix twrp log error when flashing
+https://github.com/ezio84/pnmod-n_bootable_recovery/commit/3ff3affaca12e5266c15c8256d7029cc1e5182f6
+
+DUI Navbar customization
+track these 2 trees (they have my latest improvements): 
+<project path="external/DUtils" name="pnmod-n_external_DUtils" remote="pnmod" revision="n" />
+<project path="packages/apps/DUI" name="pnmod-n_packages_apps_DUI" remote="pnmod" revision="n" />
+then:
+https://github.com/ezio84/pnmod-n_vendor_nexus/commit/2c9001bd391c1e5dc73a7d3d289af0868648cab4
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/855b8d7e26f4d8a9361498ead710d2060ddc8c1c
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/3c44daa795ecb20d5174f8a3ddfbb3b11c2b353a
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f5606b3ad64b12f14d9b0a04201ca550b78830dd
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5ae80ab954a6587fef31d45a05abb320b97b25c6
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2bbb0a4a7e679f20477c7dbed783cfaec215ade4
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/7231084213589b71876d6ad7594c6b63b090bd47
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/4786532e6e45c6316c9ff007cec4930f6e3476f5
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/1e8c901b2bd379abba77dba07302862fd144834d
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/093ad2c4c91a3c6084656772e932dad2cf2654bb
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/12437da47d6977c6b58b4bc9a36d054eb9bd1b30
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/6382ce36f8bb0ca21ced8333f0b867b79e75231d
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/07f7126c8d4e761b23e93d52736ea2e1adb9b2f2
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/0610eab5218e0bea32271a5594c907542e06bf7e
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/249455f3d15bb1a0410af476c6d3c02a25f84c49
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/c3c91e7f8c0ee40213e14a61d7c70301e56a4688
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/634fb143b24f9e05ce17b51df856301b01e6f438
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/ad26b91a50fb76c9c965f16798b291ea1048029c
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/eb8568b40fc12d5e09cf4997dff48cf3c882d711
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/d501c4c88ed2f635d1de7a79cb9d944c16489b15
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/2a9eba027dd6839afd5dcca2a21795789aa4194f
+
+
