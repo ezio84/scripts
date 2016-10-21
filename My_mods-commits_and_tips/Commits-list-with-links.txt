@@ -1,9 +1,10 @@
-Gapps permissions fixes
+Permissions fixes
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/40217369b09427ed85b1c2bf43bdb01fe0f6d6c8
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/f7fe243e224f900e8ee7ef11b60a74db55c1c581
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/585cf5d85dd0b14f79b4b0bedb79310f28b1296c
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/454e66210eb734a4a39f43a908e308cb3e33d1f4
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/5a822d6e5f521818c2a6b9ee93175b210e0396bd
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/253f72150b9c959d906ef35b1e108661c74fb9f9
 
 System animations speed
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/51055faa20a4b6f6d7b3705c086130bf1e80f8ad
@@ -70,6 +71,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b3727c0d7afb
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/abb117325a108c10993927c1e55c2e00d51aaf3c
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/083253016845e6cee69369185508c186a0554500
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/36ffa0c8d4146aaf21b8cf260c70a740b3e5ed3b
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/c97bd4d54b08bda5c449939939eca636d2499653
 
 UI Tuner: fixes/improvements and Settings menu integration + Brightness slider config
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/930dd8f3874a8421f3b98606bd4042b646745a1b
@@ -330,7 +332,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/70d1e2a894f1
 
 Fingerprint authentication vibration
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/77d131ea886fbf4b4be857859c98ed808fcc8f56
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/cbcfaf6404911b493b9ac808ab81df2aa916d64d
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2249e1016c9da09e2ef79db14d7a75077f9d462d
 
 Custom rom branding
 https://github.com/ezio84/pnmod-n_build/commit/dda610398a9daa6ff31738539822769e7bf4e1b8
@@ -370,5 +372,6 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/ad26b91a50fb76c9c965f16
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/eb8568b40fc12d5e09cf4997dff48cf3c882d711
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d501c4c88ed2f635d1de7a79cb9d944c16489b15
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/2a9eba027dd6839afd5dcca2a21795789aa4194f
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/a255b9432cff53dbafd0d5d24b0394ced2971f1f
 
 
