@@ -296,9 +296,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/39b824d4222f
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/0b5722e04ce595f98396ca5c383318e4d4624a58
 
 Allow disabling quick settings when on secured lock screen
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/882a07458f4209daa4d7b0b5a5a6faefd80992e6
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/d5cbc80ffa03569d488c8c17b66691a999354178
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/c505010f730ec0429a4267352d00c78aeb1e446a
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/8225990e080224571f683d97fdcf68fc256539fe
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a480c4a4b27426da494514183e6fc49625e7a6b7
 
 Make voicemail notifications dismissable on all carriers
