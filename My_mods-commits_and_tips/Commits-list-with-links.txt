@@ -375,4 +375,10 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/a255b9432cff53dbafd0d5d
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/3e84cf9ee646b44a03d51018eb93188bdc0cdcd3
 https://github.com/ezio84/pnmod-n_packages_apps_DUI/commit/5ed76abfd0dd67d55e7f67184f0fcb4f9cdec79c
 
+Angler multithread decode bootani
+https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/65b0de0a306bb670c81bfc58568feebb439ee18e
+
+Angler Enable sdcardsfs
+https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/606adffa8c1d4a6296276a01edf0d2ef7bef5238
+
 
