@@ -189,6 +189,7 @@ https://github.com/ezio84/pnmod-n_vendor_nexus/commit/7855e09e464b42000d3bf3b9fc
 
 Night mode tile fix
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/afe378712c791a0f1c2c8c10f3a9ec14359f8f3f
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/d73f14beb33ab856a9671a5e059f6768159d6f36
 
 Data tile easy toggle
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/06e986eddadaf0ab38f10f2e7c3ebfe8143371f6
