@@ -194,6 +194,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/d73f14beb33ab856a9671a5
 Data tile easy toggle
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/06e986eddadaf0ab38f10f2e7c3ebfe8143371f6
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/6a51e831087d2346b84a8d61da8456256eb8bd67
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/402c20dfbdf30fbd0975437d2f86018917bfa138
     BT tile easy toggle
     https://github.com/ezio84/pnmod-n_frameworks_base/commit/c5040fe56e7a350c530db9e9c6cec299409ea3ac
     https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/677e479b5337d37b457d4d76247da2fb5b019a10
