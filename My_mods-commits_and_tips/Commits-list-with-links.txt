@@ -394,3 +394,6 @@ https://github.com/ezio84/pnmod-n_packages_apps_ContactsCommon/commit/f3065860b3
 https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/89b5ad2703e5bccf9d3fc6125ef822b35e23a606
 https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/8029a7e4f13fad194034c7f75ae1f776957e5e46
 https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/9c08be1277d0d57ebde32445738cce00dbf05791
+
+Change power save mod color to dark red
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/99455abcb98e5dc3ec9b138253677b3e9ede7089
