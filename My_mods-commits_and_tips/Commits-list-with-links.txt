@@ -392,3 +392,5 @@ AOSP Contacts app: add "Groups" tab for groups editing
 https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/4adce30f867d8202ed17ca9968107d3817f9a424
 https://github.com/ezio84/pnmod-n_packages_apps_ContactsCommon/commit/f3065860b36ac2f12eb7997187d0c04d5ea93e52
 https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/89b5ad2703e5bccf9d3fc6125ef822b35e23a606
+https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/8029a7e4f13fad194034c7f75ae1f776957e5e46
+https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/9c08be1277d0d57ebde32445738cce00dbf05791
