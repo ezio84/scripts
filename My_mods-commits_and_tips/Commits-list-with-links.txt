@@ -397,3 +397,8 @@ https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/9c08be1277d0d57e
 
 Change power save mod color to dark red
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/99455abcb98e5dc3ec9b138253677b3e9ede7089
+
+Add ability to disable bars color in battery saver mode
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/4435e8339d8130e8aec7804724895d33bb5b138b
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/34b8acd2a50de679d742d7936a1933ba1633dab9
+with custom battery icon feature: https://github.com/ezio84/pnmod-n_frameworks_base/commit/0f69af37f606dcdd7dc0d1e038b2578897df33d8
