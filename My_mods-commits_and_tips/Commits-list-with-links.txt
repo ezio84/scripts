@@ -388,4 +388,7 @@ Long press power on screen off for torch
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/039c1f4fff7e16144239dd0982e01b11441e9a3a
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b2f71d7525c151d22291e7bb987ec0c62ee28b2b
 
-
+AOSP Contacts app: add "Groups" tab for groups editing
+https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/4adce30f867d8202ed17ca9968107d3817f9a424
+https://github.com/ezio84/pnmod-n_packages_apps_ContactsCommon/commit/f3065860b36ac2f12eb7997187d0c04d5ea93e52
+https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/89b5ad2703e5bccf9d3fc6125ef822b35e23a606
