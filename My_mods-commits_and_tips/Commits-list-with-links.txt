@@ -390,10 +390,9 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b2f71d7525c1
 
 AOSP Contacts app: add "Groups" tab for groups editing
 https://github.com/ezio84/pnmod-n_packages_apps_ContactsCommon/commit/9b198b810074d24c700f755a6f3dc61bf5660d59
-https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/5bf0fb1865ca750dcd73c57968f7d7bfadf16088
+https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/b87428c1541a671b1d803b8083a9c97643c4493c
 https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/89b5ad2703e5bccf9d3fc6125ef822b35e23a606
-https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/fc502f7adc6dee9d43d483d2ee2e8482bc430a24
-https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/55bbe4480b1d017614eaf82f85273cb725b53260
+https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/7128365e0bfd0c6a62690c91d60c9f7eb9a64cb4
 
 Change power save mod color to dark red
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/99455abcb98e5dc3ec9b138253677b3e9ede7089
