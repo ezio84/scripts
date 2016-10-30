@@ -259,11 +259,13 @@ https://github.com/ezio84/pnmod-n_packages_apps_Dialer/commit/7df3971d158e791293
 Add statusbar header date and clock click targets 
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a7eb4c42e9b880abd0d61556a4203b3d9ca10f88
 
-Remove some useless aosp settings things
+Remove some useless aosp settings things (and disable OTA check) -  some fixes
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/b5664902432580ab3940d5581bd5e1717d0e10b2
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/19f5a3fb3d98b300abf8950786acddd8245a3aab
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/a135fd513bea20d18ba3f428e46d5e7eea5fb4bd
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/e5e14cc27c1fab0880b70125c8fc623b16c72365
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/79ec065a2842ebf2c644167f481365e4ea695358
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/dfd3bb54df7821a184645e0c24bf79d2d23d8102
 
 External webview provider developer setting: set Chrome Stable as default provider if installed, aosp Webview will be instead the
 default fallback if Chrome not installed, other Chrome versions (beta dev canary) and Playstore webview will be available as optional if installed
@@ -374,9 +376,8 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/eb8568b40fc12d5e09cf499
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d501c4c88ed2f635d1de7a79cb9d944c16489b15
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/2a9eba027dd6839afd5dcca2a21795789aa4194f
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a255b9432cff53dbafd0d5d24b0394ced2971f1f
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/a4481b2d8f71aa6e6e3416a9c47689785b90fc8a
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/55168b100be00fe483f41de5a1ebbd521f70e0a0
-https://github.com/ezio84/pnmod-n_packages_apps_DUI/commit/5ed76abfd0dd67d55e7f67184f0fcb4f9cdec79c
-https://github.com/ezio84/pnmod-n_packages_apps_DUI/commit/09bd7dcad1b776782893310ef385bce74e0d1ee2
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/ea326536e032f6426e40fd0819c5420b6068f006
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/84de2274027141092fdcd11191a5969dbc258a88
 
@@ -399,7 +400,10 @@ https://github.com/ezio84/pnmod-n_packages_apps_Contacts/commit/7128365e0bfd0c6a
 Change power save mod color to dark red
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/99455abcb98e5dc3ec9b138253677b3e9ede7089
 
-Add ability to disable bars color in battery saver mode
-https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/4435e8339d8130e8aec7804724895d33bb5b138b
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/34b8acd2a50de679d742d7936a1933ba1633dab9
-with custom battery icon feature: https://github.com/ezio84/pnmod-n_frameworks_base/commit/0f69af37f606dcdd7dc0d1e038b2578897df33d8
+Add ability to disable ripple when entering lockscreen pin
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/796f02817abb71aa5147bc455c8cbf5e71f20270
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b346bee60ba5cf8acac9111e9c51493604249a6e
+
+Disable/Enable screenshot sound 
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/674ecb83bdae6e8e27136036c0a2d353d069f01c
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/18aded55ac20fffec664d82660803b1ac8d42abb
