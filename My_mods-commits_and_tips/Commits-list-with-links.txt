@@ -407,3 +407,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b346bee60ba5
 Disable/Enable screenshot sound 
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/674ecb83bdae6e8e27136036c0a2d353d069f01c
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/3644789f4c7236d9aa17d9cc8b68bf04750f5617
+
+Show charging current & voltage on lockscreen
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/47a454ea49c16582c0e2e1440fac43c10c6fcab2
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2ed1eb98e555b35f67a8448889f1e2ebc2fcee9c
