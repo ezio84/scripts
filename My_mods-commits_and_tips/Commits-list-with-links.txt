@@ -6,6 +6,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/454e66210eb734a4a39f43a
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/5a822d6e5f521818c2a6b9ee93175b210e0396bd
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/253f72150b9c959d906ef35b1e108661c74fb9f9
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d61bfc1246b791a1764d0db643a9fe362d247a2e
+https://github.com/ezio84/pnmod-n_packages_apps_PackageInstaller/commit/8d18a9353e5efb0261617286f055e5bfb5260390
 
 System animations speed
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/51055faa20a4b6f6d7b3705c086130bf1e80f8ad
