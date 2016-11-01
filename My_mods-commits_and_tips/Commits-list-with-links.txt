@@ -414,3 +414,8 @@ https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/3644789f4c7236d9
 Show charging current & voltage on lockscreen
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/47a454ea49c16582c0e2e1440fac43c10c6fcab2
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/2ed1eb98e555b35f67a8448889f1e2ebc2fcee9c
+
+Allow unlinking ringer with notification volume
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/9f5c8634843f3fc2232e892f061a10c8ac8dd00b
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/a57c98848e44bfe08bd174efa4edbb48ca34c15f
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/2eb164710d8d5a4f6e59d1ac2369f52fd51a968a
