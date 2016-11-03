@@ -172,6 +172,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/026fe188519d
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/84c1181e9033c86dbcdc23c5feee0561202e2bee
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/f4d33e916563e38350bfeb2f1465ce86998a1f64
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d6fc1ba4a951979acad3cc81f38fa3781c9fad01
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5c4e0101c181dbb8803d65d4508e9c9342435db4
 Custom small QS tiles 
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/cf7b4a49615b3f636e15235e482f4494002e13e7
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b2b0a3559f2dc09eef38dedc490f62fc54b721df
