@@ -168,14 +168,9 @@ https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/40a071245d80072a
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/e6dde876a3b1efafb9f92a18491fcdd4d848b4d2
 
 Custom QS tiles rows and columns
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/026fe188519db578e8caf7dc176212735c320b59
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/84c1181e9033c86dbcdc23c5feee0561202e2bee
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/f4d33e916563e38350bfeb2f1465ce86998a1f64
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/d6fc1ba4a951979acad3cc81f38fa3781c9fad01
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/5c4e0101c181dbb8803d65d4508e9c9342435db4
-Custom small QS tiles 
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/cf7b4a49615b3f636e15235e482f4494002e13e7
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/b2b0a3559f2dc09eef38dedc490f62fc54b721df
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/19f06fc637ec9841300dabf06ae602ce80efb108
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/656b0d8e3bb7d7c335528c99311980cde2e4e84f
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f3cefc016feb4d4ed47c0775fa7c1ebd77465ff2
 
 Additional QS tiles
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/606e2564a3705b79338a54fa91a9b6a261984e70
