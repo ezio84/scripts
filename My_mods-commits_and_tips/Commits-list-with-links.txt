@@ -170,7 +170,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/e6dde876a3b1efafb9f92a1
 Custom QS tiles rows and columns
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/19f06fc637ec9841300dabf06ae602ce80efb108
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/656b0d8e3bb7d7c335528c99311980cde2e4e84f
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/f3cefc016feb4d4ed47c0775fa7c1ebd77465ff2
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/fd4f06eb8e22005a581f293b8b88a46a2905ca4e
 
 Additional QS tiles
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/606e2564a3705b79338a54fa91a9b6a261984e70
