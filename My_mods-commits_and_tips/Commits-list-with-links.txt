@@ -169,9 +169,9 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/e6dde876a3b1efafb9f92a1
 
 Custom QS tiles rows and columns
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/19f06fc637ec9841300dabf06ae602ce80efb108
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/c48bbdab1f8d29739ca059077de1537c638ddae2
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/656b0d8e3bb7d7c335528c99311980cde2e4e84f
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/fd4f06eb8e22005a581f293b8b88a46a2905ca4e
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/c48bbdab1f8d29739ca059077de1537c638ddae2
 
 Additional QS tiles
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/606e2564a3705b79338a54fa91a9b6a261984e70
@@ -416,3 +416,7 @@ Allow unlinking ringer with notification volume
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/9f5c8634843f3fc2232e892f061a10c8ac8dd00b
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/a306d6cb8d30e549b55083ba375e6ec7a8ab6847
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/2eb164710d8d5a4f6e59d1ac2369f52fd51a968a
+
+Screenshot action: allow to drag a selection to take a partial area screenshot
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/c44c3a2b5538316aac973ad4f2ca0b28d23340f4
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/bbf2057777a356861eeb6e1eba8e2b10ec46397b
