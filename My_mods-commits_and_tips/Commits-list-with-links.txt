@@ -380,6 +380,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/33c7c87107167ad80c33fba
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/55168b100be00fe483f41de5a1ebbd521f70e0a0
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/ea326536e032f6426e40fd0819c5420b6068f006
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/84de2274027141092fdcd11191a5969dbc258a88
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/15b44788ac83b9ebcb6b396dd3c97f5a6d4cf24d
 
 Angler multithread decode bootani
 https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/65b0de0a306bb670c81bfc58568feebb439ee18e
