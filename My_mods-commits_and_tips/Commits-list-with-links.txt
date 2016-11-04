@@ -424,3 +424,5 @@ Screenshot action: allow to drag a selection to take a partial area screenshot
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/c44c3a2b5538316aac973ad4f2ca0b28d23340f4
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/bbf2057777a356861eeb6e1eba8e2b10ec46397b
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a78b3edc56ad4bcb38779a22592b8de94c77fc3a
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/709d7eaf70101e890906de27e9d6151557627fb4
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/2d605da6ebb258bfcb383df0f8d30c235538614a
