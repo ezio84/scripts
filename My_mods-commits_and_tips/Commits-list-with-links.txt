@@ -171,6 +171,7 @@ Custom QS tiles rows and columns
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/19f06fc637ec9841300dabf06ae602ce80efb108
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/c48bbdab1f8d29739ca059077de1537c638ddae2
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/656b0d8e3bb7d7c335528c99311980cde2e4e84f
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/605a85809e202b8544e6dea3e66be962bc27d9a1
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/fd4f06eb8e22005a581f293b8b88a46a2905ca4e
 
 Additional QS tiles
@@ -299,8 +300,9 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/519a57ac765d
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/39b824d4222f61e1dedace94c04629b06cfa0b90
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/0b5722e04ce595f98396ca5c383318e4d4624a58
 
-Allow disabling quick settings when on secured lock screen
+Allow disabling QS tiles when on secured lock screen
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/8225990e080224571f683d97fdcf68fc256539fe
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/605a85809e202b8544e6dea3e66be962bc27d9a1
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a480c4a4b27426da494514183e6fc49625e7a6b7
 
 Make voicemail notifications dismissable on all carriers
