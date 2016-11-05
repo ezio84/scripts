@@ -428,3 +428,7 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/bbf2057777a3
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a78b3edc56ad4bcb38779a22592b8de94c77fc3a
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/709d7eaf70101e890906de27e9d6151557627fb4
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/2d605da6ebb258bfcb383df0f8d30c235538614a
+
+Support enforcing a minimum delay between notification sounds of an app
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/a06c99762f9c3e3dab5883e5096cbca5929c8006
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/15fc66815eac46548b0bb26900ee77a338a0be5b
