@@ -386,11 +386,8 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/15b44788ac83
 
 Angler multithread decode bootani
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/048a798a0543a4bcefec743aedb17ba03a0271af
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/f3d9adc5abdc30bac441f32775b7ae4fc5d659e0
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/1bab30266da07dedadbe35c7a5acfd1c3228da9b
-
-Angler Enable sdcardsfs
-https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/606adffa8c1d4a6296276a01edf0d2ef7bef5238
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/7e2442f9303f122f06540cb244696cd87601f13f
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/ca1e0ebd41cdb7bdb17cf01660e13e0925a52cc5
 
 Long press power on screen off for torch
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/039c1f4fff7e16144239dd0982e01b11441e9a3a
@@ -430,5 +427,5 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/709d7eaf7010
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/2d605da6ebb258bfcb383df0f8d30c235538614a
 
 Support enforcing a minimum delay between notification sounds of an app
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/a06c99762f9c3e3dab5883e5096cbca5929c8006
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/07ba4d1785625a9faeb54859d67ca24e863b66e0
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/15fc66815eac46548b0bb26900ee77a338a0be5b
