@@ -60,7 +60,7 @@ Custom settings helpers
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/728779652e7c194b1a19c7f595ff862cc2868d46
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/743b65af3f8217d464db5c98ab6df9f0e42ecc12
 
-Add quick-quick settings pulldown
+Add quick settings pulldown
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/0a9bfdb80c67008ab5a5a72ff1561d0b37960581
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/6e268685b60eaa8103c9f9dc6001dd36f2dde427
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/53c7441356b678e880c54f7d54f4c8150a88aa2f
@@ -186,6 +186,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/5da1b37f0acf8d2548a4086
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/930e21b1cf8e2b2c8f7a183ec71753e7cd3d55aa
 https://github.com/ezio84/pnmod-n_vendor_nexus/commit/7855e09e464b42000d3bf3b9fc08bd9ed5130b02
     https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6ed5f0a588833d24852c7aeecca0d14927ea3e8
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/f3131b5bf21dd559bb58e2e520705e30925d4006
 
 Night mode tile fix
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/afe378712c791a0f1c2c8c10f3a9ec14359f8f3f
