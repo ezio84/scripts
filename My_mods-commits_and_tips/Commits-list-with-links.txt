@@ -188,6 +188,7 @@ https://github.com/ezio84/pnmod-n_vendor_nexus/commit/7855e09e464b42000d3bf3b9fc
     https://github.com/ezio84/pnmod-n_frameworks_base/commit/a6ed5f0a588833d24852c7aeecca0d14927ea3e8
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/1cd44562ddf46b799e2c5d4c91411a0401f445e2
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/e5d1fefd7553f52650f08b2d36f0d5a52ec1848e
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/f4342ef9966dcddd7475c8649e81a95a44410c22
 
 Night mode tile fix
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/afe378712c791a0f1c2c8c10f3a9ec14359f8f3f
