@@ -440,3 +440,6 @@ https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/19cbd37515a5
 Support enforcing a minimum delay between notification sounds of an app
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/07ba4d1785625a9faeb54859d67ca24e863b66e0
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/15fc66815eac46548b0bb26900ee77a338a0be5b
+
+Disable Dashboard Conditions
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/24f102b82722a0cf7ee49357df518466b7350fe2
