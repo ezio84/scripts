@@ -382,6 +382,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/2a9eba027dd6839afd5dcca
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a255b9432cff53dbafd0d5d24b0394ced2971f1f
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a4481b2d8f71aa6e6e3416a9c47689785b90fc8a
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/33c7c87107167ad80c33fba7cf9dbe30a6d716ef (other part in DUtils)
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/52631466399a06433e497ac5f74b8c8d3ed318c2 
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/55168b100be00fe483f41de5a1ebbd521f70e0a0
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/ea326536e032f6426e40fd0819c5420b6068f006
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/84de2274027141092fdcd11191a5969dbc258a88
