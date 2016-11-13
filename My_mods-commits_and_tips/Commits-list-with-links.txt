@@ -383,6 +383,8 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/a255b9432cff53dbafd0d5d
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a4481b2d8f71aa6e6e3416a9c47689785b90fc8a
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/33c7c87107167ad80c33fba7cf9dbe30a6d716ef (other part in DUtils)
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/52631466399a06433e497ac5f74b8c8d3ed318c2 
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/f280b0788cbb85e04c2687a219c09fe888e23691
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/4c7727caaa190b6f77a1af3335c6f01da3f59c51
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/55168b100be00fe483f41de5a1ebbd521f70e0a0
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/ea326536e032f6426e40fd0819c5420b6068f006
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/84de2274027141092fdcd11191a5969dbc258a88
@@ -446,3 +448,6 @@ https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/15fc66815eac4654
 
 Disable Dashboard Conditions
 https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/24f102b82722a0cf7ee49357df518466b7350fe2
+
+Allow adjusting screen density to smaller sizes
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/a1f1790a8b3b6b30be7e3b4c5bc434a51f636254
