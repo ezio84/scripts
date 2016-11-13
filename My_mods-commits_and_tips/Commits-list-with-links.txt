@@ -431,7 +431,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/8825474a6e27f624b33947b
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/92300a6590cab1efd8c87c084cd5f8fe8e017b3b
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/f4868c1b5946a704039ec3b874e286a302772f17
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/c8b5cfc034d45d7cb019127b66878ca74b780885
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/523d5a346db6b81cfd070c7615af3353a1093cc7
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/2adc04cc58dfe576e7753b61ee97161381b23eb1
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/bbf2057777a356861eeb6e1eba8e2b10ec46397b
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a78b3edc56ad4bcb38779a22592b8de94c77fc3a
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/709d7eaf70101e890906de27e9d6151557627fb4
