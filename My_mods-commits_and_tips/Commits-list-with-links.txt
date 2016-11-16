@@ -394,6 +394,7 @@ Angler multithread decode bootani
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/048a798a0543a4bcefec743aedb17ba03a0271af
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/7e2442f9303f122f06540cb244696cd87601f13f
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/ca1e0ebd41cdb7bdb17cf01660e13e0925a52cc5
+https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/33228c9877761f9e863cab7820de180fe0bb3c29
 
 Long press power on screen off for torch
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/039c1f4fff7e16144239dd0982e01b11441e9a3a
@@ -435,6 +436,7 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/f4868c1b5946a704039ec3b
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/c8b5cfc034d45d7cb019127b66878ca74b780885
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/2adc04cc58dfe576e7753b61ee97161381b23eb1
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a37d8ccc185743d67696cc8876bec803500ef17b
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/3fe08497f5530cd543b1015772c32f274d4a812c
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/bbf2057777a356861eeb6e1eba8e2b10ec46397b
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/a78b3edc56ad4bcb38779a22592b8de94c77fc3a
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/709d7eaf70101e890906de27e9d6151557627fb4
@@ -451,3 +453,10 @@ https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/24f102b82722a0cf
 
 Allow adjusting screen density to smaller sizes
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/a1f1790a8b3b6b30be7e3b4c5bc434a51f636254
+
+Use updated system ccache to build
+https://github.com/ezio84/pnmod-n_build/commit/7902f0ab6f2575577486e39c1844c88a006da271
+https://github.com/ezio84/pnmod-n_build/commit/777344b2efc00ccffb1675be62c9f17afbb655a8
+
+Auto DND fixes
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/d070a8e9e6a3e9f0b19e6499c07fec084914a944
