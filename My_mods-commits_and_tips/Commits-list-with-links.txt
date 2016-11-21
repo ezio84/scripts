@@ -463,3 +463,6 @@ https://github.com/ezio84/pnmod-n_build/commit/777344b2efc00ccffb1675be62c9f17af
 
 Auto DND fixes
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/d070a8e9e6a3e9f0b19e6499c07fec084914a944
+
+Add policy to SELinux to allow ViPER4Android in enforcing mode
+https://github.com/ezio84/pnmod-n_system_sepolicy/commit/c2d199d07ab8eaf23f105c822db73c6ab2759a81
