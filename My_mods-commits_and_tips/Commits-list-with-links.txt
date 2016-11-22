@@ -293,6 +293,7 @@ Battery icon customization
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/868b7ff652a8f38b1853ef2dd7883a3fad5f4ab2
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/8e3ace3e9a3f287faf3f7dec59f45ec0eb6d6e14
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/3eca409bf0b19fea1dfd1f608e795583a146a791
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/3d4ec51b0a567beca55b0dbacda2c081e66b8b27
 
 Allow disabling QS tiles when on secured lock screen
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/8225990e080224571f683d97fdcf68fc256539fe
