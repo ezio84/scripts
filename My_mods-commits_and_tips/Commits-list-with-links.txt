@@ -467,4 +467,11 @@ Add policy to SELinux to allow ViPER4Android in enforcing mode
 https://github.com/ezio84/pnmod-n_system_sepolicy/commit/c2d199d07ab8eaf23f105c822db73c6ab2759a81
 
 Custom dashboard tile summary
-https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/4a23703cedc485975b08435ee64108d27c638de3
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/ed4b321d0421ad3f65778dc57adf7e6860b02e4d
+
+Pixel theme colors
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/9db77e28189fc7083c7345ac2ea1e57e1be4d315
+https://github.com/ezio84/pnmod-n_packages_apps_Settings/commit/0f4c9ff38ec99c38e909c557bb3a28e758c0531c
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/53ed0616d63e7eec1766eee22c613326027c9866
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/be89db7f0e9c4eeabcca59c25c02ba3690e855fb
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/e2462990a310a6e021b722bdc359e2dcf68018fa
