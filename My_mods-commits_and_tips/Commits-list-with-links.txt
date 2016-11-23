@@ -290,10 +290,17 @@ https://github.com/ezio84/pnmod-n_frameworks_native/commit/08ff99b6d81a666f1e35d
 https://github.com/ezio84/pnmod-n_device_huawei_angler/commit/13d0fa500eb858b318da92b6393322b460e1d2aa
 
 Battery icon customization
-https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/868b7ff652a8f38b1853ef2dd7883a3fad5f4ab2
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/8e3ace3e9a3f287faf3f7dec59f45ec0eb6d6e14
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/3eca409bf0b19fea1dfd1f608e795583a146a791
-https://github.com/ezio84/pnmod-n_frameworks_base/commit/3d4ec51b0a567beca55b0dbacda2c081e66b8b27
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/d17b486bfd1f44c8435b36f36186ff05694f1770
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/cd3796b882509aa87d857784b96e9f5650362364
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/d6ddaf52fe83d8ee85b4a654adf3ce35d2404dbf
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/1d0b42033cc8c9ffe89ab4d95256d5ed2ea09f46
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/11f5d8e46b65643882003aa1c794edd4d9755e26
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/6c07a797c8b306d2dc64022afb891e70bed490e6
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/201e38fd7dcd23639886b18999dfc379e645925a
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/306dc54419d9420cb7d8a72ca9d43347ff51160c
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/bafd72efffb42c145b348d89eb832fef2b212a45
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/10dd569946eb875ad30ed3dbcc530c52f91dcbe5
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/7eac22f4e8aea2d361f031080824fccf1e40330b
 
 Allow disabling QS tiles when on secured lock screen
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/8225990e080224571f683d97fdcf68fc256539fe
