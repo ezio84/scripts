@@ -308,10 +308,13 @@ https://github.com/ezio84/pnmod-n_frameworks_base/commit/27d3ffa9d2d8d610bfb337b
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/ef099419d3dfcfc02ff8441ea3c80060082e949c
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/1b8cd3257af4f36152c457b60dd1f4e516aab158
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/1239724f4c44b320e9c3d9805bb9f80af7905407
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/1e9492743ec301bc10c33f63edab7cf84876c985
+https://github.com/ezio84/pnmod-n_frameworks_base/commit/2a95e29bb4f67f74228736784999c9d8b0404472
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/438fe785a0ff496e89c9d448a3340ec147f391c4
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/3edecfcee8ea1322c6f5cf9f58e84c666ff94d22
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/464aa12d2d6588f1119c647307df0e70f7edf259
 https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/bb57a106700e09453823183a72d26c5e28844718
+https://github.com/ezio84/pnmod-n_packages_apps_PureSettings/commit/13825462c4526139a85f5617bb8f944147873283
 
 Allow disabling QS tiles when on secured lock screen
 https://github.com/ezio84/pnmod-n_frameworks_base/commit/8225990e080224571f683d97fdcf68fc256539fe
