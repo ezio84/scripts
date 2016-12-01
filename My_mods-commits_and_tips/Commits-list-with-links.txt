@@ -498,3 +498,6 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/e2462990a310a6e021b722bdc
 Wake on plug 
 https://github.com/ezio84/abc-n_packages_apps_PureSettings/commit/816c7f248388879d99904178197fe105ac2c9de1
 https://github.com/ezio84/abc-n_frameworks_base/commit/18010a518a70bd675a1b5f5fa1fbc0c57b9679b4
+
+Center empty textview for BT
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/655753aa64520bfef7ccb925cf22d97607923289
