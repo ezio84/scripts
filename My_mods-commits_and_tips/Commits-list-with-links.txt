@@ -503,3 +503,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/18010a518a70bd675a1b5f5fa
 
 Center empty textview for BT
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/655753aa64520bfef7ccb925cf22d97607923289
+
+Allow to customize max SMS per minute limit
+https://github.com/ezio84/abc-n_packages_apps_PureSettings/commit/a433296eb966d6e518c6aca89093cf88d7773358
+https://github.com/ezio84/abc-n_frameworks_opt_telephony/commit/dcb107746c3a5a00d64858a5f6dc46cf79a50d55
