@@ -72,9 +72,14 @@ https://github.com/ezio84/abc-n_device_huawei_angler/commit/1f46cbc48de0073ae45d
 
 Build custom Settings sub-tree (it's built into Settings itself)
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/3845291ae1a76eb475b4d18231e430997bcc823d
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/01311bc14a39eef5f17a9c239bf04ed3a7ff6c68
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/8c00d72d37ff39d29e1f80464ec20b150e3a6a2c
 https://github.com/ezio84/abc-n_frameworks_base/commit/4a433eb116ce1128ca4350225d45d8d7e593bdbc
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6d1e55fc5111899bda7ea55dc188aaaca17b0a70
+
+Allow to run systuituner options from Settings
+https://github.com/ezio84/abc-n_frameworks_base/commit/de32cac631efe26d3b814e43b4029bde413bbe36
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/75733e84939983c3297834a2284f8370bee10fbf
 
 Custom seekbar, color picker and similar stuff
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/b0df29c0b780b774abfa6b33beb1578859450aef
