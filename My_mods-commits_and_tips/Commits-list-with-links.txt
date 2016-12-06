@@ -19,6 +19,7 @@ https://github.com/ezio84/abc-n_device_huawei_angler/commit/f8dccc715eac54cd3154
 
 Add Kcal color management support 
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/902d0a393ff721dc2ea9203cc9f259d905007fa1
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/b3650e920aad962b91fe53ff0b90f05ac2a73d5e
 
 High brightness mode
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/db37c295d36ba7296001b91edfcdbc2da1b2e037
@@ -33,6 +34,44 @@ https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/2267edd2949ea1e09784
 Multirom support
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/9662407bed797b08edd656735378f9f4325c8b70
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/c78f8b32175341de03a18a385b7521318ef0a873
+
+Advanced Reboot power menu 
+https://github.com/ezio84/abc-n_frameworks_base/commit/5e329dc52829d95af2523ac619b847ea6c0d8fc6
+https://github.com/ezio84/abc-n_frameworks_base/commit/1bd629f08028e5bd29f4b08ac438c72f515bf99c
+https://github.com/ezio84/abc-n_frameworks_base/commit/d0490576916c54a94c34777a1a27be6448ea5efa
+https://github.com/ezio84/abc-n_frameworks_base/commit/368cfb0f782b427962e50a02b0de40ae64a6a6dc
+https://github.com/ezio84/abc-n_vendor_nexus/commit/5a1166ff07c2222325fe83f87df694c41ce46095
+
+Change power save mod color to dark red
+https://github.com/ezio84/abc-n_frameworks_base/commit/e9ad0d5ceb13a5de92d5e2c95d299945aba20151
+
+
+ZenModeConfig: Fix weeknight and weekend days arrays
+https://github.com/ezio84/abc-n_frameworks_base/commit/1a56e470b8311b04f57a8bb3027c4c902f5c5b81
+
+Add statusbar header date and clock click targets
+https://github.com/ezio84/abc-n_frameworks_base/commit/84ca9e3d046fc1637a16d832f0fd7ceb2a7ad375
+
+Disable app verification and enable non market apps installation 
+https://github.com/ezio84/abc-n_frameworks_base/commit/256103f911995531b9a4c2f09c46707a6fa8c235
+
+Don't refresh ui when screen off
+https://github.com/ezio84/abc-n_frameworks_base/commit/1dd4491e76056d8fa63297fff6258b88c9658123
+
+Notifications: Materialize missed calls icons
+https://github.com/ezio84/abc-n_frameworks_base/commit/d535416eb3616b9696a18a4f727f920c1d74388a
+Materialize toast frames
+https://github.com/ezio84/abc-n_frameworks_base/commit/ac74e5c2f0f3b3d4875255be6a2005a4b689e034
+
+Make voicemail notifications dismissable on all carriers
+https://github.com/ezio84/abc-n_packages_services_Telephony/commit/de645d9096c079dfe52c150684de5a960ac1bad2
+
+add additional battery saver steps
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/8b96cc69dc44670fa4182a724a8f377d1494070c
+
+Show application's package name in the "App info" screen.
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/390ac09adfd96d1952a9f05542dd85a371e6a684
+
 
 
 
@@ -64,6 +103,12 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/21d5c752f8670ded53
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/1bd30c580bd1587bcd0106e3b01982724ca68a96
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3417a7207e473ca0f24a836f6a4cd81ce80ba7e2
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3ac3727aff37bb596e91f77c58524a477dad66f5
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/7592ff9070d477c118d88ec6de17392e87432658
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/e663305a735d5a42d3c30fc10f885c35fd7d1abe
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3e934e558d63d73e2251b573950525b7de103d5d
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/95c4cdf83629672f22a86fa6c160a283d8e4807c
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/975d0c4dc530d271af94544297c68b30d7d5c072
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/debff04764ec8a6077ae1fa91f594e49249a315c
 then add busybox tree (the build commit is in the custom vendor tree)
 Build kernel inline:
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/cffb41cd5158d08a7278eead69667aa517eedd07
@@ -88,3 +133,19 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/9541687657b8bbb
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f513e9123e0009a446fb11e55e39a2e71c7c5ff6
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5ad74d189e17fc90cc755ffb49a235f5f5703c13
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/690b11b88cdb72c62916fba8af86d37b3bbbf6fc
+
+Permissions fixes
+https://github.com/ezio84/abc-n_frameworks_base/commit/1657815bed5e36e362a03537d018d846c027b33f
+https://github.com/ezio84/abc-n_frameworks_base/commit/87d5317a5bb83a09a68182d18f40f3f35ef90c38
+https://github.com/ezio84/abc-n_frameworks_base/commit/4d871b13853b46af938b8967e986fd2cc38f11df
+https://github.com/ezio84/abc-n_frameworks_base/commit/197f25ee1129138052484bc3bdf9cb362207b5e9
+https://github.com/ezio84/abc-n_frameworks_base/commit/74da0428c16cd48aa3aac658cec5c93647ca470c
+https://github.com/ezio84/abc-n_frameworks_base/commit/25edce90952b1696f3dd2776452f2cdbe0c63d86
+https://github.com/ezio84/abc-n_frameworks_base/commit/1308afd64745b8f12b51b663aa81a7dfee1aabb1
+https://github.com/ezio84/abc-n_frameworks_base/commit/18e827f573882004f5070fdf7702f142beed9cc0
+https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/2c544b530774815e1cb4fd74fc9f5f4f27afe53d
+https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/b9386c25fe6d35cdf38f65d815246dc0e1be36fa
+
+Dialer: fix compilation issues when importing System Settings
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
+
