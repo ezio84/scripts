@@ -74,6 +74,7 @@ Build custom Settings sub-tree (it's built into Settings itself)
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/3845291ae1a76eb475b4d18231e430997bcc823d
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/8c00d72d37ff39d29e1f80464ec20b150e3a6a2c
 https://github.com/ezio84/abc-n_frameworks_base/commit/4a433eb116ce1128ca4350225d45d8d7e593bdbc
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6d1e55fc5111899bda7ea55dc188aaaca17b0a70
 
 Custom seekbar, color picker and similar stuff
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/b0df29c0b780b774abfa6b33beb1578859450aef
