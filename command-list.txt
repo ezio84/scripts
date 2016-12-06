@@ -4,7 +4,7 @@
  . scripts/build_kernel.sh angler log
 . mkgapps.sh
 
-git push abc oms7
+git push abc n2
 
 adb root
 adb remount
