@@ -72,9 +72,15 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/8b96cc69dc44670fa4
 Show application's package name in the "App info" screen.
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/390ac09adfd96d1952a9f05542dd85a371e6a684
 
+add volume tones and toggle back 
+https://github.com/ezio84/abc-n_frameworks_base/commit/2985d6c6f0ad874a273047d798eeaadb0b39c096
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/ad70c08aeb5611ee43b2f886554b871852746e26
 
-
-
+Quick settings pull down with one finger
+https://github.com/ezio84/abc-n_frameworks_base/commit/e49727dc392c8984c48b56ea56031ec6e0726c38
+https://github.com/ezio84/abc-n_frameworks_base/commit/fb6cdb41f21051392fd3b064dcf968b2222b1a01
+https://github.com/ezio84/abc-n_frameworks_base/commit/bf09a55571c009b47bad62755b6868c892b9ce7f
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/68b05a83a61e6c47889a6d142a3c634262595e25
 
 
 
