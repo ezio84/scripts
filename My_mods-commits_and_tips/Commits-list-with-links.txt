@@ -1,4 +1,47 @@
-*WIP*
+Viper4Android selinux enforcing
+https://github.com/ezio84/abc-n_system_sepolicy/commit/53cd9a7abe191b0547b36b3f2299a9f7087251a5
+
+Add custom hosts file to block some spam by default 
+https://github.com/ezio84/abc-n_system_core/commit/df8bfffa71247c4e9191d44897a1bb25957f1870
+
+Settings: Enable storage manager 
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/0a4181a121b057f2193c0bba21d91a43f84d2387
+
+Use 3gb dalvik heap and hwui 
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/134ad4146573387cd60c2589b16d564f2b264dc7
+https://github.com/ezio84/abc-n_frameworks_native/commit/bb187cc75ed15f05d8e5f189e8d6f17fbfcec155
+
+Boot with all cpus
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/38e2087a6f18d6915e3eefbd237bac72ccaadc31
+
+Enable hardware night mode for angler
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/f8dccc715eac54cd3154de728901d2b086b338de
+
+Add Kcal color management support 
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/902d0a393ff721dc2ea9203cc9f259d905007fa1
+
+High brightness mode
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/db37c295d36ba7296001b91edfcdbc2da1b2e037
+
+Franco sound
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/0b2f7b199e7c746c6a14da1997d7501d076c9569
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/e9d8d7dcc75fbc3469c5014926cca28307b37b92
+
+Angler kernel disable crc check
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/2267edd2949ea1e09784ab2ea53fb0c6ff521086
+
+Multirom support
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/9662407bed797b08edd656735378f9f4325c8b70
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/c78f8b32175341de03a18a385b7521318ef0a873
+
+
+
+
+
+
+
+
+-----------------
 
 Build environment preparation
 cleanup manifest: https://github.com/ezio84/abc-n_manifest/commit/88d7be15d84788efc08a8edc7dbf74d6a1d3236e
@@ -10,11 +53,32 @@ https://github.com/ezio84/abc-n_system_sepolicy/commit/d47b3bd8fa442c618a8ffc47e
 https://github.com/ezio84/abc-n_system_sepolicy/commit/dbe0e666e8e04b01c6b17ebb03e2215cb2d25a69
 https://github.com/ezio84/abc-n_system_sepolicy/commit/655e7438bd918a4dc2f84b28370dc15d8955e5c7
 https://github.com/ezio84/abc-n_frameworks_support/commit/e95bdc6973fc9b8b475fc1492141b288bba3820b
-https://github.com/ezio84/abc-n_system_extras/commit/633f2f1ee1378925016ac89750b0dda9d96f005a
+https://github.com/ezio84/abc-n_system_extras/commit/0c255ca96bb5a4e93da42a03347273df1def45d9
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/65f851e3b3591e4a813a2bf9618914287712ef1a
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/ac92b3e919735724cd5309af3c28cee7e878d0bd
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/e292c6b9281a0a5e6b4a5518b8c3168b05cb9a8f
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c7c2245dbaf680cb898b4785914a4d18528bf5fa
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/5a8c3433a3883e025e3408a310a1f45a829ff1ac
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/ecdde26b66cd0030dc542f4bd840c125e0a9f1c4
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/21d5c752f8670ded53a31ff875994dcefce15788
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/1bd30c580bd1587bcd0106e3b01982724ca68a96
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3417a7207e473ca0f24a836f6a4cd81ce80ba7e2
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3ac3727aff37bb596e91f77c58524a477dad66f5
 then add busybox tree (the build commit is in the custom vendor tree)
+Build kernel inline:
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/cffb41cd5158d08a7278eead69667aa517eedd07
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/d99e0bca3e4f1bfc0c1c67db977d45a30005b1b1
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/1f46cbc48de0073ae45d1efaa548cc181ff90be1
 
-Viper4Android selinux enforcing
-https://github.com/ezio84/abc-n_system_sepolicy/commit/53cd9a7abe191b0547b36b3f2299a9f7087251a5
+Build custom Settings sub-tree (it's built into Settings itself)
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/3845291ae1a76eb475b4d18231e430997bcc823d
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/8c00d72d37ff39d29e1f80464ec20b150e3a6a2c
+https://github.com/ezio84/abc-n_frameworks_base/commit/4a433eb116ce1128ca4350225d45d8d7e593bdbc
 
-Add custom hosts file to block some spam by default 
-https://github.com/ezio84/abc-n_system_core/commit/df8bfffa71247c4e9191d44897a1bb25957f1870
+Custom seekbar, color picker and similar stuff
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/b0df29c0b780b774abfa6b33beb1578859450aef
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/4d17adf40e03c3c2bc785307c09807bd6fa3baa3
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/9541687657b8bbb4fb1ede4c19da75d855037881
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f513e9123e0009a446fb11e55e39a2e71c7c5ff6
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5ad74d189e17fc90cc755ffb49a235f5f5703c13
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/690b11b88cdb72c62916fba8af86d37b3bbbf6fc
