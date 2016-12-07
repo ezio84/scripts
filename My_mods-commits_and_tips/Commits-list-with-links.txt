@@ -7,7 +7,7 @@ https://github.com/ezio84/abc-n_system_core/commit/df8bfffa71247c4e9191d44897a1b
 Settings: Enable storage manager 
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/0a4181a121b057f2193c0bba21d91a43f84d2387
 
-Enable hardware night mode for angler
+Enable hardware night mode
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/f8dccc715eac54cd3154de728901d2b086b338de
 
 Add Kcal color management support 
@@ -51,11 +51,6 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/256103f911995531b9a4c2f09
 Don't refresh ui when screen off
 https://github.com/ezio84/abc-n_frameworks_base/commit/1dd4491e76056d8fa63297fff6258b88c9658123
 
-Notifications: Materialize missed calls icons
-https://github.com/ezio84/abc-n_frameworks_base/commit/d535416eb3616b9696a18a4f727f920c1d74388a
-Materialize toast frames
-https://github.com/ezio84/abc-n_frameworks_base/commit/ac74e5c2f0f3b3d4875255be6a2005a4b689e034
-
 Make voicemail notifications dismissable on all carriers
 https://github.com/ezio84/abc-n_packages_services_Telephony/commit/de645d9096c079dfe52c150684de5a960ac1bad2
 
@@ -73,20 +68,74 @@ Quick settings pull down with one finger
 https://github.com/ezio84/abc-n_frameworks_base/commit/e49727dc392c8984c48b56ea56031ec6e0726c38
 https://github.com/ezio84/abc-n_frameworks_base/commit/fb6cdb41f21051392fd3b064dcf968b2222b1a01
 https://github.com/ezio84/abc-n_frameworks_base/commit/bf09a55571c009b47bad62755b6868c892b9ce7f
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/3f6d7786b5647010f518e07eeb302838aab29f73
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e1c9176fb6519e5a1ff37c5b5fca62d1ef8a7c39
 
 Statusbar double tap to sleep 
 https://github.com/ezio84/abc-n_frameworks_base/commit/746fff29bda98f96f103dc40c9dfa36a107bdf3e
 https://github.com/ezio84/abc-n_frameworks_base/commit/991a0555d80bee624e4b93302823b64d8e57c93a
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/036024a75d4ee1fe3f38fe3053ffb8fdba735831
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/14de6be05af7396734a13e7bf80c9366299e1b0d
 
 Double tap to sleep anywhere on the lock screen
 https://github.com/ezio84/abc-n_frameworks_base/commit/4d73c89c48710b0af94f73e217c1a9489725a57e
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/d20536d2a6b3c4c501bc06dac2d3cda9f9286010
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/025ee696211967172377036283dbcf7d2c3fd174
 
 Statusbar clock and date customizations 
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/a06722c35c7f651058884e2f13800d669dfb220c
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0a3ab006b68697ef1c6048af58e7372c0412d1f1
 https://github.com/ezio84/abc-n_frameworks_base/commit/f89a4bc064de87523921040fe9b8595caae38aa8
+
+Materialize some icons
+https://github.com/ezio84/abc-n_frameworks_base/commit/d535416eb3616b9696a18a4f727f920c1d74388a
+https://github.com/ezio84/abc-n_frameworks_base/commit/ac74e5c2f0f3b3d4875255be6a2005a4b689e034
+https://github.com/ezio84/abc-n_frameworks_base/commit/a98eaedd9973b789747a796585373d72e4b32cab
+
+Convert DocumentUI to full file manager
+https://github.com/ezio84/abc-n_frameworks_base/commit/2dda2880f3443550868a81c7926a546c7d131421
+
+Enable Gestures menu 
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/a561faa0702afe64be2ba42ca6bdefc4007228f3
+
+QS tiles and small tiles customizations
+https://github.com/ezio84/abc-n_frameworks_base/commit/04defd98a908aa5fd321b1959c46c04650c5d68f
+https://github.com/ezio84/abc-n_frameworks_base/commit/ff98ed46624cde380d353935f96dba21bac62d2c
+https://github.com/ezio84/abc-n_frameworks_base/commit/f1b0f3d1b9a5acdce165054c2982269cf0c98ebe
+https://github.com/ezio84/abc-n_frameworks_base/commit/176fb910d5e260522d0032a8f6552919ca660741
+https://github.com/ezio84/abc-n_frameworks_base/commit/ab933f499ea13a5e3803d02a5987d13002b2ab43
+https://github.com/ezio84/abc-n_frameworks_base/commit/ea8ebf1b3ccf5a71f43b8ba125c785ab1cc034a3
+https://github.com/ezio84/abc-n_frameworks_base/commit/4d105ea0956ca9b277bd7ed79465ce53c37463d8
+https://github.com/ezio84/abc-n_frameworks_base/commit/0bb2aecea9e3b3ee3571dc976cec40a4c66afac6
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c99974e8f9b1ff1a1e82afbe1b72a89346759086
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/3c26344f1e9a0e0203d0d23711de33fdfb7954d6
+Tiles:
+https://github.com/ezio84/abc-n_frameworks_base/commit/2b64850dc5a97bee0144b272a7cfa1a9cabd2b40
+https://github.com/ezio84/abc-n_frameworks_base/commit/faeabdbf25e862332eb8e5d38fa80e1ef6003ae1
+    https://github.com/ezio84/abc-n_frameworks_base/commit/63b9a3f08f36806b4d1f3624b8b0b1ac75386b06
+https://github.com/ezio84/abc-n_frameworks_base/commit/e5dd52cf1d209f35e0a613726810128a1d4ee6d9
+    https://github.com/ezio84/abc-n_frameworks_base/commit/c9dbb7a82557f1fb0f9a3c9a8bf2b6b863beb4d7
+https://github.com/ezio84/abc-n_frameworks_base/commit/88fe475551dbadafe14d83e890bf498ba9b2b4cd
+    https://github.com/ezio84/abc-n_frameworks_base/commit/d702a597da2fa58062f357178ddd314cd8191165
+https://github.com/ezio84/abc-n_frameworks_base/commit/d702a597da2fa58062f357178ddd314cd8191165
+    https://github.com/ezio84/abc-n_frameworks_base/commit/08588261e5303784018b4bd3af23a2c0f16e0c44
+    https://github.com/ezio84/abc-n_frameworks_base/commit/9159a31060de3395e8e032452071154bfd5d8277
+    https://github.com/ezio84/abc-n_vendor_nexus/commit/a3c6461ec0c93178930f2f7762acd08e15ac7dff
+https://github.com/ezio84/abc-n_frameworks_base/commit/17cd5b5b763b01b41f07b4309cfa98b84d7f5150
+    https://github.com/ezio84/abc-n_frameworks_base/commit/b85c5addd9c94312bdfeab310e4f88f3fff25671
+Data tiles easy toggles:
+https://github.com/ezio84/abc-n_frameworks_base/commit/947a81566cf5993f45e4e4e8e8088dbceb3f3e25
+https://github.com/ezio84/abc-n_frameworks_base/commit/59d9a249b936dd6b78dede05838e6956702c8188
+https://github.com/ezio84/abc-n_frameworks_base/commit/2e90934578d180c5799a84571052c92ddd5dccfa
+https://github.com/ezio84/abc-n_frameworks_base/commit/2b50963c84823dbfcb4ca38cf1c9cc2d66b9de4d
+https://github.com/ezio84/abc-n_frameworks_base/commit/ee44dfa3bced591a7a077bb3e5db0a2c20b23726
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c2813dec5ba5f4d25c3bad09acfefd89a79ede17
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/bb519eb1570c55dca011f0c2705d19cc05570926
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/69355b122d174c361bec86b9ddb983e997041a10
+
+
+
+
+
+
+
+
 
 -----------------
 
@@ -120,7 +169,20 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/debff04764ec8a6077
 https://github.com/ezio84/abc-n_frameworks_base/commit/dbf48b03cce9eb42ae44f60318891b10579cb2d6
 https://github.com/ezio84/abc-n_frameworks_base/commit/870563d184c7de3a2f952c8fda8e4ea1ebc7b463
 https://github.com/ezio84/abc-n_frameworks_base/commit/a810dab6766b35ae2d78266eaa1b11eccda42aab
+https://github.com/ezio84/abc-n_frameworks_base/commit/75c210838311984c343d3ef265674c7b1da57ce9
+https://github.com/ezio84/abc-n_frameworks_base/commit/7b6db5a81d9e0e73c6892890a651728371ba504f
+https://github.com/ezio84/abc-n_frameworks_base/commit/72026814729486736d4b23c0b58ec9a937662ce8
+https://github.com/ezio84/abc-n_frameworks_base/commit/d7c948c6ab592fe02c5c12db6bfb1867d6c66ff4
+https://github.com/ezio84/abc-n_frameworks_base/commit/c0201d52e3bb64074a5e660a0a1bb9e698ef4210
+https://github.com/ezio84/abc-n_frameworks_base/commit/8dc266c97a22086624dc272961ce1c2a96847f00
+https://github.com/ezio84/abc-n_frameworks_base/commit/d7b2fd1c9b071d20688602ade13690bd7c73cc75
+https://github.com/ezio84/abc-n_frameworks_base/commit/32b3ee2452b3e8ff4e96ccdbeb6225ea078749f2
+https://github.com/ezio84/abc-n_frameworks_base/commit/9fecfb1ffb6ae37fa08f62a868748201dbba175d
+https://github.com/ezio84/abc-n_frameworks_base/commit/9687f642557091ed446434e7da743a3f8a0d8dee
+https://github.com/ezio84/abc-n_frameworks_base/commit/8bc2aa25475035e6d08fa5175c885ae06528af86
+
 then add busybox tree (the build commit is in the custom vendor tree)
+
 Build kernel inline:
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/cffb41cd5158d08a7278eead69667aa517eedd07
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/d99e0bca3e4f1bfc0c1c67db977d45a30005b1b1
@@ -128,14 +190,14 @@ https://github.com/ezio84/abc-n_device_huawei_angler/commit/1f46cbc48de0073ae45d
 
 Build custom Settings sub-tree (it's built into Settings itself)
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/3845291ae1a76eb475b4d18231e430997bcc823d
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/01311bc14a39eef5f17a9c239bf04ed3a7ff6c68
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e8abb84891f53c605b5ddd60a855f9f1e9f3351c
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/8c00d72d37ff39d29e1f80464ec20b150e3a6a2c
 https://github.com/ezio84/abc-n_frameworks_base/commit/4a433eb116ce1128ca4350225d45d8d7e593bdbc
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6d1e55fc5111899bda7ea55dc188aaaca17b0a70
 
 Allow to run systuituner options from Settings and tuner improvements
 https://github.com/ezio84/abc-n_frameworks_base/commit/de32cac631efe26d3b814e43b4029bde413bbe36
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/2bbf84b818c1f253cba12d48e3d77e8d43aa2b9e
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6a256c525fb94c3f4ba4e4d37ee06d895e89f67b
 https://github.com/ezio84/abc-n_frameworks_base/commit/4fc1037646108b91b1360678fe360d7cd7daf16f
 https://github.com/ezio84/abc-n_frameworks_base/commit/2b99adf12a1c7bfb8035de41ae621dd8b9dd0199
 
@@ -168,4 +230,20 @@ https://github.com/ezio84/abc-n_frameworks_native/commit/bb187cc75ed15f05d8e5f18
 
 Boot with all cpus
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/38e2087a6f18d6915e3eefbd237bac72ccaadc31
+
+Additional roaming and international apn improvements
+https://github.com/ezio84/abc-n_frameworks_base/commit/09267fb07897d813c32da82ad8220c6076b9c3f8
+https://github.com/ezio84/abc-n_frameworks_base/commit/24b064e5312a0d88f622a25bdabeb22ad2ebbce1
+https://github.com/ezio84/abc-n_frameworks_base/commit/9f7c49b24609725f5d5c369174bed026e38019d4
+https://github.com/ezio84/abc-n_frameworks_base/commit/e1b6efce48d875ccfa70503976b2da0fc1ea9485
+https://github.com/ezio84/abc-n_frameworks_base/commit/191ae57d36c8b8f169b37e6edfe298d10f56cbcd
+https://github.com/ezio84/abc-n_frameworks_base/commit/50f0a335140fb1270b476b9a1be2a5b3db651b5a
+https://github.com/ezio84/abc-n_frameworks_base/commit/7a4c2a3a271fd612de1b6ca6d5599bba4944f249
+https://github.com/ezio84/abc-n_frameworks_base/commit/09f4cf3a764d8d39527b8cc55c99dc0756b0fe3f
+https://github.com/ezio84/abc-n_frameworks_base/commit/ae9df9d8c5dccfedf3ea7f35065f4bacee4b9265
+https://github.com/ezio84/abc-n_frameworks_base/commit/e8c7c2eb29e12aec657844ee9109ba4ea5613f9b
+https://github.com/ezio84/abc-n_frameworks_base/commit/69cdc79a2f64443c258a083b2cecd81e9f0521bd
+https://github.com/ezio84/abc-n_frameworks_base/commit/fc25a76d008323cc41e899d2e1b089432adb6e4b
+https://github.com/ezio84/abc-n_frameworks_base/commit/2081846190c060ced43141b53f4cffb0c51f6fdd
+https://github.com/ezio84/abc-n_frameworks_base/commit/f9353fd24920f1d07a57237843cc2ccfb9315f77
 
