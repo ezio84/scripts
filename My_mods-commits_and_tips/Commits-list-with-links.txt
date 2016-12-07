@@ -88,6 +88,7 @@ Materialize some icons
 https://github.com/ezio84/abc-n_frameworks_base/commit/d535416eb3616b9696a18a4f727f920c1d74388a
 https://github.com/ezio84/abc-n_frameworks_base/commit/ac74e5c2f0f3b3d4875255be6a2005a4b689e034
 https://github.com/ezio84/abc-n_frameworks_base/commit/a98eaedd9973b789747a796585373d72e4b32cab
+https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/6d0b542d1ddbb05596d54685431c95937198a422
 
 Convert DocumentUI to full file manager
 https://github.com/ezio84/abc-n_frameworks_base/commit/2dda2880f3443550868a81c7926a546c7d131421
@@ -144,6 +145,119 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/2f04f566709fbb9
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0239fddf02280160fe7bdc4ce847e993abbe0737
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/bd6605795f2c0738a158b70810c220c937f4f197
 
+Display bluetooth battery status when available
+https://github.com/ezio84/abc-n_frameworks_base/commit/da47d001c52369c4da2d872ff575dc2305dac976
+https://github.com/ezio84/abc-n_packages_apps_Bluetooth/commit/69b92cd04e87e764e87ebdbc23b877cae1b5b704
+
+Enable ProximityWake
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/71d19cefc36e0033c7ff5de4222c6368e1d8d9dc
+https://github.com/ezio84/abc-n_frameworks_base/commit/d506f1d84f3c28f0a21cf56b337e7235c8b5e578
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/38a1938886dcc1936c92635447daa19230d6a7c5
+
+Hide power menu on lockscreen
+https://github.com/ezio84/abc-n_frameworks_base/commit/12f1572734f4ffaa6ce3ef87c74e94e7519a6ca1
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0de80f952dce8f333a62c0833dd1b9abad2e070f
+
+Show icon of background package associated with Toast
+https://github.com/ezio84/abc-n_frameworks_base/commit/ff6c2c6d91529a7e55d89e73a7b5ab2ce99f0f89
+https://github.com/ezio84/abc-n_frameworks_base/commit/b2271e3b2df4177b19596f83cae82457c25accfa
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/4468e4bec83a15354fc4e91b183c5b37e11b6864
+
+Statusbar Network Indicators 
+https://github.com/ezio84/abc-n_frameworks_base/commit/9723fbbbad0a02753789f1c9f2e1736f08646c39
+https://github.com/ezio84/abc-n_frameworks_base/commit/285f69bd043132d3b7d40e9cb1b3c1039acf164c
+https://github.com/ezio84/abc-n_frameworks_base/commit/dc3d023fc994cb980f8b474fc8a74f60d30049e6
+https://github.com/ezio84/abc-n_frameworks_base/commit/b3449806ecd3e036867677be1c7bd61984c37481
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/1bf2df2d295f6c97d34779481abce09d0204d856
+
+Disable Lockscreen Media Art 
+https://github.com/ezio84/abc-n_frameworks_base/commit/c76fad94bca204f70c61cac576c072c37ad4b5a6
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/511d78f21d33034171beb5bea636f8934bb68930
+
+Add download speed, remaining time, and percentage in notification
+https://github.com/ezio84/abc-n_packages_providers_DownloadProvider/commit/b43cf7873888430092eccc185a949bae525c342b
+https://github.com/ezio84/abc-n_packages_providers_DownloadProvider/commit/cadfbfd6db67b970fcea7e8e28f94974db9b3f89
+
+Proximit speaker
+https://github.com/ezio84/abc-n_frameworks_base/commit/c206d49675a62aacfbeafc09844fb55e192ac2ad
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/bf59ec1d90b94a7bf0a68cd63a4e86850d812a4d
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/dd55353d91dfbe895b420bb3fbaf17b3f253b97e
+
+Flip to Mute/Reject Call
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/65e126c4d16f39ccb66dbef5c04724c3e54d2151
+https://github.com/ezio84/abc-n_packages_services_Telephony/commit/d63bfcc838220c1acb61ec767713673664afaeee
+https://github.com/ezio84/abc-n_frameworks_base/commit/2453265942abf19fdcac14f64d53dcafdeea080a
+
+Keyguard: scramble pin layout when unlocking
+https://github.com/ezio84/abc-n_frameworks_base/commit/3f942cdda3b2d0c497e194aed2efe57e436ade8b
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5a7f75fa321eb54cf24d40d2a7e4c752f8cddcc8
+
+Add ability to disable ripple when entering lockscreen pin 
+https://github.com/ezio84/abc-n_frameworks_base/commit/77b7f8fbcfe6fa700a7c2fae7e261a2169b8242b
+https://github.com/ezio84/abc-n_frameworks_base/commit/a5d3b247557eede60c1ac2276b698b4317008ad8
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/73e1865006898db4ae21d56ac164849e9ddfe261
+
+Increasing ring
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/2ffa918d958f3a7592930d5e576cd5c251ab0f4e
+https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/ed52808507f235664b69e3e41c229a3f739b5665
+https://github.com/ezio84/abc-n_frameworks_base/commit/d3ccfd475d9408dedf708a142d27bd3036c8d1f8
+
+Forward port power connect/disconnect notification support 
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/02754e0cfc2010b12f810e046c9ca85f8ff5111d
+https://github.com/ezio84/abc-n_frameworks_base/commit/347dcb5a39048c7a264e53c2d40cf5d7a8771bbd
+https://github.com/ezio84/abc-n_frameworks_base/commit/583068dfadd8afa14d92f08a33229703354d52b3
+https://github.com/ezio84/abc-n_frameworks_base/commit/6986a30c89b474074171ddb1993f5bcdc214a1e5
+
+Longpress power lockscreen torch
+https://github.com/ezio84/abc-n_frameworks_base/commit/b83db7d821d8b299e7a87800a86ccdad41a6e4d0
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f7bc8990cf14017de809c9640267433e7d0d77cb
+
+Contacts bring back basic group support 
+https://github.com/ezio84/abc-n_packages_apps_ContactsCommon/commit/8515c468e81bae8061be409637bfc3f8b86889a6
+https://github.com/ezio84/abc-n_packages_apps_Contacts/commit/697cc58ee79aaf2c931c0d6b181872be4d125aa7
+https://github.com/ezio84/abc-n_packages_apps_Contacts/commit/47e88034bc0ae267b02acc0d2d3b67e02c7742e0
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/37aaf0f759256a8a8e451553914235f3d9dfa508
+
+Disable screenshot sound
+https://github.com/ezio84/abc-n_frameworks_base/commit/0d38bfaa3f7f08d2e19caaff046aa64cc8c2b88f
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/7cfab5e56473c846b6f9a043a140110a878abcfc
+
+Show battery info on lockscreen when charging
+https://github.com/ezio84/abc-n_frameworks_base/commit/964b0de02798691b0ddf64efe71f55381a2dd96d
+https://github.com/ezio84/abc-n_frameworks_base/commit/85cf68f7846cabbfff04eaf4358c1c32d0ca8265
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/518102ecb0dc5f946c8c5a95cb952b5411152714
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e386aceeefac7d49c9bdd98e3663ea05b73316af
+
+Unlink notification volume 
+https://github.com/ezio84/abc-n_frameworks_base/commit/14fa15a80ff80b637043ce1465391e963e76f9a7
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/214e4bf0ea92c02e3020e83c1373e918cc6bfe77
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/d4c2d2cb5465849d2f0657d8896243a64e75106b
+
+Support enforcing a minimum delay between notification sounds of an app
+https://github.com/ezio84/abc-n_frameworks_base/commit/b0779afb3226da2e63e4c7684aadba15373d0646
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/b1bbd97674b8bfce81d92e00d05d348de00f1145
+
+Disable Dashboard Conditions 
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/4c8019c0a1c944d95d4d902bb89a469c958af1e6
+
+Allow adjusting screen density to smaller sizes
+https://github.com/ezio84/abc-n_frameworks_base/commit/95da50a8a42036bac39775d69abf81f1a0ac6a20
+
+Wake on plug
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/d4ea45cd82fff957a846afe5a39764b206508818
+https://github.com/ezio84/abc-n_frameworks_base/commit/8a2edd12feb22e0de97a62130a7cbc9bc6a43f97
+
+Allow to customize max SMS per minute limit
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5b57290bad3b8a777acbc6d78960770ca78b42cf
+https://github.com/ezio84/abc-n_frameworks_opt_telephony/commit/b3be4cbc075c546470d4b0f01ea040e3d1046aaf
+
+
+
+
+
+
+
 
 
 
@@ -192,6 +306,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/32b3ee2452b3e8ff4e96ccdbe
 https://github.com/ezio84/abc-n_frameworks_base/commit/9fecfb1ffb6ae37fa08f62a868748201dbba175d
 https://github.com/ezio84/abc-n_frameworks_base/commit/9687f642557091ed446434e7da743a3f8a0d8dee
 https://github.com/ezio84/abc-n_frameworks_base/commit/8bc2aa25475035e6d08fa5175c885ae06528af86
+https://github.com/ezio84/abc-n_frameworks_base/commit/acac888caf2e8432c3441f5b43ec53546f2139a5
+https://github.com/ezio84/abc-n_frameworks_base/blob/n2/core/java/com/android/internal/util/abc/DuUtils.java
+https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/38175cdea30435d9d20c6602d9f2aa585a423a6d
 
 then add busybox tree (the build commit is in the custom vendor tree)
 
