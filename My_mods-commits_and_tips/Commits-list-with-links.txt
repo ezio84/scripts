@@ -210,7 +210,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/583068dfadd8afa14d92f08a3
 https://github.com/ezio84/abc-n_frameworks_base/commit/6986a30c89b474074171ddb1993f5bcdc214a1e5
 
 Longpress power lockscreen torch
-https://github.com/ezio84/abc-n_frameworks_base/commit/b83db7d821d8b299e7a87800a86ccdad41a6e4d0
+https://github.com/ezio84/abc-n_frameworks_base/commit/b83db7d821d8b299e7a87800a86ccdad41a6e4d0 (in the DuUtils.java set the correct package name package com.android.internal.util.abc;)
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f7bc8990cf14017de809c9640267433e7d0d77cb
 
 Contacts bring back basic group support 
@@ -251,6 +251,50 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/8a2edd12feb22e0de97a62130
 Allow to customize max SMS per minute limit
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5b57290bad3b8a777acbc6d78960770ca78b42cf
 https://github.com/ezio84/abc-n_frameworks_opt_telephony/commit/b3be4cbc075c546470d4b0f01ea040e3d1046aaf
+
+Partial screenshot and screenshot delay (both power menu and tile)
+https://github.com/ezio84/abc-n_frameworks_base/commit/4eb3d14e2afd173c887b197a4bace8dacb91589d
+https://github.com/ezio84/abc-n_frameworks_base/commit/59f755699c172e20f6e5eb2fbf998207ed821ba6
+https://github.com/ezio84/abc-n_frameworks_base/commit/8d2f0a1bc02a4eec747ebc54d0d7415a72b15b9f
+https://github.com/ezio84/abc-n_frameworks_base/commit/10e024a3cd8feab963786d9a82abc2ff2598f389
+https://github.com/ezio84/abc-n_frameworks_base/commit/d7faf8dcdaf069463e1e460b14a86b6dc38d13ea
+https://github.com/ezio84/abc-n_frameworks_base/commit/bac0ac6763f89e14afb69900725a6c1bf235ac54
+https://github.com/ezio84/abc-n_frameworks_base/commit/426faf2f80e5d4a87e881558203fc15da267dde3
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6b55618189406b3e57ecbd6bfc7e90eaf6e64fc1
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c54f29582a31e2c48ed0f8927774f00e3ead75c4
+
+Battery And Notification Lights
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/ee8e80e7b6a734462fc16138af9b3289beb40edb
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6a2520dd1fcb1b809b1e99b7a326a41ae309afc2
+https://github.com/ezio84/abc-n_frameworks_base/commit/bd01a1c18cf09d7a500b9d62496f54bb9157dc56
+
+Battery icon customizations
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6b6bf10c28668153ca8cec05b19f88dbdb5ec571
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0aa81770e3c9c99d65fb46632f66162268ef4ae2
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/a12bd855823c027d4f7bcf40b3443f32e7fa223e
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c724a59faf7530692d4e787dc88ec26f4b93417d
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/da1d2861ba72ca5e89548d0c74c48c7da224684f
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/66525f22ea073350d4a522011430b6082cd96bc5
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/1624415b9d4167201b7d4adbdc3fa8dc2ccaf446
+https://github.com/ezio84/abc-n_frameworks_base/commit/47950a18ce158f3036af6cbdb43ca0bb33581a3a
+https://github.com/ezio84/abc-n_frameworks_base/commit/c80a2aa69f1bb127275d4b341a766d0061e10df1
+https://github.com/ezio84/abc-n_frameworks_base/commit/3cba3f33113c274c6417257d5d439ddf4f833788
+https://github.com/ezio84/abc-n_frameworks_base/commit/8a337df2a72337d13af0d94869be0f7d29df6dd8
+https://github.com/ezio84/abc-n_frameworks_base/commit/cf4cece1ad19a8fb3ca29ca7282dafcb18f75065
+https://github.com/ezio84/abc-n_frameworks_base/commit/7666d8f5f1767d780537db28183b6a9989de6af5
+https://github.com/ezio84/abc-n_frameworks_base/commit/d6cbc158401979b925a90687d3b1dd7186995ac7
+https://github.com/ezio84/abc-n_frameworks_base/commit/4d7230dd7812ec749c900bc4f254208574b85ea1
+https://github.com/ezio84/abc-n_frameworks_base/commit/768f1b135daeda0be96596701681148636fe29bf
+https://github.com/ezio84/abc-n_frameworks_base/commit/d93ba9bb83b29166c43bd50895ca36e4df70a1b2
+https://github.com/ezio84/abc-n_frameworks_base/commit/a9358661a3c754a7f2d5e3252952516cc9accb8f
+https://github.com/ezio84/abc-n_frameworks_base/commit/5d4dd8ff2dc0ffbad504d564516b681c6ab2c5eb
+https://github.com/ezio84/abc-n_frameworks_base/commit/7bb78f03259a051efb56b79c400eefd6d853aef9
+https://github.com/ezio84/abc-n_frameworks_base/commit/39310c6fe291ba60b438d72f4f698167a02641cc
+https://github.com/ezio84/abc-n_frameworks_base/commit/622d9a2b031034d2d2fcb1e6ebabcfb6271c4fd7
+https://github.com/ezio84/abc-n_frameworks_base/commit/3ee01128b969923de6a956cad92da08b97bd1a58
+https://github.com/ezio84/abc-n_frameworks_base/commit/705cb6730436510d5112aadedcb05bc01690edab
+https://github.com/ezio84/abc-n_frameworks_base/commit/84a0a10b7c1a7d7c3d8841ba142bcf941b15fde8
+https://github.com/ezio84/abc-n_frameworks_base/commit/6bca4e7cb9f0ae5cfaf5bdf61b05f6e9e728faf5
 
 
 
