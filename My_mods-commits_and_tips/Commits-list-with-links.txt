@@ -7,13 +7,6 @@ https://github.com/ezio84/abc-n_system_core/commit/df8bfffa71247c4e9191d44897a1b
 Settings: Enable storage manager 
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/0a4181a121b057f2193c0bba21d91a43f84d2387
 
-Use 3gb dalvik heap and hwui 
-https://github.com/ezio84/abc-n_device_huawei_angler/commit/134ad4146573387cd60c2589b16d564f2b264dc7
-https://github.com/ezio84/abc-n_frameworks_native/commit/bb187cc75ed15f05d8e5f189e8d6f17fbfcec155
-
-Boot with all cpus
-https://github.com/ezio84/abc-n_device_huawei_angler/commit/38e2087a6f18d6915e3eefbd237bac72ccaadc31
-
 Enable hardware night mode for angler
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/f8dccc715eac54cd3154de728901d2b086b338de
 
@@ -80,15 +73,24 @@ Quick settings pull down with one finger
 https://github.com/ezio84/abc-n_frameworks_base/commit/e49727dc392c8984c48b56ea56031ec6e0726c38
 https://github.com/ezio84/abc-n_frameworks_base/commit/fb6cdb41f21051392fd3b064dcf968b2222b1a01
 https://github.com/ezio84/abc-n_frameworks_base/commit/bf09a55571c009b47bad62755b6868c892b9ce7f
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/68b05a83a61e6c47889a6d142a3c634262595e25
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/3f6d7786b5647010f518e07eeb302838aab29f73
 
+Statusbar double tap to sleep 
+https://github.com/ezio84/abc-n_frameworks_base/commit/746fff29bda98f96f103dc40c9dfa36a107bdf3e
+https://github.com/ezio84/abc-n_frameworks_base/commit/991a0555d80bee624e4b93302823b64d8e57c93a
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/036024a75d4ee1fe3f38fe3053ffb8fdba735831
 
+Double tap to sleep anywhere on the lock screen
+https://github.com/ezio84/abc-n_frameworks_base/commit/4d73c89c48710b0af94f73e217c1a9489725a57e
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/d20536d2a6b3c4c501bc06dac2d3cda9f9286010
 
-
+Statusbar clock and date customizations 
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/a06722c35c7f651058884e2f13800d669dfb220c
+https://github.com/ezio84/abc-n_frameworks_base/commit/f89a4bc064de87523921040fe9b8595caae38aa8
 
 -----------------
 
-Build environment preparation
+Core and deep stuff/improvements
 cleanup manifest: https://github.com/ezio84/abc-n_manifest/commit/88d7be15d84788efc08a8edc7dbf74d6a1d3236e
 fork https://github.com/ezio84/abc-n_vendor_nexus/commits/n2 
 and add all custom commits from https://github.com/ezio84/abc-n_build/commits/n2 and https://github.com/ezio84/abc-n_system_core/commits/n2
@@ -115,6 +117,9 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3e934e558d63d73e22
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/95c4cdf83629672f22a86fa6c160a283d8e4807c
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/975d0c4dc530d271af94544297c68b30d7d5c072
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/debff04764ec8a6077ae1fa91f594e49249a315c
+https://github.com/ezio84/abc-n_frameworks_base/commit/dbf48b03cce9eb42ae44f60318891b10579cb2d6
+https://github.com/ezio84/abc-n_frameworks_base/commit/870563d184c7de3a2f952c8fda8e4ea1ebc7b463
+https://github.com/ezio84/abc-n_frameworks_base/commit/a810dab6766b35ae2d78266eaa1b11eccda42aab
 then add busybox tree (the build commit is in the custom vendor tree)
 Build kernel inline:
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/cffb41cd5158d08a7278eead69667aa517eedd07
@@ -128,9 +133,11 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/8c00d72d37ff39d29e
 https://github.com/ezio84/abc-n_frameworks_base/commit/4a433eb116ce1128ca4350225d45d8d7e593bdbc
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6d1e55fc5111899bda7ea55dc188aaaca17b0a70
 
-Allow to run systuituner options from Settings
+Allow to run systuituner options from Settings and tuner improvements
 https://github.com/ezio84/abc-n_frameworks_base/commit/de32cac631efe26d3b814e43b4029bde413bbe36
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/75733e84939983c3297834a2284f8370bee10fbf
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/2bbf84b818c1f253cba12d48e3d77e8d43aa2b9e
+https://github.com/ezio84/abc-n_frameworks_base/commit/4fc1037646108b91b1360678fe360d7cd7daf16f
+https://github.com/ezio84/abc-n_frameworks_base/commit/2b99adf12a1c7bfb8035de41ae621dd8b9dd0199
 
 Custom seekbar, color picker and similar stuff
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/b0df29c0b780b774abfa6b33beb1578859450aef
@@ -154,4 +161,11 @@ https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/b9386c25fe
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
+
+Use 3gb dalvik heap and hwui 
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/134ad4146573387cd60c2589b16d564f2b264dc7
+https://github.com/ezio84/abc-n_frameworks_native/commit/bb187cc75ed15f05d8e5f189e8d6f17fbfcec155
+
+Boot with all cpus
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/38e2087a6f18d6915e3eefbd237bac72ccaadc31
 
