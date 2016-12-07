@@ -21,8 +21,9 @@ Franco sound
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/0b2f7b199e7c746c6a14da1997d7501d076c9569
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/e9d8d7dcc75fbc3469c5014926cca28307b37b92
 
-Angler kernel disable crc check
+Misc angler kernel stuff
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/2267edd2949ea1e09784ab2ea53fb0c6ff521086
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/f3a72b0ebe1d6849c8c359e28e6b9addcb216378
 
 Multirom support
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/9662407bed797b08edd656735378f9f4325c8b70
@@ -129,9 +130,19 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c2813dec5ba5f4d
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/bb519eb1570c55dca011f0c2705d19cc05570926
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/69355b122d174c361bec86b9ddb983e997041a10
 
-
-
-
+Volumer rocker features
+https://github.com/ezio84/abc-n_frameworks_native/commit/e352003320e61b854a8ea33989ce9877f0864a26
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/cf96c6a7b77841ead50936cd9c921d4b00ee31b9
+https://github.com/ezio84/abc-n_frameworks_base/commit/736599f39e577ac0a5ffb9d86203b928a1f0b8df
+https://github.com/ezio84/abc-n_frameworks_base/commit/2f963f44cae4d2f742b7e62ba2400e8805e5a215
+https://github.com/ezio84/abc-n_frameworks_base/commit/30c719875b708758f1c171cbb6b62a7d5a8d148b
+https://github.com/ezio84/abc-n_frameworks_base/commit/41730e67437084c787704d62b0dd96f7de210241
+https://github.com/ezio84/abc-n_frameworks_base/commit/331375ca4800572f318d683e4a4defd7706c8da4
+https://github.com/ezio84/abc-n_frameworks_base/commit/945c912334bfe8fe5bfddf15e9a0b462c1c58e79
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/fa55d3bef530dc5ba018ca50a3115b7ae892c9bb
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/2f04f566709fbb90d2c8be24a6630feb28fa9216
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0239fddf02280160fe7bdc4ce847e993abbe0737
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/bd6605795f2c0738a158b70810c220c937f4f197
 
 
 
@@ -141,6 +152,7 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/69355b122d174c3
 
 Core and deep stuff/improvements
 cleanup manifest: https://github.com/ezio84/abc-n_manifest/commit/88d7be15d84788efc08a8edc7dbf74d6a1d3236e
+https://github.com/ezio84/abc-n_manifest/commit/09e5847e9803d4ad2ef86b77f1fc8279e05fb410
 fork https://github.com/ezio84/abc-n_vendor_nexus/commits/n2 
 and add all custom commits from https://github.com/ezio84/abc-n_build/commits/n2 and https://github.com/ezio84/abc-n_system_core/commits/n2
 then
@@ -247,3 +259,5 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/fc25a76d008323cc41e899d2e
 https://github.com/ezio84/abc-n_frameworks_base/commit/2081846190c060ced43141b53f4cffb0c51f6fdd
 https://github.com/ezio84/abc-n_frameworks_base/commit/f9353fd24920f1d07a57237843cc2ccfb9315f77
 
+Restore tethering on some devices
+https://github.com/ezio84/abc-n_system_netd/commit/931096e71db11845015f869538051085029fdcf2
