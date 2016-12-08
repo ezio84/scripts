@@ -296,8 +296,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/705cb6730436510d5112aaded
 https://github.com/ezio84/abc-n_frameworks_base/commit/84a0a10b7c1a7d7c3d8841ba142bcf941b15fde8
 https://github.com/ezio84/abc-n_frameworks_base/commit/6bca4e7cb9f0ae5cfaf5bdf61b05f6e9e728faf5
 
-
-
+Recents: use a fab button to Clear All
+https://github.com/ezio84/abc-n_frameworks_base/commit/7dbc88f8dfef6a2e0870e13db2f57caad75b38d9
+https://github.com/ezio84/abc-n_frameworks_base/commit/15d6a590e618e71e0281a9ac18b2111c19218d48
 
 
 
@@ -336,6 +337,7 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3e934e558d63d73e22
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/95c4cdf83629672f22a86fa6c160a283d8e4807c
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/975d0c4dc530d271af94544297c68b30d7d5c072
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/debff04764ec8a6077ae1fa91f594e49249a315c
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/eef5f12d2a398ccfd6f955437549bfabf5fe6039
 https://github.com/ezio84/abc-n_frameworks_base/commit/dbf48b03cce9eb42ae44f60318891b10579cb2d6
 https://github.com/ezio84/abc-n_frameworks_base/commit/870563d184c7de3a2f952c8fda8e4ea1ebc7b463
 https://github.com/ezio84/abc-n_frameworks_base/commit/a810dab6766b35ae2d78266eaa1b11eccda42aab
@@ -351,7 +353,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/9fecfb1ffb6ae37fa08f62a86
 https://github.com/ezio84/abc-n_frameworks_base/commit/9687f642557091ed446434e7da743a3f8a0d8dee
 https://github.com/ezio84/abc-n_frameworks_base/commit/8bc2aa25475035e6d08fa5175c885ae06528af86
 https://github.com/ezio84/abc-n_frameworks_base/commit/acac888caf2e8432c3441f5b43ec53546f2139a5
+https://github.com/ezio84/abc-n_frameworks_base/commit/f6eddb250b8e4b9e46af2e847d388d488b822aa7
 https://github.com/ezio84/abc-n_frameworks_base/blob/n2/core/java/com/android/internal/util/abc/DuUtils.java
+https://github.com/ezio84/abc-n_frameworks_base/commit/f3e4ef73647fad68fb89d3ac14373d9002e22794
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/38175cdea30435d9d20c6602d9f2aa585a423a6d
 
 then add busybox tree (the build commit is in the custom vendor tree)
@@ -401,8 +405,11 @@ Use 3gb dalvik heap and hwui
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/134ad4146573387cd60c2589b16d564f2b264dc7
 https://github.com/ezio84/abc-n_frameworks_native/commit/bb187cc75ed15f05d8e5f189e8d6f17fbfcec155
 
-Boot with all cpus
+Boot with all cpus and use multithread for bootanimations
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/38e2087a6f18d6915e3eefbd237bac72ccaadc31
+https://github.com/ezio84/abc-n_frameworks_base/commit/21a2c79cacea1f79b9552f105a074aa0afb0de45
+https://github.com/ezio84/abc-n_frameworks_base/commit/16d57c4bdf6925834786470b83804b4db032284e
+https://github.com/ezio84/abc-n_frameworks_base/commit/8874c9493ea83db61fc115f073b1d38f562a8df3
 
 Additional roaming and international apn improvements
 https://github.com/ezio84/abc-n_frameworks_base/commit/09267fb07897d813c32da82ad8220c6076b9c3f8
