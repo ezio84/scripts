@@ -89,6 +89,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/d535416eb3616b9696a18a4f7
 https://github.com/ezio84/abc-n_frameworks_base/commit/ac74e5c2f0f3b3d4875255be6a2005a4b689e034
 https://github.com/ezio84/abc-n_frameworks_base/commit/a98eaedd9973b789747a796585373d72e4b32cab
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/6d0b542d1ddbb05596d54685431c95937198a422
+https://github.com/ezio84/abc-n_packages_providers_TelephonyProvider/commit/edf9442ddc528251e684461cd64545639ada548d
 
 Convert DocumentUI to full file manager
 https://github.com/ezio84/abc-n_frameworks_base/commit/2dda2880f3443550868a81c7926a546c7d131421
@@ -347,13 +348,17 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/94784361f44747698f429d4f3
 https://github.com/ezio84/abc-n_frameworks_base/commit/936e4c02f976e7e62413d11fd59f142aeae2003d
 https://github.com/ezio84/abc-n_frameworks_base/commit/053bbf3fda8540f2465c7ab3f395af5a3f33a900
 
+aosp keyboard improvements
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/f95226291d00dd8b3149c022471c71a2b6d45b8f
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/72730998ad1e528ce09880de5276172296899de8
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/61e4e2e5e721bdef3f777af5c6e191f6cb5666bd
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/7d733f2324b4649f6f31a02a335f1ded0359dbb5
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/ff4338f050e831a00e500faa30f9a8073f996448
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/3f29684706a580f672261b6c2b24f6adc2efdc06
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/5fa277e4cf79d15d2c147f6e0d33e72ff0b0003a
 
-
-
-
-
-
-
+Theming exposure
 
 
 
