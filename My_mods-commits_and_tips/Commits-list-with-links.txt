@@ -105,8 +105,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/ab933f499ea13a5e3803d02a5
 https://github.com/ezio84/abc-n_frameworks_base/commit/ea8ebf1b3ccf5a71f43b8ba125c785ab1cc034a3
 https://github.com/ezio84/abc-n_frameworks_base/commit/4d105ea0956ca9b277bd7ed79465ce53c37463d8
 https://github.com/ezio84/abc-n_frameworks_base/commit/0bb2aecea9e3b3ee3571dc976cec40a4c66afac6
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c99974e8f9b1ff1a1e82afbe1b72a89346759086
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/3c26344f1e9a0e0203d0d23711de33fdfb7954d6
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6e1fe45276cb78ae2b54c2900a57515cc56ed34e
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/1c29ef1b144f1ed67869d0d1841886db040ba5e4
 Tiles:
 https://github.com/ezio84/abc-n_frameworks_base/commit/2b64850dc5a97bee0144b272a7cfa1a9cabd2b40
 https://github.com/ezio84/abc-n_frameworks_base/commit/faeabdbf25e862332eb8e5d38fa80e1ef6003ae1
@@ -127,9 +127,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/59d9a249b936dd6b78dede058
 https://github.com/ezio84/abc-n_frameworks_base/commit/2e90934578d180c5799a84571052c92ddd5dccfa
 https://github.com/ezio84/abc-n_frameworks_base/commit/2b50963c84823dbfcb4ca38cf1c9cc2d66b9de4d
 https://github.com/ezio84/abc-n_frameworks_base/commit/ee44dfa3bced591a7a077bb3e5db0a2c20b23726
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c2813dec5ba5f4d25c3bad09acfefd89a79ede17
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/bb519eb1570c55dca011f0c2705d19cc05570926
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/69355b122d174c361bec86b9ddb983e997041a10
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/30657da1f155a26b98ee2d5855e53ee325c9c65b
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/eedb3989812574d2a987550b75ec0a05638ad7b7
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e26dc127e1c15ac9736be7dabef8a9537a2852d9
 
 Volumer rocker features
 https://github.com/ezio84/abc-n_frameworks_native/commit/e352003320e61b854a8ea33989ce9877f0864a26
@@ -140,10 +140,10 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/30c719875b708758f1c171cbb
 https://github.com/ezio84/abc-n_frameworks_base/commit/41730e67437084c787704d62b0dd96f7de210241
 https://github.com/ezio84/abc-n_frameworks_base/commit/331375ca4800572f318d683e4a4defd7706c8da4
 https://github.com/ezio84/abc-n_frameworks_base/commit/945c912334bfe8fe5bfddf15e9a0b462c1c58e79
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/fa55d3bef530dc5ba018ca50a3115b7ae892c9bb
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/2f04f566709fbb90d2c8be24a6630feb28fa9216
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0239fddf02280160fe7bdc4ce847e993abbe0737
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/bd6605795f2c0738a158b70810c220c937f4f197
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/a784be912ced5e1091fbb4304def7d8bc4e4d838
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/b1f1a51eef00bcf9976a32e4c68b64e4172d2491
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/154b28fe3edb80931415a63fcf4f77bb7781e963
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/49601e0da48ada15af5a3b3faaf554be5d1cfe0c
 
 Display bluetooth battery status when available
 https://github.com/ezio84/abc-n_frameworks_base/commit/da47d001c52369c4da2d872ff575dc2305dac976
@@ -152,27 +152,27 @@ https://github.com/ezio84/abc-n_packages_apps_Bluetooth/commit/69b92cd04e87e764e
 Enable ProximityWake
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/71d19cefc36e0033c7ff5de4222c6368e1d8d9dc
 https://github.com/ezio84/abc-n_frameworks_base/commit/d506f1d84f3c28f0a21cf56b337e7235c8b5e578
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/38a1938886dcc1936c92635447daa19230d6a7c5
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5cbd0390083da0b2d6cc1cf11fe4dcbd7f1ef0e4
 
 Hide power menu on lockscreen
 https://github.com/ezio84/abc-n_frameworks_base/commit/12f1572734f4ffaa6ce3ef87c74e94e7519a6ca1
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0de80f952dce8f333a62c0833dd1b9abad2e070f
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/439e091c272e3b3c7544fdede276ecc4004eb97a
 
 Show icon of background package associated with Toast
 https://github.com/ezio84/abc-n_frameworks_base/commit/ff6c2c6d91529a7e55d89e73a7b5ab2ce99f0f89
 https://github.com/ezio84/abc-n_frameworks_base/commit/b2271e3b2df4177b19596f83cae82457c25accfa
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/4468e4bec83a15354fc4e91b183c5b37e11b6864
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/efd13ecd46d01e962438c66f921df616ec5da812
 
 Statusbar Network Indicators 
 https://github.com/ezio84/abc-n_frameworks_base/commit/9723fbbbad0a02753789f1c9f2e1736f08646c39
 https://github.com/ezio84/abc-n_frameworks_base/commit/285f69bd043132d3b7d40e9cb1b3c1039acf164c
 https://github.com/ezio84/abc-n_frameworks_base/commit/dc3d023fc994cb980f8b474fc8a74f60d30049e6
 https://github.com/ezio84/abc-n_frameworks_base/commit/b3449806ecd3e036867677be1c7bd61984c37481
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/1bf2df2d295f6c97d34779481abce09d0204d856
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/95c708a07835f30953ffac273c727f795da5d1e2
 
 Disable Lockscreen Media Art 
 https://github.com/ezio84/abc-n_frameworks_base/commit/c76fad94bca204f70c61cac576c072c37ad4b5a6
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/511d78f21d33034171beb5bea636f8934bb68930
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/fd7e2d91211a41d338639aa2e366d8d229f04f0a
 
 Add download speed, remaining time, and percentage in notification
 https://github.com/ezio84/abc-n_packages_providers_DownloadProvider/commit/b43cf7873888430092eccc185a949bae525c342b
@@ -191,12 +191,12 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/2453265942abf19fdcac14f64
 
 Keyguard: scramble pin layout when unlocking
 https://github.com/ezio84/abc-n_frameworks_base/commit/3f942cdda3b2d0c497e194aed2efe57e436ade8b
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5a7f75fa321eb54cf24d40d2a7e4c752f8cddcc8
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/2c305b40cd0fea713ce74bf51dc4dd40e57bd5cd
 
 Add ability to disable ripple when entering lockscreen pin 
 https://github.com/ezio84/abc-n_frameworks_base/commit/77b7f8fbcfe6fa700a7c2fae7e261a2169b8242b
 https://github.com/ezio84/abc-n_frameworks_base/commit/a5d3b247557eede60c1ac2276b698b4317008ad8
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/73e1865006898db4ae21d56ac164849e9ddfe261
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5ed852564ecacd1527e5cb46a7537a395bef007d
 
 Increasing ring
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/2ffa918d958f3a7592930d5e576cd5c251ab0f4e
@@ -211,7 +211,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/6986a30c89b474074171ddb19
 
 Longpress power lockscreen torch
 https://github.com/ezio84/abc-n_frameworks_base/commit/b83db7d821d8b299e7a87800a86ccdad41a6e4d0 (in the DuUtils.java set the correct package name package com.android.internal.util.abc;)
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f7bc8990cf14017de809c9640267433e7d0d77cb
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/4f69e50400b201e3e2828bdba95811fa2d92ee95
 
 Contacts bring back basic group support 
 https://github.com/ezio84/abc-n_packages_apps_ContactsCommon/commit/8515c468e81bae8061be409637bfc3f8b86889a6
@@ -221,13 +221,13 @@ https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/37aaf0f759256a8a8e45
 
 Disable screenshot sound
 https://github.com/ezio84/abc-n_frameworks_base/commit/0d38bfaa3f7f08d2e19caaff046aa64cc8c2b88f
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/7cfab5e56473c846b6f9a043a140110a878abcfc
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/85c994142550be6d5e9fd26fbcdd71295453ad0a
 
 Show battery info on lockscreen when charging
 https://github.com/ezio84/abc-n_frameworks_base/commit/964b0de02798691b0ddf64efe71f55381a2dd96d
 https://github.com/ezio84/abc-n_frameworks_base/commit/85cf68f7846cabbfff04eaf4358c1c32d0ca8265
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/518102ecb0dc5f946c8c5a95cb952b5411152714
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e386aceeefac7d49c9bdd98e3663ea05b73316af
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/a461d91095e1c01edf71e820432a209d9f06d0da
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f6f3ebf09438fa7f1aad68b75d523ff592f271a3
 
 Unlink notification volume 
 https://github.com/ezio84/abc-n_frameworks_base/commit/14fa15a80ff80b637043ce1465391e963e76f9a7
@@ -245,11 +245,11 @@ Allow adjusting screen density to smaller sizes
 https://github.com/ezio84/abc-n_frameworks_base/commit/95da50a8a42036bac39775d69abf81f1a0ac6a20
 
 Wake on plug
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/d4ea45cd82fff957a846afe5a39764b206508818
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/280c860b38781cf483f0a17880423babc876cd66
 https://github.com/ezio84/abc-n_frameworks_base/commit/8a2edd12feb22e0de97a62130a7cbc9bc6a43f97
 
 Allow to customize max SMS per minute limit
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5b57290bad3b8a777acbc6d78960770ca78b42cf
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e905590984d54606ef4a5f32bdf673a5fd728969
 https://github.com/ezio84/abc-n_frameworks_opt_telephony/commit/b3be4cbc075c546470d4b0f01ea040e3d1046aaf
 
 Partial screenshot and screenshot delay (both power menu and tile)
@@ -260,22 +260,22 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/10e024a3cd8feab963786d9a8
 https://github.com/ezio84/abc-n_frameworks_base/commit/d7faf8dcdaf069463e1e460b14a86b6dc38d13ea
 https://github.com/ezio84/abc-n_frameworks_base/commit/bac0ac6763f89e14afb69900725a6c1bf235ac54
 https://github.com/ezio84/abc-n_frameworks_base/commit/426faf2f80e5d4a87e881558203fc15da267dde3
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6b55618189406b3e57ecbd6bfc7e90eaf6e64fc1
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c54f29582a31e2c48ed0f8927774f00e3ead75c4
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/d7d564042e6b6b8a80b92c571f2fd83adb8fd988
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5946ae33e911602d4361c7356c79a5213e5d36dd
 
 Battery And Notification Lights
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/ee8e80e7b6a734462fc16138af9b3289beb40edb
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6a2520dd1fcb1b809b1e99b7a326a41ae309afc2
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/20bf48fa43ea2e16de565ebcec242701bf1b02bb
 https://github.com/ezio84/abc-n_frameworks_base/commit/bd01a1c18cf09d7a500b9d62496f54bb9157dc56
 
 Battery icon customizations
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6b6bf10c28668153ca8cec05b19f88dbdb5ec571
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0aa81770e3c9c99d65fb46632f66162268ef4ae2
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/a12bd855823c027d4f7bcf40b3443f32e7fa223e
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c724a59faf7530692d4e787dc88ec26f4b93417d
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/da1d2861ba72ca5e89548d0c74c48c7da224684f
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/66525f22ea073350d4a522011430b6082cd96bc5
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/1624415b9d4167201b7d4adbdc3fa8dc2ccaf446
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/cb56438afda5e1436eefc6ef8af3f8364ac0972a
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/cab4bdb71e53f1c23b4f3f1a10371df1ddc65869
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/cf55c1f8fad2e4e8a238dfe7af63ce898608ec7f
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/790997d8e08d1516ce368b7dc9e78242628dc960
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c0a2b5228d613b61ee5a216b9f2e22b9dbef6458
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/446bd86b81c8c59808dafee592336cbb7e54b991
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/34ad5ad360c1d16ba7be10d5da6193e99ebec30a
 https://github.com/ezio84/abc-n_frameworks_base/commit/47950a18ce158f3036af6cbdb43ca0bb33581a3a
 https://github.com/ezio84/abc-n_frameworks_base/commit/c80a2aa69f1bb127275d4b341a766d0061e10df1
 https://github.com/ezio84/abc-n_frameworks_base/commit/3cba3f33113c274c6417257d5d439ddf4f833788
