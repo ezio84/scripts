@@ -33,7 +33,7 @@ Advanced Reboot power menu
 https://github.com/ezio84/abc-n_frameworks_base/commit/5e329dc52829d95af2523ac619b847ea6c0d8fc6
 https://github.com/ezio84/abc-n_frameworks_base/commit/1bd629f08028e5bd29f4b08ac438c72f515bf99c
 https://github.com/ezio84/abc-n_frameworks_base/commit/d0490576916c54a94c34777a1a27be6448ea5efa
-https://github.com/ezio84/abc-n_frameworks_base/commit/368cfb0f782b427962e50a02b0de40ae64a6a6dc
+https://github.com/ezio84/abc-n_frameworks_base/commit/3f926436ee4e8352e1141b130fc4c463bfc6f55d
 https://github.com/ezio84/abc-n_vendor_nexus/commit/5a1166ff07c2222325fe83f87df694c41ce46095
 
 Change power save mod color to dark red
