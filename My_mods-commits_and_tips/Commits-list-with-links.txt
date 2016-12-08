@@ -101,9 +101,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/04defd98a908aa5fd321b1959
 https://github.com/ezio84/abc-n_frameworks_base/commit/ff98ed46624cde380d353935f96dba21bac62d2c
 https://github.com/ezio84/abc-n_frameworks_base/commit/f1b0f3d1b9a5acdce165054c2982269cf0c98ebe
 https://github.com/ezio84/abc-n_frameworks_base/commit/176fb910d5e260522d0032a8f6552919ca660741
-https://github.com/ezio84/abc-n_frameworks_base/commit/6df8bfa7effb9c46050047c8f1c47816b7172b7c
+https://github.com/ezio84/abc-n_frameworks_base/commit/f5175f82925b35ab32eb030b21f92acd1a7ceb8f
 https://github.com/ezio84/abc-n_frameworks_base/commit/ab933f499ea13a5e3803d02a5987d13002b2ab43
-https://github.com/ezio84/abc-n_frameworks_base/commit/9f2b7a417a624f58df9360aa38993cf7d47ce438
+https://github.com/ezio84/abc-n_frameworks_base/commit/d250aa26125681835686ef8c3fe7e9b4ecdd0d76
 https://github.com/ezio84/abc-n_frameworks_base/commit/ea8ebf1b3ccf5a71f43b8ba125c785ab1cc034a3
 https://github.com/ezio84/abc-n_frameworks_base/commit/4d105ea0956ca9b277bd7ed79465ce53c37463d8
 https://github.com/ezio84/abc-n_frameworks_base/commit/0bb2aecea9e3b3ee3571dc976cec40a4c66afac6
@@ -297,7 +297,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/603c3a3a43191609827157066
 https://github.com/ezio84/abc-n_frameworks_base/commit/d9d2257db5fc38fd910b896e4eeef6ebd087c329
 https://github.com/ezio84/abc-n_frameworks_base/commit/65a4b1653cd31b46c1b830e9541dd3ec1834808a
 https://github.com/ezio84/abc-n_frameworks_base/commit/62fb324d79a7cc12ea6842d679382854b7db2621
-https://github.com/ezio84/abc-n_frameworks_base/commit/409eb35359dc654313f98afba680a7da754da4ed
+https://github.com/ezio84/abc-n_frameworks_base/commit/eafca7897651692272dac34d0aa5cf194ca5bc3f
 
 Recents: use a fab button to Clear All
 https://github.com/ezio84/abc-n_frameworks_base/commit/9c70397970da56a6f2c9c903e94a541217b22c88
@@ -305,8 +305,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/04ea6341219a38908a0dca4af
 
 ADB over network and option to hide ADB notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
-https://github.com/ezio84/abc-n_frameworks_base/commit/422149294d0b31c2108171cc2121a6f644c4f315
-https://github.com/ezio84/abc-n_frameworks_base/commit/cf47fe5371b102c2551484de7e231bfca272a613
+https://github.com/ezio84/abc-n_frameworks_base/commit/5a674f811388fa7a5bda736afad75c560f717434
+https://github.com/ezio84/abc-n_frameworks_base/commit/0a4adb51e4157174171b514d111ff1f2c603e682
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/9dd611b169a74e1738b4eed2f6ef757e4e331b4a
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/4eb021bc0369323d178098314aedb2252412379c
 
@@ -363,7 +363,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/acac888caf2e8432c3441f5b4
 https://github.com/ezio84/abc-n_frameworks_base/commit/02e5a9a951f8476efcd26ad584d3a7c6afc5c4a3
 https://github.com/ezio84/abc-n_frameworks_base/blob/n2/core/java/com/android/internal/util/abc/DuUtils.java
 https://github.com/ezio84/abc-n_frameworks_base/commit/4c901b090b7805004f58291d72546720d4459b74
-https://github.com/ezio84/abc-n_frameworks_base/commit/ffe525ba69dfa7395eddb871cd98d836a0697c4d
+https://github.com/ezio84/abc-n_frameworks_base/commit/71ba2ee2d182fe79cbaac7f470ddabd8a2865d80
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/38175cdea30435d9d20c6602d9f2aa585a423a6d
 
 then add busybox tree (the build commit is in the custom vendor tree)
