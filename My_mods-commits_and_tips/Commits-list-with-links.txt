@@ -310,6 +310,64 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/0a4adb51e4157174171b514d1
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/9dd611b169a74e1738b4eed2f6ef757e4e331b4a
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/4eb021bc0369323d178098314aedb2252412379c
 
+DUI Navbar customization
+track these 2 trees (they have my latest improvements): 
+<project path="external/DUtils" name="abc-n_external_DUtils" remote="abc" revision="n" />
+<project path="packages/apps/DUI" name="abc-n_packages_apps_DUI" remote="abc" revision="n" />
+then:
+https://github.com/ezio84/abc-n_packages_apps_DUI/commit/9540dfbb402acec140e8698ab82ce03a3b5a56a2
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c20c9686f2101a230b97605a5a0b78d4ffdb5c7d
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/33df984b43bfa210dfc4a3fdb625aa4fa47eeafe
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/4c64da382218c6c1b47f4d2827a885e09d2a3725
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/523dfb95bf0774099281a6d0fceb3613a60ef85b
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6e7c2a12a1272bdb946decb4f424cd2a46823a9e
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/479735df5f8e5bf26761bbcf4efa76421cc58685
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/c3d6af6bb11a4ae5a6731712790dd02cb1965bfa
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/a58632a6057a48ea2977894c3e4ac23a8a531595
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/046170201f2f729f5e9a1a1d334b536f004cbe24
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/d5418af0fdde98717dff6f1bdaf7d7e38924737c
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/b3b3ed46fc3889f148c59a8ed3e0c5a4a16cdd27
+https://github.com/ezio84/abc-n_vendor_nexus/commit/8a5a2e2fbc1afd1e82b9e343b1dbd3400c2a3fd5
+https://github.com/ezio84/abc-n_frameworks_base/commit/1b25762d724319a90abd68b119e05560d1c76f9c
+https://github.com/ezio84/abc-n_frameworks_base/commit/e2a204e7836b5b5e1b85a8478b2d558f71f425c3
+https://github.com/ezio84/abc-n_frameworks_base/commit/75509750a0d3df0f6661a5485825abf43e44980b
+https://github.com/ezio84/abc-n_frameworks_base/commit/0f44ac7d2ddead56410db401d17379635590ae0f
+https://github.com/ezio84/abc-n_frameworks_base/commit/bdf497069060f2dbd523d4226a729d425dedb3e7
+https://github.com/ezio84/abc-n_frameworks_base/commit/8899b2afe4efb3aa802873e97bc1521a6a221a5d
+https://github.com/ezio84/abc-n_frameworks_base/commit/1b83a270e0960f25147fd3057e988b35faef03f3
+https://github.com/ezio84/abc-n_frameworks_base/commit/115d87f52126ebcb7956ae2d70c6ebddd8411be1
+https://github.com/ezio84/abc-n_frameworks_base/commit/8aedf949ba8b9c0ad86cb7c3fe9b57b876a28950
+https://github.com/ezio84/abc-n_frameworks_base/commit/aa9a738638260376354b0dca180be1223f9293a0
+https://github.com/ezio84/abc-n_frameworks_base/commit/2639d2232e6a41a0c0c70ee4eca69312192a5af9
+https://github.com/ezio84/abc-n_frameworks_base/commit/3b7b7d9d8b3afca324d515f3b7a03873f691c7a3
+https://github.com/ezio84/abc-n_frameworks_base/commit/3e29f2981aedba465822812845c91ce5766176a9
+https://github.com/ezio84/abc-n_frameworks_base/commit/ef99b29cb3e2e9879d2655e6a4ced04e792e9017
+https://github.com/ezio84/abc-n_frameworks_base/commit/9fdb615213f13bbc09e52ee4969659b9601a0358
+https://github.com/ezio84/abc-n_frameworks_base/commit/94784361f44747698f429d4f3dbef7502bae2193
+https://github.com/ezio84/abc-n_frameworks_base/commit/936e4c02f976e7e62413d11fd59f142aeae2003d
+https://github.com/ezio84/abc-n_frameworks_base/commit/053bbf3fda8540f2465c7ab3f395af5a3f33a900
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
