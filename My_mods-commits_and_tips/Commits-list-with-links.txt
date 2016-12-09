@@ -105,6 +105,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/176fb910d5e260522d0032a8f
 https://github.com/ezio84/abc-n_frameworks_base/commit/f5175f82925b35ab32eb030b21f92acd1a7ceb8f
 https://github.com/ezio84/abc-n_frameworks_base/commit/ab933f499ea13a5e3803d02a5987d13002b2ab43
 https://github.com/ezio84/abc-n_frameworks_base/commit/d250aa26125681835686ef8c3fe7e9b4ecdd0d76
+https://github.com/ezio84/abc-n_frameworks_base/commit/84c9e7b77fece0ea3077ec6c84f9fdb1f514b926
 https://github.com/ezio84/abc-n_frameworks_base/commit/ea8ebf1b3ccf5a71f43b8ba125c785ab1cc034a3
 https://github.com/ezio84/abc-n_frameworks_base/commit/4d105ea0956ca9b277bd7ed79465ce53c37463d8
 https://github.com/ezio84/abc-n_frameworks_base/commit/0bb2aecea9e3b3ee3571dc976cec40a4c66afac6
@@ -203,6 +204,7 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5ed852564ecacd1
 
 Increasing ring
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/2ffa918d958f3a7592930d5e576cd5c251ab0f4e
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/1a22ea863fbd0199837d11396294ba45dd3cc209
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/ed52808507f235664b69e3e41c229a3f739b5665
 https://github.com/ezio84/abc-n_frameworks_base/commit/d3ccfd475d9408dedf708a142d27bd3036c8d1f8
 
@@ -269,6 +271,7 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5946ae33e911602
 Battery And Notification Lights
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/ee8e80e7b6a734462fc16138af9b3289beb40edb
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/20bf48fa43ea2e16de565ebcec242701bf1b02bb
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f5aa757675a0a693c5f0d9a1082592fe29e1703f
 https://github.com/ezio84/abc-n_frameworks_base/commit/bd01a1c18cf09d7a500b9d62496f54bb9157dc56
 
 Battery icon customizations
@@ -303,6 +306,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/eafca7897651692272dac34d0
 Recents: use a fab button to Clear All
 https://github.com/ezio84/abc-n_frameworks_base/commit/9c70397970da56a6f2c9c903e94a541217b22c88
 https://github.com/ezio84/abc-n_frameworks_base/commit/04ea6341219a38908a0dca4af498e4996d97e4b2
+https://github.com/ezio84/abc-n_frameworks_base/commit/387b640de607521488f30bb983891c53fc9bcd39
 
 ADB over network and option to hide ADB notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
@@ -362,7 +366,8 @@ https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/5fa277e4cf
 PackageInstaller: Show current & new version
 https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/68bf8470944087c9e702acf507031949920355bf
 
-
+Move custom dp settings under Display
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/12ae52f6b1bdf75d63d9d8026b15ac30b0fb652a
 
 
 
@@ -515,3 +520,5 @@ https://github.com/ezio84/abc-n_packages_services_Telephony/commit/78cb62ec212c7
 Restore tethering on some devices
 https://github.com/ezio84/abc-n_system_netd/commit/931096e71db11845015f869538051085029fdcf2
 
+ABC menu icon
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6a6751d8f29027dd11d34b15275069172bef705d
