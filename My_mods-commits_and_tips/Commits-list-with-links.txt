@@ -303,11 +303,6 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/65a4b1653cd31b46c1b830e95
 https://github.com/ezio84/abc-n_frameworks_base/commit/62fb324d79a7cc12ea6842d679382854b7db2621
 https://github.com/ezio84/abc-n_frameworks_base/commit/eafca7897651692272dac34d0aa5cf194ca5bc3f
 
-Recents: use a fab button to Clear All
-https://github.com/ezio84/abc-n_frameworks_base/commit/9c70397970da56a6f2c9c903e94a541217b22c88
-https://github.com/ezio84/abc-n_frameworks_base/commit/04ea6341219a38908a0dca4af498e4996d97e4b2
-https://github.com/ezio84/abc-n_frameworks_base/commit/387b640de607521488f30bb983891c53fc9bcd39
-
 ADB over network and option to hide ADB notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
 https://github.com/ezio84/abc-n_frameworks_base/commit/5a674f811388fa7a5bda736afad75c560f717434
