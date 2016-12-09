@@ -510,7 +510,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/fc25a76d008323cc41e899d2e
 https://github.com/ezio84/abc-n_frameworks_base/commit/2081846190c060ced43141b53f4cffb0c51f6fdd
 https://github.com/ezio84/abc-n_frameworks_base/commit/f9353fd24920f1d07a57237843cc2ccfb9315f77
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/5940c8b885488ad901f5ad56cecec95b813e35c9
-https://github.com/ezio84/abc-n_packages_services_Telephony/commit/f6bd9a8598381c24c871d50fdae44cb86fbe1646
+https://github.com/ezio84/abc-n_packages_services_Telephony/commit/78cb62ec212c7912be9758a68aec6195ad1b3393
 
 Restore tethering on some devices
 https://github.com/ezio84/abc-n_system_netd/commit/931096e71db11845015f869538051085029fdcf2
