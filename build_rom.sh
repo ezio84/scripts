@@ -73,17 +73,26 @@ if [ `ls $BUILD_PATH/ABCrom_*.zip 2>/dev/null | wc -l` != "0" ]
 then
    BUILD_RESULT="Build successful"
 
-   # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
-   echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
-   rm OLD_ABCrom_nexus_$DEVICE-*.zip
-   for file in ABCrom_nexus_$DEVICE-*.zip
-   do
-       mv -f "${file}" "${file/ABCrom/OLD_ABCrom}"
-   done
-   cp $BUILD_PATH/ABCrom_*.zip $ROOT_PATH
+    # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
+    echoText "Copying ROM.zip to $ROOT_PATH"
 
-   # If the build failed
-   else
+    if [ `ls $ROOT_PATH/OLD_ABCrom_nexus_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+    then
+    rm OLD_ABCrom_nexus_$DEVICE-*.zip
+    fi
+
+    if [ `ls $ROOT_PATH/ABCrom_nexus_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+    then
+    for file in ABCrom_nexus_$DEVICE-*.zip
+    do
+        mv -f "${file}" "${file/ABCrom/OLD_ABCrom}"
+    done
+    fi
+
+    cp $BUILD_PATH/ABCrom_*.zip $ROOT_PATH
+
+    # If the build failed
+else
    BUILD_RESULT="Build failed"
 fi
 
