@@ -347,6 +347,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/9fdb615213f13bbc09e52ee49
 https://github.com/ezio84/abc-n_frameworks_base/commit/94784361f44747698f429d4f3dbef7502bae2193
 https://github.com/ezio84/abc-n_frameworks_base/commit/936e4c02f976e7e62413d11fd59f142aeae2003d
 https://github.com/ezio84/abc-n_frameworks_base/commit/053bbf3fda8540f2465c7ab3f395af5a3f33a900
+https://github.com/ezio84/abc-n_frameworks_base/commit/21f1a23188755a59081420e5492428d453b68c4c
 
 aosp keyboard improvements
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
@@ -485,6 +486,7 @@ https://github.com/ezio84/abc-n_device_huawei_angler/commit/38e2087a6f18d6915e3e
 https://github.com/ezio84/abc-n_frameworks_base/commit/a1e9da24a76761d7f64a5edf36b2c96b927bfa31
 https://github.com/ezio84/abc-n_frameworks_base/commit/9c51f94cee8b4a411248072c9b6a88e8d82778f4
 https://github.com/ezio84/abc-n_frameworks_base/commit/aaa921d57f0daf45e82f0891bbd518d06d2ced6d
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/955774db67226ed768230e7b210e6528172b94d6
 
 Additional roaming and international apn improvements
 https://github.com/ezio84/abc-n_frameworks_base/commit/09267fb07897d813c32da82ad8220c6076b9c3f8
@@ -501,6 +503,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/69cdc79a2f64443c258a083b2
 https://github.com/ezio84/abc-n_frameworks_base/commit/fc25a76d008323cc41e899d2e1b089432adb6e4b
 https://github.com/ezio84/abc-n_frameworks_base/commit/2081846190c060ced43141b53f4cffb0c51f6fdd
 https://github.com/ezio84/abc-n_frameworks_base/commit/f9353fd24920f1d07a57237843cc2ccfb9315f77
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/5940c8b885488ad901f5ad56cecec95b813e35c9
 
 Restore tethering on some devices
 https://github.com/ezio84/abc-n_system_netd/commit/931096e71db11845015f869538051085029fdcf2
