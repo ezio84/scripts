@@ -473,6 +473,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/18e827f573882004f5070fdf7
 https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/2c544b530774815e1cb4fd74fc9f5f4f27afe53d
 https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/b9386c25fe6d35cdf38f65d815246dc0e1be36fa
 https://github.com/ezio84/abc-n_frameworks_base/commit/db5ec339dfae37d64f8f66506e3420007cebcb88
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/63a843348d6e37863d7aab816038dc3abececf54
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/274ff8f1ef43dff0b770d4d59a360018c488a03d
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
@@ -507,3 +509,8 @@ https://github.com/ezio84/abc-n_device_huawei_angler/commit/5940c8b885488ad901f5
 
 Restore tethering on some devices
 https://github.com/ezio84/abc-n_system_netd/commit/931096e71db11845015f869538051085029fdcf2
+
+Settings: show toolchains used for compilation (Clang and GCC)
+https://github.com/ezio84/abc-n_vendor_nexus/commit/ba2a40e2844d19f06330c29b5fe3be3320ec1ff7
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/5c4171460b24e50815f22ce99d7e011f825e8611
+
