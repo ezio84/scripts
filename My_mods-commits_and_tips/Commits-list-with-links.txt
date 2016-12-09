@@ -510,7 +510,3 @@ https://github.com/ezio84/abc-n_device_huawei_angler/commit/5940c8b885488ad901f5
 Restore tethering on some devices
 https://github.com/ezio84/abc-n_system_netd/commit/931096e71db11845015f869538051085029fdcf2
 
-Settings: show toolchains used for compilation (Clang and GCC)
-https://github.com/ezio84/abc-n_vendor_nexus/commit/ba2a40e2844d19f06330c29b5fe3be3320ec1ff7
-https://github.com/ezio84/abc-n_packages_apps_Settings/commit/5c4171460b24e50815f22ce99d7e011f825e8611
-
