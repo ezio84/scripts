@@ -76,14 +76,14 @@ then
     # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
     echoText "Copying ROM.zip to $ROOT_PATH"
 
-    if [ `ls $ROOT_PATH/OLD_ABCrom_nexus_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+    if [ `ls $ROOT_PATH/OLD_ABCrom_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
     then
-    rm OLD_ABCrom_nexus_$DEVICE-*.zip
+    rm OLD_ABCrom_$DEVICE-*.zip
     fi
 
-    if [ `ls $ROOT_PATH/ABCrom_nexus_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+    if [ `ls $ROOT_PATH/ABCrom_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
     then
-    for file in ABCrom_nexus_$DEVICE-*.zip
+    for file in ABCrom_$DEVICE-*.zip
     do
         mv -f "${file}" "${file/ABCrom/OLD_ABCrom}"
     done
