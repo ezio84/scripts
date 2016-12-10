@@ -484,6 +484,7 @@ https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/1d99b73f3f1a1b1ddead
 https://github.com/ezio84/abc-n_vendor_nexus/commit/12fddb41ca74e48388dba03d602c2f971162bd0b
 https://github.com/ezio84/abc-n_vendor_nexus/commit/5a7bc8d6dee441f544a1a4d21ff4ad374e9868ff
 https://github.com/ezio84/abc-n_vendor_nexus/commit/14da1bc18baf032355a5886b68ed2cf745cb4b1e
+https://github.com/ezio84/abc-n_vendor_nexus/commit/c042123a2a4157268c4465526b16d53c52a50535
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
