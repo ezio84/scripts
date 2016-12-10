@@ -383,6 +383,7 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/12ae52f6b1bdf75d63
 Core and deep stuff/improvements
 cleanup manifest: https://github.com/ezio84/abc-n_manifest/commit/88d7be15d84788efc08a8edc7dbf74d6a1d3236e
 https://github.com/ezio84/abc-n_manifest/commit/09e5847e9803d4ad2ef86b77f1fc8279e05fb410
+https://github.com/ezio84/abc-n_manifest/commit/efedaa42eccef4636098c1cc10ed68415bfeb1ec
 fork https://github.com/ezio84/abc-n_vendor_nexus/commits/n2 
 and add all custom commits from https://github.com/ezio84/abc-n_build/commits/n2 and https://github.com/ezio84/abc-n_system_core/commits/n2
 then
@@ -435,6 +436,7 @@ https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/38175cdea30435
 https://github.com/ezio84/abc-n_packages_services_Telephony/commit/12b47b845b5443548e77ed889849ec03c4bf5587
 https://github.com/ezio84/abc-n_packages_providers_DownloadProvider/commit/8d3862ac63f75e1fad30314766c0915598432998
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/79cb0826898c7721baca6b3c7175715a19490726
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/d79283a052c7da98e9319e874b06e158fb6232f2
 
 then add busybox tree (the build commit is in the custom vendor tree)
 
@@ -464,7 +466,7 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f513e9123e0009a
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5ad74d189e17fc90cc755ffb49a235f5f5703c13
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/690b11b88cdb72c62916fba8af86d37b3bbbf6fc
 
-Permissions fixes
+Permissions/gapps fixes
 https://github.com/ezio84/abc-n_frameworks_base/commit/1657815bed5e36e362a03537d018d846c027b33f
 https://github.com/ezio84/abc-n_frameworks_base/commit/87d5317a5bb83a09a68182d18f40f3f35ef90c38
 https://github.com/ezio84/abc-n_frameworks_base/commit/4d871b13853b46af938b8967e986fd2cc38f11df
@@ -479,6 +481,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/db5ec339dfae37d64f8f66506
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/63a843348d6e37863d7aab816038dc3abececf54
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/274ff8f1ef43dff0b770d4d59a360018c488a03d
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/1d99b73f3f1a1b1ddeadc157804b4fa5331544f8
+https://github.com/ezio84/abc-n_vendor_nexus/commit/12fddb41ca74e48388dba03d602c2f971162bd0b
+https://github.com/ezio84/abc-n_vendor_nexus/commit/5a7bc8d6dee441f544a1a4d21ff4ad374e9868ff
+https://github.com/ezio84/abc-n_vendor_nexus/commit/14da1bc18baf032355a5886b68ed2cf745cb4b1e
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
