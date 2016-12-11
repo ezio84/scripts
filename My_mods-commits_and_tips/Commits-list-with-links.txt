@@ -485,6 +485,7 @@ https://github.com/ezio84/abc-n_vendor_nexus/commit/12fddb41ca74e48388dba03d602c
 https://github.com/ezio84/abc-n_vendor_nexus/commit/5a7bc8d6dee441f544a1a4d21ff4ad374e9868ff
 https://github.com/ezio84/abc-n_vendor_nexus/commit/14da1bc18baf032355a5886b68ed2cf745cb4b1e
 https://github.com/ezio84/abc-n_vendor_nexus/commit/c042123a2a4157268c4465526b16d53c52a50535
+https://github.com/ezio84/abc-n_vendor_nexus/commit/d4cc65afa2591fd129564279f2e9875c988cb1dd
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
@@ -500,7 +501,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/9c51f94cee8b4a411248072c9
 https://github.com/ezio84/abc-n_frameworks_base/commit/aaa921d57f0daf45e82f0891bbd518d06d2ced6d
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/955774db67226ed768230e7b210e6528172b94d6
 
-Additional roaming and international apn improvements
+Additional roaming and carriers improvements
 https://github.com/ezio84/abc-n_frameworks_base/commit/09267fb07897d813c32da82ad8220c6076b9c3f8
 https://github.com/ezio84/abc-n_frameworks_base/commit/24b064e5312a0d88f622a25bdabeb22ad2ebbce1
 https://github.com/ezio84/abc-n_frameworks_base/commit/9f7c49b24609725f5d5c369174bed026e38019d4
@@ -517,6 +518,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/2081846190c060ced43141b53
 https://github.com/ezio84/abc-n_frameworks_base/commit/f9353fd24920f1d07a57237843cc2ccfb9315f77
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/5940c8b885488ad901f5ad56cecec95b813e35c9
 https://github.com/ezio84/abc-n_packages_services_Telephony/commit/78cb62ec212c7912be9758a68aec6195ad1b3393
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/0983882411296a2719d37428e4d2f1690acb02fd
 
 Restore tethering on some devices
 https://github.com/ezio84/abc-n_system_netd/commit/931096e71db11845015f869538051085029fdcf2
