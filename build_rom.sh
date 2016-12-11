@@ -74,7 +74,7 @@ then
    BUILD_RESULT="Build successful"
 
     # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
-    echoText "Copying ROM.zip to $ROOT_PATH"
+    echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
 
     if [ `ls $ROOT_PATH/OLD_ABCrom_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
     then
