@@ -348,6 +348,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/94784361f44747698f429d4f3
 https://github.com/ezio84/abc-n_frameworks_base/commit/936e4c02f976e7e62413d11fd59f142aeae2003d
 https://github.com/ezio84/abc-n_frameworks_base/commit/053bbf3fda8540f2465c7ab3f395af5a3f33a900
 https://github.com/ezio84/abc-n_frameworks_base/commit/21f1a23188755a59081420e5492428d453b68c4c
+https://github.com/ezio84/abc-n_frameworks_base/commit/b00ae032769a931acc150c4f2d73c7e6e862eb22
 
 aosp keyboard improvements
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
@@ -432,12 +433,14 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/4c901b090b7805004f58291d7
 https://github.com/ezio84/abc-n_frameworks_base/commit/71ba2ee2d182fe79cbaac7f470ddabd8a2865d80
 https://github.com/ezio84/abc-n_frameworks_base/commit/cd42c83f3c3440d0afa6cdcdaec92bf78f868390
 https://github.com/ezio84/abc-n_frameworks_base/commit/e0b447dea26623264830c1582f2e0deac84bfcd5
+https://github.com/ezio84/abc-n_frameworks_base/commit/6d4b3d86e7c1e472735cc3422c39216e6f06461f
 https://github.com/ezio84/abc-n_vendor_nexus/commit/0c4fa542ea54bccd6b4361e1c674685c33a57d71
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/38175cdea30435d9d20c6602d9f2aa585a423a6d
 https://github.com/ezio84/abc-n_packages_services_Telephony/commit/12b47b845b5443548e77ed889849ec03c4bf5587
 https://github.com/ezio84/abc-n_packages_providers_DownloadProvider/commit/8d3862ac63f75e1fad30314766c0915598432998
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/79cb0826898c7721baca6b3c7175715a19490726
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/d79283a052c7da98e9319e874b06e158fb6232f2
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/53ce21169de13f43436714a75693e89f0bc92c71
 
 then add busybox tree (the build commit is in the custom vendor tree)
 
