@@ -102,6 +102,7 @@ QS tiles and small tiles customizations
 https://github.com/ezio84/abc-n_frameworks_base/commit/04defd98a908aa5fd321b1959c46c04650c5d68f
 https://github.com/ezio84/abc-n_frameworks_base/commit/ff98ed46624cde380d353935f96dba21bac62d2c
 https://github.com/ezio84/abc-n_frameworks_base/commit/f1b0f3d1b9a5acdce165054c2982269cf0c98ebe
+https://github.com/ezio84/abc-n_frameworks_base/commit/bf39eb44ac2e4e32f4f1205ac6d68bb1972b06e5
 https://github.com/ezio84/abc-n_frameworks_base/commit/176fb910d5e260522d0032a8f6552919ca660741
 https://github.com/ezio84/abc-n_frameworks_base/commit/f5175f82925b35ab32eb030b21f92acd1a7ceb8f
 https://github.com/ezio84/abc-n_frameworks_base/commit/ab933f499ea13a5e3803d02a5987d13002b2ab43
