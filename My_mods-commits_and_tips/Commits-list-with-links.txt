@@ -97,6 +97,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/a98eaedd9973b789747a79658
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/6d0b542d1ddbb05596d54685431c95937198a422
 https://github.com/ezio84/abc-n_packages_providers_TelephonyProvider/commit/edf9442ddc528251e684461cd64545639ada548d
 https://github.com/ezio84/abc-n_packages_apps_Launcher3/commit/5475df8f14539ed42e8e5b6e77eb0ccac6ed3714
+https://github.com/ezio84/abc-n_vendor_nexus/commit/60c3e8bee4257c51db14910235646e4625436a99
 
 Convert DocumentUI to full file manager
 https://github.com/ezio84/abc-n_frameworks_base/commit/2dda2880f3443550868a81c7926a546c7d131421
