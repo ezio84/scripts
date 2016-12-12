@@ -17,6 +17,9 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/b3650e920aad962b91
 High brightness mode
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/db37c295d36ba7296001b91edfcdbc2da1b2e037
 
+Angler wake gestures
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/e42260e6aa4e0eb5337828111ba4b8f5e1a199b0
+
 Franco sound
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/0b2f7b199e7c746c6a14da1997d7501d076c9569
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/e9d8d7dcc75fbc3469c5014926cca28307b37b92
@@ -91,6 +94,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/ac74e5c2f0f3b3d4875255be6
 https://github.com/ezio84/abc-n_frameworks_base/commit/a98eaedd9973b789747a796585373d72e4b32cab
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/6d0b542d1ddbb05596d54685431c95937198a422
 https://github.com/ezio84/abc-n_packages_providers_TelephonyProvider/commit/edf9442ddc528251e684461cd64545639ada548d
+https://github.com/ezio84/abc-n_packages_apps_Launcher3/commit/5475df8f14539ed42e8e5b6e77eb0ccac6ed3714
 
 Convert DocumentUI to full file manager
 https://github.com/ezio84/abc-n_frameworks_base/commit/2dda2880f3443550868a81c7926a546c7d131421
@@ -442,6 +446,7 @@ https://github.com/ezio84/abc-n_packages_providers_DownloadProvider/commit/8d386
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/79cb0826898c7721baca6b3c7175715a19490726
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/d79283a052c7da98e9319e874b06e158fb6232f2
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/53ce21169de13f43436714a75693e89f0bc92c71
+https://github.com/ezio84/abc-n_packages_apps_Launcher3/commit/e07ad2221f4e7ecd7770ba3dac1f8244b3de4153
 
 then add busybox tree (the build commit is in the custom vendor tree)
 
@@ -491,6 +496,9 @@ https://github.com/ezio84/abc-n_vendor_nexus/commit/5a7bc8d6dee441f544a1a4d21ff4
 https://github.com/ezio84/abc-n_vendor_nexus/commit/14da1bc18baf032355a5886b68ed2cf745cb4b1e
 https://github.com/ezio84/abc-n_vendor_nexus/commit/c042123a2a4157268c4465526b16d53c52a50535
 https://github.com/ezio84/abc-n_vendor_nexus/commit/d4cc65afa2591fd129564279f2e9875c988cb1dd
+https://github.com/ezio84/abc-n_frameworks_av/commit/21344d2243b93b4bd176042799edb0f12c78fb94
+https://github.com/ezio84/abc-n_frameworks_av/commit/ee5c2a9cb6859053a9892ac682761a61bf44c41c (fix ok google)
+
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
