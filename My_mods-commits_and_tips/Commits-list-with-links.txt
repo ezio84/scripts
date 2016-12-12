@@ -19,6 +19,8 @@ https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/db37c295d36ba7296001
 
 Angler wake gestures
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/e42260e6aa4e0eb5337828111ba4b8f5e1a199b0
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/f0d10ff33bf97ac63f36fc839f24ef11dc6e18f3
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/8f81a6ce61640a298e824eb7ade896a760c57440
 
 Franco sound
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/0b2f7b199e7c746c6a14da1997d7501d076c9569
