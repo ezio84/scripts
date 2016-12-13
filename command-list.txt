@@ -40,6 +40,13 @@ git remote set-url github http://github.com/ezio84/... (to set a new url for the
 ./fetch-merge-purenexus.sh
 fake merge: git merge purenexus/n -s ours
 
+ADB LOGCAT commands
+ V    Verbose (show all possibly useless logs, default level)
+ D    Debug (show all reasonable debug logs)
+ I    Info (show expected logs for regular usage)
+ W    Warn (show possible issues that are not yet errors)
+ E    Error (show issues that have caused errors)
+ F    Fatal (show issues that are fatal to runtime and will often result in rebooting)
 ----------
 LINUX:
 
