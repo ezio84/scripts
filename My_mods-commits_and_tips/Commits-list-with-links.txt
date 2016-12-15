@@ -517,6 +517,9 @@ Use 3gb dalvik heap and hwui
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/134ad4146573387cd60c2589b16d564f2b264dc7
 https://github.com/ezio84/abc-n_frameworks_native/commit/bb187cc75ed15f05d8e5f189e8d6f17fbfcec155
 
+Fix 2% battery level drop
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/32bdcf48ce5e86f27cd83fbb725821654b7e5473
+
 Boot with all cpus and use multithread for bootanimations
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/38e2087a6f18d6915e3eefbd237bac72ccaadc31
 https://github.com/ezio84/abc-n_frameworks_base/commit/a1e9da24a76761d7f64a5edf36b2c96b927bfa31
