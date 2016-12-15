@@ -102,7 +102,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/a98eaedd9973b789747a79658
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/6d0b542d1ddbb05596d54685431c95937198a422
 https://github.com/ezio84/abc-n_packages_providers_TelephonyProvider/commit/edf9442ddc528251e684461cd64545639ada548d
 https://github.com/ezio84/abc-n_packages_apps_Launcher3/commit/5475df8f14539ed42e8e5b6e77eb0ccac6ed3714
-https://github.com/ezio84/abc-n_vendor_nexus/commit/60c3e8bee4257c51db14910235646e4625436a99
+https://github.com/ezio84/abc-n_vendor_nexus/commit/4cc2fa49aa149e028591bd2eda572fe8bdd634b9
 
 Convert DocumentUI to full file manager
 https://github.com/ezio84/abc-n_frameworks_base/commit/2dda2880f3443550868a81c7926a546c7d131421
@@ -269,6 +269,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/8a2edd12feb22e0de97a62130
 
 Allow to customize max SMS per minute limit
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e905590984d54606ef4a5f32bdf673a5fd728969
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/ea66484bccc84a72c509342781956ee0a033b365
 https://github.com/ezio84/abc-n_frameworks_opt_telephony/commit/b3be4cbc075c546470d4b0f01ea040e3d1046aaf
 
 Partial screenshot and screenshot delay (both power menu and tile)
@@ -374,6 +375,7 @@ https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/7d733f2324
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/ff4338f050e831a00e500faa30f9a8073f996448
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/3f29684706a580f672261b6c2b24f6adc2efdc06
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/5fa277e4cf79d15d2c147f6e0d33e72ff0b0003a
+https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/432ab8759dec6197ced5e1ba1ac60b34b1543674
 
 PackageInstaller: Show current & new version
 https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/68bf8470944087c9e702acf507031949920355bf
@@ -381,17 +383,11 @@ https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/68bf847094
 Move custom dp settings under Display
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/12ae52f6b1bdf75d63d9d8026b15ac30b0fb652a
 
-
-
-
-
-
-
-
-
-
-
-
+Night tile: automatically set a lower brightness when active
+https://github.com/ezio84/abc-n_frameworks_base/commit/ceb1838576e107ad0d05db6bc904fe307622dabb
+https://github.com/ezio84/abc-n_frameworks_base/commit/92e68b8608c7660834546309ea297f4b61191b40
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/25e9d70538164403b4c430f0aba7871d73e129e0
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/39548b13a83d84eff64b6adddaf5b94e3dd6c89d
 
 
 
@@ -551,3 +547,6 @@ https://github.com/ezio84/abc-n_system_netd/commit/427f0c9adb8afcbc0556e3b34eec8
 
 ABC menu icon
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6a6751d8f29027dd11d34b15275069172bef705d
+
+Pixel bootanimations
+https://github.com/ezio84/abc-n_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
