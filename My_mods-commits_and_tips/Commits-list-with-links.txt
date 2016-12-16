@@ -550,3 +550,6 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6a6751d8f29027dd11
 
 Pixel bootanimations
 https://github.com/ezio84/abc-n_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
+
+Build pixel launcher instead of n_packages_apps_Launcher3
+https://github.com/ezio84/abc-n_vendor_nexus/commit/9a5e71bdfb86cf2313a5b0989dca20d207e13528
