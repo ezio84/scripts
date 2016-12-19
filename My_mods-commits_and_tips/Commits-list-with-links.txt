@@ -388,9 +388,11 @@ Night tile: automatically set a lower brightness when active
 https://github.com/ezio84/abc-n_frameworks_base/commit/ceb1838576e107ad0d05db6bc904fe307622dabb
 https://github.com/ezio84/abc-n_frameworks_base/commit/92e68b8608c7660834546309ea297f4b61191b40
 https://github.com/ezio84/abc-n_frameworks_base/commit/1361912c8ee7a74b091c9cc2e0fd4646966a3378
+https://github.com/ezio84/abc-n_frameworks_base/commit/32cac1c4be738d19504f4a350812ff125ddd6dcc
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/25e9d70538164403b4c430f0aba7871d73e129e0
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/39548b13a83d84eff64b6adddaf5b94e3dd6c89d
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/7c38fc79ace240a4ad59edd62c33fedcaa839a6d
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/1e2185235ae37beb7471dabbac1bbbd47f9044fb
 
 
 
