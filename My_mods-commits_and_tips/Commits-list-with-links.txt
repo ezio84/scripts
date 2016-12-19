@@ -90,6 +90,7 @@ Double tap to wake on doze
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9575362f757fc0b5d97ff2aecab5001a8cbf3227
 https://github.com/ezio84/abc-n_frameworks_base/commit/f67edbfae147048ae3f21a9c166971dd58447487
 https://github.com/ezio84/abc-n_frameworks_base/commit/d835f1573cbc87ac2f92b265901a6d1d58412d18
+https://github.com/ezio84/abc-n_frameworks_base/commit/94dc74908e9f1b7eeaffa6a4a483eec3d9bf8152
 
 Statusbar clock and date customizations 
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0a3ab006b68697ef1c6048af58e7372c0412d1f1
