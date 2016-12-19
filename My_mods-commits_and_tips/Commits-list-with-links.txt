@@ -387,8 +387,10 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/12ae52f6b1bdf75d63
 Night tile: automatically set a lower brightness when active
 https://github.com/ezio84/abc-n_frameworks_base/commit/ceb1838576e107ad0d05db6bc904fe307622dabb
 https://github.com/ezio84/abc-n_frameworks_base/commit/92e68b8608c7660834546309ea297f4b61191b40
+https://github.com/ezio84/abc-n_frameworks_base/commit/1361912c8ee7a74b091c9cc2e0fd4646966a3378
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/25e9d70538164403b4c430f0aba7871d73e129e0
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/39548b13a83d84eff64b6adddaf5b94e3dd6c89d
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/7c38fc79ace240a4ad59edd62c33fedcaa839a6d
 
 
 
@@ -504,7 +506,7 @@ https://github.com/ezio84/abc-n_vendor_nexus/commit/c042123a2a4157268c4465526b16
 https://github.com/ezio84/abc-n_vendor_nexus/commit/d4cc65afa2591fd129564279f2e9875c988cb1dd
 https://github.com/ezio84/abc-n_frameworks_av/commit/21344d2243b93b4bd176042799edb0f12c78fb94
 https://github.com/ezio84/abc-n_frameworks_av/commit/ee5c2a9cb6859053a9892ac682761a61bf44c41c (fix ok google)
-https://github.com/ezio84/abc-n_vendor_nexus/commit/2b7f04b7edd534ec89bce7cc80966eb8f05f5d42
+https://github.com/ezio84/abc-n_vendor_nexus/commit/2b7f04b7edd534ec89bce7cc80966eb8f05f5d42 (reverted till it'll support other languages)
 
 
 Dialer: fix compilation issues when importing System Settings
