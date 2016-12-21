@@ -228,6 +228,7 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/02754e0cfc2010b12f
 https://github.com/ezio84/abc-n_frameworks_base/commit/347dcb5a39048c7a264e53c2d40cf5d7a8771bbd
 https://github.com/ezio84/abc-n_frameworks_base/commit/583068dfadd8afa14d92f08a33229703354d52b3
 https://github.com/ezio84/abc-n_frameworks_base/commit/6986a30c89b474074171ddb1993f5bcdc214a1e5
+https://github.com/ezio84/abc-n_frameworks_base/commit/10521c3ef2e9a187f88d1e67f31f6f296554b69b
 
 Longpress power lockscreen torch
 https://github.com/ezio84/abc-n_frameworks_base/commit/b83db7d821d8b299e7a87800a86ccdad41a6e4d0 (in the DuUtils.java set the correct package name package com.android.internal.util.abc;)
@@ -397,6 +398,7 @@ https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/1e2185235ae37be
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/75f695d312d800d0eabc577bba211d68357afc74
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/ef34dfd1c294f7e988a0e790e8fa2ea2018fc076
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3a18b70f9002897484e50ead78bfe310a8927688
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c965aab7746ab2fe2f009d16bc067f9ae027f49e
 
 
 
@@ -565,3 +567,6 @@ Build pixel launcher instead of n_packages_apps_Launcher3
 https://github.com/ezio84/abc-n_vendor_nexus/commit/9a5e71bdfb86cf2313a5b0989dca20d207e13528
 https://github.com/ezio84/abc-n_vendor_nexus/commit/a527f06813b671fbe5ac090bef67ad39125eef31
 https://github.com/ezio84/abc-n_manifest/commit/91837f8e03e9d85ce602dd6456002c1cbc0fa22b
+
+Themes: fix potential SysUI fc with custom lowbattery sound 
+https://github.com/ezio84/abc-n_frameworks_base/commit/6b3527fb080a3fa563e11351fa3d0ae35a66d8a9
