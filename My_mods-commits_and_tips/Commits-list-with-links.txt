@@ -321,6 +321,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/62fb324d79a7cc12ea6842d67
 https://github.com/ezio84/abc-n_frameworks_base/commit/eafca7897651692272dac34d0aa5cf194ca5bc3f
 https://github.com/ezio84/abc-n_frameworks_base/commit/820ce4f879d834a7c4311c099297ce19b127904a
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/4d01ed9c74766ab8ba1f274b9da41d0fa4ce06f7
+https://github.com/ezio84/abc-n_frameworks_base/commit/ff8c45598bec52b658efeb78b975d3422fcfc52b
+https://github.com/ezio84/abc-n_frameworks_base/commit/c4f77353f9e6920fc859c5c88aebb2fd567c63b4
 
 ADB over network and option to hide ADB notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
@@ -570,3 +572,7 @@ https://github.com/ezio84/abc-n_manifest/commit/91837f8e03e9d85ce602dd6456002c1c
 
 Themes: fix potential SysUI fc with custom lowbattery sound 
 https://github.com/ezio84/abc-n_frameworks_base/commit/6b3527fb080a3fa563e11351fa3d0ae35a66d8a9
+
+Pixel sounds
+https://github.com/ezio84/abc-n_frameworks_base/commit/d24e5143afc133e3af37b5b54190f2f8be623d64
+https://github.com/ezio84/abc-n_build/commit/05ce39527cdd9c821d02a34ba0fa3a63b883abee
