@@ -403,7 +403,8 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/ef34dfd1c294f7e988
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3a18b70f9002897484e50ead78bfe310a8927688
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c965aab7746ab2fe2f009d16bc067f9ae027f49e
 
-
+Recents: Allow closing empty view via tapping
+https://github.com/ezio84/abc-n_frameworks_base/commit/87451367f782a4ab050f7e794529227e30de6cd3
 
 
 -----------------
