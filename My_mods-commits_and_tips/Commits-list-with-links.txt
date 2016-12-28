@@ -325,6 +325,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/ff8c45598bec52b658efeb78b
 https://github.com/ezio84/abc-n_frameworks_base/commit/c4f77353f9e6920fc859c5c88aebb2fd567c63b4
 https://github.com/ezio84/abc-n_frameworks_base/commit/4edc2d1d811884f3f38fc3ed7d1fe5cc6d36b3ae
 https://github.com/ezio84/abc-n_frameworks_base/commit/115d1e1e8853545a9c1bd875fd84af8263fb720c
+https://github.com/ezio84/abc-n_frameworks_base/commit/2462d93d391ccba1406ea40d96df40777fb875ba
 
 ADB over network and option to hide ADB notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
@@ -564,6 +565,7 @@ https://github.com/ezio84/abc-n_system_netd/commit/427f0c9adb8afcbc0556e3b34eec8
 
 ABC menu icon
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6a6751d8f29027dd11d34b15275069172bef705d
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/25590056673037820eca82ccc66412162d1e5cae
 
 Pixel bootanimations
 https://github.com/ezio84/abc-n_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
