@@ -409,6 +409,8 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c965aab7746ab2fe2f
 Recents: Allow closing empty view via tapping
 https://github.com/ezio84/abc-n_frameworks_base/commit/87451367f782a4ab050f7e794529227e30de6cd3
 
+Bluetooth: Change disconnected icon to be 40% transparent
+https://github.com/ezio84/abc-n_frameworks_base/commit/d13b5aec23ca1315296d6846bd77c4ad585743df
 
 -----------------
 
