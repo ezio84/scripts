@@ -473,6 +473,7 @@ https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/79cb0826898c7721baca
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/d79283a052c7da98e9319e874b06e158fb6232f2
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/53ce21169de13f43436714a75693e89f0bc92c71
 https://github.com/ezio84/abc-n_packages_apps_Launcher3/commit/e07ad2221f4e7ecd7770ba3dac1f8244b3de4153
+https://github.com/ezio84/abc-n_frameworks_base/commit/790586a79e94860ee0f54f6f58e908b182f7f5e8
 
 then add busybox tree (the build commit is in the custom vendor tree)
 
@@ -525,6 +526,7 @@ https://github.com/ezio84/abc-n_vendor_nexus/commit/d4cc65afa2591fd129564279f2e9
 https://github.com/ezio84/abc-n_frameworks_av/commit/21344d2243b93b4bd176042799edb0f12c78fb94
 https://github.com/ezio84/abc-n_frameworks_av/commit/ee5c2a9cb6859053a9892ac682761a61bf44c41c (fix ok google)
 https://github.com/ezio84/abc-n_vendor_nexus/commit/2b7f04b7edd534ec89bce7cc80966eb8f05f5d42 (reverted till it'll support other languages)
+https://github.com/ezio84/abc-n_frameworks_base/commit/61db8ad17f749aecd9ebda3fd7c0518bce324163
 
 
 Dialer: fix compilation issues when importing System Settings
