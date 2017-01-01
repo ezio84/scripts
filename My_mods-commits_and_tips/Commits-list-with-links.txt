@@ -391,7 +391,7 @@ https://github.com/ezio84/abc-n_packages_apps_PackageInstaller/commit/68bf847094
 Move custom dp settings under Display
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/12ae52f6b1bdf75d63d9d8026b15ac30b0fb652a
 
-Night tile: automatically set a lower brightness when active
+Night mode: automatically set a lower brightness when active
 https://github.com/ezio84/abc-n_frameworks_base/commit/ceb1838576e107ad0d05db6bc904fe307622dabb
 https://github.com/ezio84/abc-n_frameworks_base/commit/92e68b8608c7660834546309ea297f4b61191b40
 https://github.com/ezio84/abc-n_frameworks_base/commit/1361912c8ee7a74b091c9cc2e0fd4646966a3378
@@ -405,6 +405,7 @@ https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/75f695d312d800d
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/ef34dfd1c294f7e988a0e790e8fa2ea2018fc076
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3a18b70f9002897484e50ead78bfe310a8927688
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c965aab7746ab2fe2f009d16bc067f9ae027f49e
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/2a120ddb5b8d836fd62032e77a1446359f719f38
 
 Recents: Allow closing empty view via tapping
 https://github.com/ezio84/abc-n_frameworks_base/commit/87451367f782a4ab050f7e794529227e30de6cd3
