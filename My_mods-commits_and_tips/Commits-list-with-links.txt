@@ -506,6 +506,7 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/9541687657b8bbb
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f513e9123e0009a446fb11e55e39a2e71c7c5ff6
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5ad74d189e17fc90cc755ffb49a235f5f5703c13
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/690b11b88cdb72c62916fba8af86d37b3bbbf6fc
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/eba2e0b562fe8d1f4698201c05fc40cccdc2183c
 
 Permissions/gapps fixes
 https://github.com/ezio84/abc-n_frameworks_base/commit/1657815bed5e36e362a03537d018d846c027b33f
