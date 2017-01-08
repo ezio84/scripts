@@ -532,7 +532,7 @@ https://github.com/ezio84/abc-n_frameworks_av/commit/21344d2243b93b4bd176042799e
 https://github.com/ezio84/abc-n_frameworks_av/commit/ee5c2a9cb6859053a9892ac682761a61bf44c41c (fix ok google)
 https://github.com/ezio84/abc-n_vendor_nexus/commit/2b7f04b7edd534ec89bce7cc80966eb8f05f5d42 (reverted till it'll support other languages)
 https://github.com/ezio84/abc-n_frameworks_base/commit/61db8ad17f749aecd9ebda3fd7c0518bce324163
-
+https://github.com/ezio84/abc-n_frameworks_base/commit/e4a760ac465e10ce9dd53fd61147d17f307f2549
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
@@ -569,6 +569,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/f9353fd24920f1d07a5723784
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/5940c8b885488ad901f5ad56cecec95b813e35c9
 https://github.com/ezio84/abc-n_packages_services_Telephony/commit/78cb62ec212c7912be9758a68aec6195ad1b3393
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/0983882411296a2719d37428e4d2f1690acb02fd
+https://github.com/ezio84/abc-n_frameworks_base/commit/ff3aa55d28c6a3cb3f4b16dd1f31eec713cdd7bb
+https://github.com/ezio84/abc-n_frameworks_base/commit/515259e418b780916ac2d63db1dd0e29580c0533
+https://github.com/ezio84/abc-n_vendor_nexus/commit/3a81b6a15705933c27e24c487c5e738bbaa4131e
 
 Restore tethering on some devices
 https://github.com/ezio84/abc-n_system_netd/commit/427f0c9adb8afcbc0556e3b34eec83af6f96b41c
