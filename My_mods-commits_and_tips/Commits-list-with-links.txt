@@ -290,7 +290,7 @@ Battery And Notification Lights
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/ee8e80e7b6a734462fc16138af9b3289beb40edb
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/20bf48fa43ea2e16de565ebcec242701bf1b02bb
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f5aa757675a0a693c5f0d9a1082592fe29e1703f
-https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/86f68c693a6c558acae5ab59276b3f3d538482b2
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/5776957e2f30f25496b531c393658a1deec68115
 https://github.com/ezio84/abc-n_frameworks_base/commit/bd01a1c18cf09d7a500b9d62496f54bb9157dc56
 
 Battery icon customizations
