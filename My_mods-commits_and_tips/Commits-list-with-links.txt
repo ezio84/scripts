@@ -417,6 +417,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/87451367f782a4ab050f7e794
 Bluetooth: Change disconnected icon to be 40% transparent
 https://github.com/ezio84/abc-n_frameworks_base/commit/d13b5aec23ca1315296d6846bd77c4ad585743df
 
+Allow to choose the default keyboard in Settings
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/fc9100bc14c8d9613566e303b09821768da17760
+
 -----------------
 
 Core and deep stuff/improvements
