@@ -140,7 +140,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/d702a597da2fa58062f357178
     https://github.com/ezio84/abc-n_vendor_nexus/commit/a3c6461ec0c93178930f2f7762acd08e15ac7dff
 https://github.com/ezio84/abc-n_frameworks_base/commit/17cd5b5b763b01b41f07b4309cfa98b84d7f5150 (this needs ADB over Network commits)
     https://github.com/ezio84/abc-n_frameworks_base/commit/b85c5addd9c94312bdfeab310e4f88f3fff25671
-https://github.com/ezio84/abc-n_frameworks_base/commit/ceea32b465b893e7f62f87adedda7e4f919456bf
+https://github.com/ezio84/abc-n_frameworks_base/commit/02a6677093f14dabcc46c96a284e17671ed3963a
 Data tiles easy toggles:
 https://github.com/ezio84/abc-n_frameworks_base/commit/947a81566cf5993f45e4e4e8e8088dbceb3f3e25
 https://github.com/ezio84/abc-n_frameworks_base/commit/59d9a249b936dd6b78dede05838e6956702c8188
