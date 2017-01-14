@@ -611,3 +611,8 @@ https://github.com/ezio84/abc-n_build/commit/05ce39527cdd9c821d02a34ba0fa3a63b88
 
 Store custom variables also after reboot
 https://github.com/ezio84/abc-n_frameworks_base/commit/6c8b1408c1ec821ee9b535228a683d7b96e34070
+
+Fix some windows white flash issues
+https://github.com/ezio84/abc-n_frameworks_base/commit/5660802d54814aa4a0854d79113b68785d5a2bb5
+https://github.com/ezio84/abc-n_frameworks_base/commit/590ac4c04185f4e3ce9b3149e590bccbd4ab7893
+https://github.com/ezio84/abc-n_frameworks_base/commit/02af0f8daa105d8f3f6e1493d8681d2f823e3a70
