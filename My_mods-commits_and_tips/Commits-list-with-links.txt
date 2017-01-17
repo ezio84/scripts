@@ -260,6 +260,7 @@ https://github.com/ezio84/abc-n_system_core/commit/be2b438ceab60447c017d1d12dcbb
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/f100b8b8fb324e849781c361e98f642ad56330ab
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/99cb603b062621ec7b185dfd8d687d97810ae00d
 https://github.com/ezio84/abc-n_frameworks_base/commit/43ef3b781ebff41eb276b9214f4d378af74d1b55
+https://github.com/ezio84/abc-n_frameworks_base/commit/7f6ff19efc0f7814af18c8b2a2f3867a311fc3bd
 
 Unlink notification volume 
 https://github.com/ezio84/abc-n_frameworks_base/commit/14fa15a80ff80b637043ce1465391e963e76f9a7
