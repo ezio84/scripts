@@ -259,7 +259,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/23fa94e8f5c173d16fde0223f
 https://github.com/ezio84/abc-n_system_core/commit/be2b438ceab60447c017d1d12dcbb1206dce8959
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/f100b8b8fb324e849781c361e98f642ad56330ab
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/99cb603b062621ec7b185dfd8d687d97810ae00d
-https://github.com/ezio84/abc-n_frameworks_base/commit/7efbc87be66d5383586fe35d1529701283462b5b
+https://github.com/ezio84/abc-n_frameworks_base/commit/43ef3b781ebff41eb276b9214f4d378af74d1b55
 
 Unlink notification volume 
 https://github.com/ezio84/abc-n_frameworks_base/commit/14fa15a80ff80b637043ce1465391e963e76f9a7
@@ -498,6 +498,7 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/53ce21169de13f4343
 https://github.com/ezio84/abc-n_packages_apps_Launcher3/commit/e07ad2221f4e7ecd7770ba3dac1f8244b3de4153
 https://github.com/ezio84/abc-n_frameworks_base/commit/790586a79e94860ee0f54f6f58e908b182f7f5e8
 https://github.com/ezio84/abc-n_frameworks_base/commit/4a30bfeba03da813daf94d097972df283b3dc3ea
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/85cd6e349e43990d6129efd7edbd27d67d1b0d0c
 
 then add busybox tree (the build commit is in the custom vendor tree)
 
