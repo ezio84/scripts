@@ -127,6 +127,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/0bb2aecea9e3b3ee3571dc976
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6e1fe45276cb78ae2b54c2900a57515cc56ed34e
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/1c29ef1b144f1ed67869d0d1841886db040ba5e4
 https://github.com/ezio84/abc-n_frameworks_base/commit/ba3b423fa4b88e7bcf33bc54a5de16e93e8c26e3
+https://github.com/ezio84/abc-n_frameworks_base/commit/2b60c7421b6e3a70979e3127bedaeb1c0a0951c4
 Tiles:
 https://github.com/ezio84/abc-n_frameworks_base/commit/2b64850dc5a97bee0144b272a7cfa1a9cabd2b40
 https://github.com/ezio84/abc-n_frameworks_base/commit/faeabdbf25e862332eb8e5d38fa80e1ef6003ae1
