@@ -436,6 +436,18 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/d13b5aec23ca1315296d6846b
 Allow to choose the default keyboard in Settings
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/fc9100bc14c8d9613566e303b09821768da17760
 
+One Handed mode from Huawei
+https://github.com/ezio84/abc-n_frameworks_base/commit/f6489c5c9d606ac6876cabab471b43fff0660ea7 (adapted for du nav, see link in commit msg for original stock navbar commit)
+https://github.com/ezio84/abc-n_frameworks_base/commit/67f47ae605dfba715d65239f1a28a215318beda6
+https://github.com/ezio84/abc-n_frameworks_base/commit/b1f3178541b18431ffe356c0037f174faacec5c7
+https://github.com/ezio84/abc-n_frameworks_base/commit/1336ac6f0085fc7485ff03314c0d6018a6961b3f
+https://github.com/ezio84/abc-n_frameworks_native/commit/754c9f4ef74a7a5347bc3e5db61ab3b1804495f7
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/e6bc3c51fb3d61885d53c01e5d649c6f3333ddf9
+https://github.com/ezio84/abc-n_packages_apps_DUI/commit/1365de319e2f4845eb8e746bc0aa7f4c9fecd3f6
+https://github.com/ezio84/abc-n_packages_apps_DUI/commit/f6641eb62acdb5bc52cc416a8b2d6523176aa83b
+https://github.com/ezio84/abc-n_packages_apps_DUI/commit/474de682d450432df2c01ffca5695b8f579294b9
+https://github.com/ezio84/abc-n_external_DUtils/commit/f2c87b29d5ab0d17af52b693e7bab1ee15316253
+
 -----------------
 
 Core and deep stuff/improvements
@@ -500,6 +512,7 @@ https://github.com/ezio84/abc-n_packages_apps_Launcher3/commit/e07ad2221f4e7ecd7
 https://github.com/ezio84/abc-n_frameworks_base/commit/790586a79e94860ee0f54f6f58e908b182f7f5e8
 https://github.com/ezio84/abc-n_frameworks_base/commit/4a30bfeba03da813daf94d097972df283b3dc3ea
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/85cd6e349e43990d6129efd7edbd27d67d1b0d0c
+https://github.com/ezio84/abc-n_frameworks_base/commit/337f6c175ce70a9259280178fdc63f45ddbf9af0
 
 then add busybox tree (the build commit is in the custom vendor tree)
 
@@ -555,6 +568,7 @@ https://github.com/ezio84/abc-n_frameworks_av/commit/ee5c2a9cb6859053a9892ac6827
 https://github.com/ezio84/abc-n_vendor_nexus/commit/2b7f04b7edd534ec89bce7cc80966eb8f05f5d42 (reverted till it'll support other languages)
 https://github.com/ezio84/abc-n_frameworks_base/commit/61db8ad17f749aecd9ebda3fd7c0518bce324163
 https://github.com/ezio84/abc-n_frameworks_base/commit/e4a760ac465e10ce9dd53fd61147d17f307f2549
+https://github.com/ezio84/abc-n_frameworks_base/commit/30786cddfd7b343761d439b0b2f13500741f180c
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
