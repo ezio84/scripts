@@ -128,6 +128,7 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6e1fe45276cb78a
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/1c29ef1b144f1ed67869d0d1841886db040ba5e4
 https://github.com/ezio84/abc-n_frameworks_base/commit/ba3b423fa4b88e7bcf33bc54a5de16e93e8c26e3
 https://github.com/ezio84/abc-n_frameworks_base/commit/2b60c7421b6e3a70979e3127bedaeb1c0a0951c4
+https://github.com/ezio84/abc-n_frameworks_base/commit/7f187a65cd6ff0482d3cc6dda3b17237be62eab6
 Tiles:
 https://github.com/ezio84/abc-n_frameworks_base/commit/2b64850dc5a97bee0144b272a7cfa1a9cabd2b40
 https://github.com/ezio84/abc-n_frameworks_base/commit/faeabdbf25e862332eb8e5d38fa80e1ef6003ae1
@@ -137,8 +138,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/e5dd52cf1d209f35e0a613726
 https://github.com/ezio84/abc-n_frameworks_base/commit/88fe475551dbadafe14d83e890bf498ba9b2b4cd
     https://github.com/ezio84/abc-n_frameworks_base/commit/d702a597da2fa58062f357178ddd314cd8191165
 https://github.com/ezio84/abc-n_frameworks_base/commit/d702a597da2fa58062f357178ddd314cd8191165
-    https://github.com/ezio84/abc-n_frameworks_base/commit/08588261e5303784018b4bd3af23a2c0f16e0c44
-    https://github.com/ezio84/abc-n_frameworks_base/commit/9159a31060de3395e8e032452071154bfd5d8277
+    https://github.com/ezio84/abc-n_frameworks_base/commit/9af22312b9d43d39fdc754d5f2fd99b39216a7c7
     https://github.com/ezio84/abc-n_vendor_nexus/commit/a3c6461ec0c93178930f2f7762acd08e15ac7dff
 https://github.com/ezio84/abc-n_frameworks_base/commit/17cd5b5b763b01b41f07b4309cfa98b84d7f5150 (this needs ADB over Network commits)
     https://github.com/ezio84/abc-n_frameworks_base/commit/b85c5addd9c94312bdfeab310e4f88f3fff25671
@@ -447,7 +447,9 @@ https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/e6bc3c51fb3d618
 https://github.com/ezio84/abc-n_packages_apps_DUI/commit/1365de319e2f4845eb8e746bc0aa7f4c9fecd3f6
 https://github.com/ezio84/abc-n_packages_apps_DUI/commit/f6641eb62acdb5bc52cc416a8b2d6523176aa83b
 https://github.com/ezio84/abc-n_packages_apps_DUI/commit/474de682d450432df2c01ffca5695b8f579294b9
+https://github.com/ezio84/abc-n_packages_apps_DUI/commit/dd920714cfc7e824a57570c6bd1b334f2f88d2ef
 https://github.com/ezio84/abc-n_external_DUtils/commit/f2c87b29d5ab0d17af52b693e7bab1ee15316253
+
 
 -----------------
 
