@@ -144,6 +144,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/17cd5b5b763b01b41f07b4309
     https://github.com/ezio84/abc-n_frameworks_base/commit/b85c5addd9c94312bdfeab310e4f88f3fff25671
 https://github.com/ezio84/abc-n_frameworks_base/commit/de0a679c85919767cec05c17050abf1e21b01f55
 https://github.com/ezio84/abc-n_frameworks_base/commit/e8cab71d0e09c32f2a9f31fea6e90a0efee62eed
+    https://github.com/ezio84/abc-n_frameworks_base/commit/07531c3fcbd4afc596ee139dd2e0b86ff0d2cadb
 Data tiles easy toggles:
 https://github.com/ezio84/abc-n_frameworks_base/commit/947a81566cf5993f45e4e4e8e8088dbceb3f3e25
 https://github.com/ezio84/abc-n_frameworks_base/commit/59d9a249b936dd6b78dede05838e6956702c8188
@@ -571,7 +572,7 @@ https://github.com/ezio84/abc-n_frameworks_av/commit/ee5c2a9cb6859053a9892ac6827
 https://github.com/ezio84/abc-n_vendor_nexus/commit/2b7f04b7edd534ec89bce7cc80966eb8f05f5d42 (reverted till it'll support other languages)
 https://github.com/ezio84/abc-n_frameworks_base/commit/61db8ad17f749aecd9ebda3fd7c0518bce324163
 https://github.com/ezio84/abc-n_frameworks_base/commit/e4a760ac465e10ce9dd53fd61147d17f307f2549
-https://github.com/ezio84/abc-n_frameworks_base/commit/30786cddfd7b343761d439b0b2f13500741f180c
+https://github.com/ezio84/abc-n_frameworks_base/commit/30786cddfd7b343761d439b0b2f13500741f180c << REVERTED: causes Playstore fc
 
 Dialer: fix compilation issues when importing System Settings
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
