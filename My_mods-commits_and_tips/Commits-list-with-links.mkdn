@@ -532,6 +532,7 @@ Build custom Settings sub-tree (it's built into Settings itself)
 - https://github.com/ezio84/abc-n_packages_apps_Settings/commit/8c00d72d37ff39d29e1f80464ec20b150e3a6a2c
 - https://github.com/ezio84/abc-n_frameworks_base/commit/4a433eb116ce1128ca4350225d45d8d7e593bdbc
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/6d1e55fc5111899bda7ea55dc188aaaca17b0a70
+- https://github.com/ezio84/abc-n_packages_apps_Settings/commit/73131b3b92a97c76b98220348f00566f1fbf5c2f
 
 Allow to run systuituner options from Settings and tuner improvements
 - https://github.com/ezio84/abc-n_frameworks_base/commit/de32cac631efe26d3b814e43b4029bde413bbe36
