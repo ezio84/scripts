@@ -146,7 +146,7 @@ Tiles:
 - https://github.com/ezio84/abc-n_frameworks_base/commit/e8cab71d0e09c32f2a9f31fea6e90a0efee62eed
     - https://github.com/ezio84/abc-n_frameworks_base/commit/07531c3fcbd4afc596ee139dd2e0b86ff0d2cadb
     (needs https://github.com/ezio84/abc-n_frameworks_base/commit/aa9a738638260376354b0dca180be1223f9293a0)
-Data tiles easy toggles:
+Tiles easy toggles:
 - https://github.com/ezio84/abc-n_frameworks_base/commit/947a81566cf5993f45e4e4e8e8088dbceb3f3e25
 - https://github.com/ezio84/abc-n_frameworks_base/commit/59d9a249b936dd6b78dede05838e6956702c8188
 - https://github.com/ezio84/abc-n_frameworks_base/commit/2e90934578d180c5799a84571052c92ddd5dccfa
@@ -155,6 +155,8 @@ Data tiles easy toggles:
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/30657da1f155a26b98ee2d5855e53ee325c9c65b
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/eedb3989812574d2a987550b75ec0a05638ad7b7
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e26dc127e1c15ac9736be7dabef8a9537a2852d9
+- https://github.com/ezio84/abc-n_frameworks_base/commit/d15b5a8e3369435183d15cc8ddfce9230a249344
+- https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/a759f0c0fe481e5dcd64dfacaaf48aa623e3b3a5
 
 Volumer rocker features
 - https://github.com/ezio84/abc-n_frameworks_native/commit/e352003320e61b854a8ea33989ce9877f0864a26
