@@ -155,8 +155,8 @@ Tiles easy toggles:
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/30657da1f155a26b98ee2d5855e53ee325c9c65b
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/eedb3989812574d2a987550b75ec0a05638ad7b7
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e26dc127e1c15ac9736be7dabef8a9537a2852d9
-- https://github.com/ezio84/abc-n_frameworks_base/commit/d15b5a8e3369435183d15cc8ddfce9230a249344
-- https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/a759f0c0fe481e5dcd64dfacaaf48aa623e3b3a5
+- https://github.com/ezio84/abc-n_frameworks_base/commit/45d3b9fa7bd70f10d60c3db360fca0e34dd442ef
+- https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/97b8afb40c65d10795e113d5a5d25115b7e83e89
 
 Volumer rocker features
 - https://github.com/ezio84/abc-n_frameworks_native/commit/e352003320e61b854a8ea33989ce9877f0864a26
@@ -276,8 +276,12 @@ Support enforcing a minimum delay between notification sounds of an app
 - https://github.com/ezio84/abc-n_frameworks_base/commit/b0779afb3226da2e63e4c7684aadba15373d0646
 - https://github.com/ezio84/abc-n_packages_apps_Settings/commit/b1bbd97674b8bfce81d92e00d05d348de00f1145
 
-Disable Dashboard Conditions 
+Settings Dashboard improvements
 - https://github.com/ezio84/abc-n_packages_apps_Settings/commit/4c8019c0a1c944d95d4d902bb89a469c958af1e6
+- https://github.com/ezio84/abc-n_frameworks_base/commit/84e7f44f675977647091a685604d2a22845b968a
+- https://github.com/ezio84/abc-n_frameworks_base/commit/647efa3c5e36fca4df3754291e6de8e2c15c0bc1
+- https://github.com/ezio84/abc-n_packages_apps_Settings/commit/616d63c534be2a4b1a1d1dc41bb8aced16374d7c
+- https://github.com/ezio84/abc-n_packages_apps_Settings/commit/1945aaf5ca45837c2086daa454bbc1611d6a80f0
 
 Allow adjusting screen density to smaller sizes
 - https://github.com/ezio84/abc-n_frameworks_base/commit/95da50a8a42036bac39775d69abf81f1a0ac6a20
