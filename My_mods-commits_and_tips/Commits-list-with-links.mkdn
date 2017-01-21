@@ -281,7 +281,7 @@ Settings Dashboard improvements
 - https://github.com/ezio84/abc-n_frameworks_base/commit/84e7f44f675977647091a685604d2a22845b968a
 - https://github.com/ezio84/abc-n_frameworks_base/commit/647efa3c5e36fca4df3754291e6de8e2c15c0bc1
 - https://github.com/ezio84/abc-n_packages_apps_Settings/commit/616d63c534be2a4b1a1d1dc41bb8aced16374d7c
-- https://github.com/ezio84/abc-n_packages_apps_Settings/commit/1945aaf5ca45837c2086daa454bbc1611d6a80f0
+- https://github.com/ezio84/abc-n_packages_apps_Settings/commit/5ce928ae7f2b8eb9b0f9bd34bd6cdb2eca908bce
 
 Allow adjusting screen density to smaller sizes
 - https://github.com/ezio84/abc-n_frameworks_base/commit/95da50a8a42036bac39775d69abf81f1a0ac6a20
