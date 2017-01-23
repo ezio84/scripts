@@ -76,6 +76,8 @@ Quick settings pull down with one finger
 - https://github.com/ezio84/abc-n_frameworks_base/commit/fb6cdb41f21051392fd3b064dcf968b2222b1a01
 - https://github.com/ezio84/abc-n_frameworks_base/commit/bf09a55571c009b47bad62755b6868c892b9ce7f
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e1c9176fb6519e5a1ff37c5b5fca62d1ef8a7c39
+- https://github.com/ezio84/abc-n_frameworks_base/commit/4fcef4609834ad5c8e451b7c37d8d68dc16f6fca
+- https://github.com/ezio84/abc-n_frameworks_base/commit/e3577de38e77239ed5579e33620161bdbd8f021c
 
 Statusbar double tap to sleep 
 - https://github.com/ezio84/abc-n_frameworks_base/commit/746fff29bda98f96f103dc40c9dfa36a107bdf3e
