@@ -655,3 +655,6 @@ Fix some windows white flash issues
 - https://github.com/ezio84/abc-n_frameworks_base/commit/5660802d54814aa4a0854d79113b68785d5a2bb5
 - https://github.com/ezio84/abc-n_frameworks_base/commit/590ac4c04185f4e3ce9b3149e590bccbd4ab7893
 - https://github.com/ezio84/abc-n_frameworks_base/commit/02af0f8daa105d8f3f6e1493d8681d2f823e3a70
+
+Use ccache for kernel compilation (very fast)
+https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/48c8a48a37ddea43ece658d1e60802d063f19f44
