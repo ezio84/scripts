@@ -250,6 +250,7 @@ Contacts bring back basic group support
 - https://github.com/ezio84/abc-n_packages_apps_ContactsCommon/commit/8515c468e81bae8061be409637bfc3f8b86889a6
 - https://github.com/ezio84/abc-n_packages_apps_Contacts/commit/697cc58ee79aaf2c931c0d6b181872be4d125aa7
 - https://github.com/ezio84/abc-n_packages_apps_Contacts/commit/47e88034bc0ae267b02acc0d2d3b67e02c7742e0
+- https://github.com/ezio84/abc-n_packages_apps_Contacts/commit/90f5213b77ed934be871f6e1d06e93fdd1536d13
 - https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/37aaf0f759256a8a8e451553914235f3d9dfa508
 
 Disable screenshot sound
