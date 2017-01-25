@@ -604,7 +604,7 @@ Boot with all cpus and use multithread for bootanimations
 - https://github.com/ezio84/abc-n_frameworks_base/commit/a1e9da24a76761d7f64a5edf36b2c96b927bfa31
 - https://github.com/ezio84/abc-n_frameworks_base/commit/9c51f94cee8b4a411248072c9b6a88e8d82778f4
 - https://github.com/ezio84/abc-n_frameworks_base/commit/aaa921d57f0daf45e82f0891bbd518d06d2ced6d
-- https://github.com/ezio84/abc-n_device_huawei_angler/commit/955774db67226ed768230e7b210e6528172b94d6
+- https://github.com/ezio84/abc-n_device_huawei_angler/commit/955774db67226ed768230e7b210e6528172b94d6 --> 34bdc11033423297fb573a39fb10c9f2019163d8
 
 Additional roaming and carriers improvements
 - https://github.com/ezio84/abc-n_frameworks_base/commit/09267fb07897d813c32da82ad8220c6076b9c3f8
