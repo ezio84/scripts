@@ -229,6 +229,7 @@ Add ability to disable ripple when entering lockscreen pin
 - https://github.com/ezio84/abc-n_frameworks_base/commit/77b7f8fbcfe6fa700a7c2fae7e261a2169b8242b
 - https://github.com/ezio84/abc-n_frameworks_base/commit/a5d3b247557eede60c1ac2276b698b4317008ad8
 - https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5ed852564ecacd1527e5cb46a7537a395bef007d
+- https://github.com/ezio84/abc-n_frameworks_base/commit/0963bdc14287e179c2d37da609160488e435206e
 
 Increasing ring
 - https://github.com/ezio84/abc-n_packages_apps_Settings/commit/2ffa918d958f3a7592930d5e576cd5c251ab0f4e
