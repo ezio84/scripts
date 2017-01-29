@@ -468,6 +468,7 @@ One Handed mode from Huawei
 - https://github.com/ezio84/abc-n_packages_apps_DUI/commit/dd920714cfc7e824a57570c6bd1b334f2f88d2ef
 - https://github.com/ezio84/abc-n_external_DUtils/commit/f2c87b29d5ab0d17af52b693e7bab1ee15316253
 - https://github.com/ezio84/abc-n_frameworks_native/commit/3fe64f180f3012cd1a9acc4ca57cb73d9974a678
+- https://github.com/ezio84/abc-n_frameworks_base/commit/f1f721ed080d4985220f80793fe77a4195b2c3b0
 
 
 -----------------
