@@ -474,6 +474,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/f1f721ed080d4985220f80793
 Disable safe media volume (no vol reset when switching headset wired/bt)
 https://github.com/ezio84/abc-n_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
 
+Power menu fade
+https://github.com/ezio84/abc-n_frameworks_base/commit/0722d3f7dd15f7b5da44bc808750d3f3cdf3e105
 
 -----------------
 
