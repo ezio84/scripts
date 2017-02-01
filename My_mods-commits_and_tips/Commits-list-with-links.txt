@@ -470,13 +470,13 @@ https://github.com/ezio84/abc-n_packages_apps_DUI/commit/dd920714cfc7e824a57570c
 https://github.com/ezio84/abc-n_external_DUtils/commit/f2c87b29d5ab0d17af52b693e7bab1ee15316253
 https://github.com/ezio84/abc-n_frameworks_native/commit/3fe64f180f3012cd1a9acc4ca57cb73d9974a678
 https://github.com/ezio84/abc-n_frameworks_base/commit/f1f721ed080d4985220f80793fe77a4195b2c3b0
-https://github.com/ezio84/abc-n_frameworks_base/commit/b20fcf261765ba9bb85c02622a5a4e27dd40a114
+https://github.com/ezio84/abc-n_frameworks_base/commit/ced24084ad4ffdf241c9eb927a69236559c52d49
 
 Disable safe media volume (no vol reset when switching headset wired/bt)
 https://github.com/ezio84/abc-n_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
 
-Power menu fade
-https://github.com/ezio84/abc-n_frameworks_base/commit/0722d3f7dd15f7b5da44bc808750d3f3cdf3e105
+Power menu dialogs improvements
+https://github.com/ezio84/abc-n_frameworks_base/commit/0db8c0c0711c5898d6960c097f78dacf0e20c607
 
 -----------------
 
