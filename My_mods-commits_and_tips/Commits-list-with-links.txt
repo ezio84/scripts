@@ -478,6 +478,10 @@ https://github.com/ezio84/abc-n_vendor_nexus/commit/b76ed05c8243abf824fbf3380c55
 Power menu dialogs improvements
 https://github.com/ezio84/abc-n_frameworks_base/commit/0db8c0c0711c5898d6960c097f78dacf0e20c607
 
+Allow to quickly open Running Services from notification/qs panel 
+https://github.com/ezio84/abc-n_frameworks_base/commit/f5f9587f608815a0e6f0090763582109cea8c3c6
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/7c850b4a3b0eba773b8c2be986162a0530e3bd2a
+
 -----------------
 
 Core and deep stuff/improvements
