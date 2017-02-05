@@ -202,6 +202,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/dc3d023fc994cb980f8b474fc
 https://github.com/ezio84/abc-n_frameworks_base/commit/b3449806ecd3e036867677be1c7bd61984c37481
 https://github.com/ezio84/abc-n_frameworks_base/commit/cceef8e5ef7eac22a453ad1c3651a1f7c4744b8f
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/95c708a07835f30953ffac273c727f795da5d1e2
+https://github.com/ezio84/abc-n_frameworks_base/commit/a909237af7ec7f4814529d623181fdc652dcbff6
 
 Disable Lockscreen Media Art 
 https://github.com/ezio84/abc-n_frameworks_base/commit/c76fad94bca204f70c61cac576c072c37ad4b5a6
