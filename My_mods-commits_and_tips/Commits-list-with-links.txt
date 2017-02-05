@@ -482,7 +482,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/0db8c0c0711c5898d6960c097
 Allow to quickly open Running Services from notification/qs panel 
 https://github.com/ezio84/abc-n_frameworks_base/commit/f5f9587f608815a0e6f0090763582109cea8c3c6
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/7c850b4a3b0eba773b8c2be986162a0530e3bd2a
-https://github.com/ezio84/abc-n_frameworks_base/commit/82c7822cbbee4a5eb7dd917ca9ac39edb4a31b54
+https://github.com/ezio84/abc-n_frameworks_base/commit/59620751c8c1f9d7c32ab3cb526b9b3ffc8cdc71
 
 -----------------
 
