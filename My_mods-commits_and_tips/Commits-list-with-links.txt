@@ -362,6 +362,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/2462d93d391ccba1406ea40d9
 https://github.com/ezio84/abc-n_frameworks_base/commit/9c577b8c7ca4521c41c1d04c351ee4ee8a725890
 https://github.com/ezio84/abc-n_frameworks_base/commit/4644383d05b777a538bb181e0a0d921899756d04
 https://github.com/ezio84/abc-n_frameworks_base/commit/be66483b6f05adf04d484902b64070d9c84b3d8e
+https://github.com/ezio84/abc-n_frameworks_base/commit/f24b59da7df5f962e5c5e9265bf22a3842378c4a
 
 ADB over network and option to hide ADB notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
@@ -548,6 +549,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/4a30bfeba03da813daf94d097
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/85cd6e349e43990d6129efd7edbd27d67d1b0d0c
 https://github.com/ezio84/abc-n_frameworks_base/commit/337f6c175ce70a9259280178fdc63f45ddbf9af0
 https://github.com/ezio84/abc-n_frameworks_base/commit/411c291912df891c2d531e32be915d18359ba9d9
+https://github.com/ezio84/abc-n_frameworks_base/commit/b768ea47a7f558cae782f2d5e8849262811d1b06
 
 then add busybox tree (the build commit is in the custom vendor tree)
 
