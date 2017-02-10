@@ -414,6 +414,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/c2997c81ecd640142302d518d
 https://github.com/ezio84/abc-n_frameworks_base/commit/94e8b06f4eb416d06f95e945f4653e2a79eac907
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/8c7875eac98145889dad62f7fe9cb7c6113834be
 https://github.com/ezio84/abc-n_frameworks_base/commit/4f58b7d55b9f518fe343c97608f4e6dad234fdbf
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/d974a483cc481f0ff618b3bd2ddd1f5aea480acd
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/814bf0cfcce60a1be2b55eb7f33d5a47e080493f
 
 aosp keyboard improvements
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
@@ -675,6 +677,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/6b3527fb080a3fa563e11351f
 Pixel sounds
 https://github.com/ezio84/abc-n_frameworks_base/commit/d24e5143afc133e3af37b5b54190f2f8be623d64
 https://github.com/ezio84/abc-n_build/commit/05ce39527cdd9c821d02a34ba0fa3a63b883abee
+
+Pixel nav button animation
+commits are in du nav list
 
 Store custom variables also after reboot
 https://github.com/ezio84/abc-n_frameworks_base/commit/6c8b1408c1ec821ee9b535228a683d7b96e34070
