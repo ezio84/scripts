@@ -97,6 +97,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/94dc74908e9f1b7eeaffa6a4a
 Statusbar clock and date customizations 
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/0a3ab006b68697ef1c6048af58e7372c0412d1f1
 https://github.com/ezio84/abc-n_frameworks_base/commit/f89a4bc064de87523921040fe9b8595caae38aa8
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/e918e325702a4d6be0145ab3eba7d7db9ab37b13
 
 Materialize some icons
 https://github.com/ezio84/abc-n_frameworks_base/commit/d535416eb3616b9696a18a4f727f920c1d74388a
