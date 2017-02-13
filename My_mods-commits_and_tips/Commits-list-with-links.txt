@@ -16,6 +16,11 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/b3650e920aad962b91
 
 High brightness mode
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/db37c295d36ba7296001b91edfcdbc2da1b2e037
+https://github.com/ezio84/abc-n_frameworks_base/commit/e1eb4a0d3940c2e30deb7edf3b6e7d869860be29
+https://github.com/ezio84/abc-n_frameworks_base/commit/e73ead10f43549a3a1730e3500aa209c0c51e499
+https://github.com/ezio84/abc-n_frameworks_base/commit/0ceddc7ead6f68cceec613c9728bc8e9c7b35d8e
+https://github.com/ezio84/abc-n_frameworks_base/commit/f1a54bff1a05a100fae6cd0c14853af4a91de785
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/413e723b6718862247476c3408a01789220ee81e
 
 Angler wake gestures
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/e42260e6aa4e0eb5337828111ba4b8f5e1a199b0
