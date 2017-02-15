@@ -505,6 +505,11 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/c8a3b47816c89f5b25d18d04d
 
 Unlock keystore with fingerprint after reboot or SysUI restart
 https://github.com/ezio84/abc-n_frameworks_base/commit/d70726c8295987d17d071357cc1e12c9c17b2bbf
+
+Incall vibration options (both aosp and google dialer)
+https://github.com/ezio84/abc-n_frameworks_base/commit/cb86c7cdaee42c31cfd4746abff158b2f40641c0
+https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/8145b14a5e0cdfc3515677e0e51823ba9d9afae4
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/cd1b2b76657b842610c4c9bf64c1204f58d2a53a
 -----------------
 
 Core and deep stuff/improvements
