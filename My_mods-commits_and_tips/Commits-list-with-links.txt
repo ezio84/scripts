@@ -460,9 +460,6 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3a18b70f9002897484
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c965aab7746ab2fe2f009d16bc067f9ae027f49e
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/2a120ddb5b8d836fd62032e77a1446359f719f38
 
-Recents: Allow closing empty view via tapping
-https://github.com/ezio84/abc-n_frameworks_base/commit/87451367f782a4ab050f7e794529227e30de6cd3
-
 Bluetooth: Change disconnected icon to be 40% transparent
 https://github.com/ezio84/abc-n_frameworks_base/commit/d13b5aec23ca1315296d6846bd77c4ad585743df
 
@@ -510,6 +507,16 @@ Incall vibration options (both aosp and google dialer)
 https://github.com/ezio84/abc-n_frameworks_base/commit/cb86c7cdaee42c31cfd4746abff158b2f40641c0
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/8145b14a5e0cdfc3515677e0e51823ba9d9afae4
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/cd1b2b76657b842610c4c9bf64c1204f58d2a53a
+
+Recents improvements
+https://github.com/ezio84/abc-n_frameworks_base/commit/87451367f782a4ab050f7e794529227e30de6cd3
+https://github.com/ezio84/abc-n_frameworks_base/commit/283a4469a3037fb44c465d963eca04f36c64fdad
+https://github.com/ezio84/abc-n_frameworks_base/commit/fe130bf83a7ebaed97e51d9663ce02c26a53080a
+https://github.com/ezio84/abc-n_frameworks_base/commit/c30e31835dcd7fd6e626072f8051849b39ce33ec
+https://github.com/ezio84/abc-n_frameworks_base/commit/50363be6cd655659872830a060aa367b38bf9381
+https://github.com/ezio84/abc-n_frameworks_base/commit/b660f9c657f5cd046014d47de29e75a9bca5deb8
+
+
 -----------------
 
 Core and deep stuff/improvements
