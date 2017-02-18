@@ -59,3 +59,6 @@ fi
 # Get elapsed time
 res2=$(date +%s.%N)
 echo "${bldgrn}Total time elapsed: ${txtrst}${grn}$(echo "($res2 - $res1) / 60"|bc ) minutes ($(echo "$res2 - $res1"|bc ) seconds) ${txtrst}"
+
+#kill java if it's hanging on
+pkill java

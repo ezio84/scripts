@@ -112,6 +112,9 @@ echo -e ${txtrst}
 
 BUILDTIME="Build time: $(echo $((${END}-${START})) | awk '{print int($1/60)" minutes and "int($1%60)" seconds"}')"
 
+#kill java if it's hanging on
+pkill java
+
 # Shutdown the system if required by the user
 if [ "$SHUTDOWN" == "off" ]
 then
