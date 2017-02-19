@@ -522,6 +522,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/5434aba3d6460a6dd694e4659
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/8b14d45739039bef4029452e2d99d447def15c74
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/c06135ca8b35c21c8649ac7cf7f592315048b66e
 
+Disable ongoing statusbar ime switcher notification
+https://github.com/ezio84/abc-n_vendor_nexus/commit/080a776f762fd6c4947cc550dd7873c9385f8089
+
 -----------------
 
 Core and deep stuff/improvements
