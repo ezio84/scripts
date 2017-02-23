@@ -602,6 +602,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/b768ea47a7f558cae782f2d5e
 https://github.com/ezio84/abc-n_system_core/commit/04435ecd76208c47b495edfba51ed883343a1f50
 https://github.com/ezio84/abc-n_frameworks_av/commit/e96fd3b07c795364732d47af4e6f1ce13b58d5ec
 
+
 then add busybox tree (the build commit is in the custom vendor tree)
 
 Build kernel inline:
@@ -736,3 +737,6 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/02af0f8daa105d8f3f6e1493d
 
 Use ccache for kernel compilation (very fast)
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/48c8a48a37ddea43ece658d1e60802d063f19f44
+
+aosp Contacts long press shortcut fixes
+https://github.com/ezio84/abc-n_packages_apps_Contacts/commit/3de5e3e564f8f35cc92fa74c93357f6520bcfe06
