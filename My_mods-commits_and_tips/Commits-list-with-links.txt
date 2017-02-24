@@ -531,6 +531,8 @@ Disable ongoing statusbar ime switcher notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/0a6fd9213d63eaef48e3848530accae620ddf527
 https://github.com/ezio84/abc-n_packages_apps_DUI/commit/bed34d79c07da49e07826f99df615b3998ab439b
 
+Allow 180° rotation
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/3b25e85ebc3fd907f1a67f50967a24ff7206973c
 
 -----------------
 
