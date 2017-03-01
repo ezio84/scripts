@@ -332,6 +332,7 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/20bf48fa43ea2e1
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f5aa757675a0a693c5f0d9a1082592fe29e1703f
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/5776957e2f30f25496b531c393658a1deec68115
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f7c1771c67444105d1d770152d7585fdd2cde85e
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/b64ce6400b68b88cee3fa8e3732b27bcddee6eb3
 https://github.com/ezio84/abc-n_frameworks_base/commit/bd01a1c18cf09d7a500b9d62496f54bb9157dc56
 
 Battery icon customizations
@@ -567,7 +568,10 @@ https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/01de0269a1f2a9f
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/36ae2da0e9a1b11ab2efb07b807ba61f69beb356
 https://github.com/ezio84/abc-n_frameworks_base/commit/d72cd92327cc4e336cd79f53b1b1ed0abe244a19
 https://github.com/ezio84/abc-n_frameworks_base/commit/be8966fcb8b50f8aa4450a94fc930f4e104a379f
-https://github.com/ezio84/abc-n_frameworks_base/commit/dee69f9ce3f7912ba8ed93a4eea6c8b971a1b102
+https://github.com/ezio84/abc-n_frameworks_base/commit/b4e488cef1381077aa2c7b0119819f5dd27f275b
+https://github.com/ezio84/abc-n_frameworks_base/commit/5dcf297e6e9f9b153db3d63390ab069cb49e6a03
+https://github.com/ezio84/abc-n_frameworks_base/commit/0fcfa556e3e96e047d5f0600cf2b238a98a998a7
+https://github.com/ezio84/abc-n_frameworks_base/commit/e00b1014eda5fdac865280ebe3744add451715bb
 
 
 -----------------
