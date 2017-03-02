@@ -576,7 +576,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/0c08b37f6af523a114e100969
 https://github.com/ezio84/abc-n_frameworks_base/commit/ef17925ddc82fd56f2b0a25c03fd2f2da5f41826
 https://github.com/ezio84/abc-n_external_DUtils/commit/927af18d4cb50843585d094bcad99bd94b3e0891
 
-
+Heads up toggle
+https://github.com/ezio84/abc-n_frameworks_base/commit/0fe4288d67df8ecd0fc86c4f5be520bbbdd73251
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/4d21dcccb290d1c181dacfb6c8c491acea8f73ec
 -----------------
 
 Core and deep stuff/improvements
