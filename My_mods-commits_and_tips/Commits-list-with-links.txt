@@ -576,6 +576,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/0c08b37f6af523a114e100969
 https://github.com/ezio84/abc-n_frameworks_base/commit/ef17925ddc82fd56f2b0a25c03fd2f2da5f41826
 https://github.com/ezio84/abc-n_external_DUtils/commit/927af18d4cb50843585d094bcad99bd94b3e0891
 https://github.com/ezio84/abc-n_frameworks_base/commit/51d1b496922bbc4903365d97ed696c3bdeed4bdf
+https://github.com/ezio84/abc-n_frameworks_base/commit/fea3ad9a9db0849265f5dbab2f8b0cab0c69b5b9
 
 Heads up toggle
 https://github.com/ezio84/abc-n_frameworks_base/commit/1fd6fef341b77ad0d6772fd28f9fb2d421961f2a
