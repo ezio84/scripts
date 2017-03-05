@@ -546,11 +546,12 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/8b599cd7e9e33b8ff2914f29e
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f943f37e150d0d68e68ccd972f723c92e507a3d7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/856026246733f0211f77d5eaeaa7650bbd7936cb
 
-
-
 Heads up toggle
 https://github.com/ezio84/abc-n_frameworks_base/commit/8113c748c6524540e92bcd17471d01283e907a43
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/56228a81ad00d676dd25a32538117a47b2a66290
+
+Add root support for Tasker when using Magisk SU
+https://github.com/ezio84/abc-n_build/commit/c983ee86adc69302e2d84e1d8233b331e650327e
 -----------------
 
 Core and deep stuff/improvements
