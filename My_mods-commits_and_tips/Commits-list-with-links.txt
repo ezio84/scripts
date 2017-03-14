@@ -548,6 +548,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/897ecbb771e0779b765d28b5b
 https://github.com/ezio84/abc-n_frameworks_base/commit/adf280451f227d28c52b1349dda25e0e3134eb05
 https://github.com/ezio84/abc-n_frameworks_base/commit/c6a92d6e6e0e681b4bf8006d7e4336242a9ce32c
 https://github.com/ezio84/abc-n_frameworks_base/commit/5a1978cd88f281690b6daca23a05142b811cf6d1
+        (needs this to work well, it can be added also for non-dui roms https://github.com/ezio84/abc-n_external_DUtils/commit/76360277b73809d521b1c1af37800e9b468d46d2) )
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f943f37e150d0d68e68ccd972f723c92e507a3d7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/856026246733f0211f77d5eaeaa7650bbd7936cb
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9fa2c9f953f66eac2aef0c01de7d0c1a4f2c61e1
