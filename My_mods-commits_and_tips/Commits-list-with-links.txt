@@ -170,6 +170,9 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/eedb3989812574d
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e26dc127e1c15ac9736be7dabef8a9537a2852d9
 https://github.com/ezio84/abc-n_frameworks_base/commit/45d3b9fa7bd70f10d60c3db360fca0e34dd442ef
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/97b8afb40c65d10795e113d5a5d25115b7e83e89
+https://github.com/ezio84/abc-n_frameworks_base/commit/9819cdffad68d53829c852573993419f37bd159b
+https://github.com/ezio84/abc-n_frameworks_base/commit/5bf01e35d50444f2fd916776b0aba9c8c99e8d9f
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/a14548e261885b4f28dcc0fda921a345067ec641
 
 Volumer rocker features
 https://github.com/ezio84/abc-n_frameworks_native/commit/e352003320e61b854a8ea33989ce9877f0864a26
