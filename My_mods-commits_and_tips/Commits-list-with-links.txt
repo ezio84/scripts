@@ -553,9 +553,11 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/d60c4466a49f83c1ac00717d6
 https://github.com/ezio84/abc-n_frameworks_base/commit/609e78606c63bc7a45401afd4b8f0df15174f348
 https://github.com/ezio84/abc-n_frameworks_base/commit/ac80550ca2fd5f5c7a8e705a7eb7a4a99e616681
 https://github.com/ezio84/abc-n_frameworks_base/commit/3736a06501868d10b8972fd792c66cfc3c56062b
+https://github.com/ezio84/abc-n_frameworks_base/commit/aa18d3e0e4e6dcce20cabef0d3512da5d9b04ea4
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f943f37e150d0d68e68ccd972f723c92e507a3d7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/856026246733f0211f77d5eaeaa7650bbd7936cb
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9fa2c9f953f66eac2aef0c01de7d0c1a4f2c61e1
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/61c00590dd65dba280ae7e1707b3b1667f659584
 
 Heads up toggle
 https://github.com/ezio84/abc-n_frameworks_base/commit/8113c748c6524540e92bcd17471d01283e907a43
