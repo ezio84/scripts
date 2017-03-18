@@ -159,10 +159,10 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/e8cab71d0e09c32f2a9f31fea
 https://github.com/ezio84/abc-n_frameworks_base/commit/b35d319eac2d3d7e508a09289246bc00d2223155
     https://github.com/ezio84/abc-n_frameworks_base/commit/07531c3fcbd4afc596ee139dd2e0b86ff0d2cadb
     (needs https://github.com/ezio84/abc-n_frameworks_base/commit/aa9a738638260376354b0dca180be1223f9293a0)
-    https://github.com/ezio84/abc-n_frameworks_base/commit/972d458cbd4d9627749d8410f6d2e223e3274374
-    https://github.com/ezio84/abc-n_frameworks_base/commit/3cad2b2c17223c71f6234b40a3fbb44a488a17f9
-    https://github.com/ezio84/abc-n_frameworks_base/commit/151f90b78ac0b53128db8f26a84441e01e3c7392
-    https://github.com/ezio84/abc-n_frameworks_base/commit/0c50b2ad8e01d1ca267d42c00b5484add0d31ca8
+    https://github.com/ezio84/abc-n_frameworks_base/commit/39737891f16dd8883925ef55734cd8c59a0bf49c
+    https://github.com/ezio84/abc-n_frameworks_base/commit/82f3cc880799deacf66bda267e1acfc7ea769031
+    https://github.com/ezio84/abc-n_frameworks_base/commit/1a9d50bb9ccf0dce7693d6683026497f067fa7f4
+    https://github.com/ezio84/abc-n_frameworks_base/commit/5cd18b108500fcea744ba0c767cd1c4628d81e63
     https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/08d7fb7dee73392a062064fdfb14dfdff202bc7c
 Tiles easy toggles:
 https://github.com/ezio84/abc-n_frameworks_base/commit/947a81566cf5993f45e4e4e8e8088dbceb3f3e25
@@ -557,8 +557,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/d60c4466a49f83c1ac00717d6
 https://github.com/ezio84/abc-n_frameworks_base/commit/609e78606c63bc7a45401afd4b8f0df15174f348
 https://github.com/ezio84/abc-n_frameworks_base/commit/ac80550ca2fd5f5c7a8e705a7eb7a4a99e616681
 https://github.com/ezio84/abc-n_frameworks_base/commit/3736a06501868d10b8972fd792c66cfc3c56062b
-https://github.com/ezio84/abc-n_frameworks_base/commit/aa18d3e0e4e6dcce20cabef0d3512da5d9b04ea4
-https://github.com/ezio84/abc-n_frameworks_base/commit/95d58ac78bfadeed968664aefabd0f71161b48ad
+https://github.com/ezio84/abc-n_frameworks_base/commit/690ff958d76527b2f21fff14f3b1285595d1bfe6
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f943f37e150d0d68e68ccd972f723c92e507a3d7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/856026246733f0211f77d5eaeaa7650bbd7936cb
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9fa2c9f953f66eac2aef0c01de7d0c1a4f2c61e1
