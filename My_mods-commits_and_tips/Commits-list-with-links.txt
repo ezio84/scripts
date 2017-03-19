@@ -587,6 +587,13 @@ https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/c5ad1296f0cede
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/32d257e645dde61871d8e97bf09f6a19206a5207
 https://github.com/ezio84/abc-n_frameworks_base/commit/39e1ec97588462cf2484caa954fa43a51597891a
 
+Kill app logic:
+https://github.com/ezio84/abc-n_external_DUtils/commit/9b6fe1de2fa18ab90f5bdc4ed6fd39aa0fc7f838
+https://github.com/ezio84/abc-n_external_DUtils/commit/76360277b73809d521b1c1af37800e9b468d46d2
+https://github.com/ezio84/abc-n_frameworks_base/commit/9fdb615213f13bbc09e52ee4969659b9601a0358
+then add <string name="app_killed_message">%s killed</string> to systemui strings
+then add <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES" /> to sysui manifest
+
 -----------------
 
 Core and deep stuff/improvements
