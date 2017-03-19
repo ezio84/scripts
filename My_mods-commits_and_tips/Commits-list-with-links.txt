@@ -163,6 +163,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/b35d319eac2d3d7e508a09289
     https://github.com/ezio84/abc-n_frameworks_base/commit/82f3cc880799deacf66bda267e1acfc7ea769031
     https://github.com/ezio84/abc-n_frameworks_base/commit/1a9d50bb9ccf0dce7693d6683026497f067fa7f4
     https://github.com/ezio84/abc-n_frameworks_base/commit/5cd18b108500fcea744ba0c767cd1c4628d81e63
+    https://github.com/ezio84/abc-n_frameworks_base/commit/41d71a1a23a23ae854e4bd574a8b12c8483190c9
     https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/08d7fb7dee73392a062064fdfb14dfdff202bc7c
 Tiles easy toggles:
 https://github.com/ezio84/abc-n_frameworks_base/commit/947a81566cf5993f45e4e4e8e8088dbceb3f3e25
@@ -560,6 +561,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/3736a06501868d10b8972fd79
 https://github.com/ezio84/abc-n_frameworks_base/commit/690ff958d76527b2f21fff14f3b1285595d1bfe6
 https://github.com/ezio84/abc-n_frameworks_base/commit/80091a81c9b860daf5e5ef4c5148f56262cf9e3c
 https://github.com/ezio84/abc-n_frameworks_base/commit/a49e096d856bfc2b24dd936e0c6604e999e8833b
+https://github.com/ezio84/abc-n_frameworks_base/commit/906a2a58bb8f6f2c8b8c9a1577cbbc47ed8145db
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f943f37e150d0d68e68ccd972f723c92e507a3d7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/856026246733f0211f77d5eaeaa7650bbd7936cb
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9fa2c9f953f66eac2aef0c01de7d0c1a4f2c61e1
