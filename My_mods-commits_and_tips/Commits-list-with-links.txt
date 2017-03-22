@@ -383,6 +383,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/be66483b6f05adf04d484902b
 https://github.com/ezio84/abc-n_frameworks_base/commit/f24b59da7df5f962e5c5e9265bf22a3842378c4a
 https://github.com/ezio84/abc-n_frameworks_base/commit/afe52d075fbe40dcf9324763ec68ad7047519021
 https://github.com/ezio84/abc-n_frameworks_base/commit/f93b5195a79806ad2209eb8862fe4fbcd6f52bfd
+https://github.com/ezio84/abc-n_frameworks_base/commit/5ed19cbed54920410715ecd95e9333c3b9561033
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/73d7992a92b4644a72ee1132b63417e62fbcba7b
 
 ADB over network and option to hide ADB notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
