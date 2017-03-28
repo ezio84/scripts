@@ -659,6 +659,7 @@ https://github.com/ezio84/abc-n_system_core/commit/04435ecd76208c47b495edfba51ed
 https://github.com/ezio84/abc-n_frameworks_av/commit/e96fd3b07c795364732d47af4e6f1ce13b58d5ec
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/d250e55d81a772cab9e9c334720eedb25e610fab
 https://github.com/ezio84/abc-n_frameworks_base/commit/95af9a6451b1b9187e6a97cb5d631b68d3b9bbc6
+https://github.com/ezio84/abc-n_frameworks_base/commit/5f7a81477f3e47ac1b052a9426f658a75882b764
 
 
 then add busybox tree (the build commit is in the custom vendor tree)
