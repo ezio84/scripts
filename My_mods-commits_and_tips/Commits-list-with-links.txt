@@ -446,6 +446,8 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c56848f6623b2d3d20
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/fc55ab11062b6f1bacb66978c415f3aa751ff9b7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f6ee2e240b7437eaf6c1bc0f8fc2c0f44ea8f5f2
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f419c1169ca1e133a048d3f44833e9815d849dac
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/6678bbc78faae4dcee9540b9f3493aa862e01072
+https://github.com/ezio84/abc-n_frameworks_base/commit/9efa46b689f14fa7f56438a671aac228b875f421
 
 aosp keyboard improvements
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
@@ -803,3 +805,6 @@ https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/48c8a48a37ddea43ece6
 
 aosp Contacts long press shortcut fixes
 https://github.com/ezio84/abc-n_packages_apps_Contacts/commit/3de5e3e564f8f35cc92fa74c93357f6520bcfe06
+
+Miracast fix
+https://github.com/ezio84/abc-n_frameworks_av/commit/a789095a5c1b202431319176286c5224097a8292
