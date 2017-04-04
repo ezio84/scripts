@@ -559,6 +559,7 @@ Slim Recents
 https://github.com/ezio84/abc-n_external_DUtils/commit/927af18d4cb50843585d094bcad99bd94b3e0891
 track https://github.com/ezio84/abc-n_packages_apps_SlimRecents/commits/n2
 https://github.com/ezio84/abc-n_frameworks_base/commit/84f4e43f126e1ec6a716a38b1d2625ebb0248f77
+https://github.com/ezio84/abc-n_frameworks_base/commit/358ba6e5477b7923fc6f8dc5cef79f7ecec9a3d2
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f943f37e150d0d68e68ccd972f723c92e507a3d7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/856026246733f0211f77d5eaeaa7650bbd7936cb
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9fa2c9f953f66eac2aef0c01de7d0c1a4f2c61e1
