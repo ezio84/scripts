@@ -559,7 +559,7 @@ Slim Recents
 https://github.com/ezio84/abc-n_external_DUtils/commit/927af18d4cb50843585d094bcad99bd94b3e0891
 track https://github.com/ezio84/abc-n_packages_apps_SlimRecents/commits/n2
 https://github.com/ezio84/abc-n_frameworks_base/commit/84f4e43f126e1ec6a716a38b1d2625ebb0248f77
-https://github.com/ezio84/abc-n_frameworks_base/commit/358ba6e5477b7923fc6f8dc5cef79f7ecec9a3d2
+https://github.com/ezio84/abc-n_frameworks_base/commit/88fd820b5279d6a0989a45ef1af12c967ee4c480
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f943f37e150d0d68e68ccd972f723c92e507a3d7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/856026246733f0211f77d5eaeaa7650bbd7936cb
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9fa2c9f953f66eac2aef0c01de7d0c1a4f2c61e1
@@ -647,7 +647,6 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/4c901b090b7805004f58291d7
 https://github.com/ezio84/abc-n_frameworks_base/commit/71ba2ee2d182fe79cbaac7f470ddabd8a2865d80
 https://github.com/ezio84/abc-n_frameworks_base/commit/cd42c83f3c3440d0afa6cdcdaec92bf78f868390
 https://github.com/ezio84/abc-n_frameworks_base/commit/e0b447dea26623264830c1582f2e0deac84bfcd5
-https://github.com/ezio84/abc-n_frameworks_base/commit/6d4b3d86e7c1e472735cc3422c39216e6f06461f
 https://github.com/ezio84/abc-n_vendor_nexus/commit/0c4fa542ea54bccd6b4361e1c674685c33a57d71
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/38175cdea30435d9d20c6602d9f2aa585a423a6d
 https://github.com/ezio84/abc-n_packages_services_Telephony/commit/12b47b845b5443548e77ed889849ec03c4bf5587
@@ -740,12 +739,9 @@ https://github.com/ezio84/abc-n_frameworks_native/commit/bb187cc75ed15f05d8e5f18
 Fix 2% battery level drop
 https://github.com/ezio84/abc-n_kernel_huawei_angler/commit/32bdcf48ce5e86f27cd83fbb725821654b7e5473
 
-Boot with all cpus and use multithread for bootanimations
-https://github.com/ezio84/abc-n_device_huawei_angler/commit/38e2087a6f18d6915e3eefbd237bac72ccaadc31
-https://github.com/ezio84/abc-n_frameworks_base/commit/a1e9da24a76761d7f64a5edf36b2c96b927bfa31
-https://github.com/ezio84/abc-n_frameworks_base/commit/9c51f94cee8b4a411248072c9b6a88e8d82778f4
-https://github.com/ezio84/abc-n_frameworks_base/commit/aaa921d57f0daf45e82f0891bbd518d06d2ced6d
-https://github.com/ezio84/abc-n_device_huawei_angler/commit/955774db67226ed768230e7b210e6528172b94d6 --> 34bdc11033423297fb573a39fb10c9f2019163d8
+Boot with more cpu cores
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/955774db67226ed768230e7b210e6528172b94d6
+        --> 34bdc11033423297fb573a39fb10c9f2019163d8
 
 Additional roaming and carriers improvements
 https://github.com/ezio84/abc-n_frameworks_base/commit/09267fb07897d813c32da82ad8220c6076b9c3f8
