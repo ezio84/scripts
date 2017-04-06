@@ -584,6 +584,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/3690758ea62c7b3848c0ef544
 https://github.com/ezio84/abc-n_frameworks_base/commit/226e877a0e6b0b9922b0b989b10179ab2a05eda4
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/59ce1de3651316e111de50856dc28dc833272a87
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/be925d18c33eb19dfe11c278cd5d6e9d4f91bd52
+https://github.com/ezio84/abc-n_frameworks_base/commit/b8e1003803feee1b655dc7dcb7c1da92d9ef877a
 
 Ability to disable Do not Disturb mode when calling 
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/c5ad1296f0cedec383bd23d5c334c7b386878315
@@ -598,7 +599,7 @@ then add <string name="app_killed_message">%s killed</string> to systemui string
 then add <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES" /> to sysui manifest
 
 Port "Battery Usage Alerts" feature from factory images to aosp
-https://github.com/ezio84/abc-n_packages_apps_Settings/commit/e71ef276a651fecfc29fbe0fcc656c643f4be32c
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/861b80f788eabe29f6c28318f7de5445ccd98bda
 https://github.com/ezio84/abc-n_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
 
 -----------------
