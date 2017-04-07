@@ -585,6 +585,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/226e877a0e6b0b9922b0b989b
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/59ce1de3651316e111de50856dc28dc833272a87
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/be925d18c33eb19dfe11c278cd5d6e9d4f91bd52
 https://github.com/ezio84/abc-n_frameworks_base/commit/b8e1003803feee1b655dc7dcb7c1da92d9ef877a
+https://github.com/ezio84/abc-n_frameworks_base/commit/84023b4e968ede431a64e5537c976df47203a892
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/93fca759e0985d45d718e723f3c2493137a0650c
 
 Ability to disable Do not Disturb mode when calling 
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/c5ad1296f0cedec383bd23d5c334c7b386878315
