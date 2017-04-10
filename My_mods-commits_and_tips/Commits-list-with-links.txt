@@ -195,10 +195,10 @@ Display bluetooth battery status when available
 https://github.com/ezio84/abc-n_frameworks_base/commit/da47d001c52369c4da2d872ff575dc2305dac976
 https://github.com/ezio84/abc-n_packages_apps_Bluetooth/commit/69b92cd04e87e764e87ebdbc23b877cae1b5b704
 
-Enable ProximityWake
-https://github.com/ezio84/abc-n_device_huawei_angler/commit/71d19cefc36e0033c7ff5de4222c6368e1d8d9dc
-https://github.com/ezio84/abc-n_frameworks_base/commit/d506f1d84f3c28f0a21cf56b337e7235c8b5e578
-https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5cbd0390083da0b2d6cc1cf11fe4dcbd7f1ef0e4
+Enable ProximityWake ******REVERTED DUE TO DEEP SLEEP ISSUES
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/71d19cefc36e0033c7ff5de4222c6368e1d8d9dc******REVERTED DUE TO DEEP SLEEP ISSUES
+https://github.com/ezio84/abc-n_frameworks_base/commit/d506f1d84f3c28f0a21cf56b337e7235c8b5e578******REVERTED DUE TO DEEP SLEEP ISSUES
+https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5cbd0390083da0b2d6cc1cf11fe4dcbd7f1ef0e4******REVERTED DUE TO DEEP SLEEP ISSUES
 
 Hide power menu on lockscreen
 https://github.com/ezio84/abc-n_frameworks_base/commit/12f1572734f4ffaa6ce3ef87c74e94e7519a6ca1
