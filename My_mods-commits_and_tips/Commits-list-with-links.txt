@@ -568,27 +568,27 @@ https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9fa2c9f953f66ea
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/61c00590dd65dba280ae7e1707b3b1667f659584
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/81880606a9e619cf733127f706547525a16204d5
 
-Heads up toggle
-https://github.com/ezio84/abc-n_frameworks_base/commit/8113c748c6524540e92bcd17471d01283e907a43
-https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/56228a81ad00d676dd25a32538117a47b2a66290
-
 Add root support for Tasker when using Magisk SU
 https://github.com/ezio84/abc-n_build/commit/c983ee86adc69302e2d84e1d8233b331e650327e
 
-Statusbar Notifications ticker
-https://github.com/ezio84/abc-n_frameworks_base/commit/915b17804815b23f6e3e316048530f29148c825a
-https://github.com/ezio84/abc-n_frameworks_base/commit/9e2c3f776d62f54776b83fc36eca8d97bfabf846
-https://github.com/ezio84/abc-n_frameworks_base/commit/439886cf13231ba5ccee28b92e433b2fa475f1de
-https://github.com/ezio84/abc-n_frameworks_base/commit/18e9bd202ae1d6655c51d3e84854ced02ad24429
-https://github.com/ezio84/abc-n_frameworks_base/commit/3690758ea62c7b3848c0ef544f8934106e9274dd
-https://github.com/ezio84/abc-n_frameworks_base/commit/226e877a0e6b0b9922b0b989b10179ab2a05eda4
-https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/59ce1de3651316e111de50856dc28dc833272a87
-https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/be925d18c33eb19dfe11c278cd5d6e9d4f91bd52
-https://github.com/ezio84/abc-n_frameworks_base/commit/b8e1003803feee1b655dc7dcb7c1da92d9ef877a
-https://github.com/ezio84/abc-n_frameworks_base/commit/84023b4e968ede431a64e5537c976df47203a892
-https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/93fca759e0985d45d718e723f3c2493137a0650c
-https://github.com/ezio84/abc-n_frameworks_base/commit/c34e78788dcbc6382b998fc4a73717fe41ea72ee
-https://github.com/ezio84/abc-n_frameworks_base/commit/e04fe839427cc512a76be090cc882fcf701da82e
+Heads up toggle
+https://github.com/ezio84/abc-n_frameworks_base/commit/8113c748c6524540e92bcd17471d01283e907a43
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/56228a81ad00d676dd25a32538117a47b2a66290
+    Statusbar Notifications ticker
+    https://github.com/ezio84/abc-n_frameworks_base/commit/915b17804815b23f6e3e316048530f29148c825a
+    https://github.com/ezio84/abc-n_frameworks_base/commit/9e2c3f776d62f54776b83fc36eca8d97bfabf846
+    https://github.com/ezio84/abc-n_frameworks_base/commit/439886cf13231ba5ccee28b92e433b2fa475f1de
+    https://github.com/ezio84/abc-n_frameworks_base/commit/18e9bd202ae1d6655c51d3e84854ced02ad24429
+    https://github.com/ezio84/abc-n_frameworks_base/commit/3690758ea62c7b3848c0ef544f8934106e9274dd
+    https://github.com/ezio84/abc-n_frameworks_base/commit/226e877a0e6b0b9922b0b989b10179ab2a05eda4
+    https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/59ce1de3651316e111de50856dc28dc833272a87
+    https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/be925d18c33eb19dfe11c278cd5d6e9d4f91bd52
+    https://github.com/ezio84/abc-n_frameworks_base/commit/b8e1003803feee1b655dc7dcb7c1da92d9ef877a
+    https://github.com/ezio84/abc-n_frameworks_base/commit/84023b4e968ede431a64e5537c976df47203a892
+    https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/93fca759e0985d45d718e723f3c2493137a0650c
+    https://github.com/ezio84/abc-n_frameworks_base/commit/c34e78788dcbc6382b998fc4a73717fe41ea72ee
+    https://github.com/ezio84/abc-n_frameworks_base/commit/e04fe839427cc512a76be090cc882fcf701da82e
+    https://github.com/ezio84/abc-n_frameworks_base/commit/5c2dd87fd513981f4c7c0002634bf20bccc3d34a
 
 Ability to disable Do not Disturb mode when calling 
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/c5ad1296f0cedec383bd23d5c334c7b386878315
