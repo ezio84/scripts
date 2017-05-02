@@ -610,6 +610,7 @@ Port "Battery Usage Alerts" feature from factory images to aosp
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/861b80f788eabe29f6c28318f7de5445ccd98bda
 https://github.com/ezio84/abc-n_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
 
+
 -----------------
 
 Core and deep stuff/improvements
@@ -825,3 +826,6 @@ https://github.com/ezio84/abc-n_frameworks_av/commit/a789095a5c1b202431319176286
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc-n_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
+
+Enable dialer sustained perf mode to avoid hot device on long active calls (and less battery drain)
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/15bab2c46fbba44e0cbc324a9d5d3c210daffd2d
