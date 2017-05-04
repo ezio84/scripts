@@ -831,3 +831,4 @@ https://github.com/ezio84/abc-n_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d
 
 Enable dialer sustained perf mode to avoid hot device on long active calls (and less battery drain)
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/15bab2c46fbba44e0cbc324a9d5d3c210daffd2d
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/37bbdb92811ebb29609d6779ba1466a7bf887eab (see comment at bottom page for sust. mode explanation)
