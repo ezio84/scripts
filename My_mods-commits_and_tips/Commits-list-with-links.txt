@@ -606,6 +606,7 @@ https://github.com/ezio84/abc-n_external_DUtils/commit/76360277b73809d521b1c1af3
 https://github.com/ezio84/abc-n_frameworks_base/commit/9fdb615213f13bbc09e52ee4969659b9601a0358
 then add <string name="app_killed_message">%s killed</string> to systemui strings
 then add <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES" /> to sysui manifest
+https://github.com/ezio84/abc-n_external_DUtils/commit/f758e278330eaaf985cd0a693c4abc538deced88
 
 Port "Battery Usage Alerts" feature from factory images to aosp
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/861b80f788eabe29f6c28318f7de5445ccd98bda
