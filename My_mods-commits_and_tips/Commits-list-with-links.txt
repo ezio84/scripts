@@ -611,6 +611,21 @@ Port "Battery Usage Alerts" feature from factory images to aosp
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/861b80f788eabe29f6c28318f7de5445ccd98bda
 https://github.com/ezio84/abc-n_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
 
+Use advanced effects and allow more granular eq for MusicFX:
+fork n2b branch https://github.com/ezio84/abc-n_packages_apps_MusicFX (n2 was the previous one without stereo wide effects)
+fork https://github.com/ezio84/abc-n_packages_apps_DSPlibs
+https://github.com/ezio84/abc-n_vendor_nexus/commit/419fc7501110af61129f5caca0ecd2c604ad5158
+https://github.com/ezio84/abc-n_build/commit/f1fe998f81a8a46945f2b6ee93e5f5e522c5a637
+https://github.com/ezio84/abc-n_system_media/commit/41eccf764cf424ff80d0de550996b4d3467e1439
+https://github.com/ezio84/abc-n_system_media/commit/16c1a2eb27ca96219d0cf06e2d0eba767b1e3c51
+https://github.com/ezio84/abc-n_frameworks_base/commit/ab5f163a7481b008e049a7e10fc88a9228fb7d73
+https://github.com/ezio84/abc-n_frameworks_base/commit/31fd6e0995d77cbdc231dc3c9947997860c1d97c
+https://github.com/ezio84/abc-n_frameworks_base/commit/685d10c643aca57198997f685c2561105dfb38f1
+https://github.com/ezio84/abc-n_frameworks_base/commit/0842f379a126ae0c45b0b14368da16cba300df01
+https://github.com/ezio84/abc-n_frameworks_av/commit/dc1bf55f6954b3a94cb0c6298466703b8ec6233d
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/ddc29d0ef634e9e8cb51caf53366194155901ff1
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/55546755edac8eae90fc5d932f7a3da56ec34db7
+https://github.com/ezio84/abc-n_device_huawei_angler/commit/9d10f4df8bfadd3e14a297391ed63a18b811a4b7
 
 -----------------
 
