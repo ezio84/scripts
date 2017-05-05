@@ -611,6 +611,7 @@ https://github.com/ezio84/abc-n_external_DUtils/commit/f758e278330eaaf985cd0a693
 Port "Battery Usage Alerts" feature from factory images to aosp
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/861b80f788eabe29f6c28318f7de5445ccd98bda
 https://github.com/ezio84/abc-n_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/fd4dcbcc0882dd6fc42af4613af0c866fce3238b
 
 Use advanced effects and allow more granular eq for MusicFX:
 fork n2b branch https://github.com/ezio84/abc-n_packages_apps_MusicFX (n2 was the previous one without stereo wide effects)
