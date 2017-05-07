@@ -210,7 +210,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/ff6c2c6d91529a7e55d89e73a
 https://github.com/ezio84/abc-n_frameworks_base/commit/b2271e3b2df4177b19596f83cae82457c25accfa
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/efd13ecd46d01e962438c66f921df616ec5da812
 
-Statusbar Network Indicators 
+Statusbar Network arrows monitor
 https://github.com/ezio84/abc-n_frameworks_base/commit/9723fbbbad0a02753789f1c9f2e1736f08646c39
 https://github.com/ezio84/abc-n_frameworks_base/commit/285f69bd043132d3b7d40e9cb1b3c1039acf164c
 https://github.com/ezio84/abc-n_frameworks_base/commit/dc3d023fc994cb980f8b474fc8a74f60d30049e6
@@ -218,6 +218,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/b3449806ecd3e036867677be1
 https://github.com/ezio84/abc-n_frameworks_base/commit/cceef8e5ef7eac22a453ad1c3651a1f7c4744b8f
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/95c708a07835f30953ffac273c727f795da5d1e2
 https://github.com/ezio84/abc-n_frameworks_base/commit/a909237af7ec7f4814529d623181fdc652dcbff6
+https://github.com/ezio84/abc-n_frameworks_base/commit/1ee606fa6b38c3d57610f65bba03cadd358efe85
 
 Disable Lockscreen Media Art 
 https://github.com/ezio84/abc-n_frameworks_base/commit/c76fad94bca204f70c61cac576c072c37ad4b5a6
