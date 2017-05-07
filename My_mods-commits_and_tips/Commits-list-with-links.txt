@@ -177,6 +177,9 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/eedb3989812574d
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/e26dc127e1c15ac9736be7dabef8a9537a2852d9
 https://github.com/ezio84/abc-n_frameworks_base/commit/45d3b9fa7bd70f10d60c3db360fca0e34dd442ef
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/97b8afb40c65d10795e113d5a5d25115b7e83e89
+    Allow to disable qs footer warnings :
+    https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9ccbbda989e666757566ee0e8080e714562040d0
+    https://github.com/ezio84/abc-n_frameworks_base/commit/71cb49356ff12d092eb307a67edf24c0de6f01ff
 
 Volumer rocker features
 https://github.com/ezio84/abc-n_frameworks_native/commit/e352003320e61b854a8ea33989ce9877f0864a26
@@ -629,6 +632,9 @@ https://github.com/ezio84/abc-n_frameworks_av/commit/dc1bf55f6954b3a94cb0c629846
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/ddc29d0ef634e9e8cb51caf53366194155901ff1
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/55546755edac8eae90fc5d932f7a3da56ec34db7
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/9d10f4df8bfadd3e14a297391ed63a18b811a4b7
+
+
+
 
 -----------------
 
