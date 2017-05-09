@@ -393,7 +393,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/5ed19cbed54920410715ecd95
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/73d7992a92b4644a72ee1132b63417e62fbcba7b
 https://github.com/ezio84/abc-n_frameworks_base/commit/f0458afc2943b6b0d1a15138ac2d69aa1ffc103d
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/b026c06c3a77ef4d28c1984533ce81c6313b9158
-https://github.com/ezio84/abc-n_frameworks_base/commit/c5f519975f9cf731ecb55c268d640e00f0a62387
+https://github.com/ezio84/abc-n_frameworks_base/commit/157b20364b559fb71948d79c42d599b9f55e07db
 
 ADB over network and option to hide ADB notification
 https://github.com/ezio84/abc-n_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
@@ -855,6 +855,9 @@ https://github.com/ezio84/abc-n_frameworks_av/commit/a789095a5c1b202431319176286
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc-n_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
+
+Set a default theme for Gboard if it's installed
+https://github.com/ezio84/abc-n_vendor_nexus/commit/300b12f0ef73a5042f98218d7fe0dc632ba236c7
 
 Enable dialer sustained perf mode to avoid hot device on long active calls (and less battery drain)
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/15bab2c46fbba44e0cbc324a9d5d3c210daffd2d
