@@ -635,7 +635,12 @@ https://github.com/ezio84/abc-n_device_huawei_angler/commit/ddc29d0ef634e9e8cb51
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/55546755edac8eae90fc5d932f7a3da56ec34db7
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/9d10f4df8bfadd3e14a297391ed63a18b811a4b7
 
-
+Launch default music player on headset connect
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/2ea49a2d02c9f14b217597a0c711d17e8daa2941
+https://github.com/ezio84/abc-n_frameworks_base/commit/78d1f6c1b905a2c4f1ab9974f9716d6d06bc3e33
+https://github.com/ezio84/abc-n_frameworks_base/commit/c022984e1e317dbf7aaffad8a926049f9d444442
+https://github.com/ezio84/abc-n_frameworks_base/commit/93fcff1e861f3cef1b8c33b3fa77c16ef0c1598c
+https://github.com/ezio84/abc-n_frameworks_base/commit/5f5afba793282ed795b7ba7963b84db2e8fe0845
 
 
 -----------------
@@ -862,3 +867,6 @@ https://github.com/ezio84/abc-n_vendor_nexus/commit/300b12f0ef73a5042f98218d7fe0
 Enable dialer sustained perf mode to avoid hot device on long active calls (and less battery drain)
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/15bab2c46fbba44e0cbc324a9d5d3c210daffd2d
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/37bbdb92811ebb29609d6779ba1466a7bf887eab (see comment at bottom page for sust. mode explanation)
+
+Fix fingerprint position during setup on some devices
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6369c2b9701355820f36c16bd7bd3c68b3c0e435
