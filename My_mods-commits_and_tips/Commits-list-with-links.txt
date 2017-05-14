@@ -558,6 +558,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/b660f9c657f5cd046014d47de
 https://github.com/ezio84/abc-n_frameworks_base/commit/d2f7901a9c64fdd26ca02f7815398ad903b04ae3
 https://github.com/ezio84/abc-n_frameworks_base/commit/2f8292eade0dd6e11ac169125817c18c6dc9abe7
 https://github.com/ezio84/abc-n_frameworks_base/commit/636a7c37cdb02ea44601caae79e94ec58e1974a6
+https://github.com/ezio84/abc-n_frameworks_base/commit/4b2f94e57fe0ac8b4e616905278eb0566f076acf
 
 Play ringtone from the wired headset if connected, not the speakerphone
 https://github.com/ezio84/abc-n_frameworks_base/commit/5434aba3d6460a6dd694e4659dfdfe791fe9f645
