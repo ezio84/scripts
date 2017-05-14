@@ -462,6 +462,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/b02ada0a1979cfe3307521d91
 https://github.com/ezio84/abc-n_frameworks_base/commit/11191d7472f40e50f8b23abf62ce24004ab29aac
 https://github.com/ezio84/abc-n_frameworks_base/commit/313b9563e268897611cb0dc07bb817d95ff3e2e7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/75ff83e304a988ea77a7fb21386b971900316f08
+    Add navigation disabled notification to quickly re enable it
+    https://github.com/ezio84/abc-n_frameworks_base/commit/11c3dba006918272e9ef1bc75fcf06b7d08fdd94
+    https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/409848c487ad6e7ad0e252f0df460aa01a991b8a
 
 aosp keyboard improvements
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
@@ -641,6 +644,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/78d1f6c1b905a2c4f1ab9974f
 https://github.com/ezio84/abc-n_frameworks_base/commit/c022984e1e317dbf7aaffad8a926049f9d444442
 https://github.com/ezio84/abc-n_frameworks_base/commit/93fcff1e861f3cef1b8c33b3fa77c16ef0c1598c
 https://github.com/ezio84/abc-n_frameworks_base/commit/5f5afba793282ed795b7ba7963b84db2e8fe0845
+https://github.com/ezio84/abc-n_frameworks_base/commit/a5c76d72902c69ec7aeddcf66e9750862c68360a
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/29502cd21699d8f36758a0e78e2612360e926504
 
 
 -----------------
