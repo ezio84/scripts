@@ -465,6 +465,8 @@ https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/75ff83e304a988e
     Add navigation disabled notification to quickly re enable it
     https://github.com/ezio84/abc-n_frameworks_base/commit/11c3dba006918272e9ef1bc75fcf06b7d08fdd94
     https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/409848c487ad6e7ad0e252f0df460aa01a991b8a
+    https://github.com/ezio84/abc-n_frameworks_base/commit/071549ae43e642f3c50c0b5584f7e370fad0ea1f
+    https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f9ff04cdcc91399929e9c86881d8ca7db957d6a1
 
 aosp keyboard improvements
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
