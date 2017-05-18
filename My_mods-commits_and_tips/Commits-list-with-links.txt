@@ -880,3 +880,6 @@ https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/37bbdb92811ebb29609d
 
 Fix fingerprint position during setup on some devices
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6369c2b9701355820f36c16bd7bd3c68b3c0e435
+
+Custom rom SettingsDrawerActivity header
+https://github.com/ezio84/abc-n_frameworks_base/commit/85ce84366199fb187d8755d0ee6ce72b2cc4e6f0
