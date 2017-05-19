@@ -882,9 +882,8 @@ Fix fingerprint position during setup on some devices
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6369c2b9701355820f36c16bd7bd3c68b3c0e435
 
 Custom rom SettingsDrawerActivity header and view
-https://github.com/ezio84/abc-n_frameworks_base/commit/85ce84366199fb187d8755d0ee6ce72b2cc4e6f0
-https://github.com/ezio84/abc-n_frameworks_base/commit/451a2fd84e8c5ca80aef9c2a601992a3d3926582
-https://github.com/ezio84/abc-n_frameworks_base/commit/7184803d8d3d71e2ac9c6110b5eaaa3fbc07c892
-
-Fix lag when opening an entry from the Settings left drawer
-https://github.com/ezio84/abc-n_frameworks_base/commit/9bc7d9996e3720d41615ad6e357df133380fbcfc
+https://github.com/ezio84/abc-n_frameworks_base/commit/08537db1ce6d768e736f177bf06ed3ce38341515
+https://github.com/ezio84/abc-n_frameworks_base/commit/5f598e7c307223ea299bb7147af8cb5f14f63779
+https://github.com/ezio84/abc-n_frameworks_base/commit/2d87d96e8831fda56d5c71dd40cece776881a871
+Fix lag when opening an entry from the Settings left drawer:
+https://github.com/ezio84/abc-n_frameworks_base/commit/85ff838d7189227800901b03fd2f9322a508a788
