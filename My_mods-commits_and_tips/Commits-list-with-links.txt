@@ -885,6 +885,6 @@ Custom rom SettingsDrawerActivity header and view
 https://github.com/ezio84/abc-n_frameworks_base/commit/08537db1ce6d768e736f177bf06ed3ce38341515
 https://github.com/ezio84/abc-n_frameworks_base/commit/5f598e7c307223ea299bb7147af8cb5f14f63779
 https://github.com/ezio84/abc-n_frameworks_base/commit/2d87d96e8831fda56d5c71dd40cece776881a871
-https://github.com/ezio84/abc-n_frameworks_base/commit/01f8820254b92e71929b0baf01c0ac15f0db7af6
+https://github.com/ezio84/abc-n_frameworks_base/commit/2e6c0f31b3bc414732856bf791a204d2f416aeee
 Fix lag when opening an entry from the Settings left drawer:
 https://github.com/ezio84/abc-n_frameworks_base/commit/85ff838d7189227800901b03fd2f9322a508a788
