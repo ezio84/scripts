@@ -881,6 +881,9 @@ https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/37bbdb92811ebb29609d
 Fix fingerprint position during setup on some devices
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6369c2b9701355820f36c16bd7bd3c68b3c0e435
 
+Notification panel fingerprint gesture: fix inverted axis on lanscape
+https://github.com/ezio84/abc-n_frameworks_base/commit/29f5559e45028272e33335402163d7624460f6bf
+
 Custom rom SettingsDrawerActivity header and view
 https://github.com/ezio84/abc-n_frameworks_base/commit/08537db1ce6d768e736f177bf06ed3ce38341515
 https://github.com/ezio84/abc-n_frameworks_base/commit/5f598e7c307223ea299bb7147af8cb5f14f63779
