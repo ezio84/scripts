@@ -654,14 +654,18 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/a5c76d72902c69ec7aeddcf66
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/29502cd21699d8f36758a0e78e2612360e926504
 
 Add QS pulldown with one swipe on fp sensor
-https://github.com/ezio84/abc-n_frameworks_base/commit/7ff1017b5de3acd73342129c837a5a8d74bc27ce
+https://github.com/ezio84/abc-n_frameworks_base/commit/607a6e5de684162708699561caacb2374a18e331
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/e5871991c4fa79f5bf9b36acc7e51bebebf2888e
 
 Allow to set custom brightness for ambient display and liftToWwake
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/264a40f9c6736cae96a3622660cc3ba20eb12767
-https://github.com/ezio84/abc-n_frameworks_base/commit/455a08842f03d981f75fb8ae782f8c12ee53784f
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/e9baf6e09ec1d46f16815f9f75dd8ab94927c58d
+https://github.com/ezio84/abc-n_frameworks_base/commit/9988567d8adaa2d4930e1b9cb684a5ed318a3e47
 
------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Core and deep stuff/improvements
 cleanup manifest: https://github.com/ezio84/abc-n_manifest/commit/88d7be15d84788efc08a8edc7dbf74d6a1d3236e
@@ -891,7 +895,7 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/6369c2b9701355820f
 
 Notification panel fingerprint gesture: fix inverted axis on lanscape
 https://github.com/ezio84/abc-n_frameworks_base/commit/550b6d1a3a56ef3c411e09a8ed026e466bbdc8a3
-https://github.com/ezio84/abc-n_frameworks_base/commit/976ed85ee4a902929a95c051804bb4ba36eff3f2
+https://github.com/ezio84/abc-n_frameworks_base/commit/d33fd48a4bad9ec3adb96f77bba4a177c7f6070f
 https://github.com/ezio84/abc-n_device_huawei_angler/commit/cb7d417c7bdb566cb88c63874fa8183923591ca8
 
 Custom rom SettingsDrawerActivity header and view
