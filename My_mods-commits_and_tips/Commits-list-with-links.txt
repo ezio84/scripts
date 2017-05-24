@@ -503,6 +503,7 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/ef34dfd1c294f7e988
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3a18b70f9002897484e50ead78bfe310a8927688
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c965aab7746ab2fe2f009d16bc067f9ae027f49e
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/2a120ddb5b8d836fd62032e77a1446359f719f38
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/1896fb46f0a4d69f2d5adc4d8a03d2834bb626b5
 
 Bluetooth: Change disconnected icon to be 40% transparent
 https://github.com/ezio84/abc-n_frameworks_base/commit/d13b5aec23ca1315296d6846bd77c4ad585743df
