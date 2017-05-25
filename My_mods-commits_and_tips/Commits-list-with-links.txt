@@ -659,7 +659,7 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/e5871991c4fa79f5bf
 
 Allow to set custom brightness for ambient display and liftToWwake
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/264a40f9c6736cae96a3622660cc3ba20eb12767
-https://github.com/ezio84/abc-n_packages_apps_Settings/commit/e9baf6e09ec1d46f16815f9f75dd8ab94927c58d
+(be sure to have https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/046b8495612e6e443300556edc4d3a12f1653c3f)
 https://github.com/ezio84/abc-n_frameworks_base/commit/9988567d8adaa2d4930e1b9cb684a5ed318a3e47
 
 
@@ -766,6 +766,7 @@ https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/b0df29c0b780b77
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/4d17adf40e03c3c2bc785307c09807bd6fa3baa3
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/9541687657b8bbb4fb1ede4c19da75d855037881
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/f513e9123e0009a446fb11e55e39a2e71c7c5ff6
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/046b8495612e6e443300556edc4d3a12f1653c3f
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/5ad74d189e17fc90cc755ffb49a235f5f5703c13
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/690b11b88cdb72c62916fba8af86d37b3bbbf6fc
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/eba2e0b562fe8d1f4698201c05fc40cccdc2183c
