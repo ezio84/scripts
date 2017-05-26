@@ -652,6 +652,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/93fcff1e861f3cef1b8c33b3f
 https://github.com/ezio84/abc-n_frameworks_base/commit/5f5afba793282ed795b7ba7963b84db2e8fe0845
 https://github.com/ezio84/abc-n_frameworks_base/commit/a5c76d72902c69ec7aeddcf66e9750862c68360a
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/29502cd21699d8f36758a0e78e2612360e926504
+https://github.com/ezio84/abc-n_frameworks_base/commit/caa3a845a8fac01ed0c61caaf0be12048da2550a
 
 Add QS pulldown with one swipe on fp sensor
 https://github.com/ezio84/abc-n_frameworks_base/commit/607a6e5de684162708699561caacb2374a18e331
