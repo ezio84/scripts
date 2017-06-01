@@ -630,7 +630,7 @@ https://github.com/ezio84/abc-n_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79ef
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/fd4dcbcc0882dd6fc42af4613af0c866fce3238b
 
 Use advanced effects and allow more granular eq for MusicFX:
-fork n2b branch https://github.com/ezio84/abc-n_packages_apps_MusicFX (n2 was the previous one without stereo wide effects)
+fork n2 branch https://github.com/ezio84/abc-n_packages_apps_MusicFX
 fork https://github.com/ezio84/abc-n_packages_apps_DSPlibs
 https://github.com/ezio84/abc-n_vendor_nexus/commit/419fc7501110af61129f5caca0ecd2c604ad5158
 https://github.com/ezio84/abc-n_build/commit/f1fe998f81a8a46945f2b6ee93e5f5e522c5a637
