@@ -666,7 +666,7 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/264a40f9c6736cae96
 (be sure to have https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/046b8495612e6e443300556edc4d3a12f1653c3f)
 https://github.com/ezio84/abc-n_frameworks_base/commit/9988567d8adaa2d4930e1b9cb684a5ed318a3e47
 
-Enable power save config of system apps
+Enable power save config of system apps **REVERTED FOR NOW (Download manager app switches itself back to no-optimization after reboot for some users)
 https://github.com/ezio84/abc-n_frameworks_base/commit/41dbf01643a8ce4b0c8522b0c56b0e824b7a9848
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c95e3a3cb276f50707f4ca754b3f20cdcde48885
 
