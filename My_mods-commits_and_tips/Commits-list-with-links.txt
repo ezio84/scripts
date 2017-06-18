@@ -678,6 +678,11 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/41dbf01643a8ce4b0c8522b0c
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/c95e3a3cb276f50707f4ca754b3f20cdcde48885
 
 
+Fingerprint swipe gesture to answer/silence incoming call 
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/12016f238e391558ebdcd341a344fdc138ae4516
+https://github.com/ezio84/abc-n_frameworks_base/commit/8b9f528fc0308ac3aabc7010c9f518b478211b81
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Core and deep stuff/improvements
