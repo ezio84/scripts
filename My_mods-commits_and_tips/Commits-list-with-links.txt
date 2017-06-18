@@ -536,7 +536,7 @@ https://github.com/ezio84/abc-n_external_DUtils/commit/418bbefb70b073a593e97a469
 https://github.com/ezio84/abc-n_packages_apps_DUI/commit/ae249c2e115759f82fc610b7b63881e5283d167d
 https://github.com/ezio84/abc-n_frameworks_base/commit/be8593618c53ea97e5df18514fa77334204e2892
 
-Disable safe media volume (no vol reset when switching headset wired/bt)
+Disable safe media volume 
 https://github.com/ezio84/abc-n_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
 
 Power menu dialogs improvements
