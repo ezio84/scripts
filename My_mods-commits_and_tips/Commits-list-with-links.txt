@@ -301,6 +301,8 @@ Unlink notification volume
 https://github.com/ezio84/abc-n_frameworks_base/commit/14fa15a80ff80b637043ce1465391e963e76f9a7
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/214e4bf0ea92c02e3020e83c1373e918cc6bfe77
 https://github.com/ezio84/abc-n_packages_apps_Settings/commit/d4c2d2cb5465849d2f0657d8896243a64e75106b
+https://github.com/ezio84/abc-n_frameworks_base/commit/489876975308606ba276e02cc40dda740db80dd0
+https://github.com/ezio84/abc-n_frameworks_base/commit/26c5a7533473fee98736014edd2db19c8021e2b5
 
 Support enforcing a minimum delay between notification sounds of an app
 https://github.com/ezio84/abc-n_frameworks_base/commit/b0779afb3226da2e63e4c7684aadba15373d0646
