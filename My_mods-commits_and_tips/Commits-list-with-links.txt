@@ -468,12 +468,13 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/b02ada0a1979cfe3307521d91
 https://github.com/ezio84/abc-n_frameworks_base/commit/11191d7472f40e50f8b23abf62ce24004ab29aac
 https://github.com/ezio84/abc-n_frameworks_base/commit/313b9563e268897611cb0dc07bb817d95ff3e2e7
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/75ff83e304a988ea77a7fb21386b971900316f08
-    Add navigation disabled notification to quickly re enable it
-    https://github.com/ezio84/abc-n_frameworks_base/commit/11c3dba006918272e9ef1bc75fcf06b7d08fdd94
-    https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/409848c487ad6e7ad0e252f0df460aa01a991b8a
-    https://github.com/ezio84/abc-n_frameworks_base/commit/071549ae43e642f3c50c0b5584f7e370fad0ea1f
-    https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f9ff04cdcc91399929e9c86881d8ca7db957d6a1
+https://github.com/ezio84/abc-n_frameworks_base/commit/11c3dba006918272e9ef1bc75fcf06b7d08fdd94
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/409848c487ad6e7ad0e252f0df460aa01a991b8a
+https://github.com/ezio84/abc-n_frameworks_base/commit/071549ae43e642f3c50c0b5584f7e370fad0ea1f
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/f9ff04cdcc91399929e9c86881d8ca7db957d6a1
 https://github.com/ezio84/abc-n_frameworks_base/commit/961d171126f27d6956602ae5c5a41d2692ba7455
+https://github.com/ezio84/abc-n_frameworks_base/commit/11fe593e03a102241a8376103b5688e1575b2c0f
+https://github.com/ezio84/abc-n_packages_apps_DUI/commit/0f19f2343be5fc55ec852afa126fc8491dd6a3be
 
 
 aosp keyboard improvements
@@ -573,6 +574,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/2f8292eade0dd6e11ac169125
 https://github.com/ezio84/abc-n_frameworks_base/commit/636a7c37cdb02ea44601caae79e94ec58e1974a6
 https://github.com/ezio84/abc-n_frameworks_base/commit/4b2f94e57fe0ac8b4e616905278eb0566f076acf
 https://github.com/ezio84/abc-n_frameworks_base/commit/598eb34d8afafc56cb64f68f5096053466cc8d47
+https://github.com/ezio84/abc-n_frameworks_base/commit/30d6db284b32efe35afb1b28f1442d8664e3d7e5
 
 Play ringtone from the wired headset if connected, not the speakerphone
 https://github.com/ezio84/abc-n_frameworks_base/commit/5434aba3d6460a6dd694e4659dfdfe791fe9f645
