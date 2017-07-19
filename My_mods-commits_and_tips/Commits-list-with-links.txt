@@ -234,11 +234,12 @@ Add download speed, remaining time, and percentage in notification
 https://github.com/ezio84/abc-n_packages_providers_DownloadProvider/commit/b43cf7873888430092eccc185a949bae525c342b
 https://github.com/ezio84/abc-n_packages_providers_DownloadProvider/commit/cadfbfd6db67b970fcea7e8e28f94974db9b3f89
 
-Proximit speaker
+Automatic Proximity speakerphone
 https://github.com/ezio84/abc-n_frameworks_base/commit/c206d49675a62aacfbeafc09844fb55e192ac2ad
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/3de4e7f30d084dbde72be43d666db2f705ea6e2f
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/bf59ec1d90b94a7bf0a68cd63a4e86850d812a4d
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/dd55353d91dfbe895b420bb3fbaf17b3f253b97e
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/637c7655fd226599779d734d7c63cf3b594ac7f3
 
 Flip to Mute/Reject Call
 https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/65e126c4d16f39ccb66dbef5c04724c3e54d2151
@@ -477,6 +478,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/961d171126f27d6956602ae5c
 https://github.com/ezio84/abc-n_frameworks_base/commit/11fe593e03a102241a8376103b5688e1575b2c0f
 https://github.com/ezio84/abc-n_frameworks_base/commit/9d60eddd7b491d6fbe19728c7c6e377b89947311
 https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/97529a1e47538ccf84c6977e449855637c4c9ebd
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/aedd4fd7940bd07d2b4e3a098c3e5acc24a2f2e4
+https://github.com/ezio84/abc-n_frameworks_base/commit/2f29455e0d99a74bb075bf2878744c43abc12531
 
 aosp keyboard improvements
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
