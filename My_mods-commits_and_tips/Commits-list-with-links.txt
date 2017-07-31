@@ -564,8 +564,8 @@ https://github.com/ezio84/abc-n_packages_apps_Settings/commit/317241391af48fffa1
 Increase Zenmode max hour limit from 12 to 24
 https://github.com/ezio84/abc-n_frameworks_base/commit/c8a3b47816c89f5b25d18d04d9f9e435d04a71c0
 
-Unlock keystore with fingerprint after reboot or SysUI restart
-https://github.com/ezio84/abc-n_frameworks_base/commit/d70726c8295987d17d071357cc1e12c9c17b2bbf
+Unlock keystore with fingerprint after reboot or SysUI restart <-- REVERTED, Android Pay asks for pin/pattern each time
+https://github.com/ezio84/abc-n_frameworks_base/commit/d70726c8295987d17d071357cc1e12c9c17b2bbf <-- REVERTED, Android Pay asks for pin/pattern each time
 
 Incall vibration options (both aosp and google dialer)
 https://github.com/ezio84/abc-n_frameworks_base/commit/cb86c7cdaee42c31cfd4746abff158b2f40641c0
