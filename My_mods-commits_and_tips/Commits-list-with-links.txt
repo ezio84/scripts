@@ -568,10 +568,12 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/c8a3b47816c89f5b25d18d04d
 Unlock keystore with fingerprint after reboot or SysUI restart <-- REVERTED, Android Pay asks for pin/pattern each time
 https://github.com/ezio84/abc-n_frameworks_base/commit/d70726c8295987d17d071357cc1e12c9c17b2bbf <-- REVERTED, Android Pay asks for pin/pattern each time
 
-Incall vibration options (both aosp and google dialer)
+Incall vibration options 
+https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/cd1b2b76657b842610c4c9bf64c1204f58d2a53a
+**to use incall vib feature for Google Dialer (but without the 45sec vib option), don't pick the above Dialer tree commit but add these:
 https://github.com/ezio84/abc-n_frameworks_base/commit/cb86c7cdaee42c31cfd4746abff158b2f40641c0
 https://github.com/ezio84/abc-n_packages_services_Telecomm/commit/8145b14a5e0cdfc3515677e0e51823ba9d9afae4
-https://github.com/ezio84/abc-n_packages_apps_Dialer/commit/cd1b2b76657b842610c4c9bf64c1204f58d2a53a
+https://github.com/PureNexusProject/android_packages_apps_PureSettings/commit/d6339f6d60b6aae78181d563a8bdd4fb5cf2ab66
 
 Recents improvements
 https://github.com/ezio84/abc-n_frameworks_base/commit/87451367f782a4ab050f7e794529227e30de6cd3
