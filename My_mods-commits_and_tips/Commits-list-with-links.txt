@@ -947,3 +947,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/2d87d96e8831fda56d5c71dd4
 https://github.com/ezio84/abc-n_frameworks_base/commit/2e6c0f31b3bc414732856bf791a204d2f416aeee
 Fix lag when opening an entry from the Settings left drawer:
 https://github.com/ezio84/abc-n_frameworks_base/commit/85ff838d7189227800901b03fd2f9322a508a788
+
+Allow to use lifttowake ambient on devices without the specific sensor:
+https://github.com/ezio84/abc-n_frameworks_base/commit/22092920121f0c7c56e04852ca162035f519a70f
+then overlay the config_dozePulsePickup and set it to true in the device tree
