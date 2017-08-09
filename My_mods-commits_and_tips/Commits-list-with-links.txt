@@ -182,6 +182,8 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/c2dbe62c7769b24cd14105683
     Allow to disable qs footer warnings :
     https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/9ccbbda989e666757566ee0e8080e714562040d0
     https://github.com/ezio84/abc-n_frameworks_base/commit/71cb49356ff12d092eb307a67edf24c0de6f01ff
+Allow user to add/remove QS with one click:
+https://github.com/ezio84/abc-n_frameworks_base/commit/a35edc8b72401b5b451cee3e447790d6087ad61b
 
 Volumer rocker features
 https://github.com/ezio84/abc-n_frameworks_native/commit/e352003320e61b854a8ea33989ce9877f0864a26
