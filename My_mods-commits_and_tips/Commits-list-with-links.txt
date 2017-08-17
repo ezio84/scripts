@@ -487,6 +487,9 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/12ea77f499d86e9884aac5fc3
 https://github.com/ezio84/abc-n_frameworks_base/commit/31988afdf6713070f89530ddb0661c9ec954ff09
 https://github.com/ezio84/abc-n_frameworks_base/commit/0acb98129d36cb1ca1eec04121b02a93e4bf7ae4
 https://github.com/ezio84/abc-n_frameworks_base/commit/2ec45b22e939e2f81a21167c0d60977aa8512019
+https://github.com/ezio84/abc-n_packages_apps_AbcSettings/commit/18780afc491df6558bee2e2ed00e5aef3f0ea6ec
+https://github.com/ezio84/abc-n_packages_apps_Settings/commit/3198fae28139352dc3a030ad36a8f1e208d85236
+https://github.com/ezio84/abc-n_frameworks_base/commit/e1b54f4db885ec205875e0c3a4cb34407b813f5c
 
 aosp keyboard improvements
 https://github.com/ezio84/abc-n_packages_inputmethods_LatinIME/commit/6f160e86bbc744ab953cb60ba341e4a0e312d97e
