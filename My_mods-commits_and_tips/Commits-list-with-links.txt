@@ -34,6 +34,9 @@ Build kernel inline
 https://github.com/ezio84/abc_device_huawei_angler/commit/2731a73b201fbbf52cc0e58f66b353abce4e8730
 https://github.com/ezio84/abc_build_soong/commit/7d77a4b3b4f4c4154f3607c1f6eb256f24d72583
 
+Custom inline kernel defconfig
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/78c985e44b36fb35c522ffec52b81bf442be6297
+https://github.com/ezio84/abc_device_huawei_angler/commit/11d464f59f2f792b06a2610b67ca7d13d5bc5675
 ---------
 ---------
 
