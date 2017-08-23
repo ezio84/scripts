@@ -1,1 +1,56 @@
-to be done 
+Enable Night mode
+https://github.com/ezio84/abc_device_huawei_angler/commit/0931bb92d51e55f06af27243471b01358c74d5a0
+
+Angler: allow all rotations (thus also 180°)  …
+https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85b210942e7a6b155ea2
+
+Enable battery light
+https://github.com/ezio84/abc_device_huawei_angler/commit/9637a42f6d24f672f0b3ef7b7e9456941db05505
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------
+---------
+6p Device tree shit:
+https://github.com/ezio84/abc_device_huawei_angler/commit/3c197bc5ce74d7d82fbfec51c379bc4d0e097e4f
+09f56ddded5dce89598113c55ba7e3d9e2fd3eff
+9f6f97f2d9de5c4c6f2d0661c90a6f6e41bfbe0f
+6f257f4d0c9578533003f2927eb796180cde55b8
+1cb361ccf6e88663ff49d9136d4a8fc11c07bb6f
+30555c3a853c17c839747ebe0988e5865dc2cf0a
+3aab8c21a4e9c5470cb9bad2105e1853aee026a0
+a0979fa0adb20b62fcc669e1826e68133b095667
+4858b2490fad696bef222af709535aba67cb2c78
+13edfb25533c0d1581d0b2def4c278aa07fb41fb
+13edfb25533c0d1581d0b2def4c278aa07fb41fb
+b45b429133e9a2eb6f6a10eb7d4aa3bb6a02c1e6
+1b13ead10ce96db34e765861cbbb2d478f91984c
+88af519aed7fa299abd7cabe9ea0ddf7d025d8d8
+89e2524af4ad075fcd045228e17f43164c62d067
+127ef8ad586e4172ba66be42780db62308c4da55
+f7923b9fcb098e18c687ae8bf2b0eed18238e2fe
+44fc7454c0d89e3d9fd52939396c4b6713c3b529
+5b214c8899c8a712503cd53bb5ccf43fa696b047
+490127ad59fc024c544f167fe20274188218ddda
+e6b3d7ae7202edd43f779564961589c219fce9db
+f429d54b0ed5318be654b812c37951c759650df6
+3b77614e26e7daf903424b5416e311d64f00723e
+a17947f0990fcf08c6f846f5ed9cfdd9c12d2028
