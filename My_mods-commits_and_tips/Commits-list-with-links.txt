@@ -60,10 +60,38 @@ b45b429133e9a2eb6f6a10eb7d4aa3bb6a02c1e6
 f7923b9fcb098e18c687ae8bf2b0eed18238e2fe
 44fc7454c0d89e3d9fd52939396c4b6713c3b529
 5b214c8899c8a712503cd53bb5ccf43fa696b047
-490127ad59fc024c544f167fe20274188218ddda
+725d458d6fcc22fb607fd263509721e907c77a0f
 e6b3d7ae7202edd43f779564961589c219fce9db
 f429d54b0ed5318be654b812c37951c759650df6
 3b77614e26e7daf903424b5416e311d64f00723e
 a17947f0990fcf08c6f846f5ed9cfdd9c12d2028
 fb2ab9ff7fa6aa25da681d5e5c5ac3cc773f9b6d
 
+-----------------------------------
+-----------------------------------
+
+Core and deep stuff improvements, pixel theme stuff and prebuilt apps
+
+Disable safe media volume 
+https://github.com/ezio84/abc_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
+
+Pixel bootanimations
+https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
+
+Build pixel launcher and wallpaper picker/cropper instead of n_packages_apps_Launcher3
+Also get round icons support
+https://github.com/ezio84/abc_vendor_nexus/commit/9a5e71bdfb86cf2313a5b0989dca20d207e13528
+https://github.com/ezio84/abc_vendor_nexus/commit/a527f06813b671fbe5ac090bef67ad39125eef31
+https://github.com/ezio84/abc_manifest/commit/91837f8e03e9d85ce602dd6456002c1cbc0fa22b
+https://github.com/ezio84/abc_vendor_nexus/commit/a44e8b67e8d546fc25756b8b572c736551584481
+https://github.com/ezio84/abc_vendor_nexus/commit/c3476039ea3504ac4521cf6b29c6d17dba884f60
+
+Disable system IMEs if unused
+https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
+
+Set a default theme for Gboard if it's installed
+https://github.com/ezio84/abc_vendor_nexus/commit/300b12f0ef73a5042f98218d7fe0dc632ba236c7
+
+Use 3gb dalvik heap and hwui 
+https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f167fe20274188218ddda
+https://github.com/ezio84/abc_frameworks_native/commit/725d458d6fcc22fb607fd263509721e907c77a0f
