@@ -72,6 +72,11 @@ fb2ab9ff7fa6aa25da681d5e5c5ac3cc773f9b6d
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
+Port "Battery Usage Alerts" feature from factory images to aosp
+https://github.com/ezio84/abc_packages_apps_Settings/commit/88350c5e53dad2d08278dba32ec19b5dc2469cb1
+https://github.com/ezio84/abc_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
+https://github.com/ezio84/abc_vendor_nexus/commit/84d181d1fe9c416d1ed309116ebbf6d7fe57962f
+
 Disable safe media volume 
 https://github.com/ezio84/abc_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
 
