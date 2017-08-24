@@ -810,6 +810,7 @@ https://github.com/ezio84/abc-n_frameworks_base/commit/4fc1037646108b91b1360678f
 https://github.com/ezio84/abc-n_frameworks_base/commit/2b99adf12a1c7bfb8035de41ae621dd8b9dd0199
 
 Custom seekbar, color picker and similar stuff
+https://github.com/ezio84/abc_frameworks_support/commit/e95bdc6973fc9b8b475fc1492141b288bba3820b
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/b0df29c0b780b774abfa6b33beb1578859450aef
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/4d17adf40e03c3c2bc785307c09807bd6fa3baa3
 https://github.com/ezio84/abc-n_packages_apps_ABCsettings/commit/9541687657b8bbb4fb1ede4c19da75d855037881
