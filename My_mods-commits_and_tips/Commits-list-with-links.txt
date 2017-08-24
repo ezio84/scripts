@@ -722,7 +722,6 @@ https://github.com/ezio84/abc_bootable_recovery/commit/3ff3affaca12e5266c15c8256
 https://github.com/ezio84/abc_system_sepolicy/commit/d47b3bd8fa442c618a8ffc47e7922b6961169dbb
 https://github.com/ezio84/abc_system_sepolicy/commit/dbe0e666e8e04b01c6b17ebb03e2215cb2d25a69
 https://github.com/ezio84/abc_system_sepolicy/commit/655e7438bd918a4dc2f84b28370dc15d8955e5c7
-https://github.com/ezio84/abc_frameworks_support/commit/e95bdc6973fc9b8b475fc1492141b288bba3820b
 https://github.com/ezio84/abc_system_extras/commit/0c255ca96bb5a4e93da42a03347273df1def45d9
 https://github.com/ezio84/abc_packages_apps_Settings/commit/65f851e3b3591e4a813a2bf9618914287712ef1a
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ac92b3e919735724cd5309af3c28cee7e878d0bd
@@ -810,6 +809,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/4fc1037646108b91b1360678fe3
 https://github.com/ezio84/abc_frameworks_base/commit/2b99adf12a1c7bfb8035de41ae621dd8b9dd0199
 
 Custom seekbar, color picker and similar stuff
+https://github.com/ezio84/abc_frameworks_support/commit/e95bdc6973fc9b8b475fc1492141b288bba3820b
 https://github.com/ezio84/abc_packages_apps_ABCsettings/commit/b0df29c0b780b774abfa6b33beb1578859450aef
 https://github.com/ezio84/abc_packages_apps_ABCsettings/commit/4d17adf40e03c3c2bc785307c09807bd6fa3baa3
 https://github.com/ezio84/abc_packages_apps_ABCsettings/commit/9541687657b8bbb4fb1ede4c19da75d855037881
