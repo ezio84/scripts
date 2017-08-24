@@ -10,65 +10,8 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/9637a42f6d24f672f0b3ef
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----------
----------
-
-Build kernel inline
-https://github.com/ezio84/abc_device_huawei_angler/commit/2731a73b201fbbf52cc0e58f66b353abce4e8730
-https://github.com/ezio84/abc_build_soong/commit/7d77a4b3b4f4c4154f3607c1f6eb256f24d72583
-
-Custom inline kernel defconfig
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/78c985e44b36fb35c522ffec52b81bf442be6297
-https://github.com/ezio84/abc_device_huawei_angler/commit/11d464f59f2f792b06a2610b67ca7d13d5bc5675
----------
----------
-
-6p Device tree shit:
-https://github.com/ezio84/abc_device_huawei_angler/commit/3c197bc5ce74d7d82fbfec51c379bc4d0e097e4f
-09f56ddded5dce89598113c55ba7e3d9e2fd3eff
-9f6f97f2d9de5c4c6f2d0661c90a6f6e41bfbe0f
-6f257f4d0c9578533003f2927eb796180cde55b8
-1cb361ccf6e88663ff49d9136d4a8fc11c07bb6f
-30555c3a853c17c839747ebe0988e5865dc2cf0a
-3aab8c21a4e9c5470cb9bad2105e1853aee026a0
-a0979fa0adb20b62fcc669e1826e68133b095667
-4858b2490fad696bef222af709535aba67cb2c78
-13edfb25533c0d1581d0b2def4c278aa07fb41fb
-13edfb25533c0d1581d0b2def4c278aa07fb41fb
-b45b429133e9a2eb6f6a10eb7d4aa3bb6a02c1e6
-1b13ead10ce96db34e765861cbbb2d478f91984c
-88af519aed7fa299abd7cabe9ea0ddf7d025d8d8
-89e2524af4ad075fcd045228e17f43164c62d067
-127ef8ad586e4172ba66be42780db62308c4da55
-f7923b9fcb098e18c687ae8bf2b0eed18238e2fe
-44fc7454c0d89e3d9fd52939396c4b6713c3b529
-5b214c8899c8a712503cd53bb5ccf43fa696b047
-725d458d6fcc22fb607fd263509721e907c77a0f
-e6b3d7ae7202edd43f779564961589c219fce9db
-f429d54b0ed5318be654b812c37951c759650df6
-3b77614e26e7daf903424b5416e311d64f00723e
-a17947f0990fcf08c6f846f5ed9cfdd9c12d2028
-fb2ab9ff7fa6aa25da681d5e5c5ac3cc773f9b6d
-
------------------------------------
------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
@@ -101,3 +44,37 @@ https://github.com/ezio84/abc_vendor_nexus/commit/300b12f0ef73a5042f98218d7fe0dc
 Use 3gb dalvik heap and hwui 
 https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f167fe20274188218ddda
 https://github.com/ezio84/abc_frameworks_native/commit/725d458d6fcc22fb607fd263509721e907c77a0f
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+Build environment preparation:
+from https://github.com/ezio84/abc_system_core/commit/2dbf6d66abd5c11486309d44e668e0cf031f7b80
+to https://github.com/ezio84/abc_system_core/commit/09daeb49e21d4b4e9ecccb338bf818f6515669d3
+
+then https://github.com/ezio84/abc_bootable_recovery/commit/183ffa7eb8008a8c45f93d30f47a555b71a949f2
+
+then from https://github.com/ezio84/abc_system_sepolicy/commit/81b1c5888cb77a8c679f64757c23c63e87c82cba
+to https://github.com/ezio84/abc_system_sepolicy/commit/81b9cd5da75dde1c86c0ac4ddfa79d94b43268d9
+
+then from https://github.com/ezio84/abc_build/commit/9d704714f25584af5d51c4925b3afa8bd297eec7
+to https://github.com/ezio84/abc_build/commit/1e8083e3e79f39eda152cd0cde85ba43a39509d2
+
+
+Then 
+6p Device tree shit:
+from https://github.com/ezio84/abc_device_huawei_angler/commit/3c197bc5ce74d7d82fbfec51c379bc4d0e097e4f
+to 
+https://github.com/ezio84/abc_device_huawei_angler/commit/fb2ab9ff7fa6aa25da681d5e5c5ac3cc773f9b6d
+
+Build kernel inline
+https://github.com/ezio84/abc_device_huawei_angler/commit/2731a73b201fbbf52cc0e58f66b353abce4e8730
+https://github.com/ezio84/abc_build_soong/commit/7d77a4b3b4f4c4154f3607c1f6eb256f24d72583
+
+Custom inline kernel defconfig
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/78c985e44b36fb35c522ffec52b81bf442be6297
+https://github.com/ezio84/abc_device_huawei_angler/commit/11d464f59f2f792b06a2610b67ca7d13d5bc5675
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
