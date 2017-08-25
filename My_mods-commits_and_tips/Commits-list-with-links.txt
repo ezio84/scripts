@@ -7,8 +7,11 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85
 Enable battery light
 https://github.com/ezio84/abc_device_huawei_angler/commit/9637a42f6d24f672f0b3ef7b7e9456941db05505
 
+Disable ongoing statusbar ime switcher notification
+https://github.com/ezio84/abc_vendor_nexus/commit/0a6fd9213d63eaef48e3848530accae620ddf527
 
-
+Disable safe media volume
+https://github.com/ezio84/abc_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
@@ -20,14 +23,18 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/88350c5e53dad2d08278
 https://github.com/ezio84/abc_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
 https://github.com/ezio84/abc_vendor_nexus/commit/84d181d1fe9c416d1ed309116ebbf6d7fe57962f
 
-Disable safe media volume
-https://github.com/ezio84/abc_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
+Unlock tethering with some carriers after removing provisioning apn
+https://github.com/ezio84/abc_vendor_nexus/commit/3a81b6a15705933c27e24c487c5e738bbaa4131e
+https://github.com/ezio84/abc_vendor_nexus/commit/fe158ae4e13d31841f17440cd2d7aef42d37817d
 
 Pixel bootanimations
 https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
 
 Oreo Pixel theme
 https://github.com/ezio84/abc_vendor_nexus/commit/d07e8509f157e924c0b3829150ed89f4ff88d51f
+
+Enable round icons support
+https://github.com/ezio84/abc_vendor_nexus/commit/a44e8b67e8d546fc25756b8b572c736551584481
 
 Build pixel launcher and wallpaper picker/cropper instead of n_packages_apps_Launcher3
 Also get round icons support
