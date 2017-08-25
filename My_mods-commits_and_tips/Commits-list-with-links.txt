@@ -20,11 +20,14 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/88350c5e53dad2d08278
 https://github.com/ezio84/abc_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
 https://github.com/ezio84/abc_vendor_nexus/commit/84d181d1fe9c416d1ed309116ebbf6d7fe57962f
 
-Disable safe media volume 
+Disable safe media volume
 https://github.com/ezio84/abc_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
 
 Pixel bootanimations
 https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
+
+Oreo Pixel theme
+https://github.com/ezio84/abc_vendor_nexus/commit/d07e8509f157e924c0b3829150ed89f4ff88d51f
 
 Build pixel launcher and wallpaper picker/cropper instead of n_packages_apps_Launcher3
 Also get round icons support
@@ -41,10 +44,9 @@ https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35
 Set a default theme for Gboard if it's installed
 https://github.com/ezio84/abc_vendor_nexus/commit/300b12f0ef73a5042f98218d7fe0dc632ba236c7
 
-Use 3gb dalvik heap and hwui 
+Use 3gb dalvik heap and hwui for xxhdpi devices
 https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f167fe20274188218ddda
 https://github.com/ezio84/abc_frameworks_native/commit/725d458d6fcc22fb607fd263509721e907c77a0f
-
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
@@ -52,7 +54,7 @@ https://github.com/ezio84/abc_frameworks_native/commit/725d458d6fcc22fb607fd2635
 Build environment preparation:
 from https://github.com/ezio84/abc_system_core/commit/2dbf6d66abd5c11486309d44e668e0cf031f7b80
 to
-https://github.com/ezio84/abc_build/commit/0c4cfeceedd75d5432ab3bbcac44b66e3586b4a3
+https://github.com/ezio84/abc_system_core/commit/09daeb49e21d4b4e9ecccb338bf818f6515669d3
 
 then https://github.com/ezio84/abc_bootable_recovery/commit/183ffa7eb8008a8c45f93d30f47a555b71a949f2
 
@@ -60,8 +62,9 @@ then from https://github.com/ezio84/abc_system_sepolicy/commit/81b1c5888cb77a8c6
 to https://github.com/ezio84/abc_system_sepolicy/commit/81b9cd5da75dde1c86c0ac4ddfa79d94b43268d9
 
 then from https://github.com/ezio84/abc_build/commit/9d704714f25584af5d51c4925b3afa8bd297eec7
-to https://github.com/ezio84/abc_build/commit/1e8083e3e79f39eda152cd0cde85ba43a39509d2
+to https://github.com/ezio84/abc_build/commit/5eb829e0bba111f117f31403cf405cac3a79c1ba
 
+then add vendor/nexus custom tree
 
 Then 
 6p Device tree shit:
