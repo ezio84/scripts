@@ -26,7 +26,8 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/88350c5e53dad2d08278
 https://github.com/ezio84/abc_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
 https://github.com/ezio84/abc_vendor_nexus/commit/84d181d1fe9c416d1ed309116ebbf6d7fe57962f
 
-Unlock tethering with some carriers after removing provisioning apn
+Disable  tethering provisioning (unlock tethering with some carriers apn)
+https://github.com/ezio84/abc_frameworks_base/commit/992fc259987eb58c7b3b41c8296dcd63a5841084
 https://github.com/ezio84/abc_vendor_nexus/commit/3a81b6a15705933c27e24c487c5e738bbaa4131e
 https://github.com/ezio84/abc_vendor_nexus/commit/fe158ae4e13d31841f17440cd2d7aef42d37817d
 
@@ -68,6 +69,12 @@ Cleanup Settings from ota, bug report and similar stuff
 https://github.com/ezio84/abc_packages_apps_Settings/commit/3c25d2ec772506ed308eb8891528397c7cc1dc25
 https://github.com/ezio84/abc_packages_apps_Settings/commit/97e4803af680738302884ee2fb14bda1be02e48e
 https://github.com/ezio84/abc_packages_apps_Settings/commit/16186985dc82e16418f1688ffa337db7bcc75b06
+
+APN fixes and updates
+https://github.com/ezio84/abc_packages_services_Telephony/commit/27d06fbc89f42814882bffffd495e1a945305783
+then cherry-pick from https://github.com/ezio84/abc_frameworks_base/commit/4067f0fbb57eb7850d9157865f19a720c06b3316
+to https://github.com/ezio84/abc_frameworks_base/commit/8eff07d31eee49ae3bd1f9eee3907ca699707885
+
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
