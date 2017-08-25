@@ -72,6 +72,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/62fa03c523dada4c208f
 
 APN fixes and updates
 https://github.com/ezio84/abc_packages_services_Telephony/commit/27d06fbc89f42814882bffffd495e1a945305783
+https://github.com/ezio84/abc_frameworks_base/commit/6020ba0b66c78a1b898a63623b504656accc3bce
 then cherry-pick from https://github.com/ezio84/abc_frameworks_base/commit/4067f0fbb57eb7850d9157865f19a720c06b3316
 to https://github.com/ezio84/abc_frameworks_base/commit/8eff07d31eee49ae3bd1f9eee3907ca699707885
 
@@ -93,18 +94,12 @@ https://github.com/ezio84/abc_frameworks_base/commit/d61b7871cfde2088bb2a8fedffa
 https://github.com/ezio84/abc_frameworks_base/commit/0fec41c3139db192f602cac9a315703c1caa8b68
 https://github.com/ezio84/abc_frameworks_base/commit/2ba6fd570c22a99c07ad42d8c6042174f5596dbc
 https://github.com/ezio84/abc_frameworks_base/commit/102f85141cd1ca718be23366607cfbbdd8480b70
+https://github.com/ezio84/abc_frameworks_base/commit/d762482efa628a4ab4dd3a31d8a911ad9f4aac90
 https://github.com/ezio84/abc_vendor_nexus/commit/d4cc65afa2591fd129564279f2e9875c988cb1dd
 https://github.com/ezio84/abc_vendor_nexus/commit/c042123a2a4157268c4465526b16d53c52a50535
 then add this overlay:
 https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
 (just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
-
-
-
-
-
-
-
 
 
 
