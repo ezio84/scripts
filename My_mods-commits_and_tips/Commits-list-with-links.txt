@@ -51,7 +51,8 @@ https://github.com/ezio84/abc_frameworks_native/commit/725d458d6fcc22fb607fd2635
 
 Build environment preparation:
 from https://github.com/ezio84/abc_system_core/commit/2dbf6d66abd5c11486309d44e668e0cf031f7b80
-to https://github.com/ezio84/abc_system_core/commit/09daeb49e21d4b4e9ecccb338bf818f6515669d3
+to
+https://github.com/ezio84/abc_build/commit/0c4cfeceedd75d5432ab3bbcac44b66e3586b4a3
 
 then https://github.com/ezio84/abc_bootable_recovery/commit/183ffa7eb8008a8c45f93d30f47a555b71a949f2
 
@@ -66,7 +67,7 @@ Then
 6p Device tree shit:
 from https://github.com/ezio84/abc_device_huawei_angler/commit/3c197bc5ce74d7d82fbfec51c379bc4d0e097e4f
 to 
-https://github.com/ezio84/abc_device_huawei_angler/commit/fb2ab9ff7fa6aa25da681d5e5c5ac3cc773f9b6d
+https://github.com/ezio84/abc_device_huawei_angler/commit/74aa8555ce5df3c6e424ec2f964eccb93da67f5d
 
 Build kernel inline
 https://github.com/ezio84/abc_device_huawei_angler/commit/2731a73b201fbbf52cc0e58f66b353abce4e8730

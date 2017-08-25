@@ -40,7 +40,7 @@ breakfast "$DEVICE-userdebug"
 if [ "$CLEAN" == "clean" ]
 then
    echo -e "${bldblu}Cleaning up the OUT folder with make clobber ${txtrst}"
-   make clobber;
+   make clean;
 else
   echo -e "${bldblu}No make clobber so just make installclean ${txtrst}"
   make installclean;
