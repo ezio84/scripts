@@ -66,9 +66,9 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f16
 https://github.com/ezio84/abc_frameworks_native/commit/725d458d6fcc22fb607fd263509721e907c77a0f
 
 Cleanup Settings from ota, bug report and similar stuff
-https://github.com/ezio84/abc_packages_apps_Settings/commit/3c25d2ec772506ed308eb8891528397c7cc1dc25
-https://github.com/ezio84/abc_packages_apps_Settings/commit/97e4803af680738302884ee2fb14bda1be02e48e
-https://github.com/ezio84/abc_packages_apps_Settings/commit/16186985dc82e16418f1688ffa337db7bcc75b06
+https://github.com/ezio84/abc_packages_apps_Settings/commit/11581f765fd7b9b0ec477ff2a6b4963d5439efa1
+https://github.com/ezio84/abc_packages_apps_Settings/commit/d108537fce9764ee34bdfcca9bf37b409983e05e
+https://github.com/ezio84/abc_packages_apps_Settings/commit/62fa03c523dada4c208fdc01dd65ff9a2c1bab73
 
 APN fixes and updates
 https://github.com/ezio84/abc_packages_services_Telephony/commit/27d06fbc89f42814882bffffd495e1a945305783
@@ -79,8 +79,8 @@ Permissions/gapps fixes
 https://github.com/ezio84/abc_packages_providers_MediaProvider/commit/1806383b68693e13f1779facc4924f5ad03ea191
 https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/ec5948ac5c8c7da78fefbae78c7477c3f2cb25f7
 https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/3b78a1119a54f40a6c7a57c10402d6f62e645d85
-https://github.com/ezio84/abc_packages_apps_Settings/commit/765addaaa3c44a82e375e615752034e3e52c0576
-https://github.com/ezio84/abc_packages_apps_Settings/commit/7ea4b477ef953194ec42532fcb5aea095ce64a0b
+https://github.com/ezio84/abc_packages_apps_Settings/commit/162bb6e886d51c589a31055e6bdfa18c68624f6d
+https://github.com/ezio84/abc_packages_apps_Settings/commit/234c3f1a779762d521ec04f0c931b2395160d9a5
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/a7c498733114e126f105d8c4b159b3d9f1782604
 https://github.com/ezio84/abc_frameworks_av/commit/52a70c2a8ea2bb7cb26d369c82edc0f69e4c3486
 https://github.com/ezio84/abc_frameworks_av/commit/651e59a518b68d20acb3c3e9cd47c797d1228820
