@@ -16,6 +16,19 @@ https://github.com/ezio84/abc_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e
 Disable app verification and enable non market apps installation
 https://github.com/ezio84/abc_vendor_nexus/commit/27c0bd584caa946842a4fcad6ef61874792de1b2
 
+Kcal color customization for qcom
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/369207f37648b8431f38f89018e31ef4f7b6ebe3
+https://github.com/ezio84/abc_packages_apps_Settings/commit/9bf855419956f91a450cfa61ba660892211793d3
+
+ElementalX Wake gestures
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/560e0644af318d660e0ea95a4057727d7a76dada
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/73a7783101dfd1dac204696037a6aefc7fd4698e
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/19f6957bbdf1e177891ede60a88a6db426a9d98a
+
+High performance audio
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/6453cda389d1c50dbd4217a45b90e8a17a00eda0
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/750479edc080aa656333a568ec1496caf17e7d4d
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -135,8 +148,9 @@ Custom inline kernel defconfig
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/78c985e44b36fb35c522ffec52b81bf442be6297
 https://github.com/ezio84/abc_device_huawei_angler/commit/11d464f59f2f792b06a2610b67ca7d13d5bc5675
 
-Angler 2% battery drop fix
+Angler 2% battery drop fix and other 6p kernel improvements
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/62c8efd6241de6d767ab2b37b9e9b7975dff1ca5
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/75916a80e86b9237b2b266ac6545f5ca3e32d782
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
