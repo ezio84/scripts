@@ -14,7 +14,7 @@ Disable safe media volume
 https://github.com/ezio84/abc_vendor_nexus/commit/b76ed05c8243abf824fbf3380c555e0712324d38
 
 Disable app verification and enable non market apps installation
-https://github.com/ezio84/abc_vendor_nexus/commit/27c0bd584caa946842a4fcad6ef61874792de1b2
+https://github.com/ezio84/abc_vendor_nexus/commit/ec78d1e4d58d4bd57b50fff2e15812d0245bda91
 
 Kcal color customization for qcom
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/369207f37648b8431f38f89018e31ef4f7b6ebe3
@@ -48,8 +48,7 @@ Pixel bootanimations
 https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
 
 Oreo Pixel theme selectable under Display-Advanced settings
-https://github.com/ezio84/abc_vendor_nexus/commit/d07e8509f157e924c0b3829150ed89f4ff88d51f
-https://github.com/ezio84/abc_vendor_nexus/commit/c842c7eb72901f38e99083ec58a1732a5614053b
+https://github.com/ezio84/abc_vendor_nexus/commit/ec9532d6c78b6462a5593ff5349c8c2bf4424274
 
 N and O system sounds
 https://github.com/ezio84/abc_frameworks_base/commit/afca63bf5a8e64762d82f7cab19b0e2986ed970c
