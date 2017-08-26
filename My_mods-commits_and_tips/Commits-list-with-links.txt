@@ -47,8 +47,8 @@ https://github.com/ezio84/abc_vendor_nexus/commit/fe158ae4e13d31841f17440cd2d7ae
 Pixel bootanimations
 https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
 
-Oreo Pixel theme selectable under Display-Advanced settings
-https://github.com/ezio84/abc_vendor_nexus/commit/ec9532d6c78b6462a5593ff5349c8c2bf4424274
+Pixel theme colors
+https://github.com/ezio84/abc_vendor_nexus/commit/c07f76979aa8781c0ccaf0fa0e1bc1600b1bc0b9
 
 N and O system sounds
 https://github.com/ezio84/abc_frameworks_base/commit/afca63bf5a8e64762d82f7cab19b0e2986ed970c
