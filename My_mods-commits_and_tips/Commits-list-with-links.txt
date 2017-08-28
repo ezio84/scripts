@@ -1,5 +1,6 @@
-Enable Night mode
+Enable Night light mode
 https://github.com/ezio84/abc_device_huawei_angler/commit/0931bb92d51e55f06af27243471b01358c74d5a0
+https://github.com/ezio84/abc_frameworks_base/commit/f9bbec5a4749bc2fb5ac48989b27b96d63816943
 
 Angler: allow all rotations (thus also 180°)  …
 https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85b210942e7a6b155ea2
