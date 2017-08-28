@@ -58,6 +58,9 @@ https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396
 Pixel theme colors
 https://github.com/ezio84/abc_vendor_nexus/commit/c07f76979aa8781c0ccaf0fa0e1bc1600b1bc0b9
 
+Stock theme improvements
+https://github.com/ezio84/abc_vendor_nexus/commit/188087b5244883df1b8ef7ebf001ebfbb4ed5eef
+
 N and O system sounds
 https://github.com/ezio84/abc_frameworks_base/commit/afca63bf5a8e64762d82f7cab19b0e2986ed970c
 https://github.com/ezio84/abc_frameworks_base/commit/2ff1500d129763ca38f3d23ed66b428ae235773b
