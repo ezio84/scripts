@@ -29,13 +29,14 @@ High performance audio
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/6453cda389d1c50dbd4217a45b90e8a17a00eda0
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/750479edc080aa656333a568ec1496caf17e7d4d
 
+Enable Sysui tuner by default
+https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
+https://github.com/ezio84/abc_frameworks_base/commit/d4e4816100cbda1203ac1877625bf86064d23e0b
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
-
-Reenable sysui tuner for all build types
-https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
 
 NotificationManagerService: Disable channel warning toast by default 
 https://github.com/ezio84/abc_frameworks_base/commit/09cc5132b73cd4b888ff9c3a12ad1397d073589d
