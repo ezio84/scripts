@@ -55,8 +55,9 @@ https://github.com/ezio84/abc_vendor_nexus/commit/fe158ae4e13d31841f17440cd2d7ae
 Pixel bootanimations
 https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396f92f489831
 
-Pixel theme colors
-https://github.com/ezio84/abc_vendor_nexus/commit/c07f76979aa8781c0ccaf0fa0e1bc1600b1bc0b9
+Pixel theme 
+system colors: https://github.com/ezio84/abc_vendor_nexus/commit/c07f76979aa8781c0ccaf0fa0e1bc1600b1bc0b9
+navbar icons: https://github.com/ezio84/abc_frameworks_base/commit/0295d3e18ca80572f2cb3f9f7b3a4da555461508
 
 Stock theme improvements
 https://github.com/ezio84/abc_vendor_nexus/commit/188087b5244883df1b8ef7ebf001ebfbb4ed5eef
