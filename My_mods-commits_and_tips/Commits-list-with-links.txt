@@ -34,6 +34,9 @@ https://github.com/ezio84/abc_kernel_huawei_angler/commit/750479edc080aa656333a5
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
+NotificationManagerService: Disable channel warning toast by default 
+https://github.com/ezio84/abc_frameworks_base/commit/09cc5132b73cd4b888ff9c3a12ad1397d073589d
+
 Port "Battery Usage Alerts" feature from factory images to aosp
 https://github.com/ezio84/abc_packages_apps_Settings/commit/88350c5e53dad2d08278dba32ec19b5dc2469cb1
 https://github.com/ezio84/abc_vendor_nexus/commit/1305ba501e2c91f0d6925c3a79eff73492915c1f
