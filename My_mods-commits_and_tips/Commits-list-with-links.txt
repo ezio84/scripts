@@ -7,7 +7,7 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85
 Enable battery light
 https://github.com/ezio84/abc_device_huawei_angler/commit/9637a42f6d24f672f0b3ef7b7e9456941db05505
 
-Disable ongoing statusbar ime switcher notification
+Disable ongoing statusbar ime switcher notification (don't pick if you want to use sysui tuner ime switcher custom navbar button)
 https://github.com/ezio84/abc_vendor_nexus/commit/0a6fd9213d63eaef48e3848530accae620ddf527
 
 Disable safe media volume
@@ -33,6 +33,9 @@ https://github.com/ezio84/abc_kernel_huawei_angler/commit/750479edc080aa656333a5
 ----------------------------------------------------------------------
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
+
+Reenable sysui tuner for all build types
+https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
 
 NotificationManagerService: Disable channel warning toast by default 
 https://github.com/ezio84/abc_frameworks_base/commit/09cc5132b73cd4b888ff9c3a12ad1397d073589d
