@@ -1,6 +1,6 @@
 Enable Night light mode
 https://github.com/ezio84/abc_device_huawei_angler/commit/0931bb92d51e55f06af27243471b01358c74d5a0
-https://github.com/ezio84/abc_frameworks_base/commit/f9bbec5a4749bc2fb5ac48989b27b96d63816943
+https://github.com/ezio84/abc_frameworks_base/commit/ef751c3ad3cadd6376f2e2505a1872027a33424a
 
 Angler: allow all rotations (thus also 180°)  …
 https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85b210942e7a6b155ea2
@@ -36,7 +36,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/d4e4816100cbda1203ac1877625
 https://github.com/ezio84/abc_frameworks_base/commit/77f617d174a05147ac1369c03f9f6a41d8790ecf
 
 PowerMenu: add a toggleable recovery/bootloader action
-https://github.com/ezio84/abc_frameworks_base/commit/5d55481809a77bce6f9c5eb0f46dcb2149fc0e74
+https://github.com/ezio84/abc_frameworks_base/commit/ae6c26677f748c05d464629ccbac138aa0a20c15
 
 Use a thinner navbar
 https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
@@ -67,7 +67,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396
 
 Pixel theme 
 system colors: https://github.com/ezio84/abc_vendor_nexus/commit/c07f76979aa8781c0ccaf0fa0e1bc1600b1bc0b9
-navbar icons: https://github.com/ezio84/abc_frameworks_base/commit/0295d3e18ca80572f2cb3f9f7b3a4da555461508
+navbar icons: https://github.com/ezio84/abc_frameworks_base/commit/ee2f36c10148d39c1ba2040ede3197108776acb8
 
 Stock theme improvements
 https://github.com/ezio84/abc_vendor_nexus/commit/188087b5244883df1b8ef7ebf001ebfbb4ed5eef
@@ -139,8 +139,8 @@ https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base
 (just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
 
 Block System Update services and related wakelocks
-https://github.com/ezio84/abc_frameworks_base/commit/4ced611bc9df43ed2302ec06012d907c79ea7754
-https://github.com/ezio84/abc_frameworks_base/commit/ae38d6eb66ce23ea82b040eadd4a43fb7ffa8feb
+https://github.com/ezio84/abc_frameworks_base/commit/5467c388fd213778fcb0b3dcf14f8da8d91c5190
+https://github.com/ezio84/abc_frameworks_base/commit/925462bcae38a9a31b5537eb99a29f1be3291bbb
 https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd11d9422e76c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/90e6233c4aa1d8f13b19a8cba346f38915d36229
 
