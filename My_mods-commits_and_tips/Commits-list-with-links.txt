@@ -135,7 +135,10 @@ then add this overlay:
 https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
 (just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
 
-
+Block System Update services and related wakelocks
+https://github.com/ezio84/abc_frameworks_base/commit/4ced611bc9df43ed2302ec06012d907c79ea7754
+https://github.com/ezio84/abc_frameworks_base/commit/ae38d6eb66ce23ea82b040eadd4a43fb7ffa8feb
+https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd11d9422e76c
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
