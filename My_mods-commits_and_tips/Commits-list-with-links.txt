@@ -47,6 +47,9 @@ Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
+Enable Development Settings By Default regardless of build type
+https://github.com/ezio84/abc_packages_apps_Settings/commit/b5c35a611c2c2e94647736d4952dec69ad97a3fe
+
 DeviceInfoSettings: Add back ABC version 
 https://github.com/ezio84/abc_packages_apps_Settings/commit/7965b25cd12987ce263bf1f815f1aa0d66614906
 
