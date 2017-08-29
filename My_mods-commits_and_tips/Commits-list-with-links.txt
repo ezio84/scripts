@@ -43,6 +43,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/5d55481809a77bce6f9c5eb0f46
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
+DeviceInfoSettings: Add back ABC version 
+https://github.com/ezio84/abc_packages_apps_Settings/commit/7965b25cd12987ce263bf1f815f1aa0d66614906
+
 NotificationManagerService: Disable channel warning toast by default 
 https://github.com/ezio84/abc_frameworks_base/commit/09cc5132b73cd4b888ff9c3a12ad1397d073589d
 
