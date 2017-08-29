@@ -139,6 +139,7 @@ Block System Update services and related wakelocks
 https://github.com/ezio84/abc_frameworks_base/commit/4ced611bc9df43ed2302ec06012d907c79ea7754
 https://github.com/ezio84/abc_frameworks_base/commit/ae38d6eb66ce23ea82b040eadd4a43fb7ffa8feb
 https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd11d9422e76c
+https://github.com/ezio84/abc_packages_apps_Settings/commit/90e6233c4aa1d8f13b19a8cba346f38915d36229
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
