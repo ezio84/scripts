@@ -42,6 +42,9 @@ Stock Navbar improvements
 Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
 Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002f50e72a2b77c4909abcc03
 
+Allow to disable "Apps running in background" Android System notification
+https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
