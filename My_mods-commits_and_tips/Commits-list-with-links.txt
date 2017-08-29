@@ -35,6 +35,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b
 https://github.com/ezio84/abc_frameworks_base/commit/d4e4816100cbda1203ac1877625bf86064d23e0b
 https://github.com/ezio84/abc_frameworks_base/commit/77f617d174a05147ac1369c03f9f6a41d8790ecf
 
+PowerMenu: add a toggleable recovery/bootloader action
+https://github.com/ezio84/abc_frameworks_base/commit/5d55481809a77bce6f9c5eb0f46dcb2149fc0e74
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
