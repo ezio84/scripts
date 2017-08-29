@@ -38,6 +38,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/77f617d174a05147ac1369c03f9
 PowerMenu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/5d55481809a77bce6f9c5eb0f46dcb2149fc0e74
 
+Use a thinner navbar
+https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
