@@ -157,8 +157,8 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/90e6233c4aa1d8f13b19
 Fix Miracast(wifi display)
 https://github.com/ezio84/abc_frameworks_av/commit/93b734a66057872afd989c8af5fdf524a41f0ee4
 
-Enable doze on supported devices: 
-https://github.com/ezio84/abc_device_huawei_angler/commit/1cb361ccf6e88663ff49d9136d4a8fc11c07bb6f
+Enable doze power saving for all devices
+https://github.com/ezio84/abc_vendor_nexus/commit/4ead31f89d7908a44627eb4dd116ac6119fa9c09
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
