@@ -198,5 +198,7 @@ Angler 2% battery drop fix and other 6p kernel improvements
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/62c8efd6241de6d767ab2b37b9e9b7975dff1ca5
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/75916a80e86b9237b2b266ac6545f5ca3e32d782
 
+Add custom proto metrics
+https://github.com/ezio84/abc_frameworks_base/commit/86894feefd6fe6324fdf47fb52f67c0586b3dc7f
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
