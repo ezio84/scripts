@@ -154,6 +154,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/925462bcae38a9a31b5537eb99a
 https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd11d9422e76c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/90e6233c4aa1d8f13b19a8cba346f38915d36229
 
+Fix Miracast(wifi display)
+https://github.com/ezio84/abc_frameworks_av/commit/93b734a66057872afd989c8af5fdf524a41f0ee4
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -168,7 +170,7 @@ then from https://github.com/ezio84/abc_system_sepolicy/commit/81b1c5888cb77a8c6
 to https://github.com/ezio84/abc_system_sepolicy/commit/81b9cd5da75dde1c86c0ac4ddfa79d94b43268d9
 
 then from https://github.com/ezio84/abc_build/commit/9d704714f25584af5d51c4925b3afa8bd297eec7
-to https://github.com/ezio84/abc_build/commit/2dbf6d66abd5c11486309d44e668e0cf031f7b80
+to https://github.com/ezio84/abc_build/commit/0932e9d4da8eb80276d83f489313f480ea5c2560
 
 then add vendor/nexus custom tree
 
