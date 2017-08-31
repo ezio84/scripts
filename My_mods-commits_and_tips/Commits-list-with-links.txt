@@ -50,6 +50,12 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e99
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
+Add a custom Settings menu (new dashboard tile)
+https://github.com/ezio84/abc_packages_apps_Settings/commit/404880de7447a452d1e22774dad78396d7f63e1c
+https://github.com/ezio84/abc_packages_apps_Settings/commit/63ddd88e2602caa9e85d833748edfba4754c3ea3
+https://github.com/ezio84/abc_packages_apps_Settings/commit/339deedf780c8b214fc98190652595a37a578e55 (if wanted)
+then the custom tree with res and src https://github.com/ezio84/abc_packages_apps_AbcSettings
+
 Move custom dp settings under Display
 https://github.com/ezio84/abc_packages_apps_Settings/commit/80c845701be2f6bded6fb2d70f328155a43f2bd9
 
