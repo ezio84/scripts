@@ -38,9 +38,13 @@ https://github.com/ezio84/abc_frameworks_base/commit/77f617d174a05147ac1369c03f9
 PowerMenu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/ae6c26677f748c05d464629ccbac138aa0a20c15
 
-Stock Navbar improvements
-Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
+Stock Navbar improvements and custom features
+    Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
 Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002f50e72a2b77c4909abcc03
+    Double tap to sleep: https://github.com/ezio84/abc_frameworks_base/commit/58f6010c286ea26412f0bbd9d690994b063687b9
+    https://github.com/ezio84/abc_frameworks_base/commit/fee1061d4f55ef1b65b0e0c1ebd1d6166bf507ef
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d584ec8b7b108288d5ed9a039bafb00f76333864
+
 
 Allow to disable "Apps running in background" Android System notification
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
@@ -107,6 +111,16 @@ https://github.com/ezio84/abc_manifest/commit/91837f8e03e9d85ce602dd6456002c1cbc
 https://github.com/ezio84/abc_vendor_nexus/commit/a44e8b67e8d546fc25756b8b572c736551584481
 https://github.com/ezio84/abc_vendor_nexus/commit/c3476039ea3504ac4521cf6b29c6d17dba884f60
 https://github.com/ezio84/abc_vendor_nexus/commit/93c47ae756709ae48401ef6a8a06a3347543f44e
+
+Add Settings useful preferences and utilities (SystemSettingsSwitchPref , color picker and so on):
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ec3fb3a939db3151e03680db325f3381168a697b
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6144f5d3a7b3c84e128eae18014c956ee508ac12
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/050f8ab1f6e77f5b7cf4410080536be34a62d57a
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/3b9004bfd522bc338d99c471239f361ff7831c1e
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/2ef4ed1fa08e9a9ea34e377eb9a6df4f033f18e7
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bccad9a251c531458f2724a7f8b26575bee3e2d2
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/cbb5131a003aa05aa93656565235defe80ba187b
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7ac330952bf4ee84a57029d4844a42cba6f464ac
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
