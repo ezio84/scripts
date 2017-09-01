@@ -42,23 +42,27 @@ Stock Navbar improvements and custom features
     Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
 Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002f50e72a2b77c4909abcc03
     Double tap to sleep: https://github.com/ezio84/abc_frameworks_base/commit/fee1061d4f55ef1b65b0e0c1ebd1d6166bf507ef
-    https://github.com/ezio84/abc_frameworks_base/commit/f8331c104afb031365c76ad2198878650ac5b30f
+    https://github.com/ezio84/abc_frameworks_base/commit/239a8c8dda7cb11553e49a8177c79a2cd3baf7e8
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d584ec8b7b108288d5ed9a039bafb00f76333864
 
 Allow to disable "Apps running in background" Android System notification
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
 
 Allow to swap volume buttons rotation based 
-https://github.com/ezio84/abc_frameworks_base/commit/b5fbf08bb18b5b155b4407b1536cf78447023c4c
+https://github.com/ezio84/abc_frameworks_base/commit/eb027ebde051ff0d7e6f131982950a6e6f2a6879
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/40d85564120a5822fb377fb237162e4d3db9a90c
 
 Volume panel shows Media volume as default
-https://github.com/ezio84/abc_frameworks_base/commit/1f9e4558037e7791dbfffa2aada86a04427b249b
+https://github.com/ezio84/abc_frameworks_base/commit/4de615580ddae922e29b1070898d4c9946d24b29
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bfedc6ece38e424dbd9b0b87d81d3e3994da0a44
 
 Double tap to sleep on lockscreen
-https://github.com/ezio84/abc_frameworks_base/commit/44b2c2b3c9a117ed3bd3f35d2f768aa31340075e
+https://github.com/ezio84/abc_frameworks_base/commit/2bcbe10a62ec003d1af047cf8f747f19ba96c42c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/70bc128f32877d4fcf8a2aba350678133c380374
+
+QS quick right pulldown
+https://github.com/ezio84/abc_frameworks_base/commit/469a3fd24bf347d6ec708273fa468c3b6c625aaf
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9611e935c494d10291396dd9c514b0eef898d74
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
