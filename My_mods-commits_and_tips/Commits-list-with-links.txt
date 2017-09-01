@@ -41,16 +41,24 @@ https://github.com/ezio84/abc_frameworks_base/commit/ae6c26677f748c05d464629ccba
 Stock Navbar improvements and custom features
     Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
 Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002f50e72a2b77c4909abcc03
-    Double tap to sleep: https://github.com/ezio84/abc_frameworks_base/commit/58f6010c286ea26412f0bbd9d690994b063687b9
-    https://github.com/ezio84/abc_frameworks_base/commit/fee1061d4f55ef1b65b0e0c1ebd1d6166bf507ef
+    Double tap to sleep: https://github.com/ezio84/abc_frameworks_base/commit/fee1061d4f55ef1b65b0e0c1ebd1d6166bf507ef
+    https://github.com/ezio84/abc_frameworks_base/commit/f8331c104afb031365c76ad2198878650ac5b30f
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d584ec8b7b108288d5ed9a039bafb00f76333864
 
 Allow to disable "Apps running in background" Android System notification
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
 
+Allow to swap volume buttons rotation based 
+https://github.com/ezio84/abc_frameworks_base/commit/b5fbf08bb18b5b155b4407b1536cf78447023c4c
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/40d85564120a5822fb377fb237162e4d3db9a90c
+
 Volume panel shows Media volume as default
-https://github.com/ezio84/abc_frameworks_base/commit/5626f9774be4bfdbc45c300c6d010e54fea4365d
+https://github.com/ezio84/abc_frameworks_base/commit/1f9e4558037e7791dbfffa2aada86a04427b249b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bfedc6ece38e424dbd9b0b87d81d3e3994da0a44
+
+Double tap to sleep on lockscreen
+https://github.com/ezio84/abc_frameworks_base/commit/44b2c2b3c9a117ed3bd3f35d2f768aa31340075e
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/70bc128f32877d4fcf8a2aba350678133c380374
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
