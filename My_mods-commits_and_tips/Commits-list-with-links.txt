@@ -64,6 +64,9 @@ QS quick right pulldown
 https://github.com/ezio84/abc_frameworks_base/commit/469a3fd24bf347d6ec708273fa468c3b6c625aaf
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9611e935c494d10291396dd9c514b0eef898d74
 
+Add Power+VolUp action to catch a partial area screenshot
+https://github.com/ezio84/abc_frameworks_base/commit/66378b1ee651d7fffadfd2b1fd138c1eb6aa02d5
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
