@@ -45,9 +45,12 @@ Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002
     https://github.com/ezio84/abc_frameworks_base/commit/fee1061d4f55ef1b65b0e0c1ebd1d6166bf507ef
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d584ec8b7b108288d5ed9a039bafb00f76333864
 
-
 Allow to disable "Apps running in background" Android System notification
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
+
+Volume panel shows Media volume as default
+https://github.com/ezio84/abc_frameworks_base/commit/5626f9774be4bfdbc45c300c6d010e54fea4365d
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bfedc6ece38e424dbd9b0b87d81d3e3994da0a44
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
