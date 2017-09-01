@@ -91,6 +91,11 @@ navbar icons: https://github.com/ezio84/abc_frameworks_base/commit/ee2f36c10148d
 
 Stock theme improvements
 https://github.com/ezio84/abc_vendor_nexus/commit/188087b5244883df1b8ef7ebf001ebfbb4ed5eef
+https://github.com/ezio84/abc_vendor_nexus/commit/f39417ca1d4542784008556d161eb512f39eefa3
+https://github.com/ezio84/abc_vendor_nexus/commit/f9a331f11837f3f2c89ced2772e70589e203b96c
+https://github.com/ezio84/abc_vendor_nexus/commit/7be91949e136f02bcbacd8d6e31f883862d76300
+https://github.com/ezio84/abc_vendor_nexus/commit/cb82e580c079389a8c6c78e836d5d6fc4aa72144
+https://github.com/ezio84/abc_vendor_nexus/commit/ea9cee5e5a56412b6ef2fc9dcd706b5afc6545c5
 
 N and O system sounds
 https://github.com/ezio84/abc_frameworks_base/commit/afca63bf5a8e64762d82f7cab19b0e2986ed970c
@@ -185,6 +190,11 @@ Twrp compatibility fixes
 https://github.com/ezio84/abc_bootable_recovery/commit/183ffa7eb8008a8c45f93d30f47a555b71a949f2
 https://github.com/ezio84/abc_bootable_recovery/commit/7b53ead9961cdc2024480beef117dad01bb6e21f
 
+LatinIME fixes and improvements
+https://github.com/ezio84/abc_vendor_nexus/commit/77c18ec8e51b4fc7816e611289db70dc3c1f1092
+https://github.com/ezio84/abc_vendor_nexus/commit/e5321f743e458c283c49aca8c128f57b18a9a5f1
+from https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/fd5f98aacf27282dd4c2e6e0c498657c79f27be3
+to https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/42f4ed77ee058edeff940bf290d7248899bba682
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
