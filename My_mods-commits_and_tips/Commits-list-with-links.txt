@@ -181,6 +181,10 @@ https://github.com/ezio84/abc_frameworks_av/commit/93b734a66057872afd989c8af5fdf
 Enable doze power saving for all devices
 https://github.com/ezio84/abc_vendor_nexus/commit/4ead31f89d7908a44627eb4dd116ac6119fa9c09
 
+Twrp compatibility fixes
+https://github.com/ezio84/abc_bootable_recovery/commit/183ffa7eb8008a8c45f93d30f47a555b71a949f2
+https://github.com/ezio84/abc_bootable_recovery/commit/7b53ead9961cdc2024480beef117dad01bb6e21f
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
