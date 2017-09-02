@@ -71,6 +71,9 @@ Volume key music control to skip tracks on screen off
 https://github.com/ezio84/abc_frameworks_base/commit/b252b4c1011cfa8789927cec3403bb4002703d4b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c0841a0ad56758eb9efabdf12331863cb990945a
 
+Add additional battery saver steps
+https://github.com/ezio84/abc_packages_apps_Settings/commit/8c9b1ff4d695127f8c369c05c9003b58fdbca79d
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -240,7 +243,7 @@ Then
 6p Device tree shit:
 from https://github.com/ezio84/abc_device_huawei_angler/commit/3c197bc5ce74d7d82fbfec51c379bc4d0e097e4f
 to 
-https://github.com/ezio84/abc_device_huawei_angler/commit/57a189835d17226a1304cd55cb97eb027343c7e5
+https://github.com/ezio84/abc_device_huawei_angler/commit/23aaf4b4219347a9508475c2562e0250ee71e97a
 
 Build kernel inline
 https://github.com/ezio84/abc_device_huawei_angler/commit/2731a73b201fbbf52cc0e58f66b353abce4e8730
