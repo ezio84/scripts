@@ -47,6 +47,7 @@ Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002
 
 Allow to disable "Apps running in background" Android System notification
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
+https://github.com/ezio84/abc_frameworks_base/commit/134dfda023c44c2a600321a0d79083d1dba03621
 
 Allow to swap volume buttons rotation based 
 https://github.com/ezio84/abc_frameworks_base/commit/eb027ebde051ff0d7e6f131982950a6e6f2a6879
