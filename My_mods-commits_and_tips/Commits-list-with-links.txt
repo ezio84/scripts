@@ -67,6 +67,10 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9611e935c494d102
 Add Power+VolUp action to catch a partial area screenshot
 https://github.com/ezio84/abc_frameworks_base/commit/66378b1ee651d7fffadfd2b1fd138c1eb6aa02d5
 
+Volume key music control to skip tracks on screen off
+https://github.com/ezio84/abc_frameworks_base/commit/b252b4c1011cfa8789927cec3403bb4002703d4b
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c0841a0ad56758eb9efabdf12331863cb990945a
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
