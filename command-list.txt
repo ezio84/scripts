@@ -1,9 +1,13 @@
  . scripts/build_rom.sh angler nosync noclean log on
  . scripts/build_apk.sh angler nosync noclean log SystemUI
  . scripts/build_apk.sh angler nosync noclean log Settings
+ . scripts/build_apk.sh angler nosync noclean log Gallery2
+  . scripts/build_apk.sh angler nosync noclean log OmniSwitch
+ . scripts/build_apk.sh angler nosync noclean log ThemeInterfacer
+ 
  . scripts/build_kernel.sh angler log
-. mkgapps.sh
-
+ linux kernel new tags: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/
+ 
 git push abc n2
 
 adb root
@@ -12,8 +16,9 @@ adb push Settings.apk /system/priv-app/Settings/Settings.apk
 adb push SystemUI.apk /system/priv-app/SystemUI/SystemUI.apk
 
 find strings in the rom source: grep -r "TEXTtoFIND"
+find commit msg in the history: git log --grep="<part_of_commit_message>"
 
-adb connect 192.168.0.3:5555
+adb connect YourLocalIP:5555
 
 ccache -C to reset ccache
 
@@ -26,12 +31,14 @@ to type a tilde ~: AltGR+ì (or Alt+126 on Win)
  Shift + Alt Gr + è  --for: {
  Shift + Alt Gr + +  --for: }
  
-git push ssh://ezio84@gerrit.dirtyunicorns.com:29418/android_external_DUtils/ HEAD:refs/for/n
-git push ssh://ezio84@review.slimroms.org:29418/SlimRoms/frameworks_base HEAD:refs/for/lp5.1
+git push ssh://ezio84@gerrit.dirtyunicorns.com:29418/android_external_DUtils/ HEAD:refs/for/n7x
+git push ssh://ezio84@review.projektsubstratum.com:29418/SubstratumResources/platform_frameworks_base HEAD:refs/for/n-mr1-oms7
+git push ssh://ezio84@review.slimroms.org:29418/SlimRoms/frameworks_opt_slim HEAD:refs/for/ng7.1
 to add a topic to the commit: HEAD:refs/for/lp5.1l%topic=XXXXXXX
+git push ssh://ezio84@gerrit.aospa.co:29418/AOSPA/android_frameworks_base HEAD:refs/for/nougat-mr2
 
 To install hooks (useful to automatically add a commit ID)
-gitdir=$(git rev-parse --git-dir); scp -p -P 29418 ezio84@review.slimroms.org:hooks/commit-msg ${gitdir}/hooks/
+gitdir=$(git rev-parse --git-dir); scp -p -P 29418 ezio84@gerrit.dirtyunicorns.com:hooks/commit-msg ${gitdir}/hooks/
 
 
 git remote set-url github http://github.com/ezio84/... (to set a new url for the remote)
@@ -39,6 +46,16 @@ git remote set-url github http://github.com/ezio84/... (to set a new url for the
 
 ./fetch-merge-purenexus.sh
 fake merge: git merge purenexus/n -s ours
+
+Merge tip and tricks:
+git merge <CURRENT_TAG> --edit -m "Merge <KERNEL_VERSION> into <BRANCH>
+$(git log --oneline <PREV_TAG>..<CURRENT_TAG>)
+Signed-off-by: Nathan Chancellor <natechancellor@gmail.com>"
+Example: https://github.com/nathanchance/angler/commit/e6bcb5b9d46020b83623bde61e99415ff2a05e5c
+git merge v3.10.74 --edit -m "Merge 3.10.74 into 7.1.2-base
+$(git log --oneline v3.10.73..v3.10.74)
+Signed-off-by: Nathan Chancellor <natechancellor@gmail.com>"
+
 
 ADB LOGCAT commands
  V    Verbose (show all possibly useless logs, default level)
