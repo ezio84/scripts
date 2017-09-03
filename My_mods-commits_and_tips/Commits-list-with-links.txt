@@ -82,6 +82,14 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/34b1ae6a6e4ab7fb8
 Allow to customize max SMS per minute limit
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/3ff89309baad1d8339dfbbd035ab9ff0f93f32e3
 https://github.com/ezio84/abc_frameworks_opt_telephony/commit/cde5113c20a193ff4a8a9f6db10e63a6b0af230d
+
+DoubletapPowerForCamera disabled by default 
+https://github.com/ezio84/abc_frameworks_base/commit/26ce66d89d79f9d7a97116fb140ff8b09e17397a
+https://github.com/ezio84/abc_packages_apps_Settings/commit/f2dca2b67b941c019d7a53c0b8ebe8229a64ed65
+
+
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
