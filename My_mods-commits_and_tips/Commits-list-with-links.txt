@@ -99,6 +99,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/80c845701be2f6bded6f
 
 Enable Development Settings By Default regardless of build type
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b5c35a611c2c2e94647736d4952dec69ad97a3fe
+https://github.com/ezio84/abc_packages_apps_Settings/commit/b5be39c2dccc9b0d5264064612390efff0d3c150
 
 DeviceInfoSettings: Add back ABC version 
 https://github.com/ezio84/abc_packages_apps_Settings/commit/7965b25cd12987ce263bf1f815f1aa0d66614906
