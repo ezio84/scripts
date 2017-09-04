@@ -173,6 +173,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/2ef4ed1fa08e9a9ea
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bccad9a251c531458f2724a7f8b26575bee3e2d2
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/cbb5131a003aa05aa93656565235defe80ba187b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7ac330952bf4ee84a57029d4844a42cba6f464ac
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/dcaf96e11377c7c2ce3934431fb8b904b4405dc5
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
