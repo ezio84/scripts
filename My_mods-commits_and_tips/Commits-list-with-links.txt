@@ -87,6 +87,10 @@ DoubletapPowerForCamera disabled by default
 https://github.com/ezio84/abc_frameworks_base/commit/26ce66d89d79f9d7a97116fb140ff8b09e17397a
 https://github.com/ezio84/abc_packages_apps_Settings/commit/f2dca2b67b941c019d7a53c0b8ebe8229a64ed65
 
+Allow to doubletap or longpress power to toggle flashlight
+https://github.com/ezio84/abc_frameworks_base/commit/3b257e93353649d702df7b15fe77c911b70fe6b1
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/24e76a9d219b7f2123f76145d50a0e28c77a5117
+https://github.com/ezio84/abc_packages_apps_Settings/commit/54c1024855196bb8fc44043ca70d4fc7043f70a5
 
 
 
