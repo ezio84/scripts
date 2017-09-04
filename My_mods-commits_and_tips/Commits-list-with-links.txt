@@ -7,6 +7,9 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85
 
 Enable battery light
 https://github.com/ezio84/abc_device_huawei_angler/commit/9637a42f6d24f672f0b3ef7b7e9456941db05505
+Allow to disable battery light when in DND mode
+https://github.com/ezio84/abc_frameworks_base/commit/585d5fa5e406e7729fc6da4da8a746ae846e5fd0
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/92d8c9b06f2edd4646bec5e1ea34755c5840ef19
 
 Disable ongoing statusbar ime switcher notification (don't pick if you want to use sysui tuner ime switcher custom navbar button)
 https://github.com/ezio84/abc_vendor_nexus/commit/0a6fd9213d63eaef48e3848530accae620ddf527
@@ -99,6 +102,12 @@ https://github.com/ezio84/abc_kernel_huawei_angler/commit/f9deec31db75e050725663
 Display bluetooth battery status when available
 https://github.com/ezio84/abc_frameworks_base/commit/2c9904e00c9398b9d0a7e172269a30838ad7305a
 https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/2f5b2a15877eac8e641a3f2ec2a195c06dffa5d9
+
+Launch music player on headset connect:
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c788a83f2e37176bdec2ce18fdbedfb47ebe0497
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ca8e6305433a0ace9a1ab6c75000fbc5aec22fa4
+https://github.com/ezio84/abc_frameworks_base/commit/efcd7c37fa5a64a616154709789f64a2c60c07c0
+https://github.com/ezio84/abc_frameworks_base/commit/a61e10cb42b091646427d906d1f2cfbfbd461edc
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
