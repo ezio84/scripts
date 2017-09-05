@@ -104,10 +104,14 @@ https://github.com/ezio84/abc_frameworks_base/commit/2c9904e00c9398b9d0a7e172269
 https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/2f5b2a15877eac8e641a3f2ec2a195c06dffa5d9
 
 Launch music player on headset connect:
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c788a83f2e37176bdec2ce18fdbedfb47ebe0497
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ca8e6305433a0ace9a1ab6c75000fbc5aec22fa4
-https://github.com/ezio84/abc_frameworks_base/commit/efcd7c37fa5a64a616154709789f64a2c60c07c0
-https://github.com/ezio84/abc_frameworks_base/commit/a61e10cb42b091646427d906d1f2cfbfbd461edc
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/85d342df5c6f339958ba68a5749ad70cd8c143d7
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/913597a62a78862290d60ecae6a2d9dfad591447
+https://github.com/ezio84/abc_frameworks_base/commit/054a0684adf915cf3c54f04f033ff14b26b1f6ea
+https://github.com/ezio84/abc_frameworks_base/commit/6b9bb8ee175fc47977eeb7ab602f980bbedd499d
+
+Battery light customization
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9d2e4b4269558d7b41daa015039dd8841f612a27
+https://github.com/ezio84/abc_frameworks_base/commit/d6b650cb29e41e77303a71555ebf8c1f08a6a9cd
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
@@ -255,6 +259,9 @@ https://github.com/ezio84/abc_vendor_nexus/commit/77c18ec8e51b4fc7816e611289db70
 https://github.com/ezio84/abc_vendor_nexus/commit/e5321f743e458c283c49aca8c128f57b18a9a5f1
 from https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/fd5f98aacf27282dd4c2e6e0c498657c79f27be3
 to https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/42f4ed77ee058edeff940bf290d7248899bba682
+
+Remove aosp su for full magisk hide support
+https://github.com/ezio84/abc_system_extras/commit/4425ce5ceca1a6782324ab2c28ab7ad088ffa926
 
 
 ----------------------------------------------------------------------
