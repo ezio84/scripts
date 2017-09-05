@@ -113,6 +113,9 @@ Battery light customization
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86e1d10bb7b8a44666c4204d522d47ed75bf9c62
 https://github.com/ezio84/abc_frameworks_base/commit/0ef657bcab702d1bfa11dfbdde4f64c1ca5fef39
 
+Navbar autohiding keyboard cursors (add in sysui tuner as extra left/right keys)
+https://github.com/ezio84/abc_frameworks_base/commit/6e190280275a781faaf592fd1957f314e1fe8279
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
