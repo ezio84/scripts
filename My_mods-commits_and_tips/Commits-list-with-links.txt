@@ -37,7 +37,7 @@ SystemUi tuner bringup
 https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
 https://github.com/ezio84/abc_frameworks_base/commit/d4e4816100cbda1203ac1877625bf86064d23e0b
 https://github.com/ezio84/abc_frameworks_base/commit/77f617d174a05147ac1369c03f9f6a41d8790ecf
-https://github.com/ezio84/abc_frameworks_base/commit/4fc7a7779d988e98d436ed8b100d7551750dead1
+https://github.com/ezio84/abc_frameworks_base/commit/599bbf89aa530d020e954689566b05ac30c7c2ef
 
 PowerMenu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/ae6c26677f748c05d464629ccbac138aa0a20c15
@@ -92,7 +92,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/26ce66d89d79f9d7a97116fb140
 https://github.com/ezio84/abc_packages_apps_Settings/commit/f2dca2b67b941c019d7a53c0b8ebe8229a64ed65
 
 Allow to doubletap or longpress power to toggle flashlight
-https://github.com/ezio84/abc_frameworks_base/commit/3b257e93353649d702df7b15fe77c911b70fe6b1
+https://github.com/ezio84/abc_frameworks_base/commit/5618c47f7f50263e92fa78766e7bb6b057d800ea
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/24e76a9d219b7f2123f76145d50a0e28c77a5117
 https://github.com/ezio84/abc_packages_apps_Settings/commit/54c1024855196bb8fc44043ca70d4fc7043f70a5
 
@@ -100,18 +100,18 @@ High Brightness mode:
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/f9deec31db75e050725663ef284b05b8ec292e6e
 
 Display bluetooth battery status when available
-https://github.com/ezio84/abc_frameworks_base/commit/2c9904e00c9398b9d0a7e172269a30838ad7305a
+https://github.com/ezio84/abc_frameworks_base/commit/382510975d32ab277e394d3a74f87304e9cd0ee6
 https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/2f5b2a15877eac8e641a3f2ec2a195c06dffa5d9
 
 Launch music player on headset connect:
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/85d342df5c6f339958ba68a5749ad70cd8c143d7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/913597a62a78862290d60ecae6a2d9dfad591447
-https://github.com/ezio84/abc_frameworks_base/commit/054a0684adf915cf3c54f04f033ff14b26b1f6ea
-https://github.com/ezio84/abc_frameworks_base/commit/6b9bb8ee175fc47977eeb7ab602f980bbedd499d
+https://github.com/ezio84/abc_frameworks_base/commit/191b4d099171a8e6ac25e3dc52875a506d97e6a0
+https://github.com/ezio84/abc_frameworks_base/commit/cf9c2fff1635e159eec2e397463d84edf303d0c3
 
 Battery light customization
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9d2e4b4269558d7b41daa015039dd8841f612a27
-https://github.com/ezio84/abc_frameworks_base/commit/d6b650cb29e41e77303a71555ebf8c1f08a6a9cd
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86e1d10bb7b8a44666c4204d522d47ed75bf9c62
+https://github.com/ezio84/abc_frameworks_base/commit/0ef657bcab702d1bfa11dfbdde4f64c1ca5fef39
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
