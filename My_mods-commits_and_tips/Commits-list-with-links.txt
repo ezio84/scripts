@@ -116,6 +116,22 @@ https://github.com/ezio84/abc_frameworks_base/commit/0ef657bcab702d1bfa11dfbdde4
 Navbar autohiding keyboard cursors (add in sysui tuner as extra left/right keys)
 https://github.com/ezio84/abc_frameworks_base/commit/6e190280275a781faaf592fd1957f314e1fe8279
 
+Allow user to add/remove QS with one click
+https://github.com/ezio84/abc_frameworks_base/commit/b419ac189e4e01e720a9ba128496a2d8bd558bc9
+        Caffeine qs tile
+        https://github.com/ezio84/abc_frameworks_base/commit/4320cb302323628fe9e6c7f22c13c2ce3feb215d
+Adb over network tile
+https://github.com/ezio84/abc_frameworks_base/commit/0d6f850b3298aa8a1da50efcdc5d174b61e43e99
+https://github.com/ezio84/abc_frameworks_base/commit/f320d3ea6d63ff7d67e85777687511ee87e64be6
+https://github.com/ezio84/abc_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
+        Screenshot tile
+        https://github.com/ezio84/abc_frameworks_base/commit/d93f18463c76942e4a42a5c49fbf8ce5bac6cce6
+        https://github.com/ezio84/abc_frameworks_base/commit/6eff6e26b7bc32a1cf056c3aa45a4e1ea17b2f36
+
+Allow to disable qs footer warnings
+https://github.com/ezio84/abc_frameworks_base/commit/bed123e376f24ab425f806e62a638b2e135e5606
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fe444e041609a055e169e7527f2efe9c1a2f0cd4
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
