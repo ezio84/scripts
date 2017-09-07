@@ -132,6 +132,14 @@ Allow to disable qs footer warnings
 https://github.com/ezio84/abc_frameworks_base/commit/bed123e376f24ab425f806e62a638b2e135e5606
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fe444e041609a055e169e7527f2efe9c1a2f0cd4
 
+Night Light auto lower brightness mode
+https://github.com/ezio84/abc_frameworks_base/commit/17fa8aa38cf6224cb0b3c3494386157d2756804b
+https://github.com/ezio84/abc_packages_apps_Settings/commit/9e9a22e3e3ca691f5f62f4e46d2ffc39482e1fd2
+
+Allow to set custom brightness for ambient display and liftToWwake
+https://github.com/ezio84/abc_frameworks_base/commit/933b1fc3e9f816056b404ea30eab6bfb28d74dfd
+https://github.com/ezio84/abc_packages_apps_Settings/commit/854bba6030c5dd7868220b8fdcf8e17d431780eb
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -213,6 +221,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/cbb5131a003aa05aa
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7ac330952bf4ee84a57029d4844a42cba6f464ac
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/dcaf96e11377c7c2ce3934431fb8b904b4405dc5
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e3f4ef9c73a6e732551e8c16812076dc9f39f147
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/855666606d279bd0537101bd54b9a025b6b1dc08
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
