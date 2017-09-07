@@ -140,6 +140,13 @@ Allow to set custom brightness for ambient display and liftToWwake
 https://github.com/ezio84/abc_frameworks_base/commit/933b1fc3e9f816056b404ea30eab6bfb28d74dfd
 https://github.com/ezio84/abc_packages_apps_Settings/commit/854bba6030c5dd7868220b8fdcf8e17d431780eb
 
+Double tap to sleep on statusbar
+https://github.com/ezio84/abc_frameworks_base/commit/3a12108efb2ac8d3c210b7aef100c03639d9cc0a
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f9bf22b975b821934fcc86ca97588670dbf74bad
+
+Enable battery percentage in statusbar by default
+https://github.com/ezio84/abc_frameworks_base/commit/43b8fd43269cb63e6c00a559632549e8431cc82c
+https://github.com/ezio84/abc_packages_apps_Settings/commit/24568096f77ca3d58bbf9e16838d54168a961626
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
