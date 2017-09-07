@@ -306,7 +306,7 @@ Then
 6p Device tree shit:
 from https://github.com/ezio84/abc_device_huawei_angler/commit/3c197bc5ce74d7d82fbfec51c379bc4d0e097e4f
 to 
-https://github.com/ezio84/abc_device_huawei_angler/commit/23aaf4b4219347a9508475c2562e0250ee71e97a
+https://github.com/ezio84/abc_device_huawei_angler/commit/ffa87f32ca432edf67d1e104ac31b5aaf355ec5e
 
 Build kernel inline
 https://github.com/ezio84/abc_device_huawei_angler/commit/2731a73b201fbbf52cc0e58f66b353abce4e8730
