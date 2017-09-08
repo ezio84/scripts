@@ -152,6 +152,10 @@ Enable battery percentage in statusbar by default
 https://github.com/ezio84/abc_frameworks_base/commit/43b8fd43269cb63e6c00a559632549e8431cc82c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/24568096f77ca3d58bbf9e16838d54168a961626
 
+Less boring heads up option 
+https://github.com/ezio84/abc_frameworks_base/commit/55e776e7d4fae401bcb501c3a594ca8fdefbfbba
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/821f3d3a4bedd6bb042779a9f655664b9ad4ba42
+
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
