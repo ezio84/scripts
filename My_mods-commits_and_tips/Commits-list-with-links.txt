@@ -135,6 +135,9 @@ Add Ambient-LiftToWake tile
 https://github.com/ezio84/abc_frameworks_base/commit/84f8d8932a0c5392567d43b62a4f45bbdfa0538a
     Location tile: make it cycle modes
     https://github.com/ezio84/abc_frameworks_base/commit/cca7b17ed718d9a9bf665d139fa6458c2ba0be14
+PiP tile
+https://github.com/ezio84/abc_frameworks_base/commit/573908111c290e28158ee321820b2f975a9ce677
+https://github.com/ezio84/abc_frameworks_base/commit/ae09573052d16fa4639226ef5283bbc7861558c7
 
 Allow to set QS panel columns and rows
 https://github.com/ezio84/abc_frameworks_base/commit/7bacad0d766dd3ca44e0a327496d05297829e8a4
@@ -163,6 +166,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/24568096f77ca3d58bbf
 Less boring heads up option 
 https://github.com/ezio84/abc_frameworks_base/commit/55e776e7d4fae401bcb501c3a594ca8fdefbfbba
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fad439bd7886f0aa074300dd016c0e3c41fd87a8
+
+Make "Turn on WiFi Automatically" available for all
+https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e043d02020bd0a
 
 
 ----------------------------------------------------------------------
