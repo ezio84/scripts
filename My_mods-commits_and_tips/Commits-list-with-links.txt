@@ -132,10 +132,10 @@ https://github.com/ezio84/abc_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8
         https://github.com/ezio84/abc_frameworks_base/commit/d93f18463c76942e4a42a5c49fbf8ce5bac6cce6
         https://github.com/ezio84/abc_frameworks_base/commit/6eff6e26b7bc32a1cf056c3aa45a4e1ea17b2f36
 Add Ambient-LiftToWake tile
-https://github.com/ezio84/abc_frameworks_base/commit/d2e53ddf85f0c8701861ab03a714e615d0f1762a
+https://github.com/ezio84/abc_frameworks_base/commit/84f8d8932a0c5392567d43b62a4f45bbdfa0538a
 
 Allow to set QS panel columns and rows
-https://github.com/ezio84/abc_frameworks_base/commit/cd273b9d73662165da9e46b4aead7967b2209abc
+https://github.com/ezio84/abc_frameworks_base/commit/7bacad0d766dd3ca44e0a327496d05297829e8a4
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/41316786a7aafbf3f9b68a4af17b67f6f9434d6a
 
 Allow to disable qs footer warnings
