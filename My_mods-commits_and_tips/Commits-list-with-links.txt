@@ -170,7 +170,11 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fad439bd7886f0aa0
 Make "Turn on WiFi Automatically" available for all
 https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e043d02020bd0a
 
+Remove Settings dashboard conditions and suggestions
+https://github.com/ezio84/abc_packages_apps_Settings/commit/b5a39a6878adcdd14bc1dd8b9aa67fe4ad75e9bf
 
+Make "Turn on WiFi Automatically" available for all 
+https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e043d02020bd0a
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
