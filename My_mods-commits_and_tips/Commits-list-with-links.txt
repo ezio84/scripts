@@ -171,7 +171,7 @@ Make "Turn on WiFi Automatically" available for all
 https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e043d02020bd0a
 
 Remove Settings dashboard conditions and suggestions
-https://github.com/ezio84/abc_packages_apps_Settings/commit/b5a39a6878adcdd14bc1dd8b9aa67fe4ad75e9bf
+https://github.com/ezio84/abc_packages_apps_Settings/commit/643ad0af9f169953ea49c7df56817cd32a340add
 
 Make "Turn on WiFi Automatically" available for all 
 https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e043d02020bd0a
@@ -301,6 +301,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/d762482efa628a4ab4dd3a31d8a
 https://github.com/ezio84/abc_vendor_nexus/commit/d4cc65afa2591fd129564279f2e9875c988cb1dd
 https://github.com/ezio84/abc_vendor_nexus/commit/c042123a2a4157268c4465526b16d53c52a50535
 https://github.com/ezio84/abc_vendor_nexus/commit/2620a94be1aa54b475eed99ab29306d2429b10fe
+https://github.com/ezio84/abc_frameworks_base/commit/b31f9690a60073ecb9131523f183752973cbf72f
 then add this overlay:
 https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
 (just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
