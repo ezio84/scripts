@@ -102,6 +102,8 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/54c1024855196bb8fc44
 
 High Brightness mode:
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/f9deec31db75e050725663ef284b05b8ec292e6e
+https://github.com/ezio84/abc_frameworks_base/commit/107902b064ab7e7bb231dd58afbe7a066549a521
+https://github.com/ezio84/abc_device_huawei_angler/commit/7e7b7251b3298464abfd0264d5283fcd85251aab
 
 Display bluetooth battery status when available
 https://github.com/ezio84/abc_frameworks_base/commit/382510975d32ab277e394d3a74f87304e9cd0ee6
