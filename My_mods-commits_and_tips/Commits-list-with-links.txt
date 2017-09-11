@@ -177,6 +177,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/643ad0af9f169953ea49
 
 Make "Turn on WiFi Automatically" available for all 
 https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e043d02020bd0a
+
+PackageInstaller: Show versions when installing or updating packages
+https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/2aae3311581175f3ba6eecb022f96fc758863d76
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
