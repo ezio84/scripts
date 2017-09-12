@@ -193,6 +193,10 @@ Statusbar Net monitor
 https://github.com/ezio84/abc_frameworks_base/commit/872f640cef55dadca40d9690800141136a044c27
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
 
+Lockscreen Charging info 
+https://github.com/ezio84/abc_frameworks_base/commit/62558aaa2b7bb2c3ec788dfac319ef65e78bfce7
+https://github.com/ezio84/abc_system_core/commit/7888e1eec42ca7f05ce14abd5fe49de7db8799d6
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
