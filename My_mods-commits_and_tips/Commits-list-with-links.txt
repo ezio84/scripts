@@ -5,12 +5,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/ef751c3ad3cadd6376f2e2505a1
 Angler: allow all rotations (thus also 180°)  …
 https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85b210942e7a6b155ea2
 
-Enable battery light
-https://github.com/ezio84/abc_device_huawei_angler/commit/9637a42f6d24f672f0b3ef7b7e9456941db05505
-Allow to disable battery light when in DND mode
-https://github.com/ezio84/abc_frameworks_base/commit/585d5fa5e406e7729fc6da4da8a746ae846e5fd0
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/92d8c9b06f2edd4646bec5e1ea34755c5840ef19
-
 Disable ongoing statusbar ime switcher notification (don't pick if you want to use sysui tuner ime switcher custom navbar button)
 https://github.com/ezio84/abc_vendor_nexus/commit/0a6fd9213d63eaef48e3848530accae620ddf527
 
@@ -116,7 +110,14 @@ https://github.com/ezio84/abc_frameworks_base/commit/191b4d099171a8e6ac25e3dc528
 https://github.com/ezio84/abc_frameworks_base/commit/cf9c2fff1635e159eec2e397463d84edf303d0c3
 
 Battery light customization
+Enable battery light
+https://github.com/ezio84/abc_device_huawei_angler/commit/9637a42f6d24f672f0b3ef7b7e9456941db05505
+Allow to disable battery light when in DND mode
+https://github.com/ezio84/abc_frameworks_base/commit/585d5fa5e406e7729fc6da4da8a746ae846e5fd0
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/92d8c9b06f2edd4646bec5e1ea34755c5840ef19
+Full battery light customization
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86e1d10bb7b8a44666c4204d522d47ed75bf9c62
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a037a1d928c8cca424591a10b4a47f6fac0dbf2c
 https://github.com/ezio84/abc_frameworks_base/commit/0ef657bcab702d1bfa11dfbdde4f64c1ca5fef39
 
 Navbar autohiding keyboard cursors (add in sysui tuner as extra left/right keys)
@@ -180,6 +181,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e
 
 PackageInstaller: Show versions when installing or updating packages
 https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/2aae3311581175f3ba6eecb022f96fc758863d76
+
+Statusbar Net monitor
+https://github.com/ezio84/abc_frameworks_base/commit/33e6e68a77815e7db1e61f78269ded47d4919886
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
