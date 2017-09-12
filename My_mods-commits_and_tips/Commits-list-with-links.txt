@@ -186,6 +186,10 @@ Statusbar Net monitor
 https://github.com/ezio84/abc_frameworks_base/commit/872f640cef55dadca40d9690800141136a044c27
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
 
+Sound and volume tiles
+https://github.com/ezio84/abc_frameworks_base/commit/7572b3aa7788ba842b5fa81c5bb9186e548417bd
+https://github.com/ezio84/abc_frameworks_base/commit/ac087857276470ec61b7cfc6c80b61bdf31e21d2
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
