@@ -183,7 +183,7 @@ PackageInstaller: Show versions when installing or updating packages
 https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/2aae3311581175f3ba6eecb022f96fc758863d76
 
 Statusbar Net monitor
-https://github.com/ezio84/abc_frameworks_base/commit/33e6e68a77815e7db1e61f78269ded47d4919886
+https://github.com/ezio84/abc_frameworks_base/commit/872f640cef55dadca40d9690800141136a044c27
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
 
 ----------------------------------------------------------------------
