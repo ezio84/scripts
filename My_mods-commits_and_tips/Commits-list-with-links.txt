@@ -207,6 +207,12 @@ https://github.com/ezio84/abc_frameworks_base/commit/d00a8060fd8c4f2551bc8c2af2a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/dd66b11c338e97053ff54e82dd1d6797b65704aa
 https://github.com/ezio84/abc_packages_services_Telecomm/commit/4792bdefb1ef3b88d1dd0d95306d59e8d04a847d
 
+Disable power menu on secure lock screen
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9b7ac1dfdeb20b067a613c0d8bb26b6fcc4deb44
+https://github.com/ezio84/abc_frameworks_base/commit/240d0886418c33553c2f0c0faf49a86252b0abc8
+
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
