@@ -310,6 +310,7 @@ https://github.com/ezio84/abc_packages_services_Telephony/commit/27d06fbc89f4281
 https://github.com/ezio84/abc_frameworks_base/commit/6020ba0b66c78a1b898a63623b504656accc3bce
 then cherry-pick from https://github.com/ezio84/abc_frameworks_base/commit/4067f0fbb57eb7850d9157865f19a720c06b3316
 to https://github.com/ezio84/abc_frameworks_base/commit/8eff07d31eee49ae3bd1f9eee3907ca699707885
+https://github.com/ezio84/abc_packages_services_Telephony/commit/cfb676defb0ff788f44dcd74c7ad4fbb69bfcfeb
 
 Permissions/gapps fixes
 https://github.com/ezio84/abc_packages_providers_MediaProvider/commit/1806383b68693e13f1779facc4924f5ad03ea191
