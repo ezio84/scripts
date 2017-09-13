@@ -198,6 +198,15 @@ Lockscreen Charging info
 https://github.com/ezio84/abc_frameworks_base/commit/02d08d2c6bcdf55bde83b3785ea5a2d238fbad90
 https://github.com/ezio84/abc_system_core/commit/7888e1eec42ca7f05ce14abd5fe49de7db8799d6
 
+Wake on plug
+https://github.com/ezio84/abc_frameworks_base/commit/705e79f3ca92682095c6eb4da49c8ee4aba70abf
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6d9727f124fa52d253f459050ab7d733d441eaa3
+
+Wired/BT headset: make ringtone audio focus customizable 
+https://github.com/ezio84/abc_frameworks_base/commit/d00a8060fd8c4f2551bc8c2af2a79d61b01e5988
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/dd66b11c338e97053ff54e82dd1d6797b65704aa
+https://github.com/ezio84/abc_packages_services_Telecomm/commit/4792bdefb1ef3b88d1dd0d95306d59e8d04a847d
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
