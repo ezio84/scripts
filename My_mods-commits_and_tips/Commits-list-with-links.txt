@@ -211,7 +211,9 @@ Disable power menu on secure lock screen
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b502d7a4eea088b09b775f0a90b814500da5436f
 https://github.com/ezio84/abc_frameworks_base/commit/31ed4fd5ec1edc7cb02592137280e0c373b4ef2d
 
-
+Enable led light for notifications by default
+https://github.com/ezio84/abc_frameworks_base/commit/6bbaac426478c9362b041c352af240b20af7eccb
+https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7ca5dcc8a90532742e53b
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
