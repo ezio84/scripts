@@ -204,12 +204,12 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6d9727f124fa52d25
 
 Wired/BT headset: make ringtone audio focus customizable 
 https://github.com/ezio84/abc_frameworks_base/commit/d00a8060fd8c4f2551bc8c2af2a79d61b01e5988
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/dd66b11c338e97053ff54e82dd1d6797b65704aa
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/84bd45648c18742f26e97a3d0c00c2cf289e26f0
 https://github.com/ezio84/abc_packages_services_Telecomm/commit/4792bdefb1ef3b88d1dd0d95306d59e8d04a847d
 
 Disable power menu on secure lock screen
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9b7ac1dfdeb20b067a613c0d8bb26b6fcc4deb44
-https://github.com/ezio84/abc_frameworks_base/commit/240d0886418c33553c2f0c0faf49a86252b0abc8
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b502d7a4eea088b09b775f0a90b814500da5436f
+https://github.com/ezio84/abc_frameworks_base/commit/31ed4fd5ec1edc7cb02592137280e0c373b4ef2d
 
 
 
