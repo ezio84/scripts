@@ -144,10 +144,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/ae09573052d16fa4639226ef528
     Sound and volume tiles
     https://github.com/ezio84/abc_frameworks_base/commit/7572b3aa7788ba842b5fa81c5bb9186e548417bd
     https://github.com/ezio84/abc_frameworks_base/commit/ac087857276470ec61b7cfc6c80b61bdf31e21d2
-
 QS tile titles visibility
 https://github.com/ezio84/abc_frameworks_base/commit/06aa1afbded9117029f9658cbdd05da319cdd0b2
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
+    Ask pin when tapping Data/airplane tiles on secure lockscreen
+    https://github.com/ezio84/abc_frameworks_base/commit/f95c1e59890b93520b4de4f46d2c690fadbb4a8c
 
 Allow to set QS panel columns and rows
 https://github.com/ezio84/abc_frameworks_base/commit/7bacad0d766dd3ca44e0a327496d05297829e8a4
