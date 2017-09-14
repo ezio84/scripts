@@ -203,20 +203,19 @@ https://github.com/ezio84/abc_frameworks_base/commit/705e79f3ca92682095c6eb4da49
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6d9727f124fa52d253f459050ab7d733d441eaa3
 
 Wired/BT headset: make ringtone audio focus customizable 
-https://github.com/ezio84/abc_frameworks_base/commit/d00a8060fd8c4f2551bc8c2af2a79d61b01e5988
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/84bd45648c18742f26e97a3d0c00c2cf289e26f0
-https://github.com/ezio84/abc_packages_services_Telecomm/commit/4792bdefb1ef3b88d1dd0d95306d59e8d04a847d
+https://github.com/ezio84/abc_frameworks_base/commit/e9f6998e8ae1e7b14416c5a543de38568bca0867
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1d76b5689c3d282fbb45c7ce2bac386224835a47
 
 Disable power menu on secure lock screen
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b502d7a4eea088b09b775f0a90b814500da5436f
-https://github.com/ezio84/abc_frameworks_base/commit/31ed4fd5ec1edc7cb02592137280e0c373b4ef2d
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9b9f1684c74e518d6bdbd2ec248b534bcc59c0a4
+https://github.com/ezio84/abc_frameworks_base/commit/dc96c8162f3bbaf324523e52e054413fff74c0bf
 
 Enable led light for notifications by default
-https://github.com/ezio84/abc_frameworks_base/commit/6bbaac426478c9362b041c352af240b20af7eccb
+https://github.com/ezio84/abc_frameworks_base/commit/53856cf9b7d914e582e97c9011b5fadd491b7c32
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7ca5dcc8a90532742e53b
 
 Dialer auto proximity speakerphone 
-https://github.com/ezio84/abc_frameworks_base/commit/a84934392eb21c7828ea5a2676ac3f12297d3a16
+https://github.com/ezio84/abc_frameworks_base/commit/f98ea69a2732c82acd909b17aacbb863013400ac
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/123427435140293ba751b906d8dfe92bc7b2a4f2
 
 ----------------------------------------------------------------------
