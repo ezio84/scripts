@@ -218,6 +218,8 @@ Dialer auto proximity speakerphone
 https://github.com/ezio84/abc_frameworks_base/commit/f98ea69a2732c82acd909b17aacbb863013400ac
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/123427435140293ba751b906d8dfe92bc7b2a4f2
 
+Change power save mode color to sexy red
+https://github.com/ezio84/abc_frameworks_base/commit/a44dcf156ee8235369fc5a6e5c8c62d21304ce83
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
