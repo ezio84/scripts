@@ -221,8 +221,14 @@ https://github.com/ezio84/abc_packages_apps_Dialer/commit/123427435140293ba751b9
 Change power save mode color to sexy red
 https://github.com/ezio84/abc_frameworks_base/commit/a44dcf156ee8235369fc5a6e5c8c62d21304ce83
 
-Allow to kill any app from recents panel in a safe way
-https://github.com/ezio84/abc_frameworks_base/commit/2d13d423b72016530c8ab8e4176aba85fc06daf8
+Recents panel improvements
+    Allow to kill any app from recents panel in a safe way
+    https://github.com/ezio84/abc_frameworks_base/commit/2d13d423b72016530c8ab8e4176aba85fc06daf8
+Support recents task locking
+https://github.com/ezio84/abc_frameworks_base/commit/03216fbb133ea312b8280a7dcfa1dda03302ab5f
+    Speed up Recents show additional button delay
+    https://github.com/ezio84/abc_frameworks_base/commit/cac6dd197250deadd42a78af5a97aafb7bf6ae57
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
