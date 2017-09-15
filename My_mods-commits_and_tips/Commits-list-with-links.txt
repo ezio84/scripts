@@ -222,7 +222,7 @@ Change power save mode color to sexy red
 https://github.com/ezio84/abc_frameworks_base/commit/a44dcf156ee8235369fc5a6e5c8c62d21304ce83
 
 Allow to kill any app from recents panel in a safe way
-https://github.com/ezio84/abc_frameworks_base/commit/d021f5bd9065066671d5489f10a1bd15b203432d
+https://github.com/ezio84/abc_frameworks_base/commit/2d13d423b72016530c8ab8e4176aba85fc06daf8
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -316,11 +316,6 @@ Use 3gb dalvik heap and hwui for xxhdpi devices
 https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f167fe20274188218ddda
 https://github.com/ezio84/abc_frameworks_native/commit/725d458d6fcc22fb607fd263509721e907c77a0f
 
-Cleanup Settings from ota, bug report and similar stuff
-https://github.com/ezio84/abc_packages_apps_Settings/commit/11581f765fd7b9b0ec477ff2a6b4963d5439efa1
-https://github.com/ezio84/abc_packages_apps_Settings/commit/d108537fce9764ee34bdfcca9bf37b409983e05e
-https://github.com/ezio84/abc_packages_apps_Settings/commit/62fa03c523dada4c208fdc01dd65ff9a2c1bab73
-
 APN fixes and updates
 https://github.com/ezio84/abc_packages_services_Telephony/commit/27d06fbc89f42814882bffffd495e1a945305783
 https://github.com/ezio84/abc_frameworks_base/commit/6020ba0b66c78a1b898a63623b504656accc3bce
@@ -359,6 +354,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/5467c388fd213778fcb0b3dcf14
 https://github.com/ezio84/abc_frameworks_base/commit/925462bcae38a9a31b5537eb99a29f1be3291bbb
 https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd11d9422e76c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/90e6233c4aa1d8f13b19a8cba346f38915d36229
+Cleanup Settings from ota, bug report and similar stuff
+https://github.com/ezio84/abc_packages_apps_Settings/commit/11581f765fd7b9b0ec477ff2a6b4963d5439efa1
+https://github.com/ezio84/abc_packages_apps_Settings/commit/d108537fce9764ee34bdfcca9bf37b409983e05e
+https://github.com/ezio84/abc_packages_apps_Settings/commit/62fa03c523dada4c208fdc01dd65ff9a2c1bab73
 
 Enable doze power saving for all devices
 https://github.com/ezio84/abc_vendor_nexus/commit/4ead31f89d7908a44627eb4dd116ac6119fa9c09
