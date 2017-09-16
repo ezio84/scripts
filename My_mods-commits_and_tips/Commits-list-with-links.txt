@@ -229,6 +229,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/1d3878b5abc22f85cb9f406c06a
     Speed up Recents show additional button delay
     https://github.com/ezio84/abc_frameworks_base/commit/ae771f1f79646e5d64feacdd89be6f0cd635b99f
 
+Allow to quickly open Running Services from QS panel
+https://github.com/ezio84/abc_frameworks_base/commit/a349ecb28d045b91e88f930e2fcccd48d7ccc0bc
+https://github.com/ezio84/abc_packages_apps_Settings/commit/12ee902e1db457f65f83bf742b2808d3ff5af408
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
