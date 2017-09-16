@@ -223,11 +223,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/a44dcf156ee8235369fc5a6e5c8
 
 Recents panel improvements
     Allow to kill any app from recents panel in a safe way
-    https://github.com/ezio84/abc_frameworks_base/commit/2d13d423b72016530c8ab8e4176aba85fc06daf8
+    https://github.com/ezio84/abc_frameworks_base/commit/254329cc89ede53ad865c1c4767e2a9faf40af43
 Support recents task locking
-https://github.com/ezio84/abc_frameworks_base/commit/03216fbb133ea312b8280a7dcfa1dda03302ab5f
+https://github.com/ezio84/abc_frameworks_base/commit/1d3878b5abc22f85cb9f406c06ab74e42eb3773b
     Speed up Recents show additional button delay
-    https://github.com/ezio84/abc_frameworks_base/commit/cac6dd197250deadd42a78af5a97aafb7bf6ae57
+    https://github.com/ezio84/abc_frameworks_base/commit/ae771f1f79646e5d64feacdd89be6f0cd635b99f
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
