@@ -147,6 +147,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/ae09573052d16fa4639226ef528
 QS tile titles visibility
 https://github.com/ezio84/abc_frameworks_base/commit/06aa1afbded9117029f9658cbdd05da319cdd0b2
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
+https://github.com/ezio84/abc_frameworks_base/commit/15d61d7e3a2e78abb357741d8a40a125264c83c7
     Ask pin when tapping Data/airplane tiles on secure lockscreen
     https://github.com/ezio84/abc_frameworks_base/commit/f95c1e59890b93520b4de4f46d2c690fadbb4a8c
 
