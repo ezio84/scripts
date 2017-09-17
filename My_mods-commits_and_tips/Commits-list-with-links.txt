@@ -122,7 +122,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/0ef657bcab702d1bfa11dfbdde4
 
 Notification led light customization
 grab latest customseekbar from abcsettings, then
-https://github.com/ezio84/abc_frameworks_base/commit/701948958e7395cc5ec8775ff7eaf704caa4791c
+https://github.com/ezio84/abc_frameworks_base/commit/1678ea0e858bbdf82630b3ff6136df8c8f15ce5c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/dcf2634766c2961ad74411f4f8f13c817ff87024
 to call the fragment for custom rom menu: https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
@@ -395,7 +395,7 @@ Remove aosp su for full magisk hide support
 https://github.com/ezio84/abc_system_extras/commit/4425ce5ceca1a6782324ab2c28ab7ad088ffa926
 
 Show a more descriptive message when vendor.img is out of date
-https://github.com/ezio84/abc_frameworks_base/commit/e5dfd1a3cd987286fcc2d8f18279d5a1a59b52a1
+https://github.com/ezio84/abc_frameworks_base/commit/004cc4d8c6762e40ccbe5d59e7c654a52e568180
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
