@@ -120,6 +120,12 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86e1d10bb7b8a4466
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a037a1d928c8cca424591a10b4a47f6fac0dbf2c
 https://github.com/ezio84/abc_frameworks_base/commit/0ef657bcab702d1bfa11dfbdde4f64c1ca5fef39
 
+Notification led light customization
+grab latest customseekbar from abcsettings, then
+https://github.com/ezio84/abc_frameworks_base/commit/701948958e7395cc5ec8775ff7eaf704caa4791c
+https://github.com/ezio84/abc_packages_apps_Settings/commit/dcf2634766c2961ad74411f4f8f13c817ff87024
+to call the fragment for custom rom menu: https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
+
 Navbar autohiding keyboard cursors (add in sysui tuner as extra left/right keys)
 https://github.com/ezio84/abc_frameworks_base/commit/6e190280275a781faaf592fd1957f314e1fe8279
 
@@ -304,7 +310,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/a44e8b67e8d546fc25756b8b572c73
 https://github.com/ezio84/abc_vendor_nexus/commit/c3476039ea3504ac4521cf6b29c6d17dba884f60
 https://github.com/ezio84/abc_vendor_nexus/commit/93c47ae756709ae48401ef6a8a06a3347543f44e
 
-Add Settings useful preferences and utilities (SystemSettingsSwitchPref , color picker and so on):
+Add Settings useful preferences and utilities (SystemSettingsSwitchPref , color picker, custom seekbar and so on):
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ec3fb3a939db3151e03680db325f3381168a697b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6144f5d3a7b3c84e128eae18014c956ee508ac12
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/050f8ab1f6e77f5b7cf4410080536be34a62d57a
@@ -316,6 +322,8 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7ac330952bf4ee84a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/dcaf96e11377c7c2ce3934431fb8b904b4405dc5
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e3f4ef9c73a6e732551e8c16812076dc9f39f147
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/855666606d279bd0537101bd54b9a025b6b1dc08
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a80c72dca6917189b1add7d9574663a7e51aaad8
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6978c66ff55c1b11a60b0b275f16b59b98937f00
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
