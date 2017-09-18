@@ -119,6 +119,7 @@ Full battery light customization
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86e1d10bb7b8a44666c4204d522d47ed75bf9c62
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a037a1d928c8cca424591a10b4a47f6fac0dbf2c
 https://github.com/ezio84/abc_frameworks_base/commit/0ef657bcab702d1bfa11dfbdde4f64c1ca5fef39
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7ab54f9d0520abd38f30baa9f607d1fc647dbcee
 
 Notification led light customization
 grab latest customseekbar and colorpicker from abcsettings, then
