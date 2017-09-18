@@ -403,6 +403,9 @@ https://github.com/ezio84/abc_system_extras/commit/4425ce5ceca1a6782324ab2c28ab7
 
 Show a more descriptive message when vendor.img is out of date
 https://github.com/ezio84/abc_frameworks_base/commit/004cc4d8c6762e40ccbe5d59e7c654a52e568180
+
+Settings: Correctly align cursor in Settings
+https://github.com/ezio84/abc_packages_apps_Settings/commit/21e0a55479ade3172fd5196dda746346d3ec178f
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
