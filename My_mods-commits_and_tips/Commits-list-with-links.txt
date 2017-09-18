@@ -125,6 +125,7 @@ grab latest customseekbar and colorpicker from abcsettings, then
 https://github.com/ezio84/abc_frameworks_base/commit/1678ea0e858bbdf82630b3ff6136df8c8f15ce5c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/dcf2634766c2961ad74411f4f8f13c817ff87024
 https://github.com/ezio84/abc_packages_apps_Settings/commit/d60db803dd313df586ebc211f9b886e849bafb5b
+https://github.com/ezio84/abc_packages_apps_Settings/commit/f700b73d64895ff6096353ba98d9ccdfde7788e9
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
@@ -327,6 +328,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/855666606d279bd05
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a80c72dca6917189b1add7d9574663a7e51aaad8
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6978c66ff55c1b11a60b0b275f16b59b98937f00
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6f005979d62caa753ee2c9effb6dcfd1755df3cf
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a2cbbe0e4d527b75a566b2215b4a2b842fc9b0ba
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
