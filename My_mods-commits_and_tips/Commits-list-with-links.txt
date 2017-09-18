@@ -124,6 +124,7 @@ Notification led light customization
 grab latest customseekbar and colorpicker from abcsettings, then
 https://github.com/ezio84/abc_frameworks_base/commit/1678ea0e858bbdf82630b3ff6136df8c8f15ce5c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/8f82590afd6e66771e53c4c9b714a0908209779b
+https://github.com/ezio84/abc_packages_apps_Settings/commit/01cf01576021e22222beaeebfbc6ee7c5b230ec7
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
@@ -328,6 +329,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6978c66ff55c1b11a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6f005979d62caa753ee2c9effb6dcfd1755df3cf
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a2cbbe0e4d527b75a566b2215b4a2b842fc9b0ba
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/305182e90c56bd86d00761c3cd7add0b976e8971
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/58b7049e6fd68c0274c96a01034f3d4a4aeaf0e0
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
