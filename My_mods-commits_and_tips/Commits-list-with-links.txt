@@ -151,6 +151,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/84f8d8932a0c5392567d43b62a4
 PiP tile
 https://github.com/ezio84/abc_frameworks_base/commit/573908111c290e28158ee321820b2f975a9ce677
 https://github.com/ezio84/abc_frameworks_base/commit/ae09573052d16fa4639226ef5283bbc7861558c7
+https://github.com/ezio84/abc_frameworks_base/commit/137e190799ae7dc679e3e56078d195f4c6151527
     Sound and volume tiles
     https://github.com/ezio84/abc_frameworks_base/commit/7572b3aa7788ba842b5fa81c5bb9186e548417bd
     https://github.com/ezio84/abc_frameworks_base/commit/ac087857276470ec61b7cfc6c80b61bdf31e21d2
