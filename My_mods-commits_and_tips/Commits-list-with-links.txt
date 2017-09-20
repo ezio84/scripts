@@ -124,7 +124,9 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7ab54f9d0520abd38
 Notification led light customization
 grab latest customseekbar and colorpicker from abcsettings, then
 https://github.com/ezio84/abc_frameworks_base/commit/1678ea0e858bbdf82630b3ff6136df8c8f15ce5c
+https://github.com/ezio84/abc_frameworks_base/commit/98621d55d76ae31af144fc4b702b8630e7098598
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ef09e4a3dde6c41be147a37961d2def5aeb830a5
+https://github.com/ezio84/abc_packages_apps_Settings/commit/e1fa39bc743d4435cdd697e84f97a7fed4313ff0
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
