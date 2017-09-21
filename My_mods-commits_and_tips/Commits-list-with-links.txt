@@ -127,9 +127,9 @@ grab latest customseekbar and colorpicker from abcsettings, then
     https://github.com/ezio84/abc_frameworks_base/commit/53856cf9b7d914e582e97c9011b5fadd491b7c32
     https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7ca5dcc8a90532742e53b
 https://github.com/ezio84/abc_device_huawei_angler/commit/c17147bf89df421eb821b6f2a2d01b0ae239ff9a
-https://github.com/ezio84/abc_frameworks_base/commit/1678ea0e858bbdf82630b3ff6136df8c8f15ce5c
-https://github.com/ezio84/abc_frameworks_base/commit/98621d55d76ae31af144fc4b702b8630e7098598
-https://github.com/ezio84/abc_frameworks_base/commit/ec032672384f077df4e889ffdc6febc422689f6b
+https://github.com/ezio84/abc_frameworks_base/commit/daaa4b830eb4f67788a55587aaa8f308c0a161f5
+https://github.com/ezio84/abc_frameworks_base/commit/05601a9844bd73fd1389f23c64b9f5ea0ece2b39
+https://github.com/ezio84/abc_frameworks_base/commit/808b2e1d3ac2c7f68ed8f99be84236c1c856feb9
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ef09e4a3dde6c41be147a37961d2def5aeb830a5
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e1fa39bc743d4435cdd697e84f97a7fed4313ff0
 https://github.com/ezio84/abc_packages_apps_Settings/commit/28d2fd6c7a98ffbd68f17a1e8233b22018284cab
@@ -157,14 +157,14 @@ https://github.com/ezio84/abc_frameworks_base/commit/84f8d8932a0c5392567d43b62a4
 PiP tile
 https://github.com/ezio84/abc_frameworks_base/commit/573908111c290e28158ee321820b2f975a9ce677
 https://github.com/ezio84/abc_frameworks_base/commit/ae09573052d16fa4639226ef5283bbc7861558c7
-https://github.com/ezio84/abc_frameworks_base/commit/137e190799ae7dc679e3e56078d195f4c6151527
+https://github.com/ezio84/abc_frameworks_base/commit/e730bff8beb8038da28f68c754a7bbc5b775d848
     Sound and volume tiles
     https://github.com/ezio84/abc_frameworks_base/commit/7572b3aa7788ba842b5fa81c5bb9186e548417bd
     https://github.com/ezio84/abc_frameworks_base/commit/ac087857276470ec61b7cfc6c80b61bdf31e21d2
 QS tile titles visibility
 https://github.com/ezio84/abc_frameworks_base/commit/06aa1afbded9117029f9658cbdd05da319cdd0b2
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
-https://github.com/ezio84/abc_frameworks_base/commit/15d61d7e3a2e78abb357741d8a40a125264c83c7
+https://github.com/ezio84/abc_frameworks_base/commit/770ead7cfc6709331b155bcc13f4a15c33c76a5c
     Ask pin when tapping Data/airplane tiles on secure lockscreen
     https://github.com/ezio84/abc_frameworks_base/commit/f95c1e59890b93520b4de4f46d2c690fadbb4a8c
 
@@ -243,12 +243,12 @@ Recents panel improvements
     Allow to kill any app from recents panel in a safe way
     https://github.com/ezio84/abc_frameworks_base/commit/254329cc89ede53ad865c1c4767e2a9faf40af43
 Support recents task locking
-https://github.com/ezio84/abc_frameworks_base/commit/1d3878b5abc22f85cb9f406c06ab74e42eb3773b
+https://github.com/ezio84/abc_frameworks_base/commit/1d347665c18603d52a01db577dc2b18a3b3fdcfc
     Speed up Recents show additional button delay
-    https://github.com/ezio84/abc_frameworks_base/commit/ae771f1f79646e5d64feacdd89be6f0cd635b99f
+    https://github.com/ezio84/abc_frameworks_base/commit/5281f3f9e8e7e31bcf9b3066fda90dac9171a505
 
 Allow to quickly open Running Services from QS panel
-https://github.com/ezio84/abc_frameworks_base/commit/a349ecb28d045b91e88f930e2fcccd48d7ccc0bc
+https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
 https://github.com/ezio84/abc_packages_apps_Settings/commit/12ee902e1db457f65f83bf742b2808d3ff5af408
 
 ----------------------------------------------------------------------
@@ -412,7 +412,7 @@ Remove aosp su for full magisk hide support
 https://github.com/ezio84/abc_system_extras/commit/4425ce5ceca1a6782324ab2c28ab7ad088ffa926
 
 Show a more descriptive message when vendor.img is out of date
-https://github.com/ezio84/abc_frameworks_base/commit/004cc4d8c6762e40ccbe5d59e7c654a52e568180
+https://github.com/ezio84/abc_frameworks_base/commit/580d440bf49f08283da22fe18ef75276ff80efbc
 
 Settings: Correctly align cursor in Settings
 https://github.com/ezio84/abc_packages_apps_Settings/commit/21e0a55479ade3172fd5196dda746346d3ec178f
