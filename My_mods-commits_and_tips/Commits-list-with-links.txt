@@ -252,6 +252,9 @@ Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
 https://github.com/ezio84/abc_packages_apps_Settings/commit/12ee902e1db457f65f83bf742b2808d3ff5af408
 
+Vibrate on plug
+https://github.com/ezio84/abc_frameworks_base/commit/11695547aead0971900cd2206a65684c7e99981e
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a1255e4478a972d52fd5503478
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
