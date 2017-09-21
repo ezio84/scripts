@@ -123,11 +123,16 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7ab54f9d0520abd38
 
 Notification led light customization
 grab latest customseekbar and colorpicker from abcsettings, then
+    Enable led light for notifications by default
+    https://github.com/ezio84/abc_frameworks_base/commit/53856cf9b7d914e582e97c9011b5fadd491b7c32
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7ca5dcc8a90532742e53b
+https://github.com/ezio84/abc_device_huawei_angler/commit/c17147bf89df421eb821b6f2a2d01b0ae239ff9a
 https://github.com/ezio84/abc_frameworks_base/commit/1678ea0e858bbdf82630b3ff6136df8c8f15ce5c
 https://github.com/ezio84/abc_frameworks_base/commit/98621d55d76ae31af144fc4b702b8630e7098598
 https://github.com/ezio84/abc_frameworks_base/commit/ec032672384f077df4e889ffdc6febc422689f6b
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ef09e4a3dde6c41be147a37961d2def5aeb830a5
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e1fa39bc743d4435cdd697e84f97a7fed4313ff0
+https://github.com/ezio84/abc_packages_apps_Settings/commit/28d2fd6c7a98ffbd68f17a1e8233b22018284cab
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
