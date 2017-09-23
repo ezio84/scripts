@@ -199,6 +199,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/24568096f77ca3d58bbf
 Less boring heads up option 
 https://github.com/ezio84/abc_frameworks_base/commit/55e776e7d4fae401bcb501c3a594ca8fdefbfbba
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fad439bd7886f0aa074300dd016c0e3c41fd87a8
+https://github.com/ezio84/abc_frameworks_base/commit/f2890e3709d74afdeb530e9887d836415693d3dd
 
 Make "Turn on WiFi Automatically" available for all
 https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e043d02020bd0a
