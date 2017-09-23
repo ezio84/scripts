@@ -35,6 +35,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/599bbf89aa530d020e954689566
     Split SystemUI tuner and allow to run it from Settings
     https://github.com/ezio84/abc_frameworks_base/commit/02f01b2266ea46f22e937e0da3fe661b69930885
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b00e6d2f93c94cc68db4208f15d925276b77a299
+    https://github.com/ezio84/abc_frameworks_base/commit/dc9bb4d2a658d88b95ae4f326f369c0c7cb29753
+    https://github.com/ezio84/abc_frameworks_base/commit/b5bc9d0af3f74609fa514a79e18a5a73ca1b6f27
 
 
 PowerMenu: add a toggleable recovery/bootloader action
@@ -133,6 +135,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/808b2e1d3ac2c7f68ed8f99be84
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ef09e4a3dde6c41be147a37961d2def5aeb830a5
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e1fa39bc743d4435cdd697e84f97a7fed4313ff0
 https://github.com/ezio84/abc_packages_apps_Settings/commit/28d2fd6c7a98ffbd68f17a1e8233b22018284cab
+https://github.com/ezio84/abc_packages_apps_Settings/commit/a06afce60b26c1af782cd21ac4875e0872e60173
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
