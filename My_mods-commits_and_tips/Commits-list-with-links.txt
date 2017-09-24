@@ -215,6 +215,7 @@ https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/2aae33115811
 
 Statusbar Net monitor
 https://github.com/ezio84/abc_frameworks_base/commit/872f640cef55dadca40d9690800141136a044c27
+https://github.com/ezio84/abc_frameworks_base/commit/880b12ceb15e23487a47f7ca983c8941fe0a96f7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
 
 Lockscreen Charging info 
@@ -452,6 +453,7 @@ from https://github.com/ezio84/abc_device_huawei_angler/commit/3c197bc5ce74d7d82
 to 
 https://github.com/ezio84/abc_device_huawei_angler/commit/81634fad2701d1db07c08beef395db3aa9d3a6af
 https://github.com/ezio84/abc_device_huawei_angler/commit/e0f8bdaa494fb848675bba4906315998a9b31a05
+https://github.com/ezio84/abc_device_huawei_angler/commit/9d24fcb1f9c780acf3977ecef132f831ad916a80
 
 Build kernel inline
 https://github.com/ezio84/abc_device_huawei_angler/commit/2731a73b201fbbf52cc0e58f66b353abce4e8730
