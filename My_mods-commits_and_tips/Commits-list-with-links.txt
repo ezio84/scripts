@@ -250,7 +250,7 @@ Recents panel improvements
 Support recents task locking
 https://github.com/ezio84/abc_frameworks_base/commit/1d347665c18603d52a01db577dc2b18a3b3fdcfc
     Speed up Recents show additional button delay
-    https://github.com/ezio84/abc_frameworks_base/commit/5281f3f9e8e7e31bcf9b3066fda90dac9171a505
+    https://github.com/ezio84/abc_frameworks_base/commit/e03fbeb0d20314e93efefb16ed3251aa2e0d0a90
 
 Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
@@ -259,6 +259,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/12ee902e1db457f65f83
 Vibrate on plug
 https://github.com/ezio84/abc_frameworks_base/commit/11695547aead0971900cd2206a65684c7e99981e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a1255e4478a972d52fd5503478
+
+Increase Zenmode max hour limit from 12 to 24 
+https://github.com/ezio84/abc_frameworks_base/commit/ea0828f04a30122c12eecd6fdddcda578acadb4c
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
