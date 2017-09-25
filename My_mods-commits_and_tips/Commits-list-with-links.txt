@@ -36,8 +36,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/599bbf89aa530d020e954689566
     https://github.com/ezio84/abc_frameworks_base/commit/02f01b2266ea46f22e937e0da3fe661b69930885
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b00e6d2f93c94cc68db4208f15d925276b77a299
     https://github.com/ezio84/abc_frameworks_base/commit/dc9bb4d2a658d88b95ae4f326f369c0c7cb29753
-    https://github.com/ezio84/abc_frameworks_base/commit/b5bc9d0af3f74609fa514a79e18a5a73ca1b6f27
-
+    https://github.com/ezio84/abc_frameworks_base/commit/7b52777fabb863c7f017e43bb7cdbf62a1cd07ca
 
 PowerMenu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/ae6c26677f748c05d464629ccbac138aa0a20c15
@@ -263,6 +262,9 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a12
 
 Increase Zenmode max hour limit from 12 to 24 
 https://github.com/ezio84/abc_frameworks_base/commit/ea0828f04a30122c12eecd6fdddcda578acadb4c
+
+Enable Ambient burn-in protection
+https://github.com/ezio84/abc_device_huawei_angler/commit/e86974adbe45e4e9643008d2d75af95259939725
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -320,9 +322,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/58b13eb405224caaade9f8a1b40
 https://github.com/ezio84/abc_frameworks_base/commit/3e33733a8414831000db134f160e3645b1f9a712
 https://github.com/ezio84/abc_frameworks_base/commit/68a67052c10429b0f46b676b638bc33011ffca1c
 https://github.com/ezio84/abc_build/commit/8d845ea69dbc309806894af85cb789d01f885311
-
-Enable round icons support
-https://github.com/ezio84/abc_vendor_nexus/commit/a44e8b67e8d546fc25756b8b572c736551584481
 
 Build pixel launcher and wallpaper picker/cropper instead of n_packages_apps_Launcher3
 Also get round icons support
