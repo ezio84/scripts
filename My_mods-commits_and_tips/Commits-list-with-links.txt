@@ -265,6 +265,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/ea0828f04a30122c12eecd6fddd
 
 Enable Ambient burn-in protection
 https://github.com/ezio84/abc_device_huawei_angler/commit/e86974adbe45e4e9643008d2d75af95259939725
+
+Fingerprints: Increase MAX_FAILED_ATTEMPTS before requesting pin/pattern
+https://github.com/ezio84/abc_frameworks_base/commit/ee1059fd00d76ba4a01d81a7bfbf2e86c4e534c6
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -426,7 +430,7 @@ Show a more descriptive message when vendor.img is out of date
 https://github.com/ezio84/abc_frameworks_base/commit/580d440bf49f08283da22fe18ef75276ff80efbc
 
 Settings: Correctly align cursor in Settings
-https://github.com/ezio84/abc_packages_apps_Settings/commit/ccc3bc48ef5b98f2f28921839a0fa6a570e29d81
+https://github.com/ezio84/abc_packages_apps_Settings/commit/4dbc8875d83bdb9aca63570c6b4c5bfd9d0a6d86
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
