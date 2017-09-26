@@ -430,7 +430,7 @@ Show a more descriptive message when vendor.img is out of date
 https://github.com/ezio84/abc_frameworks_base/commit/580d440bf49f08283da22fe18ef75276ff80efbc
 
 Settings: Correctly align cursor in Settings
-https://github.com/ezio84/abc_packages_apps_Settings/commit/4dbc8875d83bdb9aca63570c6b4c5bfd9d0a6d86
+https://github.com/ezio84/abc_packages_apps_Settings/commit/d7ffbc99dca2367947fd3b4b6925f6af250ed696
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -447,6 +447,7 @@ to https://github.com/ezio84/abc_system_sepolicy/commit/81b9cd5da75dde1c86c0ac4d
 then from https://github.com/ezio84/abc_build/commit/9d704714f25584af5d51c4925b3afa8bd297eec7
 to https://github.com/ezio84/abc_build/commit/d5e543fdba597aeded4dd84a1152ba43fee4e792
 https://github.com/ezio84/abc_build/commit/731f900b4d18e910395dc62baed7747be99d48c2
+https://github.com/ezio84/abc_build/commit/3b53862b60b7f2833c7c7369dd936366d5b8d6c2
 
 then add vendor/nexus custom tree
 
