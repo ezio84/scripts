@@ -269,6 +269,10 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/e86974adbe45e4e9643008
 Fingerprints: Increase MAX_FAILED_ATTEMPTS before requesting pin/pattern
 https://github.com/ezio84/abc_frameworks_base/commit/ee1059fd00d76ba4a01d81a7bfbf2e86c4e534c6
 
+Unlink ringtone and notification volume
+https://github.com/ezio84/abc_frameworks_base/commit/dbebc62ba735690f96537c5e92acbc489055d22f
+https://github.com/ezio84/abc_packages_apps_Settings/commit/4f092af7b1a1065745c0e89d8f5c60a4fcf52199
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -434,6 +438,8 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/d7ffbc99dca2367947fd
 
 Use correct icon for sim card 
 https://github.com/ezio84/abc_packages_apps_Settings/commit/5c009a5342df455d048297f16282bc6bd3723dba
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
