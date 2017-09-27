@@ -431,6 +431,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/580d440bf49f08283da22fe18ef
 
 Settings: Correctly align cursor in Settings
 https://github.com/ezio84/abc_packages_apps_Settings/commit/d7ffbc99dca2367947fd3b4b6925f6af250ed696
+
+Use correct icon for sim card 
+https://github.com/ezio84/abc_packages_apps_Settings/commit/5c009a5342df455d048297f16282bc6bd3723dba
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
