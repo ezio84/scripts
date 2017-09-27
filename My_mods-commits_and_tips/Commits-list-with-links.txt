@@ -263,7 +263,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a12
 Increase Zenmode max hour limit from 12 to 24 
 https://github.com/ezio84/abc_frameworks_base/commit/ea0828f04a30122c12eecd6fdddcda578acadb4c
 
-Enable Ambient burn-in protection
+Enable Ambient burn-in protection *useful only if you enable always on ambient *reverted on my source
 https://github.com/ezio84/abc_device_huawei_angler/commit/e86974adbe45e4e9643008d2d75af95259939725
 
 Fingerprints: Increase MAX_FAILED_ATTEMPTS before requesting pin/pattern
