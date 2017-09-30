@@ -137,10 +137,12 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/c17147bf89df421eb821b6
 https://github.com/ezio84/abc_frameworks_base/commit/daaa4b830eb4f67788a55587aaa8f308c0a161f5
 https://github.com/ezio84/abc_frameworks_base/commit/05601a9844bd73fd1389f23c64b9f5ea0ece2b39
 https://github.com/ezio84/abc_frameworks_base/commit/808b2e1d3ac2c7f68ed8f99be84236c1c856feb9
+https://github.com/ezio84/abc_frameworks_base/commit/ed9cf81285abc7fba7df64aae60bc6e625ebf0a9
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ef09e4a3dde6c41be147a37961d2def5aeb830a5
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e1fa39bc743d4435cdd697e84f97a7fed4313ff0
 https://github.com/ezio84/abc_packages_apps_Settings/commit/28d2fd6c7a98ffbd68f17a1e8233b22018284cab
 https://github.com/ezio84/abc_packages_apps_Settings/commit/a06afce60b26c1af782cd21ac4875e0872e60173
+https://github.com/ezio84/abc_packages_apps_Settings/commit/370b7ae457643e04cca0799e9ff0d329da10803c
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
@@ -365,9 +367,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a2cbbe0e4d527b75a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/90b8b5c0767e03d0ee325f966f7196eabbff2c5c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/cd49585fa8771c464d08ba4b982f9f6d8933b2d9
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9cca9919cb748d5f11660ac3a7de716cad522cbe
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c09bb781e7fb5d90cba7964df160f8c1b5aa61cd
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ca8072d0048482386895ddefc9cc6c291382efe9
-
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4e4cd00cda71e2c66085e5b56a952203bc15cf07
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
@@ -434,7 +434,7 @@ LatinIME fixes and improvements
 https://github.com/ezio84/abc_vendor_nexus/commit/77c18ec8e51b4fc7816e611289db70dc3c1f1092
 https://github.com/ezio84/abc_vendor_nexus/commit/e5321f743e458c283c49aca8c128f57b18a9a5f1
 from https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/fd5f98aacf27282dd4c2e6e0c498657c79f27be3
-to https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/42f4ed77ee058edeff940bf290d7248899bba682
+to https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/3cc9a1266bdc39569397a26b2cf9816cda68406e
 
 Remove aosp su for full magisk hide support
 https://github.com/ezio84/abc_system_extras/commit/4425ce5ceca1a6782324ab2c28ab7ad088ffa926
