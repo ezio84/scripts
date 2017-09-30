@@ -365,6 +365,9 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a2cbbe0e4d527b75a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/90b8b5c0767e03d0ee325f966f7196eabbff2c5c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/cd49585fa8771c464d08ba4b982f9f6d8933b2d9
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9cca9919cb748d5f11660ac3a7de716cad522cbe
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c09bb781e7fb5d90cba7964df160f8c1b5aa61cd
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ca8072d0048482386895ddefc9cc6c291382efe9
+
 
 Disable system IMEs if unused
 https://github.com/ezio84/abc_vendor_nexus/commit/b4853029b23fb2c4ec0282eab78d35321b1cca2d
@@ -447,6 +450,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/5c009a5342df455d0482
 
 Fix bt calls on some devices
 https://github.com/GZOSP/frameworks_base/commit/976478e088053d4706c987a30000c80c19b6762a
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
