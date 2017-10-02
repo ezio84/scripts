@@ -178,6 +178,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/770ead7cfc6709331b155bcc13f
 https://github.com/ezio84/abc_frameworks_base/commit/efee023be1fbfbe1de4683d61a5f4b04a97338fb
     Ask pin when tapping Data/airplane tiles on secure lockscreen
     https://github.com/ezio84/abc_frameworks_base/commit/f95c1e59890b93520b4de4f46d2c690fadbb4a8c
+NFC tile
+https://github.com/ezio84/abc_frameworks_base/commit/39928a918d3d41e1b6b29f897ae12957450c4603
 
 Allow to set QS panel columns and rows
 https://github.com/ezio84/abc_frameworks_base/commit/7bacad0d766dd3ca44e0a327496d05297829e8a4
@@ -248,6 +250,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7
 Dialer auto proximity speakerphone 
 https://github.com/ezio84/abc_frameworks_base/commit/f98ea69a2732c82acd909b17aacbb863013400ac
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/123427435140293ba751b906d8dfe92bc7b2a4f2
+
+Dialer in-call vibration
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/f8ea99b868433dd0b67fc3b7d79890a3a0724611
 
 Change power save mode color to sexy red
 https://github.com/ezio84/abc_frameworks_base/commit/a44dcf156ee8235369fc5a6e5c8c62d21304ce83
