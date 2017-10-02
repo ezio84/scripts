@@ -286,6 +286,8 @@ Unlink ringtone and notification volume
 https://github.com/ezio84/abc_frameworks_base/commit/dbebc62ba735690f96537c5e92acbc489055d22f
 https://github.com/ezio84/abc_packages_apps_Settings/commit/d73da2d392a390e87b37f94da80b980af06abb82
 
+Pixel launcher adaptive icon option
+https://github.com/ezio84/abc_frameworks_base/commit/e1fc7b93c7ad017938731f38c495f68028159358
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -304,6 +306,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/80c845701be2f6bded6f
 Enable Development Settings By Default regardless of build type
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b5c35a611c2c2e94647736d4952dec69ad97a3fe
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b5be39c2dccc9b0d5264064612390efff0d3c150
+https://github.com/ezio84/abc_frameworks_base/commit/e1fc7b93c7ad017938731f38c495f68028159358
 
 DeviceInfoSettings: Add back ABC version 
 https://github.com/ezio84/abc_packages_apps_Settings/commit/7965b25cd12987ce263bf1f815f1aa0d66614906
@@ -425,6 +428,8 @@ https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd1
 https://github.com/ezio84/abc_packages_apps_Settings/commit/90e6233c4aa1d8f13b19a8cba346f38915d36229
 Cleanup Settings from ota, bug report and similar stuff
 https://github.com/ezio84/abc_packages_apps_Settings/commit/11581f765fd7b9b0ec477ff2a6b4963d5439efa1
+(the above one has been partially reverted: https://github.com/ezio84/abc_packages_apps_Settings/commit/a585313fcfb1e718c0b10453321608a990667468
+because of this: https://github.com/ezio84/abc_frameworks_base/commit/e1fc7b93c7ad017938731f38c495f68028159358)
 https://github.com/ezio84/abc_packages_apps_Settings/commit/d108537fce9764ee34bdfcca9bf37b409983e05e
 https://github.com/ezio84/abc_packages_apps_Settings/commit/62fa03c523dada4c208fdc01dd65ff9a2c1bab73
 
