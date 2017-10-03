@@ -290,6 +290,10 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/d73da2d392a390e87b37
 Pixel launcher adaptive icon option
 https://github.com/ezio84/abc_frameworks_base/commit/e1fc7b93c7ad017938731f38c495f68028159358
 https://github.com/ezio84/abc_vendor_nexus/commit/e2984a156c710c12dcc1c6a4d3bd38b48f88d02c
+
+Move Gestures to their own menu
+https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd85a0739eca647e96aa78
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
