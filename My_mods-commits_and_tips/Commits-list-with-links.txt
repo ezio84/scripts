@@ -295,8 +295,8 @@ Move Gestures to their own menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd85a0739eca647e96aa78
 
 Add Navbar toggle
-https://github.com/ezio84/abc_frameworks_base/commit/f7481633710ff1a91fff046f06f120b05edf8ca3
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/45b69ba59fb7a86edc34e18f6f64a7dfd0726078
+https://github.com/ezio84/abc_frameworks_base/commit/5088162b48fb8ff0c37349507f7f73f0a67c4f63
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/186e9d83c276628d744bd214627ac3bedf1cf0dc
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
