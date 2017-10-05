@@ -266,6 +266,8 @@ Support recents task locking
 https://github.com/ezio84/abc_frameworks_base/commit/1d347665c18603d52a01db577dc2b18a3b3fdcfc
     Speed up Recents show additional button delay
     https://github.com/ezio84/abc_frameworks_base/commit/e03fbeb0d20314e93efefb16ed3251aa2e0d0a90
+Allow single tap on app icon to show app info overlay
+https://github.com/ezio84/abc_frameworks_base/commit/fbb739ebb45af2f884156f15457be21c2f8442c0
 
 Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
