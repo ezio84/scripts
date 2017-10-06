@@ -23,9 +23,9 @@ https://github.com/ezio84/abc_kernel_huawei_angler/commit/560e0644af318d660e0ea9
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/73a7783101dfd1dac204696037a6aefc7fd4698e
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/19f6957bbdf1e177891ede60a88a6db426a9d98a
 
-High performance audio
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/6453cda389d1c50dbd4217a45b90e8a17a00eda0
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/750479edc080aa656333a568ec1496caf17e7d4d
+High performance audio and gain levels (high perf is enabled by default, to control gains you need ElX manager)
+from https://github.com/ezio84/abc_kernel_huawei_angler/commit/17413a7224f03ae237744d77d4c36a60e84b4073
+to https://github.com/ezio84/abc_kernel_huawei_angler/commit/bf8afb926cd9facb06ca9ad658a0521368589ca9
 
 SystemUi tuner bringup
 https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
