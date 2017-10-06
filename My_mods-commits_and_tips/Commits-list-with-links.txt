@@ -270,6 +270,7 @@ Allow single tap on app icon to show app info overlay
 https://github.com/ezio84/abc_frameworks_base/commit/694a60be13dee6a0b9e2f2dda23b86ffee99c22a
     Custom icon packs
     https://github.com/ezio84/abc_frameworks_base/commit/58f015004a0c4572f18ad93ec8d8bd70b0d7fa51
+    https://github.com/ezio84/abc_frameworks_base/commit/70e7aa31f412a7e088758451a85ba9e2e5b249ab
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
 SystemUI: Recents: Allow closing empty view via tapping
 https://github.com/ezio84/abc_frameworks_base/commit/705d66f734d16ac662b0fc2203142ce68f950d8c
