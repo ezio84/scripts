@@ -232,6 +232,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138
 Lockscreen Charging info 
 https://github.com/ezio84/abc_frameworks_base/commit/02d08d2c6bcdf55bde83b3785ea5a2d238fbad90
 https://github.com/ezio84/abc_system_core/commit/7888e1eec42ca7f05ce14abd5fe49de7db8799d6
+https://github.com/ezio84/abc_device_huawei_angler/commit/c7fda5e0fbd2cf03358453fa9e2b8c50816a3edc
 
 Wake on plug
 https://github.com/ezio84/abc_frameworks_base/commit/705e79f3ca92682095c6eb4da49c8ee4aba70abf
