@@ -271,6 +271,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/694a60be13dee6a0b9e2f2dda23
     Custom icon packs
     https://github.com/ezio84/abc_frameworks_base/commit/58f015004a0c4572f18ad93ec8d8bd70b0d7fa51
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
+SystemUI: Recents: Allow closing empty view via tapping
+https://github.com/ezio84/abc_frameworks_base/commit/705d66f734d16ac662b0fc2203142ce68f950d8c
+    Recents: add pinch-in gesture on tasks to Clear All 
+    https://github.com/ezio84/abc_frameworks_base/commit/2e06cf86b2f71964f245f63a617751738ae07c2a
 
 Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
