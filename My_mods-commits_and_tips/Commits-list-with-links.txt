@@ -138,7 +138,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/daaa4b830eb4f67788a55587aaa
 https://github.com/ezio84/abc_frameworks_base/commit/05601a9844bd73fd1389f23c64b9f5ea0ece2b39
 https://github.com/ezio84/abc_frameworks_base/commit/808b2e1d3ac2c7f68ed8f99be84236c1c856feb9
 https://github.com/ezio84/abc_frameworks_base/commit/ed9cf81285abc7fba7df64aae60bc6e625ebf0a9
-https://github.com/ezio84/abc_frameworks_base/commit/128d1242df8b069594130f791164aa4f7ae9e2c6
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ef09e4a3dde6c41be147a37961d2def5aeb830a5
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e1fa39bc743d4435cdd697e84f97a7fed4313ff0
 https://github.com/ezio84/abc_packages_apps_Settings/commit/28d2fd6c7a98ffbd68f17a1e8233b22018284cab
@@ -268,7 +267,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/1d347665c18603d52a01db577dc
     Speed up Recents show additional button delay
     https://github.com/ezio84/abc_frameworks_base/commit/e03fbeb0d20314e93efefb16ed3251aa2e0d0a90
 Allow single tap on app icon to show app info overlay
-https://github.com/ezio84/abc_frameworks_base/commit/fbb739ebb45af2f884156f15457be21c2f8442c0
+https://github.com/ezio84/abc_frameworks_base/commit/694a60be13dee6a0b9e2f2dda23b86ffee99c22a
 
 Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
@@ -370,7 +369,7 @@ https://github.com/ezio84/abc_manifest/commit/91837f8e03e9d85ce602dd6456002c1cbc
 https://github.com/ezio84/abc_vendor_nexus/commit/a44e8b67e8d546fc25756b8b572c736551584481
 https://github.com/ezio84/abc_vendor_nexus/commit/c3476039ea3504ac4521cf6b29c6d17dba884f60
 https://github.com/ezio84/abc_vendor_nexus/commit/93c47ae756709ae48401ef6a8a06a3347543f44e
-https://github.com/ezio84/abc_frameworks_base/commit/e001618e84d5cbc4b3b02836335ce00c6347c059
+https://github.com/ezio84/abc_frameworks_base/commit/a4f01b702a235ac0fe7e80828a59c447eca02bc8
 
 Add Settings useful preferences and utilities (SystemSettingsSwitchPref , color picker, custom seekbar and so on):
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ec3fb3a939db3151e03680db325f3381168a697b
