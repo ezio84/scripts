@@ -268,6 +268,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/1d347665c18603d52a01db577dc
     https://github.com/ezio84/abc_frameworks_base/commit/e03fbeb0d20314e93efefb16ed3251aa2e0d0a90
 Allow single tap on app icon to show app info overlay
 https://github.com/ezio84/abc_frameworks_base/commit/694a60be13dee6a0b9e2f2dda23b86ffee99c22a
+    Custom icon packs
+    https://github.com/ezio84/abc_frameworks_base/commit/58f015004a0c4572f18ad93ec8d8bd70b0d7fa51
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
 
 Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
