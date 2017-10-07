@@ -269,13 +269,12 @@ https://github.com/ezio84/abc_frameworks_base/commit/1d347665c18603d52a01db577dc
 Allow single tap on app icon to show app info overlay
 https://github.com/ezio84/abc_frameworks_base/commit/694a60be13dee6a0b9e2f2dda23b86ffee99c22a
     Custom icon packs
-    https://github.com/ezio84/abc_frameworks_base/commit/58f015004a0c4572f18ad93ec8d8bd70b0d7fa51
-    https://github.com/ezio84/abc_frameworks_base/commit/70e7aa31f412a7e088758451a85ba9e2e5b249ab
+    https://github.com/ezio84/abc_frameworks_base/commit/188d8c52136175476523266c50eb553aada2a4e0
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
 SystemUI: Recents: Allow closing empty view via tapping
-https://github.com/ezio84/abc_frameworks_base/commit/705d66f734d16ac662b0fc2203142ce68f950d8c
+https://github.com/ezio84/abc_frameworks_base/commit/74dbe3d2d2cd8390ba4420c76035543a728357e0
     Recents: add pinch-in gesture on tasks to Clear All 
-    https://github.com/ezio84/abc_frameworks_base/commit/2e06cf86b2f71964f245f63a617751738ae07c2a
+    https://github.com/ezio84/abc_frameworks_base/commit/8c6d1d33fae5396e281ca90cd1639cb59e1ebea4
 
 Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
@@ -296,6 +295,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/ee1059fd00d76ba4a01d81a7bfb
 
 Unlink ringtone and notification volume
 https://github.com/ezio84/abc_frameworks_base/commit/dbebc62ba735690f96537c5e92acbc489055d22f
+https://github.com/ezio84/abc_frameworks_base/commit/664e67eeacfe5ee2224571672d987e190025b68a
 https://github.com/ezio84/abc_packages_apps_Settings/commit/d73da2d392a390e87b37f94da80b980af06abb82
 
 Pixel launcher adaptive icon option
