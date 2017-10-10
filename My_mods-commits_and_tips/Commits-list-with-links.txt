@@ -325,6 +325,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/339deedf780c8b214fc9
 then the custom tree with res and src https://github.com/ezio84/abc_packages_apps_AbcSettings
 and to fix padding https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9079e6b98da41e1f5b3fc242189f76fff5899b8e
 
+Bluetooth: Show a refresh icon on the select devices screen
+https://github.com/ezio84/abc_packages_apps_Settings/commit/756d209e584ab202228090e8e4966cf68b7a3ab2
+
 Move custom dp settings under Display
 https://github.com/ezio84/abc_packages_apps_Settings/commit/80c845701be2f6bded6fb2d70f328155a43f2bd9
 
@@ -458,6 +461,11 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/11581f765fd7b9b0ec47
 because of this: https://github.com/ezio84/abc_frameworks_base/commit/e1fc7b93c7ad017938731f38c495f68028159358)
 https://github.com/ezio84/abc_packages_apps_Settings/commit/d108537fce9764ee34bdfcca9bf37b409983e05e
 https://github.com/ezio84/abc_packages_apps_Settings/commit/62fa03c523dada4c208fdc01dd65ff9a2c1bab73
+https://github.com/ezio84/abc_packages_apps_Settings/commit/fd48b3a279478f339cb6943faebfef2ec8971eb3
+https://github.com/ezio84/abc_packages_apps_Settings/commit/7d2706c82e26163a31f489f872eec3bea5a6e331
+https://github.com/ezio84/abc_packages_apps_Settings/commit/bd0fb4c402f23dfce9bdd8bf41317573d9e57d93
+https://github.com/ezio84/abc_packages_apps_Settings/commit/0ca8cbff7f948bdc245ead888d6bd71571f60e9b
+https://github.com/ezio84/abc_packages_apps_Settings/commit/81537be875360d69cac33979b44471848b6d3459
 
 Enable doze power saving for all devices
 https://github.com/ezio84/abc_vendor_nexus/commit/4ead31f89d7908a44627eb4dd116ac6119fa9c09
