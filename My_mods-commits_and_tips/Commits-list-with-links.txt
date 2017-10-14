@@ -39,7 +39,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/599bbf89aa530d020e954689566
     Lockscreen shortcuts improvements
     https://github.com/ezio84/abc_frameworks_base/commit/7b52777fabb863c7f017e43bb7cdbf62a1cd07ca
     https://github.com/ezio84/abc_frameworks_base/commit/848611bfee2c12efc3c57f966d6acbb258811198
-    https://github.com/ezio84/abc_frameworks_base/commit/1a469609552defe91cd405ef3654a305c2e9912e
+    https://github.com/ezio84/abc_frameworks_base/commit/4ecf5384a3344fa52bc4d89a81480f4b4e74f776
 
 PowerMenu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/ae6c26677f748c05d464629ccbac138aa0a20c15
@@ -169,6 +169,7 @@ PiP tile
 https://github.com/ezio84/abc_frameworks_base/commit/573908111c290e28158ee321820b2f975a9ce677
 https://github.com/ezio84/abc_frameworks_base/commit/ae09573052d16fa4639226ef5283bbc7861558c7
 https://github.com/ezio84/abc_frameworks_base/commit/e730bff8beb8038da28f68c754a7bbc5b775d848
+https://github.com/ezio84/abc_frameworks_base/commit/6bde3dd35dace3ae7ec8a88c2316fc61b30e75e8
     Sound and volume tiles
     https://github.com/ezio84/abc_frameworks_base/commit/7572b3aa7788ba842b5fa81c5bb9186e548417bd
     https://github.com/ezio84/abc_frameworks_base/commit/ac087857276470ec61b7cfc6c80b61bdf31e21d2
@@ -279,6 +280,8 @@ SystemUI: Recents: Allow closing empty view via tapping
 https://github.com/ezio84/abc_frameworks_base/commit/74dbe3d2d2cd8390ba4420c76035543a728357e0
     Recents: add pinch-in gesture on tasks to Clear All 
     https://github.com/ezio84/abc_frameworks_base/commit/8c6d1d33fae5396e281ca90cd1639cb59e1ebea4
+Fix empty recents view in multi window mode
+https://github.com/ezio84/abc_frameworks_base/commit/088c502e278d80c90cc96d85eed542c61cbd49bb
 
 Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
@@ -321,7 +324,7 @@ Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
 Disable O rescue party
 https://github.com/ezio84/abc_vendor_nexus/commit/7095a50923b2dfffba76c049781088b6eb140f57
-https://github.com/ezio84/abc_frameworks_base/commit/1a469609552defe91cd405ef3654a305c2e9912e
+https://github.com/ezio84/abc_frameworks_base/commit/4d4369a77fc8e3695e7851ff23000e06b530ff74
 
 Add a custom Settings menu (new dashboard tile)
 https://github.com/ezio84/abc_packages_apps_Settings/commit/404880de7447a452d1e22774dad78396d7f63e1c
