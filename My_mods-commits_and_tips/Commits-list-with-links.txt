@@ -256,10 +256,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/53856cf9b7d914e582e97c9011b
 https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7ca5dcc8a90532742e53b
 
 Dialer auto proximity speakerphone 
-https://github.com/ezio84/abc_frameworks_base/commit/f98ea69a2732c82acd909b17aacbb863013400ac
-https://github.com/ezio84/abc_frameworks_base/commit/05805a7d7f4b7f69577e426223c8afa2e98147b1
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/123427435140293ba751b906d8dfe92bc7b2a4f2
-https://github.com/ezio84/abc_packages_apps_Dialer/commit/af582f644f6250ffad17f289b4053c25db609be0
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/eefe7b03ecc5f81be93bf292d163662fd7bd7d78
 
 Dialer in-call vibration
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/f8ea99b868433dd0b67fc3b7d79890a3a0724611
