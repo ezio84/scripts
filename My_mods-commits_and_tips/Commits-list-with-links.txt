@@ -244,6 +244,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6d9727f124fa52d25
 
 Wired/BT headset: make ringtone audio focus customizable 
 https://github.com/ezio84/abc_frameworks_base/commit/e9f6998e8ae1e7b14416c5a543de38568bca0867
+https://github.com/ezio84/abc_frameworks_base/commit/1e2e085ac6b1bf40b5fced902ef17d9821249345
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1d76b5689c3d282fbb45c7ce2bac386224835a47
 
 Disable power menu on secure lock screen
@@ -256,7 +257,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7
 
 Dialer auto proximity speakerphone 
 https://github.com/ezio84/abc_frameworks_base/commit/f98ea69a2732c82acd909b17aacbb863013400ac
+https://github.com/ezio84/abc_frameworks_base/commit/05805a7d7f4b7f69577e426223c8afa2e98147b1
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/123427435140293ba751b906d8dfe92bc7b2a4f2
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/af582f644f6250ffad17f289b4053c25db609be0
 
 Dialer in-call vibration
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/f8ea99b868433dd0b67fc3b7d79890a3a0724611
@@ -430,6 +433,7 @@ https://github.com/ezio84/abc_frameworks_native/commit/643dee8d338bb62cd9127c59e
 APN fixes and updates
 https://github.com/ezio84/abc_packages_services_Telephony/commit/27d06fbc89f42814882bffffd495e1a945305783
 https://github.com/ezio84/abc_frameworks_base/commit/6020ba0b66c78a1b898a63623b504656accc3bce
+https://github.com/ezio84/abc_frameworks_base/commit/9b87892492bcd2e332dc6904757b15e19e03c433
 then cherry-pick from https://github.com/ezio84/abc_frameworks_base/commit/4067f0fbb57eb7850d9157865f19a720c06b3316
 to https://github.com/ezio84/abc_frameworks_base/commit/8eff07d31eee49ae3bd1f9eee3907ca699707885
 https://github.com/ezio84/abc_packages_services_Telephony/commit/cfb676defb0ff788f44dcd74c7ad4fbb69bfcfeb
