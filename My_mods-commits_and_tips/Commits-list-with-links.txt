@@ -318,6 +318,11 @@ Add Navbar toggle
 https://github.com/ezio84/abc_frameworks_base/commit/5088162b48fb8ff0c37349507f7f73f0a67c4f63
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/186e9d83c276628d744bd214627ac3bedf1cf0dc
 
+Allow more volume steps
+https://github.com/ezio84/abc_frameworks_base/commit/5dfc11742845ad623f05ffd89a27f2c1eee555b1
+https://github.com/ezio84/abc_vendor_nexus/commit/63e6f696578b8011e18bbc6a8c165fd2de96182a
+https://github.com/ezio84/abc_vendor_nexus/commit/6b2f2da6f03095a014eae2711b72c9fb1914b5ac
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
