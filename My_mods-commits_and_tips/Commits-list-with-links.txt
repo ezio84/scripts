@@ -323,6 +323,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/5dfc11742845ad623f05ffd89a2
 https://github.com/ezio84/abc_vendor_nexus/commit/63e6f696578b8011e18bbc6a8c165fd2de96182a
 https://github.com/ezio84/abc_vendor_nexus/commit/6b2f2da6f03095a014eae2711b72c9fb1914b5ac
 
+Status bar notification ticker
+https://github.com/ezio84/abc_frameworks_base/commit/d152e83ec270d76037a62ba2cb73182560ece8a5
+https://github.com/ezio84/abc_frameworks_base/commit/c1231b9ca08eb4c458a4b2adf0e11c2185fca523
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
