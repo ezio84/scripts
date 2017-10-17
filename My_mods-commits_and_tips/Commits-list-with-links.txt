@@ -519,6 +519,8 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/5c009a5342df455d0482
 Fix bt calls on some devices
 https://github.com/GZOSP/frameworks_base/commit/976478e088053d4706c987a30000c80c19b6762a
 
+Optimize IncallUI delay for voice calls 
+https://github.com/ezio84/abc_frameworks_base/commit/b58f07498d19c0d70d27da4f0a5860074deebbc5
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
