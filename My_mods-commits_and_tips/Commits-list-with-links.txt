@@ -189,7 +189,7 @@ Fix aosp tiles race condition
 https://github.com/ezio84/abc_frameworks_base/commit/7b2ac5def9f03897e1811c1e254f50637c489f3b
 
 Remove grey gap between QS panel and notifications
-https://github.com/ezio84/abc_frameworks_base/commit/7401458cbcb3ea8e6277f5f9aa0022fd46fb5075
+https://github.com/ezio84/abc_frameworks_base/commit/c4cc216a15c67321fff04c2582ddb796b4ee41c6
 
 Allow to set QS panel columns and rows
 https://github.com/ezio84/abc_frameworks_base/commit/7bacad0d766dd3ca44e0a327496d05297829e8a4
