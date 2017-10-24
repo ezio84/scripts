@@ -330,7 +330,15 @@ https://github.com/ezio84/abc_vendor_nexus/commit/6b2f2da6f03095a014eae2711b72c9
 Status bar notification ticker
 https://github.com/ezio84/abc_frameworks_base/commit/d152e83ec270d76037a62ba2cb73182560ece8a5
 https://github.com/ezio84/abc_frameworks_base/commit/c1231b9ca08eb4c458a4b2adf0e11c2185fca523
+https://github.com/ezio84/abc_frameworks_base/commit/98c48212308d72b7c7711def3423abfb78a5e2d7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
+
+Slim Recents
+fork this tree: https://github.com/ezio84/abc_packages_apps_SlimRecents
+then pick:
+https://github.com/ezio84/abc_frameworks_base/commit/b283c7b2e952523b7f6facea2d786bdcc8dee326
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/8ef7c8930b0b0c6db60a4dc098b379c25c9d78e0
+
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
@@ -493,6 +501,8 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/7d2706c82e26163a31f4
 https://github.com/ezio84/abc_packages_apps_Settings/commit/bd0fb4c402f23dfce9bdd8bf41317573d9e57d93
 https://github.com/ezio84/abc_packages_apps_Settings/commit/0ca8cbff7f948bdc245ead888d6bd71571f60e9b
 https://github.com/ezio84/abc_packages_apps_Settings/commit/81537be875360d69cac33979b44471848b6d3459
+https://github.com/ezio84/abc_packages_apps_Settings/commit/0b37c1dd1774da68dae254f51e28e42b9e5e8efe
+https://github.com/ezio84/abc_packages_apps_Settings/commit/046d2604c5218eb46aa868b87d839afb7e734ecf
 
 Enable doze power saving for all devices
 https://github.com/ezio84/abc_vendor_nexus/commit/4ead31f89d7908a44627eb4dd116ac6119fa9c09
