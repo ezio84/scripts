@@ -331,6 +331,7 @@ Status bar notification ticker
 https://github.com/ezio84/abc_frameworks_base/commit/d152e83ec270d76037a62ba2cb73182560ece8a5
 https://github.com/ezio84/abc_frameworks_base/commit/c1231b9ca08eb4c458a4b2adf0e11c2185fca523
 https://github.com/ezio84/abc_frameworks_base/commit/98c48212308d72b7c7711def3423abfb78a5e2d7
+https://github.com/ezio84/abc_frameworks_base/commit/a8428b571791196ed99ca487512eb73ed8f7ce00
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
 
 Slim Recents
