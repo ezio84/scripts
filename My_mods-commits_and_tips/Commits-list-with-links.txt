@@ -395,6 +395,7 @@ navbar icons: https://github.com/ezio84/abc_frameworks_base/commit/ee2f36c10148d
 
 Pixel sysconfig
 https://github.com/ezio84/abc_vendor_huawei/commit/aa011f921dd4b310ea2c39696b6bc7f1cef5719b
+https://github.com/ezio84/abc_vendor_huawei/commit/f1aaecb66b06457507295b42f100a2ca8d3fa7aa
 
 Stock theme improvements
 https://github.com/ezio84/abc_vendor_nexus/commit/188087b5244883df1b8ef7ebf001ebfbb4ed5eef
