@@ -344,6 +344,10 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/8ef7c8930b0b0c6db
 Add a prebuilt busybox fstrim bin (for Tasker or terminal)
 https://github.com/ezio84/abc_vendor_nexus/commit/4487e559e1a480400820212b75d1a2abff7429bc
 
+Show detailed kernel infos in System info menu
+https://github.com/ezio84/abc_packages_apps_Settings/commit/622bf877bbb5d5c1dd6e900ab00e8a7c1e79eb50
+https://github.com/ezio84/abc_packages_apps_Settings/commit/251e632de9498fcaeb2ac686eb4a1b872c07fd42
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
