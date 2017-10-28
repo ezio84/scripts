@@ -348,6 +348,9 @@ Show detailed kernel infos in System info menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/622bf877bbb5d5c1dd6e900ab00e8a7c1e79eb50
 https://github.com/ezio84/abc_packages_apps_Settings/commit/251e632de9498fcaeb2ac686eb4a1b872c07fd42
 
+Add '24 hours' as an option for snoozing notifications
+https://github.com/ezio84/abc_frameworks_base/commit/f2e242561749ebe6b23f0e1541d4863454513850
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
