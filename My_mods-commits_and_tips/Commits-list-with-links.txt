@@ -184,6 +184,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/efee023be1fbfbe1de4683d61a5
 NFC tile
 https://github.com/ezio84/abc_frameworks_base/commit/39928a918d3d41e1b6b29f897ae12957450c4603
 https://github.com/ezio84/abc_frameworks_base/commit/5617a9c7943340a28586f44b40fcddebe2b3227b
+https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78ba510a653c9cd8
 
 Fix aosp tiles race condition
 https://github.com/ezio84/abc_frameworks_base/commit/7b2ac5def9f03897e1811c1e254f50637c489f3b
