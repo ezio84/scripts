@@ -340,7 +340,7 @@ fork this tree: https://github.com/ezio84/abc_packages_apps_SlimRecents
 then pick:
 https://github.com/ezio84/abc_frameworks_base/commit/b283c7b2e952523b7f6facea2d786bdcc8dee326
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/8ef7c8930b0b0c6db60a4dc098b379c25c9d78e0
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1a82182718482cf2b3be13fc43420112f12aaf44
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7166ae330d467c0c63a2b07497fa3f09269a5540
 
 Add a prebuilt busybox fstrim bin (for Tasker or terminal)
 https://github.com/ezio84/abc_vendor_nexus/commit/4487e559e1a480400820212b75d1a2abff7429bc
