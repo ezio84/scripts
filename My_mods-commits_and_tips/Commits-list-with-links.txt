@@ -45,6 +45,9 @@ PowerMenu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/ae6c26677f748c05d464629ccbac138aa0a20c15
 https://github.com/ezio84/abc_frameworks_base/commit/1a8038b4c4ff6608f6d1fe5c502e0ef3c73249bd
 
+Power menu vectorized sound panel selector
+https://github.com/ezio84/abc_frameworks_base/commit/7ee3e1e7c0089ec584af23ed028e01cbccd07ec6
+
 Stock Navbar improvements and custom features
     Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
 Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002f50e72a2b77c4909abcc03
@@ -321,6 +324,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd
 
 Add Navbar toggle
 https://github.com/ezio84/abc_frameworks_base/commit/5088162b48fb8ff0c37349507f7f73f0a67c4f63
+https://github.com/ezio84/abc_frameworks_base/commit/02bc4b843695301f1ffc18af79ee78160a8ac8b5
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/186e9d83c276628d744bd214627ac3bedf1cf0dc
 
 Allow more volume steps
@@ -421,6 +425,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/58b13eb405224caaade9f8a1b40
 https://github.com/ezio84/abc_frameworks_base/commit/3e33733a8414831000db134f160e3645b1f9a712
 https://github.com/ezio84/abc_frameworks_base/commit/68a67052c10429b0f46b676b638bc33011ffca1c
 https://github.com/ezio84/abc_build/commit/8d845ea69dbc309806894af85cb789d01f885311
+https://github.com/ezio84/abc_frameworks_base/commit/963b9627473383e95cd432c04711ed90b21f7f2b
+https://github.com/ezio84/abc_build/commit/54632b98935aa7eb5215e4b396fdbfdbe0db2cf1
 
 Build pixel launcher and wallpaper picker/cropper instead of n_packages_apps_Launcher3
 Also get round icons support
