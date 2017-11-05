@@ -36,6 +36,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/599bbf89aa530d020e954689566
     https://github.com/ezio84/abc_frameworks_base/commit/02f01b2266ea46f22e937e0da3fe661b69930885
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b00e6d2f93c94cc68db4208f15d925276b77a299
     https://github.com/ezio84/abc_frameworks_base/commit/dc9bb4d2a658d88b95ae4f326f369c0c7cb29753
+    https://github.com/ezio84/abc_frameworks_base/commit/06a128c2a5c04972d802b90fb346ca4ac8edc59a
     Lockscreen shortcuts improvements
     https://github.com/ezio84/abc_frameworks_base/commit/7b52777fabb863c7f017e43bb7cdbf62a1cd07ca
     https://github.com/ezio84/abc_frameworks_base/commit/848611bfee2c12efc3c57f966d6acbb258811198
@@ -342,6 +343,7 @@ then pick:
 https://github.com/ezio84/abc_frameworks_base/commit/b283c7b2e952523b7f6facea2d786bdcc8dee326
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/8ef7c8930b0b0c6db60a4dc098b379c25c9d78e0
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7166ae330d467c0c63a2b07497fa3f09269a5540
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/76c0ea461daab9558412865a850b76b133f32d9c
 
 Add a prebuilt busybox fstrim bin (for Tasker or terminal)
 https://github.com/ezio84/abc_vendor_nexus/commit/4487e559e1a480400820212b75d1a2abff7429bc
