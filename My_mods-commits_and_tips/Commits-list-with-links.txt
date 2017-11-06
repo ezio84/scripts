@@ -55,6 +55,12 @@ Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002
     Double tap to sleep: https://github.com/ezio84/abc_frameworks_base/commit/fee1061d4f55ef1b65b0e0c1ebd1d6166bf507ef
     https://github.com/ezio84/abc_frameworks_base/commit/239a8c8dda7cb11553e49a8177c79a2cd3baf7e8
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d584ec8b7b108288d5ed9a039bafb00f76333864
+Navbar autohiding keyboard cursors (add in sysui tuner as extra left/right keys)
+https://github.com/ezio84/abc_frameworks_base/commit/6e190280275a781faaf592fd1957f314e1fe8279
+    Add Navbar toggle
+    https://github.com/ezio84/abc_frameworks_base/commit/5088162b48fb8ff0c37349507f7f73f0a67c4f63
+    https://github.com/ezio84/abc_frameworks_base/commit/02bc4b843695301f1ffc18af79ee78160a8ac8b5
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/186e9d83c276628d744bd214627ac3bedf1cf0dc
 
 Allow to disable "Apps running in background" Android System notification
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
@@ -151,9 +157,6 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/a06afce60b26c1af782c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/370b7ae457643e04cca0799e9ff0d329da10803c
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
-
-Navbar autohiding keyboard cursors (add in sysui tuner as extra left/right keys)
-https://github.com/ezio84/abc_frameworks_base/commit/6e190280275a781faaf592fd1957f314e1fe8279
 
 Allow user to add/remove QS with one click
 https://github.com/ezio84/abc_frameworks_base/commit/b419ac189e4e01e720a9ba128496a2d8bd558bc9
@@ -319,11 +322,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/e001618e84d5cbc4b3b02836335
 
 Move Gestures to their own menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd85a0739eca647e96aa78
-
-Add Navbar toggle
-https://github.com/ezio84/abc_frameworks_base/commit/5088162b48fb8ff0c37349507f7f73f0a67c4f63
-https://github.com/ezio84/abc_frameworks_base/commit/02bc4b843695301f1ffc18af79ee78160a8ac8b5
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/186e9d83c276628d744bd214627ac3bedf1cf0dc
 
 Allow more volume steps
 https://github.com/ezio84/abc_frameworks_base/commit/5dfc11742845ad623f05ffd89a27f2c1eee555b1
