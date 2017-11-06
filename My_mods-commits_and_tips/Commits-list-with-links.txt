@@ -61,6 +61,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/6e190280275a781faaf592fd195
     https://github.com/ezio84/abc_frameworks_base/commit/5088162b48fb8ff0c37349507f7f73f0a67c4f63
     https://github.com/ezio84/abc_frameworks_base/commit/02bc4b843695301f1ffc18af79ee78160a8ac8b5
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/186e9d83c276628d744bd214627ac3bedf1cf0dc
+Navbar customizer: add dynamic skip_track/kb cursors buttons
+https://github.com/ezio84/abc_frameworks_base/commit/0f4c6bf3b7dd244923a7e9d366246d3d947dfb61
 
 Allow to disable "Apps running in background" Android System notification
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
