@@ -357,6 +357,18 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/251e632de9498fcaeb2a
 Add '24 hours' as an option for snoozing notifications
 https://github.com/ezio84/abc_frameworks_base/commit/f2e242561749ebe6b23f0e1541d4863454513850
 
+QS panel brightness slider customization
+https://github.com/ezio84/abc_frameworks_base/commit/390a2386cd1caf92ab0d7bd3e24930ffc2dba251
+https://github.com/ezio84/abc_frameworks_base/commit/48346502b913457795644f5f9f2a1a4a687c4042
+https://github.com/ezio84/abc_frameworks_base/commit/0ddd40bf7b2e4c4d236dfee0d24a4b210a677483
+https://github.com/ezio84/abc_frameworks_base/commit/9b81083d115b8224fe5ac0420adbae054b4aec5f
+https://github.com/ezio84/abc_frameworks_base/commit/0093720a258d71358caf7d8f0d18b9bafe620604
+https://github.com/ezio84/abc_frameworks_base/commit/971e6c5de390ed96b229febabe97f08207be5878
+https://github.com/ezio84/abc_frameworks_base/commit/7c51ea1ac666c1e8294c3b32dea6a2d17f071af0
+https://github.com/ezio84/abc_frameworks_base/commit/57ef938c9b553096055433628f1461514475ba84
+https://github.com/ezio84/abc_frameworks_base/commit/48d2c0a88d26b0f0c5f8513cc4a88460bf59e20e
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
