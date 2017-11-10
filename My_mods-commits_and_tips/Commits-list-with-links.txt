@@ -64,7 +64,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/6e190280275a781faaf592fd195
 Navbar customizer: add dynamic skip_track/kb cursors buttons
 https://github.com/ezio84/abc_frameworks_base/commit/0f4c6bf3b7dd244923a7e9d366246d3d947dfb61
 https://github.com/ezio84/abc_frameworks_base/commit/d3fa80a895d4efb4eebe237ec0e4b13516a6e1c5
-https://github.com/ezio84/abc_frameworks_base/commit/50523c79b552464b1d5fa2c0f1c007e38d1e7ef6
+https://github.com/ezio84/abc_frameworks_base/commit/f5c3049d00d6f095f38909b42877fe9090bc4831
 
 Allow to disable "Apps running in background" Android System notification
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
@@ -371,7 +371,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/b56e5f098fab3c6328620eb61f3
 
 Alert when screen off and charging if charge level becomes good
 https://github.com/ezio84/abc_frameworks_base/commit/ffe329445adce4ddda70ed81943645fb0fafcb91
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6a805b6976148040d1f6b8f15e4fb84dade61dc6
+https://github.com/ezio84/abc_packages_apps_Settings/commit/316d74bc8e958a3ebccb4f346dd808a2d56f7a02
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
