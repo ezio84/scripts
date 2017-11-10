@@ -368,6 +368,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/7c51ea1ac666c1e8294c3b32dea
 https://github.com/ezio84/abc_frameworks_base/commit/786e5856d295a636806662763615e6b05efc6664
 https://github.com/ezio84/abc_frameworks_base/commit/b56e5f098fab3c6328620eb61f3aca7855390cdf
 
+Alert when screen off and charging if charge level becomes good
+https://github.com/ezio84/abc_frameworks_base/commit/1cbcbde10a81b4e9d772e0b281e4565e8d6bbd48
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/55bcebd906cb730e2acffcf19cb00fbe558423b5
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
