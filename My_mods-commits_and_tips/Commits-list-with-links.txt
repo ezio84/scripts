@@ -570,6 +570,10 @@ https://github.com/GZOSP/frameworks_base/commit/976478e088053d4706c987a30000c80c
 
 Optimize IncallUI delay for voice calls 
 https://github.com/ezio84/abc_frameworks_base/commit/b58f07498d19c0d70d27da4f0a5860074deebbc5
+
+Other stuff/fixes
+https://github.com/ezio84/abc_frameworks_base/commit/e00d8196463ec9fe5d1a19215b49377deb2cf5f9
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
