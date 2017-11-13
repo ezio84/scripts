@@ -37,6 +37,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/599bbf89aa530d020e954689566
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b00e6d2f93c94cc68db4208f15d925276b77a299
     https://github.com/ezio84/abc_frameworks_base/commit/dc9bb4d2a658d88b95ae4f326f369c0c7cb29753
     https://github.com/ezio84/abc_frameworks_base/commit/06a128c2a5c04972d802b90fb346ca4ac8edc59a
+    https://github.com/ezio84/abc_frameworks_base/commit/ef524fe73f9ddc00a1c3885fb0edfcf4ae80e318
+    https://github.com/ezio84/abc_frameworks_base/commit/b28d8a96c6d58f4d2d423c92fc1eec359f0af8d6
     Lockscreen shortcuts improvements
     https://github.com/ezio84/abc_frameworks_base/commit/7b52777fabb863c7f017e43bb7cdbf62a1cd07ca
     https://github.com/ezio84/abc_frameworks_base/commit/848611bfee2c12efc3c57f966d6acbb258811198
@@ -197,6 +199,8 @@ NFC tile
 https://github.com/ezio84/abc_frameworks_base/commit/39928a918d3d41e1b6b29f897ae12957450c4603
 https://github.com/ezio84/abc_frameworks_base/commit/5617a9c7943340a28586f44b40fcddebe2b3227b
 https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78ba510a653c9cd8
+    Battery tile
+    https://github.com/ezio84/abc_frameworks_base/commit/a3dd4f9746773179a45ef97f75247b27ef3f51bf
 
 Fix aosp tiles race condition
 https://github.com/ezio84/abc_frameworks_base/commit/7b2ac5def9f03897e1811c1e254f50637c489f3b
@@ -372,6 +376,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/b56e5f098fab3c6328620eb61f3
 
 Alert when screen off and charging if charge level becomes good
 https://github.com/ezio84/abc_frameworks_base/commit/ffe329445adce4ddda70ed81943645fb0fafcb91
+https://github.com/ezio84/abc_frameworks_base/commit/4f119b2c5e3008ae9cf3dfcf814363bc6ed2a174
 https://github.com/ezio84/abc_packages_apps_Settings/commit/316d74bc8e958a3ebccb4f346dd808a2d56f7a02
 
 ----------------------------------------------------------------------
