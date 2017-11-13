@@ -200,7 +200,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/39928a918d3d41e1b6b29f897ae
 https://github.com/ezio84/abc_frameworks_base/commit/5617a9c7943340a28586f44b40fcddebe2b3227b
 https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78ba510a653c9cd8
     Battery tile
-    https://github.com/ezio84/abc_frameworks_base/commit/c087b9c4ab2897feb0dfacb0704abd4ee8f7627c
+    https://github.com/ezio84/abc_frameworks_base/commit/34f684a4a52dcd7a550e6a104924902b05b0eb4c
 
 Fix aosp tiles race condition
 https://github.com/ezio84/abc_frameworks_base/commit/7b2ac5def9f03897e1811c1e254f50637c489f3b
