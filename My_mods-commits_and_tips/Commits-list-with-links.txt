@@ -331,6 +331,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/e001618e84d5cbc4b3b02836335
 
 Move Gestures to their own menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd85a0739eca647e96aa78
+https://github.com/ezio84/abc_packages_apps_Settings/commit/8ee43db5917722774d3fd36496e063c0e76f3963
 
 Allow more volume steps
 https://github.com/ezio84/abc_frameworks_base/commit/5dfc11742845ad623f05ffd89a27f2c1eee555b1
