@@ -132,6 +132,7 @@ https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/2f5b2a15877eac8e641
 Launch music player on headset connect:
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/85d342df5c6f339958ba68a5749ad70cd8c143d7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/913597a62a78862290d60ecae6a2d9dfad591447
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a60f74bc0bc1b12d2dca8874c59cfb456ab86440
 https://github.com/ezio84/abc_frameworks_base/commit/191b4d099171a8e6ac25e3dc52875a506d97e6a0
 https://github.com/ezio84/abc_frameworks_base/commit/cf9c2fff1635e159eec2e397463d84edf303d0c3
 
@@ -201,6 +202,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/5617a9c7943340a28586f44b40f
 https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78ba510a653c9cd8
     Battery tile
     https://github.com/ezio84/abc_frameworks_base/commit/34f684a4a52dcd7a550e6a104924902b05b0eb4c
+    https://github.com/ezio84/abc_frameworks_base/commit/b256d780efd6d42cbfb3c9740cad89086a239ac5
+    https://github.com/ezio84/abc_frameworks_base/commit/e36d8ec6393601909f8e82e8fadb871a770afe94
 
 Fix aosp tiles race condition
 https://github.com/ezio84/abc_frameworks_base/commit/7b2ac5def9f03897e1811c1e254f50637c489f3b
@@ -331,7 +334,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/e001618e84d5cbc4b3b02836335
 
 Move Gestures to their own menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd85a0739eca647e96aa78
-https://github.com/ezio84/abc_packages_apps_Settings/commit/8ee43db5917722774d3fd36496e063c0e76f3963
 
 Allow more volume steps
 https://github.com/ezio84/abc_frameworks_base/commit/5dfc11742845ad623f05ffd89a27f2c1eee555b1
@@ -379,6 +381,18 @@ Alert when screen off and charging if charge level becomes good
 https://github.com/ezio84/abc_frameworks_base/commit/ffe329445adce4ddda70ed81943645fb0fafcb91
 https://github.com/ezio84/abc_frameworks_base/commit/c45ef134179d0a72c2a8be1549e5a62f7b870c84
 https://github.com/ezio84/abc_packages_apps_Settings/commit/316d74bc8e958a3ebccb4f346dd808a2d56f7a02
+
+DUI navbar
+https://github.com/ezio84/abc_manifest/commit/34d91cf5a056952c816155b4521317a6bb70651b
+https://github.com/ezio84/abc_vendor_nexus/commit/2e2ac461fad0fbc8338ab6e011c935bb70af821c
+https://github.com/ezio84/abc_packages_apps_Settings/commit/45ac48dfe1f601f2159144b2810f31c52ea002c6
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7e0b12788346b0c6fba629569ca2e49b6780e12c
+https://github.com/ezio84/abc_frameworks_base/commit/7188ffbf44c72298e1ff13eae57177bfeef54aaa
+    Optional:
+    https://github.com/ezio84/abc_frameworks_base/commit/621f9caab9e9865b32756e897606726a509d39d7
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d5160af5593e25812373b472d6322d4af1595421
+    https://github.com/ezio84/abc_packages_apps_DUI/commit/78df861baf56fbdea6ee30feac710c2b63e2dfad (revert this
+    if not using other Optional commits)
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
@@ -482,6 +496,14 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/90b8b5c0767e03d0e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/cd49585fa8771c464d08ba4b982f9f6d8933b2d9
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9cca9919cb748d5f11660ac3a7de716cad522cbe
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4e4cd00cda71e2c66085e5b56a952203bc15cf07
+
+Settings layout and icons improvements
+https://github.com/ezio84/abc_packages_apps_Settings/commit/8ee43db5917722774d3fd36496e063c0e76f3963
+https://github.com/ezio84/abc_packages_apps_Settings/commit/567f6e5af38e04e287fbca42815d0c2c21a88db2
+https://github.com/ezio84/abc_packages_apps_Settings/commit/cf868dce24e1b46956f0e87c84066333852817a6
+https://github.com/ezio84/abc_packages_apps_Settings/commit/e47e955f8973415bfe197ba9f140b6ddff148d6d
+https://github.com/ezio84/abc_packages_apps_Settings/commit/53800ec663e254e02abd363a27e1f163b456f1fd
+https://github.com/ezio84/abc_vendor_nexus/commit/5f40d38467da6aa060ed6310cef042c496b65b62
 
 Set a default theme for Gboard if it's installed
 https://github.com/ezio84/abc_vendor_nexus/commit/300b12f0ef73a5042f98218d7fe0dc632ba236c7
