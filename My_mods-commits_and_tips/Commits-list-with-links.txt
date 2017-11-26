@@ -502,8 +502,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/8ee43db5917722774d3f
 https://github.com/ezio84/abc_packages_apps_Settings/commit/567f6e5af38e04e287fbca42815d0c2c21a88db2
 https://github.com/ezio84/abc_packages_apps_Settings/commit/cf868dce24e1b46956f0e87c84066333852817a6
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e47e955f8973415bfe197ba9f140b6ddff148d6d
-https://github.com/ezio84/abc_packages_apps_Settings/commit/53800ec663e254e02abd363a27e1f163b456f1fd
-https://github.com/ezio84/abc_packages_apps_Settings/commit/f6c8a45a05e1db06dec5813bf7e55fdbc8456e53
+https://github.com/ezio84/abc_packages_apps_Settings/commit/9faf76e9f5514bb5d889907d76fd5aa00042dc30
 https://github.com/ezio84/abc_vendor_nexus/commit/5f40d38467da6aa060ed6310cef042c496b65b62
 
 Set a default theme for Gboard if it's installed
