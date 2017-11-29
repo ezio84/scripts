@@ -396,6 +396,13 @@ https://github.com/ezio84/abc_frameworks_base/commit/7188ffbf44c72298e1ff13eae57
     https://github.com/ezio84/abc_packages_apps_DUI/commit/78df861baf56fbdea6ee30feac710c2b63e2dfad (revert this
     if not using other Optional commits)
 
+Add download info and support to manually pause/resume downloads 
+https://github.com/ezio84/abc_frameworks_base/commit/14a7016f12abb62ab79d177abdcac1be2fae6143
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/b86f6af823e51d0d04f11e2b5df3e267c800ffb1
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/b62f45ee69c9b9d5c15fcfa5e2759ff00685928f
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/2bdc2507fad43e8ac41a0e3ef5b285f0b5f03fa0
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
