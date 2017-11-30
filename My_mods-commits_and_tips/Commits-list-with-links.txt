@@ -398,7 +398,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/7188ffbf44c72298e1ff13eae57
     if not using other Optional commits)
 Smartbar dt2s
 https://github.com/ezio84/abc_frameworks_base/commit/a1034d2a317967f3da053d756602b072f0846f8b
-https://github.com/ezio84/abc_packages_apps_DUI/commit/ec1d692dc385e252dc4e7d48c963c764949ff085
+https://github.com/ezio84/abc_packages_apps_DUI/commit/65e26be1088af92f1449160e2b065c0af45708e7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b45ce83f8f2c4ab2add9d07b974da30421127293
 
 Add download info and support to manually pause/resume downloads 
