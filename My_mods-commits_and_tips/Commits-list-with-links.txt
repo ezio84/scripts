@@ -507,6 +507,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/cd49585fa8771c464
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9cca9919cb748d5f11660ac3a7de716cad522cbe
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4e4cd00cda71e2c66085e5b56a952203bc15cf07
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e783d0eedf219c0ca31b46a750311e97906bf30f
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c82bfb4a131e3b052758677bf23956869b9f013e
 
 Settings layout and icons improvements
 https://github.com/ezio84/abc_packages_apps_Settings/commit/8ee43db5917722774d3fd36496e063c0e76f3963
