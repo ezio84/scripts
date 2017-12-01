@@ -462,6 +462,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/5ad1555999fa7e0529f537dbd5a396
 Pixel theme 
 system colors: https://github.com/ezio84/abc_vendor_nexus/commit/c07f76979aa8781c0ccaf0fa0e1bc1600b1bc0b9
 navbar icons: https://github.com/ezio84/abc_frameworks_base/commit/ee2f36c10148d39c1ba2040ede3197108776acb8
+https://github.com/ezio84/abc_frameworks_base/commit/0bda088a0cdfc1abfb93102669c3b5858d359563
 
 Pixel sysconfig
 https://github.com/ezio84/abc_vendor_huawei/commit/aa011f921dd4b310ea2c39696b6bc7f1cef5719b
