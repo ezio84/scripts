@@ -50,6 +50,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/1a8038b4c4ff6608f6d1fe5c502
 
 Power menu vectorized sound panel selector
 https://github.com/ezio84/abc_frameworks_base/commit/7ee3e1e7c0089ec584af23ed028e01cbccd07ec6
+Power menu fixes
+https://github.com/ezio84/abc_frameworks_base/commit/6ef1eefed050bbe189cb7f95ca7664a85d674a31
 
 Stock Navbar improvements and custom features
     Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
