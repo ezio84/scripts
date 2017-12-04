@@ -397,7 +397,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/45ac48dfe1f601f21591
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7e0b12788346b0c6fba629569ca2e49b6780e12c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6b70ef303f21be47c9f3bcaf243eda7ebd8ac68c
 https://github.com/ezio84/abc_frameworks_base/commit/7188ffbf44c72298e1ff13eae57177bfeef54aaa
-https://github.com/ezio84/abc_frameworks_base/commit/311cef13f62e2b8d63bacb1dff1fa64cad092823
+https://github.com/ezio84/abc_frameworks_base/commit/1f5e81b7439edfbae9fecfcada88b386cea54022
     Optional:
     https://github.com/ezio84/abc_frameworks_base/commit/621f9caab9e9865b32756e897606726a509d39d7
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d5160af5593e25812373b472d6322d4af1595421
