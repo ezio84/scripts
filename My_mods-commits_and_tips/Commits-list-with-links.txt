@@ -630,44 +630,41 @@ https://github.com/ezio84/abc_frameworks_base/commit/4f119b2c5e3008ae9cf3dfcf814
 ----------------------------------------------------------------------
 
 Build environment preparation:
-from https://github.com/ezio84/abc_system_core/commit/2dbf6d66abd5c11486309d44e668e0cf031f7b80
+from https://github.com/ezio84/abc_system_core/commit/f8a5f3438f9c966ecba52bba1321470300dd8fa1
 to
-https://github.com/ezio84/abc_system_core/commit/09daeb49e21d4b4e9ecccb338bf818f6515669d3
+https://github.com/ezio84/abc_system_core/commit/10d62e03dd239b9f29a47d3f1e284ee7481f28ed
 
-then https://github.com/ezio84/abc_bootable_recovery/commit/183ffa7eb8008a8c45f93d30f47a555b71a949f2
+then from https://github.com/ezio84/abc_bootable_recovery/commit/a0b9cd2367e6a6f9b4a6955bac2102fa085f4261
+to https://github.com/ezio84/abc_bootable_recovery/commit/455cb821e0792ff722ffba3ea2b83e17e215d15a
 
-then from https://github.com/ezio84/abc_system_sepolicy/commit/81b1c5888cb77a8c679f64757c23c63e87c82cba
-to https://github.com/ezio84/abc_system_sepolicy/commit/81b9cd5da75dde1c86c0ac4ddfa79d94b43268d9
+then from https://github.com/ezio84/abc_system_sepolicy/commit/0f35fad7d22bf6ad564300cbfd4a22caf3923c33
+to https://github.com/ezio84/abc_system_sepolicy/commit/ae7ef60188242c536352e3bca806c4f947f32d6c
 
 then from https://github.com/ezio84/abc_build/commit/e87407ebe5141717469ed8be4168b7df29d06c64
 to https://github.com/ezio84/abc_build/commit/8793dbf4d4c99aea949f9aa5a8c952908074e23f
 
 then add vendor/nexus custom tree
 
-Then 
-6p Device tree shit:
-from https://github.com/ezio84/abc_device_huawei_angler/commit/3c197bc5ce74d7d82fbfec51c379bc4d0e097e4f
-to 
-https://github.com/ezio84/abc_device_huawei_angler/commit/81634fad2701d1db07c08beef395db3aa9d3a6af
-https://github.com/ezio84/abc_device_huawei_angler/commit/e0f8bdaa494fb848675bba4906315998a9b31a05
-https://github.com/ezio84/abc_device_huawei_angler/commit/9d24fcb1f9c780acf3977ecef132f831ad916a80
-
 Build kernel inline
-https://github.com/ezio84/abc_device_huawei_angler/commit/2731a73b201fbbf52cc0e58f66b353abce4e8730
-https://github.com/ezio84/abc_build_soong/commit/7d77a4b3b4f4c4154f3607c1f6eb256f24d72583
-https://github.com/ezio84/abc_build_soong/commit/aa6dc4adde1fa02cdc3ec4639d0cd49669fc976b
-https://github.com/ezio84/abc_build_soong/commit/1e1767358d0529fe9302882cdb9753c39412b6d5
-
+https://github.com/ezio84/abc_device_huawei_angler/commit/bfd95f862d832a0e4d4c8fccabf500ab2c763e27
+from https://github.com/ezio84/abc_build_soong/commit/a657a299a2b7619b525d361e6012750ac1b20591
+to https://github.com/ezio84/abc_build_soong/commit/8bdaf5220c5d2e4f0d1ea5ab13cdd2210a747b51
 Custom inline kernel defconfig
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/78c985e44b36fb35c522ffec52b81bf442be6297
-https://github.com/ezio84/abc_device_huawei_angler/commit/11d464f59f2f792b06a2610b67ca7d13d5bc5675
+https://github.com/ezio84/abc_device_huawei_angler/commit/ad4e12af5f10b51be7b6d3ddc8bef4f1a862cd1d
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/6272db48702e2954fc58546c9e872cc51e3c08d3
 
-Angler 2% battery drop fix and other 6p kernel improvements
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/62c8efd6241de6d767ab2b37b9e9b7975dff1ca5
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/75916a80e86b9237b2b266ac6545f5ca3e32d782
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/33c0c28ac69498e3ac0417fe9c47b8c40c345d13
+Angler 2% battery drop fix and other 6p (potentially also other devices) kernel improvements
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/f56acb40c44d1a22b527e9e4aaf361a5366661c2
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/707d084dc1ba73a221cee5b93f981a747cb1bfc7
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/a9688e13da16a06c97431b2e8f10504b806ffe86
+
+Then
+6p Device tree shit:
+from https://github.com/ezio84/abc_device_huawei_angler/commit/3b7e8680aa83fdc21425314fdbe2bcaac9b4cef2
+to 
+https://github.com/ezio84/abc_device_huawei_angler/commit/15b560b4358e1a052f84c6b181ab12bbd293a6ce
 
 Add custom proto metrics
-https://github.com/ezio84/abc_frameworks_base/commit/86894feefd6fe6324fdf47fb52f67c0586b3dc7f
+https://github.com/ezio84/abc_frameworks_base/commit/a81141245a91c843b40db064cbc13b15f2b6a409
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
