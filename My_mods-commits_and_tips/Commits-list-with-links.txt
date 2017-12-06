@@ -54,8 +54,7 @@ Power menu fixes
 https://github.com/ezio84/abc_frameworks_base/commit/6ef1eefed050bbe189cb7f95ca7664a85d674a31
 
 Stock Navbar improvements and custom features
-    Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
-Fix NPE: https://github.com/ezio84/abc_frameworks_base/commit/2932d9e4fac7bf0002f50e72a2b77c4909abcc03
+Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
     Double tap to sleep: https://github.com/ezio84/abc_frameworks_base/commit/fee1061d4f55ef1b65b0e0c1ebd1d6166bf507ef
     https://github.com/ezio84/abc_frameworks_base/commit/239a8c8dda7cb11553e49a8177c79a2cd3baf7e8
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d584ec8b7b108288d5ed9a039bafb00f76333864
@@ -437,11 +436,6 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/756d209e584ab2022280
 Move custom dp settings under Display
 https://github.com/ezio84/abc_packages_apps_Settings/commit/80c845701be2f6bded6fb2d70f328155a43f2bd9
 
-Enable Development Settings By Default regardless of build type
-https://github.com/ezio84/abc_packages_apps_Settings/commit/b5c35a611c2c2e94647736d4952dec69ad97a3fe
-https://github.com/ezio84/abc_packages_apps_Settings/commit/b5be39c2dccc9b0d5264064612390efff0d3c150
-https://github.com/ezio84/abc_frameworks_base/commit/e1fc7b93c7ad017938731f38c495f68028159358
-
 DeviceInfoSettings: Add back ABC version 
 https://github.com/ezio84/abc_packages_apps_Settings/commit/7965b25cd12987ce263bf1f815f1aa0d66614906
 
@@ -533,33 +527,6 @@ https://github.com/ezio84/abc_vendor_nexus/commit/5f40d38467da6aa060ed6310cef042
 Set a default theme for Gboard if it's installed
 https://github.com/ezio84/abc_vendor_nexus/commit/300b12f0ef73a5042f98218d7fe0dc632ba236c7
 
-APN fixes and updates
-https://github.com/ezio84/abc_packages_services_Telephony/commit/27d06fbc89f42814882bffffd495e1a945305783
-https://github.com/ezio84/abc_frameworks_base/commit/6020ba0b66c78a1b898a63623b504656accc3bce
-https://github.com/ezio84/abc_frameworks_base/commit/9b87892492bcd2e332dc6904757b15e19e03c433
-then cherry-pick from https://github.com/ezio84/abc_frameworks_base/commit/4067f0fbb57eb7850d9157865f19a720c06b3316
-to https://github.com/ezio84/abc_frameworks_base/commit/8eff07d31eee49ae3bd1f9eee3907ca699707885
-https://github.com/ezio84/abc_packages_services_Telephony/commit/cfb676defb0ff788f44dcd74c7ad4fbb69bfcfeb
-
-Block System Update services and related wakelocks
-https://github.com/ezio84/abc_frameworks_base/commit/5467c388fd213778fcb0b3dcf14f8da8d91c5190
-https://github.com/ezio84/abc_frameworks_base/commit/925462bcae38a9a31b5537eb99a29f1be3291bbb
-https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd11d9422e76c
-https://github.com/ezio84/abc_packages_apps_Settings/commit/90e6233c4aa1d8f13b19a8cba346f38915d36229
-Cleanup Settings from ota, bug report and similar stuff
-https://github.com/ezio84/abc_packages_apps_Settings/commit/11581f765fd7b9b0ec477ff2a6b4963d5439efa1
-(the above one has been partially reverted: https://github.com/ezio84/abc_packages_apps_Settings/commit/a585313fcfb1e718c0b10453321608a990667468
-because of this: https://github.com/ezio84/abc_frameworks_base/commit/e1fc7b93c7ad017938731f38c495f68028159358)
-https://github.com/ezio84/abc_packages_apps_Settings/commit/d108537fce9764ee34bdfcca9bf37b409983e05e
-https://github.com/ezio84/abc_packages_apps_Settings/commit/62fa03c523dada4c208fdc01dd65ff9a2c1bab73
-https://github.com/ezio84/abc_packages_apps_Settings/commit/fd48b3a279478f339cb6943faebfef2ec8971eb3
-https://github.com/ezio84/abc_packages_apps_Settings/commit/7d2706c82e26163a31f489f872eec3bea5a6e331
-https://github.com/ezio84/abc_packages_apps_Settings/commit/bd0fb4c402f23dfce9bdd8bf41317573d9e57d93
-https://github.com/ezio84/abc_packages_apps_Settings/commit/0ca8cbff7f948bdc245ead888d6bd71571f60e9b
-https://github.com/ezio84/abc_packages_apps_Settings/commit/81537be875360d69cac33979b44471848b6d3459
-https://github.com/ezio84/abc_packages_apps_Settings/commit/0b37c1dd1774da68dae254f51e28e42b9e5e8efe
-https://github.com/ezio84/abc_packages_apps_Settings/commit/046d2604c5218eb46aa868b87d839afb7e734ecf
-
 Enable doze power saving for all devices
 https://github.com/ezio84/abc_vendor_nexus/commit/4ead31f89d7908a44627eb4dd116ac6119fa9c09
 
@@ -568,9 +535,6 @@ https://github.com/ezio84/abc_vendor_nexus/commit/77c18ec8e51b4fc7816e611289db70
 https://github.com/ezio84/abc_vendor_nexus/commit/e5321f743e458c283c49aca8c128f57b18a9a5f1
 from https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/fd5f98aacf27282dd4c2e6e0c498657c79f27be3
 to https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/3cc9a1266bdc39569397a26b2cf9816cda68406e
-
-Remove aosp su for full magisk hide support
-https://github.com/ezio84/abc_system_extras/commit/507c965d504f9f142799f8cc155b38c7c2b98721
 
 Show a more descriptive message when vendor.img is out of date
 https://github.com/ezio84/abc_frameworks_base/commit/580d440bf49f08283da22fe18ef75276ff80efbc
@@ -587,10 +551,8 @@ https://github.com/GZOSP/frameworks_base/commit/976478e088053d4706c987a30000c80c
 Optimize IncallUI delay for voice calls 
 https://github.com/ezio84/abc_frameworks_base/commit/b58f07498d19c0d70d27da4f0a5860074deebbc5
 
-Other stuff/fixes
-https://github.com/ezio84/abc_frameworks_base/commit/e00d8196463ec9fe5d1a19215b49377deb2cf5f9
-https://github.com/ezio84/abc_frameworks_base/commit/4f119b2c5e3008ae9cf3dfcf814363bc6ed2a174
-
+Settings: check for enabled location in twilight mode
+https://github.com/ezio84/abc_packages_apps_Settings/commit/0b37c1dd1774da68dae254f51e28e42b9e5e8efe
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -641,7 +603,7 @@ https://github.com/ezio84/abc_packages_providers_MediaProvider/commit/54cb5fcc04
     https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/e04166bcf719049d16ad1d32effdbd797645be60
     https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/e04166bcf719049d16ad1d32effdbd797645be60
 https://github.com/ezio84/abc_packages_apps_Settings/commit/4d72a83b54f5e7899c5226b03244b881216e4d52
-https://github.com/ezio84/abc_packages_apps_Settings/commit/4d72a83b54f5e7899c5226b03244b881216e4d52
+https://github.com/ezio84/abc_packages_apps_Settings/commit/c0000216c0523b06adce6abf36fb5bd6efb8c32e
     https://github.com/ezio84/abc_packages_apps_Dialer/commit/f017c287ed9e0277ef46853d5e9b16c29ee989cd
 https://github.com/ezio84/abc_frameworks_av/commit/dcdf7b92ade712ad15cba389c275f1f9418303b9
 https://github.com/ezio84/abc_frameworks_av/commit/48e4ee4fd2c7f8b822e152d6a4eba26d2d001e63
@@ -653,5 +615,38 @@ https://github.com/ezio84/abc_vendor_nexus/commit/2620a94be1aa54b475eed99ab29306
 then add this overlay:
 https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
 (just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
+
+Remove aosp su for full magisk hide support
+https://github.com/ezio84/abc_system_extras/commit/507c965d504f9f142799f8cc155b38c7c2b98721
+
+Generic important fixes that Google forgot
+https://github.com/ezio84/abc_frameworks_base/commit/85b2fd8b745f4b156ff5ebf724d6a338d6fa2128
+
+APN fixes and updates
+https://github.com/ezio84/abc_packages_services_Telephony/commit/3d2dca3e0912f659ce63ac2d258a1d9521745597
+https://github.com/ezio84/abc_packages_services_Telephony/commit/73e2b787b611c745bd4bfed2479d783b8aa807ff
+https://github.com/ezio84/abc_frameworks_base/commit/8837e5060d9d1d4d1ae6ef5288fd77afd57a07c4
+https://github.com/ezio84/abc_frameworks_base/commit/7cacf26a7c7b3da32991eafce605f566ae4afd18
+PS: dropped roaming commits because on 8.1.x those configs have been moved to carrierconfig: 
+https://github.com/ezio84/abc_frameworks_base/commit/1c6027c156c1e0ffbadcef3415d46c27116881dd
+
+Block System Update services and related wakelocks
+https://github.com/ezio84/abc_frameworks_base/commit/a88786a04ee9a00874b8ec5978ea50355afcdb18
+https://github.com/ezio84/abc_frameworks_base/commit/86b0ac432449f25630f6f90f179e2d5221ecb4f2
+https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd11d9422e76c
+https://github.com/ezio84/abc_packages_apps_Settings/commit/730f60b0bc8acd4ccc197b2636e6b9ecb11a80ea
+    Cleanup Settings from ota, bug report and similar stuff
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/5bc855488e52b0994b7bd10e125a20685337470a
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/6170af8af479bd2d53cc55243935b1ef869e5abb
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/c538253680392c8d396bee91044f718e15f3e680
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/9f9ad78ed4e76961e281d7cc0cc9ea8e2e74b937
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/5f4263c995fb4b423258ac75935e3d974e4acaea
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/85c04ad87150485ee3fe8068b67ff2b16f0018f5
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/dbb835f0f82a94547e6defaf43a5d636fe3960b7
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/281d5def3466ab98a5002b7facb954256a00a68d
+Force disable OTA  and Enable Development Settings By Default regardless of build type
+https://github.com/ezio84/abc_packages_apps_Settings/commit/2a0ca8096e010fab08666f7bb8b091a2fbd2bc55
+https://github.com/ezio84/abc_packages_apps_Settings/commit/4c5d9f21b335c79f27b57fed4a0487e0c8cd99c4
+https://github.com/ezio84/abc_frameworks_base/commit/bd70d9d661e87fde43fff176ed6cb03238b1c93e
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
