@@ -570,6 +570,9 @@ to https://github.com/ezio84/abc_system_sepolicy/commit/ae7ef60188242c536352e3bc
 then from https://github.com/ezio84/abc_build/commit/e87407ebe5141717469ed8be4168b7df29d06c64
 to https://github.com/ezio84/abc_build/commit/8793dbf4d4c99aea949f9aa5a8c952908074e23f
 
+then
+https://github.com/ezio84/abc_build_soong/commit/6e331a3448350f302ac10204001d8b72ad4c8f86
+
 then add vendor/nexus custom tree
 
 Build kernel inline
