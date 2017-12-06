@@ -1,19 +1,21 @@
  . scripts/build_rom.sh angler nosync noclean log on
  . scripts/build_apk.sh angler nosync noclean log SystemUI
  . scripts/build_apk.sh angler nosync noclean log Settings
- . scripts/build_apk.sh angler nosync noclean log Gallery2
-  . scripts/build_apk.sh angler nosync noclean log OmniSwitch
- . scripts/build_apk.sh angler nosync noclean log ThemeInterfacer
+ . scripts/build_apk.sh angler nosync noclean log MusicFX
+ . scripts/build_apk.sh angler nosync noclean log Launcher3
+ . scripts/build_apk.sh angler nosync noclean log Dialer
  
  . scripts/build_kernel.sh angler log
  linux kernel new tags: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/
  
-git push abc n2
+git push abc o2
 
 adb root
 adb remount
 adb push Settings.apk /system/priv-app/Settings/Settings.apk
 adb push SystemUI.apk /system/priv-app/SystemUI/SystemUI.apk
+adb push Settings.odex /system/priv-app/Settings/oat/arm64/Settings.odex
+adb push Settings.vdex /system/priv-app/Settings/oat/arm64/Settings.vdex
 
 find strings in the rom source: grep -r "TEXTtoFIND"
 find commit msg in the history: git log --grep="<part_of_commit_message>"
@@ -31,7 +33,7 @@ to type a tilde ~: AltGR+ì (or Alt+126 on Win)
  Shift + Alt Gr + è  --for: {
  Shift + Alt Gr + +  --for: }
  
-git push ssh://ezio84@gerrit.dirtyunicorns.com:29418/android_external_DUtils/ HEAD:refs/for/n7x
+git push ssh://ezio84@gerrit.dirtyunicorns.com:29418/android_frameworks_base/ HEAD:refs/for/o8x
 git push ssh://ezio84@review.projektsubstratum.com:29418/SubstratumResources/platform_frameworks_base HEAD:refs/for/n-mr1-oms7
 git push ssh://ezio84@review.slimroms.org:29418/SlimRoms/frameworks_opt_slim HEAD:refs/for/ng7.1
 to add a topic to the commit: HEAD:refs/for/lp5.1l%topic=XXXXXXX
