@@ -533,10 +533,6 @@ https://github.com/ezio84/abc_vendor_nexus/commit/5f40d38467da6aa060ed6310cef042
 Set a default theme for Gboard if it's installed
 https://github.com/ezio84/abc_vendor_nexus/commit/300b12f0ef73a5042f98218d7fe0dc632ba236c7
 
-Use 3gb dalvik heap and hwui 
-https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f167fe20274188218ddda
-https://github.com/ezio84/abc_frameworks_native/commit/643dee8d338bb62cd9127c59efed71527d482b94
-
 APN fixes and updates
 https://github.com/ezio84/abc_packages_services_Telephony/commit/27d06fbc89f42814882bffffd495e1a945305783
 https://github.com/ezio84/abc_frameworks_base/commit/6020ba0b66c78a1b898a63623b504656accc3bce
@@ -544,33 +540,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/9b87892492bcd2e332dc6904757
 then cherry-pick from https://github.com/ezio84/abc_frameworks_base/commit/4067f0fbb57eb7850d9157865f19a720c06b3316
 to https://github.com/ezio84/abc_frameworks_base/commit/8eff07d31eee49ae3bd1f9eee3907ca699707885
 https://github.com/ezio84/abc_packages_services_Telephony/commit/cfb676defb0ff788f44dcd74c7ad4fbb69bfcfeb
-
-Permissions/gapps fixes
-https://github.com/ezio84/abc_packages_providers_MediaProvider/commit/1806383b68693e13f1779facc4924f5ad03ea191
-https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/ec5948ac5c8c7da78fefbae78c7477c3f2cb25f7
-https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/3b78a1119a54f40a6c7a57c10402d6f62e645d85
-https://github.com/ezio84/abc_packages_apps_Settings/commit/162bb6e886d51c589a31055e6bdfa18c68624f6d
-https://github.com/ezio84/abc_packages_apps_Settings/commit/234c3f1a779762d521ec04f0c931b2395160d9a5
-https://github.com/ezio84/abc_packages_apps_Dialer/commit/a7c498733114e126f105d8c4b159b3d9f1782604
-https://github.com/ezio84/abc_frameworks_av/commit/52a70c2a8ea2bb7cb26d369c82edc0f69e4c3486
-https://github.com/ezio84/abc_frameworks_av/commit/651e59a518b68d20acb3c3e9cd47c797d1228820
-https://github.com/ezio84/abc_frameworks_base/commit/3ebd914b9215c8f0ef617666371f0efb68d5fd37
-https://github.com/ezio84/abc_frameworks_base/commit/368b36f9a953199ceade4c9b08303fcd7bb46d71
-https://github.com/ezio84/abc_frameworks_base/commit/d136339f1a69f3e2ffe9cd88351955f914254a3e
-https://github.com/ezio84/abc_frameworks_base/commit/31d6f515998f265c6363c9f9ab0fbae03fb4f407
-https://github.com/ezio84/abc_frameworks_base/commit/0f1969cac2332ee129384bfb22884ce658e6b433
-https://github.com/ezio84/abc_frameworks_base/commit/d61b7871cfde2088bb2a8fedffa8ae7574db6f57
-https://github.com/ezio84/abc_frameworks_base/commit/0fec41c3139db192f602cac9a315703c1caa8b68
-https://github.com/ezio84/abc_frameworks_base/commit/2ba6fd570c22a99c07ad42d8c6042174f5596dbc
-https://github.com/ezio84/abc_frameworks_base/commit/102f85141cd1ca718be23366607cfbbdd8480b70
-https://github.com/ezio84/abc_frameworks_base/commit/d762482efa628a4ab4dd3a31d8a911ad9f4aac90
-https://github.com/ezio84/abc_frameworks_base/commit/d961ca6be2f57d0a094ffa91c7ad904142cccb4e
-https://github.com/ezio84/abc_vendor_nexus/commit/d4cc65afa2591fd129564279f2e9875c988cb1dd
-https://github.com/ezio84/abc_vendor_nexus/commit/c042123a2a4157268c4465526b16d53c52a50535
-https://github.com/ezio84/abc_vendor_nexus/commit/2620a94be1aa54b475eed99ab29306d2429b10fe
-then add this overlay:
-https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
-(just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
 
 Block System Update services and related wakelocks
 https://github.com/ezio84/abc_frameworks_base/commit/5467c388fd213778fcb0b3dcf14f8da8d91c5190
@@ -594,10 +563,6 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/046d2604c5218eb46aa8
 Enable doze power saving for all devices
 https://github.com/ezio84/abc_vendor_nexus/commit/4ead31f89d7908a44627eb4dd116ac6119fa9c09
 
-Twrp compatibility fixes
-https://github.com/ezio84/abc_bootable_recovery/commit/183ffa7eb8008a8c45f93d30f47a555b71a949f2
-https://github.com/ezio84/abc_bootable_recovery/commit/7b53ead9961cdc2024480beef117dad01bb6e21f
-
 LatinIME fixes and improvements
 https://github.com/ezio84/abc_vendor_nexus/commit/77c18ec8e51b4fc7816e611289db70dc3c1f1092
 https://github.com/ezio84/abc_vendor_nexus/commit/e5321f743e458c283c49aca8c128f57b18a9a5f1
@@ -605,7 +570,7 @@ from https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/fd5f98a
 to https://github.com/ezio84/abc_packages_inputmethods_LatinIME/commit/3cc9a1266bdc39569397a26b2cf9816cda68406e
 
 Remove aosp su for full magisk hide support
-https://github.com/ezio84/abc_system_extras/commit/4425ce5ceca1a6782324ab2c28ab7ad088ffa926
+https://github.com/ezio84/abc_system_extras/commit/507c965d504f9f142799f8cc155b38c7c2b98721
 
 Show a more descriptive message when vendor.img is out of date
 https://github.com/ezio84/abc_frameworks_base/commit/580d440bf49f08283da22fe18ef75276ff80efbc
@@ -635,7 +600,7 @@ to
 https://github.com/ezio84/abc_system_core/commit/10d62e03dd239b9f29a47d3f1e284ee7481f28ed
 
 then from https://github.com/ezio84/abc_bootable_recovery/commit/a0b9cd2367e6a6f9b4a6955bac2102fa085f4261
-to https://github.com/ezio84/abc_bootable_recovery/commit/455cb821e0792ff722ffba3ea2b83e17e215d15a
+to https://github.com/ezio84/abc_bootable_recovery/commit/e87a56558d25611b136017db517d18e26f2ed912
 
 then from https://github.com/ezio84/abc_system_sepolicy/commit/0f35fad7d22bf6ad564300cbfd4a22caf3923c33
 to https://github.com/ezio84/abc_system_sepolicy/commit/ae7ef60188242c536352e3bca806c4f947f32d6c
@@ -664,7 +629,29 @@ from https://github.com/ezio84/abc_device_huawei_angler/commit/3b7e8680aa83fdc21
 to 
 https://github.com/ezio84/abc_device_huawei_angler/commit/15b560b4358e1a052f84c6b181ab12bbd293a6ce
 
+Use 3gb dalvik heap and hwui 
+https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f167fe20274188218ddda
+https://github.com/ezio84/abc_frameworks_native/commit/9dc2e1ff66434b7a31d4618451fc6d356da03b08
+
 Add custom proto metrics
 https://github.com/ezio84/abc_frameworks_base/commit/a81141245a91c843b40db064cbc13b15f2b6a409
+
+Permissions/gapps fixes
+https://github.com/ezio84/abc_packages_providers_MediaProvider/commit/54cb5fcc04f1ddcd3f6a4e7890b73d389900c64f
+    https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/e04166bcf719049d16ad1d32effdbd797645be60
+    https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/e04166bcf719049d16ad1d32effdbd797645be60
+https://github.com/ezio84/abc_packages_apps_Settings/commit/4d72a83b54f5e7899c5226b03244b881216e4d52
+https://github.com/ezio84/abc_packages_apps_Settings/commit/4d72a83b54f5e7899c5226b03244b881216e4d52
+    https://github.com/ezio84/abc_packages_apps_Dialer/commit/f017c287ed9e0277ef46853d5e9b16c29ee989cd
+https://github.com/ezio84/abc_frameworks_av/commit/dcdf7b92ade712ad15cba389c275f1f9418303b9
+https://github.com/ezio84/abc_frameworks_av/commit/48e4ee4fd2c7f8b822e152d6a4eba26d2d001e63
+    from https://github.com/ezio84/abc_frameworks_base/commit/8c7d03c48a640ab4b61e92317015a0c7131628dd
+    to https://github.com/ezio84/abc_frameworks_base/commit/22adaac7944c6073d8a93eaa312935fb8f7fc327
+https://github.com/ezio84/abc_vendor_nexus/commit/d4cc65afa2591fd129564279f2e9875c988cb1dd
+https://github.com/ezio84/abc_vendor_nexus/commit/c042123a2a4157268c4465526b16d53c52a50535
+https://github.com/ezio84/abc_vendor_nexus/commit/2620a94be1aa54b475eed99ab29306d2429b10fe
+then add this overlay:
+https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
+(just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
