@@ -640,19 +640,23 @@ https://github.com/ezio84/abc_vendor_nexus/commit/93c448eb36daa8302bf06307ccccd1
 https://github.com/ezio84/abc_packages_apps_Settings/commit/730f60b0bc8acd4ccc197b2636e6b9ecb11a80ea
     Cleanup Settings from ota, bug report and similar stuff
     https://github.com/ezio84/abc_packages_apps_Settings/commit/5bc855488e52b0994b7bd10e125a20685337470a
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/6170af8af479bd2d53cc55243935b1ef869e5abb
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/c538253680392c8d396bee91044f718e15f3e680
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/9f9ad78ed4e76961e281d7cc0cc9ea8e2e74b937
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/5f4263c995fb4b423258ac75935e3d974e4acaea
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/85c04ad87150485ee3fe8068b67ff2b16f0018f5
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/dbb835f0f82a94547e6defaf43a5d636fe3960b7
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/281d5def3466ab98a5002b7facb954256a00a68d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e19446fa76d7d6265f6511ae7245427cfd2c9b46
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a9202bfdf56dbb07a58f2bd1a6cdea643a7f728c
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/b78830e16e4c59f8f38e486407e56b2ce2b2100b
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/b981e17990d9ac0795eb6c13abf99b2391638047
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/ed1a76178de21bc669d7e94bc121d500e17371a6
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/9f31112593baaaf1aa5d2ed564aab3d24484caee
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a6fbf2b98197dfb0870e8ed186eadfe07dfda48f
 Force disable OTA  and Enable Development Settings By Default regardless of build type
-https://github.com/ezio84/abc_packages_apps_Settings/commit/2a0ca8096e010fab08666f7bb8b091a2fbd2bc55
-https://github.com/ezio84/abc_packages_apps_Settings/commit/4c5d9f21b335c79f27b57fed4a0487e0c8cd99c4
+https://github.com/ezio84/abc_packages_apps_Settings/commit/c04d823f586c7cccf42ed433ccfd8560a9092a1c
+https://github.com/ezio84/abc_packages_apps_Settings/commit/17146ed53d0ecb33047a7329f46f78a0553ab7f1
 https://github.com/ezio84/abc_frameworks_base/commit/bd70d9d661e87fde43fff176ed6cb03238b1c93e
 
 If not building Email app, add this:
 https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/807daec81025951361c4758c27bf94a4bce3329b
+
+Restore some needed recovery functions
+from https://github.com/ezio84/abc_bootable_recovery/commit/a0b9cd2367e6a6f9b4a6955bac2102fa085f4261
+to https://github.com/ezio84/abc_bootable_recovery/commit/63e27ad983fba146ddc8af5e55a805bdbbc1f1a7
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
