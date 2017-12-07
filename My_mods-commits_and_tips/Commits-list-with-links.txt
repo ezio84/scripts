@@ -592,7 +592,7 @@ Then
 6p Device tree shit:
 from https://github.com/ezio84/abc_device_huawei_angler/commit/3b7e8680aa83fdc21425314fdbe2bcaac9b4cef2
 to 
-https://github.com/ezio84/abc_device_huawei_angler/commit/15b560b4358e1a052f84c6b181ab12bbd293a6ce
+https://github.com/ezio84/abc_device_huawei_angler/commit/214b1fbbf6803b91ae667494e59da2894c25d8c0
 
 Use 3gb dalvik heap and hwui 
 https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f167fe20274188218ddda
@@ -651,5 +651,8 @@ Force disable OTA  and Enable Development Settings By Default regardless of buil
 https://github.com/ezio84/abc_packages_apps_Settings/commit/2a0ca8096e010fab08666f7bb8b091a2fbd2bc55
 https://github.com/ezio84/abc_packages_apps_Settings/commit/4c5d9f21b335c79f27b57fed4a0487e0c8cd99c4
 https://github.com/ezio84/abc_frameworks_base/commit/bd70d9d661e87fde43fff176ed6cb03238b1c93e
+
+If not building Email app, add this:
+https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/807daec81025951361c4758c27bf94a4bce3329b
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
