@@ -313,7 +313,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a12
 Increase Zenmode max hour limit from 12 to 24 
 https://github.com/ezio84/abc_frameworks_base/commit/ea0828f04a30122c12eecd6fdddcda578acadb4c
 
-Enable Ambient burn-in protection *useful only if you enable always on ambient *reverted on my source
+Enable Ambient burn-in protection *useful only if you enable always on ambient <<< reverted, seems not really working
 https://github.com/ezio84/abc_device_huawei_angler/commit/e86974adbe45e4e9643008d2d75af95259939725
 
 Fingerprints: Increase MAX_FAILED_ATTEMPTS before requesting pin/pattern
@@ -509,7 +509,7 @@ Settings: check for enabled location in twilight mode
 https://github.com/ezio84/abc_packages_apps_Settings/commit/8f5b561cdce86df6b026b4b26ce01c0d36f7a337
 
 Allow all rotations (thus also 180°)  << reverted, after a while it becomes pretty annoying
-https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85b210942e7a6b155ea2
+https://github.com/ezio84/abc_device_huawei_angler/commit/1482884ca17b6d5edb4e49fb717d869e1ae108a7
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
@@ -581,10 +581,10 @@ Then
 6p Device tree shit:
 from https://github.com/ezio84/abc_device_huawei_angler/commit/3b7e8680aa83fdc21425314fdbe2bcaac9b4cef2
 to 
-https://github.com/ezio84/abc_device_huawei_angler/commit/214b1fbbf6803b91ae667494e59da2894c25d8c0
+https://github.com/ezio84/abc_device_huawei_angler/commit/7878ab5a84d3f6057797f272b4f13d424ac82fbc
 
 Use 3gb dalvik heap and hwui 
-https://github.com/ezio84/abc_device_huawei_angler/commit/490127ad59fc024c544f167fe20274188218ddda
+https://github.com/ezio84/abc_device_huawei_angler/commit/d9f49c7ec36661f5d753cddd765179c9ff390825
 https://github.com/ezio84/abc_frameworks_native/commit/9dc2e1ff66434b7a31d4618451fc6d356da03b08
 
 Add custom proto metrics
