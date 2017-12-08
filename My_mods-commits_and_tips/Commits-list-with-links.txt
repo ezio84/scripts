@@ -70,10 +70,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/d3fa80a895d4efb4eebe237ec0e
 https://github.com/ezio84/abc_frameworks_base/commit/f5c3049d00d6f095f38909b42877fe9090bc4831
 https://github.com/ezio84/abc_frameworks_base/commit/ff26f081ef7e09579319ed9dc4c2131e00554534
 
-Allow to disable "Apps running in background" Android System notification
-https://github.com/ezio84/abc_packages_apps_Settings/commit/b9bd0b52ee586f787e994bfdfec0749ceca06791
-https://github.com/ezio84/abc_frameworks_base/commit/134dfda023c44c2a600321a0d79083d1dba03621
-
 Allow to swap volume buttons rotation based 
 https://github.com/ezio84/abc_frameworks_base/commit/eb027ebde051ff0d7e6f131982950a6e6f2a6879
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/40d85564120a5822fb377fb237162e4d3db9a90c
@@ -419,6 +415,9 @@ https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/2bdc250
 ----------------------------------------------------------------------
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
+
+Persistent background app notification: disable by default
+https://github.com/ezio84/abc_frameworks_base/commit/0d6806c696b51f8b035f22ce38a9f898a29f0280
 
 Disable  tethering provisioning (unlock tethering with some carriers apn)
 https://github.com/ezio84/abc_frameworks_base/commit/c9b3b07d8ec372bd5101ab195b2c4a2b70c38f47
