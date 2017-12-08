@@ -659,5 +659,8 @@ https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/807daec81025951361c
 Restore some needed recovery functions
 from https://github.com/ezio84/abc_bootable_recovery/commit/a0b9cd2367e6a6f9b4a6955bac2102fa085f4261
 to https://github.com/ezio84/abc_bootable_recovery/commit/63e27ad983fba146ddc8af5e55a805bdbbc1f1a7
+
+Fix slow framerate on some devices
+https://github.com/ezio84/abc_frameworks_native/commit/872491991305459b54e07bbac3ee1cc032189eea
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
