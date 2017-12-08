@@ -1,9 +1,6 @@
 Enable Night light mode
-https://github.com/ezio84/abc_device_huawei_angler/commit/0931bb92d51e55f06af27243471b01358c74d5a0
-https://github.com/ezio84/abc_frameworks_base/commit/ef751c3ad3cadd6376f2e2505a1872027a33424a
-
-Angler: allow all rotations (thus also 180°)  …
-https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85b210942e7a6b155ea2
+https://github.com/ezio84/abc_device_huawei_angler/commit/c2b5a0cd4e5cecf4371a21ca53788e88201b9196
+https://github.com/ezio84/abc_frameworks_base/commit/651bba1b84f339f4a378bb2dd3bf33f018d0c132
 
 Disable ongoing statusbar ime switcher notification (don't pick if you want to use sysui tuner ime switcher custom navbar button)
 https://github.com/ezio84/abc_vendor_nexus/commit/0a6fd9213d63eaef48e3848530accae620ddf527
@@ -509,6 +506,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/b58f07498d19c0d70d27da4f0a5
 
 Settings: check for enabled location in twilight mode
 https://github.com/ezio84/abc_packages_apps_Settings/commit/8f5b561cdce86df6b026b4b26ce01c0d36f7a337
+
+Allow all rotations (thus also 180°)  << reverted, after a while it becomes pretty annoying
+https://github.com/ezio84/abc_device_huawei_angler/commit/9e807e510b9d8de0bc3b85b210942e7a6b155ea2
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
