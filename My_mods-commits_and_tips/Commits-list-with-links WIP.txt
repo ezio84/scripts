@@ -25,6 +25,76 @@ High performance audio and gain levels (high perf is enabled by default, to cont
 from https://github.com/ezio84/abc_kernel_huawei_angler/commit/17413a7224f03ae237744d77d4c36a60e84b4073
 to https://github.com/ezio84/abc_kernel_huawei_angler/commit/bf8afb926cd9facb06ca9ad658a0521368589ca9
 
+High Brightness mode:
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/f9deec31db75e050725663ef284b05b8ec292e6e
+https://github.com/ezio84/abc_frameworks_base/commit/d9a165c6660513a85eb81671f1e5f3e9259760eb
+https://github.com/ezio84/abc_device_huawei_angler/commit/934ab48cce83ac96d11ddc7672aad6e3b44f5d49
+
+PowerMenu: add a toggleable recovery/bootloader action
+https://github.com/ezio84/abc_frameworks_base/commit/37726d2871005d9586a21b9b418e38bbcc997a2d
+https://github.com/ezio84/abc_frameworks_base/commit/0adb74e0b9970840ebccbf02ae0b304061766238
+
+Add Power+VolUp action to catch a partial area screenshot
+https://github.com/ezio84/abc_frameworks_base/commit/a087aaec8fd15b12b6a9ef2c1d53708f6b4bf8a0
+
+Add additional battery saver steps
+https://github.com/ezio84/abc_packages_apps_Settings/commit/41cc7db15a9da77a8400db0ccf5b34d3a618dc9e
+
+Display bluetooth battery status when available
+https://github.com/ezio84/abc_frameworks_base/commit/3c155d831efca7107f62d132bfcc2a59d218e538 
+https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/2f5b2a15877eac8e641a3f2ec2a195c06dffa5d9 **not needed anymore on 8.1, already added by google
+
+Night Light auto lower brightness mode
+https://github.com/ezio84/abc_frameworks_base/commit/58f9491d5e2659655c4199e8ae7af5bd7b8c72ff
+https://github.com/ezio84/abc_packages_apps_Settings/commit/3c8c29778786d82e84f0658f556b6ff882130398
+
+Enable battery percentage in statusbar by default
+https://github.com/ezio84/abc_frameworks_base/commit/bb71acc909678af2c494db63a3f1a14993eb744e
+https://github.com/ezio84/abc_packages_apps_Settings/commit/dbb1d7f9b5203a469a6494a5ae722c529bf991b9
+
+Make "Turn on WiFi Automatically" available for all
+https://github.com/ezio84/abc_frameworks_base/commit/7e93ea9e9d3761e7c36bb14e207cc9f091e60fe6
+
+PackageInstaller: Show versions when installing or updating packages
+https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/5770ae054ed0699562ce563569734a95894ad61c
+
+Change power save mode color to sexy red
+https://github.com/ezio84/abc_frameworks_base/commit/9259dc0523b0ec6da765d118de7af49227b8d3b1
+
+Dialer auto proximity speakerphone 
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/681f42db7457b132d55899d5e853a043be29a646
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/145461035f0a7e19811374fa9ce17267ed9fd11a
+
+Dialer in-call vibration
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/2da462956f6a725126eceedc3bad05fd23efeddb
+
+Increase Zenmode max hour limit from 12 to 24 
+https://github.com/ezio84/abc_frameworks_base/commit/922fe8198c2264f8236b1ad67b44b65bb88db658
+
+Fingerprints: Increase MAX_FAILED_ATTEMPTS before requesting pin/pattern
+https://github.com/ezio84/abc_frameworks_base/commit/7805bd5e5e25ee5a8a4605b922d24011a9e03289
+
+Pixel launcher adaptive icon option
+Be sure to have this: https://github.com/ezio84/abc_frameworks_base/commit/bd70d9d661e87fde43fff176ed6cb03238b1c93e#diff-0be32d12a7fe6052db0bf1f7ebb204f6
+then
+https://github.com/ezio84/abc_vendor_nexus/commit/e2984a156c710c12dcc1c6a4d3bd38b48f88d02c
+https://github.com/ezio84/abc_frameworks_base/commit/ee54ab9e88eabd3c7ee6bd3b07feefe2c23636a2
+
+Allow more volume steps
+https://github.com/ezio84/abc_frameworks_base/commit/790501b34a6c343708853b18ae455fb47522f893
+https://github.com/ezio84/abc_vendor_nexus/commit/63e6f696578b8011e18bbc6a8c165fd2de96182a
+https://github.com/ezio84/abc_vendor_nexus/commit/6b2f2da6f03095a014eae2711b72c9fb1914b5ac
+
+Add a prebuilt busybox fstrim bin (for Tasker or terminal)
+https://github.com/ezio84/abc_vendor_nexus/commit/4487e559e1a480400820212b75d1a2abff7429bc
+
+Show detailed kernel infos in System info menu
+https://github.com/ezio84/abc_packages_apps_Settings/commit/5edd44dfe6e75db4c7d2ce527062ab47eecbff48
+https://github.com/ezio84/abc_packages_apps_Settings/commit/357ffba2d3cbede1f12f8d8620cdca343edbeb4b
+
+Add '24 hours' as an option for snoozing notifications
+https://github.com/ezio84/abc_frameworks_base/commit/e512a8212d71263039794479b60d0535ce9d77e3
+
 SystemUi tuner bringup
 https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
 https://github.com/ezio84/abc_frameworks_base/commit/d4e4816100cbda1203ac1877625bf86064d23e0b
@@ -41,15 +111,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/599bbf89aa530d020e954689566
     https://github.com/ezio84/abc_frameworks_base/commit/7b52777fabb863c7f017e43bb7cdbf62a1cd07ca
     https://github.com/ezio84/abc_frameworks_base/commit/848611bfee2c12efc3c57f966d6acbb258811198
     https://github.com/ezio84/abc_frameworks_base/commit/4ecf5384a3344fa52bc4d89a81480f4b4e74f776
-
-PowerMenu: add a toggleable recovery/bootloader action
-https://github.com/ezio84/abc_frameworks_base/commit/ae6c26677f748c05d464629ccbac138aa0a20c15
-https://github.com/ezio84/abc_frameworks_base/commit/1a8038b4c4ff6608f6d1fe5c502e0ef3c73249bd
-
-Power menu vectorized sound panel selector
-https://github.com/ezio84/abc_frameworks_base/commit/7ee3e1e7c0089ec584af23ed028e01cbccd07ec6
-Power menu fixes
-https://github.com/ezio84/abc_frameworks_base/commit/6ef1eefed050bbe189cb7f95ca7664a85d674a31
 
 Stock Navbar improvements and custom features
 Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
@@ -84,15 +145,9 @@ QS quick right pulldown
 https://github.com/ezio84/abc_frameworks_base/commit/469a3fd24bf347d6ec708273fa468c3b6c625aaf
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9611e935c494d10291396dd9c514b0eef898d74
 
-Add Power+VolUp action to catch a partial area screenshot
-https://github.com/ezio84/abc_frameworks_base/commit/66378b1ee651d7fffadfd2b1fd138c1eb6aa02d5
-
 Volume key music control to skip tracks on screen off
 https://github.com/ezio84/abc_frameworks_base/commit/b252b4c1011cfa8789927cec3403bb4002703d4b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c0841a0ad56758eb9efabdf12331863cb990945a
-
-Add additional battery saver steps
-https://github.com/ezio84/abc_packages_apps_Settings/commit/8c9b1ff4d695127f8c369c05c9003b58fdbca79d
 
 Disable Lockscreen Media Art 
 https://github.com/ezio84/abc_frameworks_base/commit/2b4d10602381d9a5bd6daa639a83759e575277b2
@@ -110,19 +165,6 @@ Allow to doubletap or longpress power to toggle flashlight
 https://github.com/ezio84/abc_frameworks_base/commit/5618c47f7f50263e92fa78766e7bb6b057d800ea
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/24e76a9d219b7f2123f76145d50a0e28c77a5117
 https://github.com/ezio84/abc_packages_apps_Settings/commit/54c1024855196bb8fc44043ca70d4fc7043f70a5
-
-High Brightness mode:
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/f9deec31db75e050725663ef284b05b8ec292e6e
-https://github.com/ezio84/abc_frameworks_base/commit/107902b064ab7e7bb231dd58afbe7a066549a521
-https://github.com/ezio84/abc_device_huawei_angler/commit/7e7b7251b3298464abfd0264d5283fcd85251aab
-
-Speed up fingerprint unlock with OP hack
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/4e4e743c6d7f8b59ea70e36a54741e8f8134a2ab
-https://github.com/ezio84/abc_kernel_huawei_angler/commit/06904deea1705d63abd6599e64142593c893786d
-
-Display bluetooth battery status when available
-https://github.com/ezio84/abc_frameworks_base/commit/382510975d32ab277e394d3a74f87304e9cd0ee6
-https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/2f5b2a15877eac8e641a3f2ec2a195c06dffa5d9
 
 Launch music player on headset connect:
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/85d342df5c6f339958ba68a5749ad70cd8c143d7
@@ -201,9 +243,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78b
     https://github.com/ezio84/abc_frameworks_base/commit/b256d780efd6d42cbfb3c9740cad89086a239ac5
     https://github.com/ezio84/abc_frameworks_base/commit/e36d8ec6393601909f8e82e8fadb871a770afe94
 
-Fix aosp tiles race condition
-https://github.com/ezio84/abc_frameworks_base/commit/7b2ac5def9f03897e1811c1e254f50637c489f3b
-
 Remove grey gap between QS panel and notifications
 https://github.com/ezio84/abc_frameworks_base/commit/c4cc216a15c67321fff04c2582ddb796b4ee41c6
 
@@ -216,10 +255,6 @@ Allow to disable qs footer warnings
 https://github.com/ezio84/abc_frameworks_base/commit/bed123e376f24ab425f806e62a638b2e135e5606
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fe444e041609a055e169e7527f2efe9c1a2f0cd4
 
-Night Light auto lower brightness mode
-https://github.com/ezio84/abc_frameworks_base/commit/17fa8aa38cf6224cb0b3c3494386157d2756804b
-https://github.com/ezio84/abc_packages_apps_Settings/commit/9e9a22e3e3ca691f5f62f4e46d2ffc39482e1fd2
-
 Allow to set custom brightness for ambient display and liftToWwake
 https://github.com/ezio84/abc_frameworks_base/commit/933b1fc3e9f816056b404ea30eab6bfb28d74dfd
 https://github.com/ezio84/abc_packages_apps_Settings/commit/854bba6030c5dd7868220b8fdcf8e17d431780eb
@@ -228,23 +263,13 @@ Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/3a12108efb2ac8d3c210b7aef100c03639d9cc0a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f9bf22b975b821934fcc86ca97588670dbf74bad
 
-Enable battery percentage in statusbar by default
-https://github.com/ezio84/abc_frameworks_base/commit/43b8fd43269cb63e6c00a559632549e8431cc82c
-https://github.com/ezio84/abc_packages_apps_Settings/commit/24568096f77ca3d58bbf9e16838d54168a961626
-
 Less boring heads up option 
 https://github.com/ezio84/abc_frameworks_base/commit/55e776e7d4fae401bcb501c3a594ca8fdefbfbba
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fad439bd7886f0aa074300dd016c0e3c41fd87a8
 https://github.com/ezio84/abc_frameworks_base/commit/f2890e3709d74afdeb530e9887d836415693d3dd
 
-Make "Turn on WiFi Automatically" available for all
-https://github.com/ezio84/abc_frameworks_base/commit/6a696330083103de7b26a91671e043d02020bd0a
-
 Remove Settings dashboard conditions and suggestions
 https://github.com/ezio84/abc_packages_apps_Settings/commit/643ad0af9f169953ea49c7df56817cd32a340add
-
-PackageInstaller: Show versions when installing or updating packages
-https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/2aae3311581175f3ba6eecb022f96fc758863d76
 
 Statusbar Net monitor
 https://github.com/ezio84/abc_frameworks_base/commit/872f640cef55dadca40d9690800141136a044c27
@@ -268,20 +293,6 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1d76b5689c3d282fb
 Disable power menu on secure lock screen
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9b9f1684c74e518d6bdbd2ec248b534bcc59c0a4
 https://github.com/ezio84/abc_frameworks_base/commit/dc96c8162f3bbaf324523e52e054413fff74c0bf
-
-Enable led light for notifications by default
-https://github.com/ezio84/abc_frameworks_base/commit/53856cf9b7d914e582e97c9011b5fadd491b7c32
-https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7ca5dcc8a90532742e53b
-
-Dialer auto proximity speakerphone 
-https://github.com/ezio84/abc_packages_apps_Dialer/commit/123427435140293ba751b906d8dfe92bc7b2a4f2
-https://github.com/ezio84/abc_packages_apps_Dialer/commit/2f739f894c1d9c597dcde64a4739d0d4fbb7be4a
-
-Dialer in-call vibration
-https://github.com/ezio84/abc_packages_apps_Dialer/commit/f8ea99b868433dd0b67fc3b7d79890a3a0724611
-
-Change power save mode color to sexy red
-https://github.com/ezio84/abc_frameworks_base/commit/a44dcf156ee8235369fc5a6e5c8c62d21304ce83
 
 Recents panel improvements
     Allow to kill any app from recents panel in a safe way
@@ -310,32 +321,13 @@ Vibrate on plug
 https://github.com/ezio84/abc_frameworks_base/commit/11695547aead0971900cd2206a65684c7e99981e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a1255e4478a972d52fd5503478
 
-Increase Zenmode max hour limit from 12 to 24 
-https://github.com/ezio84/abc_frameworks_base/commit/ea0828f04a30122c12eecd6fdddcda578acadb4c
-
 Enable Ambient burn-in protection *useful only if you enable always on ambient <<< reverted, seems not really working
 https://github.com/ezio84/abc_device_huawei_angler/commit/e86974adbe45e4e9643008d2d75af95259939725
-
-Fingerprints: Increase MAX_FAILED_ATTEMPTS before requesting pin/pattern
-https://github.com/ezio84/abc_frameworks_base/commit/ee1059fd00d76ba4a01d81a7bfbf2e86c4e534c6
 
 Unlink ringtone and notification volume
 https://github.com/ezio84/abc_frameworks_base/commit/dbebc62ba735690f96537c5e92acbc489055d22f
 https://github.com/ezio84/abc_frameworks_base/commit/664e67eeacfe5ee2224571672d987e190025b68a
 https://github.com/ezio84/abc_packages_apps_Settings/commit/d73da2d392a390e87b37f94da80b980af06abb82
-
-Pixel launcher adaptive icon option
-https://github.com/ezio84/abc_frameworks_base/commit/e1fc7b93c7ad017938731f38c495f68028159358
-https://github.com/ezio84/abc_vendor_nexus/commit/e2984a156c710c12dcc1c6a4d3bd38b48f88d02c
-https://github.com/ezio84/abc_frameworks_base/commit/e001618e84d5cbc4b3b02836335ce00c6347c059
-
-Move Gestures to their own menu
-https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd85a0739eca647e96aa78
-
-Allow more volume steps
-https://github.com/ezio84/abc_frameworks_base/commit/5dfc11742845ad623f05ffd89a27f2c1eee555b1
-https://github.com/ezio84/abc_vendor_nexus/commit/63e6f696578b8011e18bbc6a8c165fd2de96182a
-https://github.com/ezio84/abc_vendor_nexus/commit/6b2f2da6f03095a014eae2711b72c9fb1914b5ac
 
 Status bar notification ticker
 https://github.com/ezio84/abc_frameworks_base/commit/d152e83ec270d76037a62ba2cb73182560ece8a5
@@ -352,16 +344,6 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/8ef7c8930b0b0c6db
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7166ae330d467c0c63a2b07497fa3f09269a5540
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/76c0ea461daab9558412865a850b76b133f32d9c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bb92973ad66b6a3f57198a7448216ab9637253bb
-
-Add a prebuilt busybox fstrim bin (for Tasker or terminal)
-https://github.com/ezio84/abc_vendor_nexus/commit/4487e559e1a480400820212b75d1a2abff7429bc
-
-Show detailed kernel infos in System info menu
-https://github.com/ezio84/abc_packages_apps_Settings/commit/622bf877bbb5d5c1dd6e900ab00e8a7c1e79eb50
-https://github.com/ezio84/abc_packages_apps_Settings/commit/251e632de9498fcaeb2ac686eb4a1b872c07fd42
-
-Add '24 hours' as an option for snoozing notifications
-https://github.com/ezio84/abc_frameworks_base/commit/f2e242561749ebe6b23f0e1541d4863454513850
 
 QS panel brightness slider customization
 https://github.com/ezio84/abc_frameworks_base/commit/390a2386cd1caf92ab0d7bd3e24930ffc2dba251
@@ -413,6 +395,9 @@ https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/2bdc250
 ----------------------------------------------------------------------
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
+
+Move Gestures to their own menu << not needed on 8.1 (google did this), keeping in the list as generic reference to move stuff
+https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd85a0739eca647e96aa78
 
 Disable top left/right statusbar and navbar icons padding for non rounded screen devices
 https://github.com/ezio84/abc_vendor_nexus/commit/f1c230e1654d734d7eae059af1315087e83e9ad1
@@ -545,6 +530,10 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9cca9919cb748d5f1
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4e4cd00cda71e2c66085e5b56a952203bc15cf07
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e783d0eedf219c0ca31b46a750311e97906bf30f
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c82bfb4a131e3b052758677bf23956869b9f013e
+
+Fix aosp tiles race condition
+https://github.com/ezio84/abc_frameworks_base/commit/98dac5ec72989f9b6b546ee2d7105462153d0354
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -660,5 +649,9 @@ https://github.com/ezio84/abc_frameworks_native/commit/872491991305459b54e07bbac
 
 Fix bt calls on some devices (untested on 8.1)
 https://github.com/GZOSP/frameworks_base/commit/976478e088053d4706c987a30000c80c19b6762a
+
+Speed up fingerprint unlock with OP hack ** untested on 8.1
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/4e4e743c6d7f8b59ea70e36a54741e8f8134a2ab
+https://github.com/ezio84/abc_kernel_huawei_angler/commit/06904deea1705d63abd6599e64142593c893786d
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
