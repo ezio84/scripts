@@ -92,6 +92,14 @@ Show detailed kernel infos in System info menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/5edd44dfe6e75db4c7d2ce527062ab47eecbff48
 https://github.com/ezio84/abc_packages_apps_Settings/commit/357ffba2d3cbede1f12f8d8620cdca343edbeb4b
 
+Remove grey gap between QS panel and notifications
+https://github.com/ezio84/abc_frameworks_base/commit/8c2c18a732ace665eb76263d10d1843c6e1d31f8
+
+Lockscreen Charging info 
+https://github.com/ezio84/abc_frameworks_base/commit/93769b9bb0ac23538879ab0234e8d3756e11e005
+https://github.com/ezio84/abc_system_core/commit/9dfc45d4483770ae4f8071bc2b1b269176675e5a
+https://github.com/ezio84/abc_device_huawei_angler/commit/7878ab5a84d3f6057797f272b4f13d424ac82fbc
+
 SystemUi tuner bringup
 https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
 https://github.com/ezio84/abc_frameworks_base/commit/d4e4816100cbda1203ac1877625bf86064d23e0b
@@ -240,9 +248,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78b
     https://github.com/ezio84/abc_frameworks_base/commit/b256d780efd6d42cbfb3c9740cad89086a239ac5
     https://github.com/ezio84/abc_frameworks_base/commit/e36d8ec6393601909f8e82e8fadb871a770afe94
 
-Remove grey gap between QS panel and notifications
-https://github.com/ezio84/abc_frameworks_base/commit/c4cc216a15c67321fff04c2582ddb796b4ee41c6
-
 Allow to set QS panel columns and rows
 https://github.com/ezio84/abc_frameworks_base/commit/7bacad0d766dd3ca44e0a327496d05297829e8a4
 https://github.com/ezio84/abc_frameworks_base/commit/bfd2f6f1d59726be04035b906f2de59e2cafdaaf
@@ -272,11 +277,6 @@ Statusbar Net monitor
 https://github.com/ezio84/abc_frameworks_base/commit/872f640cef55dadca40d9690800141136a044c27
 https://github.com/ezio84/abc_frameworks_base/commit/880b12ceb15e23487a47f7ca983c8941fe0a96f7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
-
-Lockscreen Charging info 
-https://github.com/ezio84/abc_frameworks_base/commit/02d08d2c6bcdf55bde83b3785ea5a2d238fbad90
-https://github.com/ezio84/abc_system_core/commit/7888e1eec42ca7f05ce14abd5fe49de7db8799d6
-https://github.com/ezio84/abc_device_huawei_angler/commit/c7fda5e0fbd2cf03358453fa9e2b8c50816a3edc
 
 Wake on plug
 https://github.com/ezio84/abc_frameworks_base/commit/705e79f3ca92682095c6eb4da49c8ee4aba70abf
