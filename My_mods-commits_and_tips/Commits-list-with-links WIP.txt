@@ -81,7 +81,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/e2984a156c710c12dcc1c6a4d3bd38
 https://github.com/ezio84/abc_frameworks_base/commit/ee54ab9e88eabd3c7ee6bd3b07feefe2c23636a2
 
 Allow more volume steps
-https://github.com/ezio84/abc_frameworks_base/commit/790501b34a6c343708853b18ae455fb47522f893
+https://github.com/ezio84/abc_frameworks_base/commit/cfdf0189af35b835e2465c14b3f4953723c4c023
 https://github.com/ezio84/abc_vendor_nexus/commit/63e6f696578b8011e18bbc6a8c165fd2de96182a
 https://github.com/ezio84/abc_vendor_nexus/commit/6b2f2da6f03095a014eae2711b72c9fb1914b5ac
 
@@ -91,9 +91,6 @@ https://github.com/ezio84/abc_vendor_nexus/commit/4487e559e1a480400820212b75d1a2
 Show detailed kernel infos in System info menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/5edd44dfe6e75db4c7d2ce527062ab47eecbff48
 https://github.com/ezio84/abc_packages_apps_Settings/commit/357ffba2d3cbede1f12f8d8620cdca343edbeb4b
-
-Add '24 hours' as an option for snoozing notifications
-https://github.com/ezio84/abc_frameworks_base/commit/e512a8212d71263039794479b60d0535ce9d77e3
 
 SystemUi tuner bringup
 https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
