@@ -93,8 +93,11 @@ Show detailed kernel infos in System info menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/5edd44dfe6e75db4c7d2ce527062ab47eecbff48
 https://github.com/ezio84/abc_packages_apps_Settings/commit/357ffba2d3cbede1f12f8d8620cdca343edbeb4b
 
-Remove grey gap between QS panel and notifications
+Remove grey gap/shadow between QS panel and notifications
 https://github.com/ezio84/abc_frameworks_base/commit/4a0f1f3c1fba062015d2637242e7bfde3c97f4f6
+
+Disable QS panel transparency
+https://github.com/ezio84/abc_frameworks_base/commit/3fb5a3d0c3595e2ca77b3fb59a52a4fe9819d8eb
 
 Lockscreen Charging info 
 https://github.com/ezio84/abc_frameworks_base/commit/4a4612bd08e68d32d3a8f160540a4fbd3ca3e74e
@@ -168,8 +171,8 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/3ff89309baad1d833
 https://github.com/ezio84/abc_frameworks_opt_telephony/commit/cde5113c20a193ff4a8a9f6db10e63a6b0af230d
 
 DoubletapPowerForCamera disabled by default 
-https://github.com/ezio84/abc_frameworks_base/commit/26ce66d89d79f9d7a97116fb140ff8b09e17397a
-https://github.com/ezio84/abc_packages_apps_Settings/commit/f2dca2b67b941c019d7a53c0b8ebe8229a64ed65
+https://github.com/ezio84/abc_frameworks_base/commit/0b2a59bb3cee3b2a7803cacf5964dc8b3d7fd2e0
+https://github.com/ezio84/abc_packages_apps_Settings/commit/f259faa1899e38e7f5039ffaedc0b13475b6c529
 
 Allow to doubletap or longpress power to toggle flashlight
 https://github.com/ezio84/abc_frameworks_base/commit/5618c47f7f50263e92fa78766e7bb6b057d800ea
@@ -272,7 +275,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fad439bd7886f0aa0
 https://github.com/ezio84/abc_frameworks_base/commit/f2890e3709d74afdeb530e9887d836415693d3dd
 
 Remove Settings dashboard conditions and suggestions
-https://github.com/ezio84/abc_packages_apps_Settings/commit/643ad0af9f169953ea49c7df56817cd32a340add
+https://github.com/ezio84/abc_packages_apps_Settings/commit/0c7b448c72cca0d52d8eda028a6400842c59784f
 
 Statusbar Net monitor
 https://github.com/ezio84/abc_frameworks_base/commit/872f640cef55dadca40d9690800141136a044c27
@@ -352,9 +355,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/f0b9a10ae03c7dd3a7b8766cc50
 https://github.com/ezio84/abc_frameworks_base/commit/d40f18769632d7ddb3c152c8d371f4d647831ca5
 
 Alert when screen off and charging if charge level becomes good
-https://github.com/ezio84/abc_frameworks_base/commit/ffe329445adce4ddda70ed81943645fb0fafcb91
-https://github.com/ezio84/abc_frameworks_base/commit/c45ef134179d0a72c2a8be1549e5a62f7b870c84
-https://github.com/ezio84/abc_packages_apps_Settings/commit/316d74bc8e958a3ebccb4f346dd808a2d56f7a02
+https://github.com/ezio84/abc_frameworks_base/commit/cec1eee6a47d3c5d715bb922779747c82caddd94
+https://github.com/ezio84/abc_packages_apps_Settings/commit/9c21e72d9c123a4e35e81cc3b3133feb7300da85
 
 DUI navbar
 if you pick from my github instead of dui gerrit, be sure to have the sendCustomAction(Intent intent) stuff
@@ -378,10 +380,10 @@ https://github.com/ezio84/abc_packages_apps_DUI/commit/65e26be1088af92f1449160e2
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b45ce83f8f2c4ab2add9d07b974da30421127293
 
 Add download info and support to manually pause/resume downloads 
-https://github.com/ezio84/abc_frameworks_base/commit/14a7016f12abb62ab79d177abdcac1be2fae6143
-https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/b86f6af823e51d0d04f11e2b5df3e267c800ffb1
-https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/b62f45ee69c9b9d5c15fcfa5e2759ff00685928f
-https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/2bdc2507fad43e8ac41a0e3ef5b285f0b5f03fa0
+https://github.com/ezio84/abc_frameworks_base/commit/c3faddb8bb7805242f0c0efe30b28a5de53687f9
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/0235f10e9b7bc3d249afa2cee41fe4433fcfa41b
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/6008b1fa53b5a0ac69d23adfad91b2ff6c744971
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/42c482888c06710b2f3ac7011de515b5fcb3d6ab
 
 
 ----------------------------------------------------------------------
