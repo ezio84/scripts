@@ -27,40 +27,40 @@ to https://github.com/ezio84/abc_kernel_huawei_angler/commit/bf8afb926cd9facb06c
 
 High Brightness mode:
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/f9deec31db75e050725663ef284b05b8ec292e6e
-https://github.com/ezio84/abc_frameworks_base/commit/41456930d26724448e084fe6c17006dc29f69bb6
-https://github.com/ezio84/abc_frameworks_base/commit/48c9dd8abaa746f4412a329189b66aadd50f5490
+https://github.com/ezio84/abc_frameworks_base/commit/0ce647cbd82d7f6a4d49d7bf32aac9905e65e22c
+https://github.com/ezio84/abc_frameworks_base/commit/258cb91151ea0319402268ef060d7e3cd289b46c
 https://github.com/ezio84/abc_device_huawei_angler/commit/934ab48cce83ac96d11ddc7672aad6e3b44f5d49
 
 PowerMenu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/0e1ce2c37930179a67c4771377d18b37480931f6
-https://github.com/ezio84/abc_frameworks_base/commit/7f3b3b38cc9dbd922181fbe7271a43fbb77a7a2f
+https://github.com/ezio84/abc_frameworks_base/commit/601c33963c6d5d12da97562d09522363ec124e47
 
 Add Power+VolUp action to catch a partial area screenshot
-https://github.com/ezio84/abc_frameworks_base/commit/7837674f7c7adceb0e7add4149f86c34fc7f7486
+https://github.com/ezio84/abc_frameworks_base/commit/508c45449baee821cbda8893bf4c709df0858902
 
 Add additional battery saver steps
 https://github.com/ezio84/abc_packages_apps_Settings/commit/41cc7db15a9da77a8400db0ccf5b34d3a618dc9e
 
 Display bluetooth battery status when available
-https://github.com/ezio84/abc_frameworks_base/commit/db8a6de615e39c8e429456de07e4ffe5fed92c10 
+https://github.com/ezio84/abc_frameworks_base/commit/052f1a97972fcb3436ff24b3744c995e54e8380a 
 https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/2f5b2a15877eac8e641a3f2ec2a195c06dffa5d9 **not needed anymore on 8.1, already added by google
 
 Night Light auto lower brightness mode
-https://github.com/ezio84/abc_frameworks_base/commit/bbbdff5d70be460af9008dd4d79a57bc2ee2b389
+https://github.com/ezio84/abc_frameworks_base/commit/f12538a079b6e33da47d141622477c9975fa4072
 https://github.com/ezio84/abc_packages_apps_Settings/commit/3c8c29778786d82e84f0658f556b6ff882130398
 
 Enable battery percentage in statusbar by default
-https://github.com/ezio84/abc_frameworks_base/commit/9e829dc7c27ff596773c858180b46dae9af7a5e8
+https://github.com/ezio84/abc_frameworks_base/commit/8981e1277271b87bd7e128e9c1d6506a518000ce
 https://github.com/ezio84/abc_packages_apps_Settings/commit/dbb1d7f9b5203a469a6494a5ae722c529bf991b9
 
 Make "Turn on WiFi Automatically" available for all
-https://github.com/ezio84/abc_frameworks_base/commit/ca20740e8b12e9c0415298c1ff35cff268ee2e57
+https://github.com/ezio84/abc_frameworks_base/commit/1f1d3e60535ec93e961cb81f2f4108eb06fcae83
 
 PackageInstaller: Show versions when installing or updating packages
 https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/5770ae054ed0699562ce563569734a95894ad61c
 
 Change power save mode color to sexy red
-https://github.com/ezio84/abc_frameworks_base/commit/fac3c6d47b67a15131ce9235a380b6ff522640e0
+https://github.com/ezio84/abc_frameworks_base/commit/e111b7305706afd5ca4700d34f88b18583c1deef
 
 Dialer auto proximity speakerphone 
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/681f42db7457b132d55899d5e853a043be29a646
@@ -70,10 +70,10 @@ Dialer in-call vibration
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/2da462956f6a725126eceedc3bad05fd23efeddb
 
 Increase Zenmode max hour limit from 12 to 24 
-https://github.com/ezio84/abc_frameworks_base/commit/5f0dc9b3953f0dccc6777553101689c1c122390b
+https://github.com/ezio84/abc_frameworks_base/commit/06917b1b44e15205ce08791adf9e4e99c5ec8788
 
 Fingerprints: Increase MAX_FAILED_ATTEMPTS before requesting pin/pattern
-https://github.com/ezio84/abc_frameworks_base/commit/e1bbd28495e7a87197fba1cae1706ee491ffa12a
+https://github.com/ezio84/abc_frameworks_base/commit/eeca5d7c4699c3729212bcb6b94602aa56426a41
 
 Pixel launcher adaptive icon option
 Be sure to have this: https://github.com/ezio84/abc_frameworks_base/commit/bd70d9d661e87fde43fff176ed6cb03238b1c93e#diff-0be32d12a7fe6052db0bf1f7ebb204f6
@@ -82,7 +82,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/e2984a156c710c12dcc1c6a4d3bd38
 https://github.com/ezio84/abc_frameworks_base/commit/ee54ab9e88eabd3c7ee6bd3b07feefe2c23636a2
 
 Allow more volume steps
-https://github.com/ezio84/abc_frameworks_base/commit/d06f7e800be3d29dece57cbb4ab7cc582cf6d7e1
+https://github.com/ezio84/abc_frameworks_base/commit/c3a40544aea97c3c306d33fc357cbdefc5863f8d
 https://github.com/ezio84/abc_vendor_nexus/commit/63e6f696578b8011e18bbc6a8c165fd2de96182a
 https://github.com/ezio84/abc_vendor_nexus/commit/6b2f2da6f03095a014eae2711b72c9fb1914b5ac
 
@@ -94,15 +94,15 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/5edd44dfe6e75db4c7d2
 https://github.com/ezio84/abc_packages_apps_Settings/commit/357ffba2d3cbede1f12f8d8620cdca343edbeb4b
 
 Remove grey gap between QS panel and notifications
-https://github.com/ezio84/abc_frameworks_base/commit/fca8752dc832529a9c311d518e41b3a796cfe341
+https://github.com/ezio84/abc_frameworks_base/commit/4a0f1f3c1fba062015d2637242e7bfde3c97f4f6
 
 Lockscreen Charging info 
-https://github.com/ezio84/abc_frameworks_base/commit/c5a0fd1682f0544b9ba1f296ac6706a3f2b86b1e
+https://github.com/ezio84/abc_frameworks_base/commit/4a4612bd08e68d32d3a8f160540a4fbd3ca3e74e
 https://github.com/ezio84/abc_system_core/commit/9dfc45d4483770ae4f8071bc2b1b269176675e5a
 https://github.com/ezio84/abc_device_huawei_angler/commit/7878ab5a84d3f6057797f272b4f13d424ac82fbc
 
 Allow to set custom brightness for ambient display and liftToWwake
-https://github.com/ezio84/abc_frameworks_base/commit/97ba88969e067fe981ea7ba65ed23315fba7dc08
+https://github.com/ezio84/abc_frameworks_base/commit/7b0baacf60e3877c4ddb2ad6696c4fc5bdd10dfd
 https://github.com/ezio84/abc_packages_apps_Settings/commit/448c954477e5bd3a55eea706af66e91beb2c13e1
 
 SystemUi tuner bringup
@@ -312,8 +312,8 @@ Fix empty recents view in multi window mode
 https://github.com/ezio84/abc_frameworks_base/commit/088c502e278d80c90cc96d85eed542c61cbd49bb
 
 Allow to quickly open Running Services from QS panel
-https://github.com/ezio84/abc_frameworks_base/commit/9179da420a49ae38428f2437332ff6b969145c94
-https://github.com/ezio84/abc_packages_apps_Settings/commit/12ee902e1db457f65f83bf742b2808d3ff5af408
+https://github.com/ezio84/abc_frameworks_base/commit/de18afd1fddc1aed20526336046fbeb76e254062
+https://github.com/ezio84/abc_packages_apps_Settings/commit/896fdb709c5ea217bba5e5d7b130d92785302988
 
 Vibrate on plug
 https://github.com/ezio84/abc_frameworks_base/commit/11695547aead0971900cd2206a65684c7e99981e
@@ -344,16 +344,12 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/76c0ea461daab9558
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bb92973ad66b6a3f57198a7448216ab9637253bb
 
 QS panel brightness slider customization
-https://github.com/ezio84/abc_frameworks_base/commit/390a2386cd1caf92ab0d7bd3e24930ffc2dba251
-https://github.com/ezio84/abc_frameworks_base/commit/48346502b913457795644f5f9f2a1a4a687c4042
-https://github.com/ezio84/abc_frameworks_base/commit/0ddd40bf7b2e4c4d236dfee0d24a4b210a677483
-https://github.com/ezio84/abc_frameworks_base/commit/9b81083d115b8224fe5ac0420adbae054b4aec5f
-https://github.com/ezio84/abc_frameworks_base/commit/0093720a258d71358caf7d8f0d18b9bafe620604
-https://github.com/ezio84/abc_frameworks_base/commit/971e6c5de390ed96b229febabe97f08207be5878
-https://github.com/ezio84/abc_frameworks_base/commit/7c51ea1ac666c1e8294c3b32dea6a2d17f071af0
-https://github.com/ezio84/abc_frameworks_base/commit/786e5856d295a636806662763615e6b05efc6664
-https://github.com/ezio84/abc_frameworks_base/commit/b56e5f098fab3c6328620eb61f3aca7855390cdf
-https://github.com/ezio84/abc_frameworks_base/commit/7a1ce9677b3f5e375d48a91e7bfac4242d84b140
+https://github.com/ezio84/abc_frameworks_base/commit/efe9bc3aa1f4e085f375f7c5e9c8cc15e7486146
+https://github.com/ezio84/abc_frameworks_base/commit/145d322b2c264338a26ffd522f7df08adf79c8c4
+https://github.com/ezio84/abc_frameworks_base/commit/cff29a56a128addc612cf92e2fe6c9c4c89b1d6b
+https://github.com/ezio84/abc_frameworks_base/commit/13bd6df659d15b7dabe8a810e4f18313bdf753d3
+https://github.com/ezio84/abc_frameworks_base/commit/f0b9a10ae03c7dd3a7b8766cc5003ba9eb08e82e
+https://github.com/ezio84/abc_frameworks_base/commit/d40f18769632d7ddb3c152c8d371f4d647831ca5
 
 Alert when screen off and charging if charge level becomes good
 https://github.com/ezio84/abc_frameworks_base/commit/ffe329445adce4ddda70ed81943645fb0fafcb91
@@ -364,7 +360,6 @@ DUI navbar
 if you pick from my github instead of dui gerrit, be sure to have the sendCustomAction(Intent intent) stuff
 from https://github.com/ezio84/abc_frameworks_base/commit/d93f18463c76942e4a42a5c49fbf8ce5bac6cce6#diff-d2136a76e46e0ce7823259ad6ed13a4a
 then:
-****REMINDER FOR 8.1: revert https://github.com/aosp-mirror/platform_frameworks_base/commit/d002a0a96eb857804b3aafbcd32cf66a378c5b6c
 https://github.com/ezio84/abc_manifest/commit/34d91cf5a056952c816155b4521317a6bb70651b
 https://github.com/ezio84/abc_vendor_nexus/commit/2e2ac461fad0fbc8338ab6e011c935bb70af821c
 https://github.com/ezio84/abc_packages_apps_Settings/commit/45ac48dfe1f601f2159144b2810f31c52ea002c6
@@ -533,10 +528,10 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e783d0eedf219c0ca
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c82bfb4a131e3b052758677bf23956869b9f013e
 
 Fix aosp tiles race condition
-https://github.com/ezio84/abc_frameworks_base/commit/a458799fc74251893c763214f5433f8b8ed0ed0f
+https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
 
 Add custom Statusbar observer
-https://github.com/ezio84/abc_frameworks_base/commit/d5fff8c5e512c932b4ba61ad5ad4e3f7a11152b5
+https://github.com/ezio84/abc_frameworks_base/commit/70cbc1b45bea4d2781457d3de380bdb9762ef5f6
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
