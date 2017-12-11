@@ -28,10 +28,12 @@ to https://github.com/ezio84/abc_kernel_huawei_angler/commit/bf8afb926cd9facb06c
 High Brightness mode:
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/f9deec31db75e050725663ef284b05b8ec292e6e
 https://github.com/ezio84/abc_frameworks_base/commit/d9a165c6660513a85eb81671f1e5f3e9259760eb
+https://github.com/ezio84/abc_frameworks_base/commit/4632aa8179926a38f653fa1c639cd0c8d02b4014
 https://github.com/ezio84/abc_device_huawei_angler/commit/934ab48cce83ac96d11ddc7672aad6e3b44f5d49
 
 PowerMenu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/37726d2871005d9586a21b9b418e38bbcc997a2d
+https://github.com/ezio84/abc_frameworks_base/commit/7819c325abc86208c30fc24c2e25898e363f733b
 https://github.com/ezio84/abc_frameworks_base/commit/0adb74e0b9970840ebccbf02ae0b304061766238
 
 Add Power+VolUp action to catch a partial area screenshot
@@ -99,6 +101,10 @@ Lockscreen Charging info
 https://github.com/ezio84/abc_frameworks_base/commit/93769b9bb0ac23538879ab0234e8d3756e11e005
 https://github.com/ezio84/abc_system_core/commit/9dfc45d4483770ae4f8071bc2b1b269176675e5a
 https://github.com/ezio84/abc_device_huawei_angler/commit/7878ab5a84d3f6057797f272b4f13d424ac82fbc
+
+Allow to set custom brightness for ambient display and liftToWwake
+https://github.com/ezio84/abc_frameworks_base/commit/9c33b2207bf78656c6ce1072309d04936aae9910
+https://github.com/ezio84/abc_packages_apps_Settings/commit/448c954477e5bd3a55eea706af66e91beb2c13e1
 
 SystemUi tuner bringup
 https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
@@ -256,10 +262,6 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/41316786a7aafbf3f
 Allow to disable qs footer warnings
 https://github.com/ezio84/abc_frameworks_base/commit/bed123e376f24ab425f806e62a638b2e135e5606
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fe444e041609a055e169e7527f2efe9c1a2f0cd4
-
-Allow to set custom brightness for ambient display and liftToWwake
-https://github.com/ezio84/abc_frameworks_base/commit/933b1fc3e9f816056b404ea30eab6bfb28d74dfd
-https://github.com/ezio84/abc_packages_apps_Settings/commit/854bba6030c5dd7868220b8fdcf8e17d431780eb
 
 Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/3a12108efb2ac8d3c210b7aef100c03639d9cc0a
@@ -495,6 +497,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/8f5b561cdce86df6b026
 
 Allow all rotations (thus also 180°)  << reverted, after a while it becomes pretty annoying
 https://github.com/ezio84/abc_device_huawei_angler/commit/1482884ca17b6d5edb4e49fb717d869e1ae108a7
+
+Restore Google icon for aosp contacts 
+https://github.com/ezio84/abc_packages_apps_Contacts/commit/5d0589a7c97606029e521c94cfe4f3749c759430
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
