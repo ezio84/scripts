@@ -497,12 +497,23 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/1482884ca17b6d5edb4e49
 Restore Google icon for aosp contacts 
 https://github.com/ezio84/abc_packages_apps_Contacts/commit/5d0589a7c97606029e521c94cfe4f3749c759430
 
+Fix aosp tiles race condition
+https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
+Add custom Statusbar observer
+https://github.com/ezio84/abc_frameworks_base/commit/70cbc1b45bea4d2781457d3de380bdb9762ef5f6
+
+Add some custom api/utilities
+https://github.com/ezio84/abc_frameworks_base/commit/95936f78e964a3641eedce089dc66619b9ceb388
+https://github.com/ezio84/abc_frameworks_base/commit/1f19e8e6ef3dbec8cda5f2c499cb72f6d7af3953
+https://github.com/ezio84/abc_frameworks_base/commit/3d0f757973f9da795bde2213956a2f55b479680f
+https://github.com/ezio84/abc_frameworks_base/commit/7a35266d491654d4098bc3bbfe076ce3c4fbb2f5
+
 Add a custom Settings menu (new dashboard tile)
-https://github.com/ezio84/abc_packages_apps_Settings/commit/404880de7447a452d1e22774dad78396d7f63e1c
-https://github.com/ezio84/abc_packages_apps_Settings/commit/63ddd88e2602caa9e85d833748edfba4754c3ea3
-https://github.com/ezio84/abc_packages_apps_Settings/commit/339deedf780c8b214fc98190652595a37a578e55 (if wanted)
+https://github.com/ezio84/abc_packages_apps_Settings/commit/3dcd6b6369e0146c7a3e8667e4b0d8546063ec15
+the icon: https://github.com/ezio84/abc_packages_apps_Settings/commit/3edaebadf267cb7bb82718d2c9e88afdcebe90ab
 then the custom tree with res and src https://github.com/ezio84/abc_packages_apps_AbcSettings
 and to fix padding https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9079e6b98da41e1f5b3fc242189f76fff5899b8e
 
@@ -528,12 +539,6 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9cca9919cb748d5f1
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4e4cd00cda71e2c66085e5b56a952203bc15cf07
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e783d0eedf219c0ca31b46a750311e97906bf30f
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c82bfb4a131e3b052758677bf23956869b9f013e
-
-Fix aosp tiles race condition
-https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
-
-Add custom Statusbar observer
-https://github.com/ezio84/abc_frameworks_base/commit/70cbc1b45bea4d2781457d3de380bdb9762ef5f6
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
