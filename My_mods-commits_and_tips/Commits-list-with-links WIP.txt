@@ -495,8 +495,10 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/8f5b561cdce86df6b026
 Allow all rotations (thus also 180°)  << reverted, after a while it becomes pretty annoying
 https://github.com/ezio84/abc_device_huawei_angler/commit/1482884ca17b6d5edb4e49fb717d869e1ae108a7
 
-Restore Google icon for aosp contacts 
+Aosp Contacts improvements
 https://github.com/ezio84/abc_packages_apps_Contacts/commit/5d0589a7c97606029e521c94cfe4f3749c759430
+https://github.com/ezio84/abc_packages_apps_Contacts/commit/d3d4e225e93d591f6cce09960403b37ed84814eb
+https://github.com/ezio84/abc_packages_apps_Contacts/commit/8c78c29498b07dc6f9c4c950e88cf3d96890203a
 
 Fix aosp tiles race condition
 https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
