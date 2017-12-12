@@ -109,17 +109,15 @@ https://github.com/ezio84/abc_frameworks_base/commit/7b0baacf60e3877c4ddb2ad6696
 https://github.com/ezio84/abc_packages_apps_Settings/commit/448c954477e5bd3a55eea706af66e91beb2c13e1
 
 SystemUi tuner bringup
-https://github.com/ezio84/abc_frameworks_base/commit/16b86c48296133919586cead64b16c41259c85ad
-https://github.com/ezio84/abc_frameworks_base/commit/d4e4816100cbda1203ac1877625bf86064d23e0b
-https://github.com/ezio84/abc_frameworks_base/commit/77f617d174a05147ac1369c03f9f6a41d8790ecf
-https://github.com/ezio84/abc_frameworks_base/commit/599bbf89aa530d020e954689566b05ac30c7c2ef
+https://github.com/ezio84/abc_frameworks_base/commit/67e020ce1221fb6d7fd120ad1415feba29bd0874
+https://github.com/ezio84/abc_frameworks_base/commit/66719e4a664e23bfc848b6ae4f385c5682783362
+https://github.com/ezio84/abc_frameworks_base/commit/f58bbe80a4839f2e94428e9e8f3db2d2688c7492
     Split SystemUI tuner and allow to run it from Settings
-    https://github.com/ezio84/abc_frameworks_base/commit/02f01b2266ea46f22e937e0da3fe661b69930885
+    https://github.com/ezio84/abc_frameworks_base/commit/43876fffe8ddcdac128c6deffc955bf24cd4bbd2
+    https://github.com/ezio84/abc_frameworks_base/commit/054b8c7af5cf7bbc224d834a2c26518b4ab36d16
+    https://github.com/ezio84/abc_frameworks_base/commit/6d96bf48cb9ebbe4dc291ad42fd326a605140452
+    https://github.com/ezio84/abc_frameworks_base/commit/f1fa63005c8e5535606f7e52f5c89b23053d5f42
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b00e6d2f93c94cc68db4208f15d925276b77a299
-    https://github.com/ezio84/abc_frameworks_base/commit/dc9bb4d2a658d88b95ae4f326f369c0c7cb29753
-    https://github.com/ezio84/abc_frameworks_base/commit/06a128c2a5c04972d802b90fb346ca4ac8edc59a
-    https://github.com/ezio84/abc_frameworks_base/commit/6d8645bf128c04d6bc88a75037674b592a1301e6
-    https://github.com/ezio84/abc_frameworks_base/commit/14a74903c9ca5009c034909402e0c703a4cca989
     Lockscreen shortcuts improvements
     https://github.com/ezio84/abc_frameworks_base/commit/7b52777fabb863c7f017e43bb7cdbf62a1cd07ca
     https://github.com/ezio84/abc_frameworks_base/commit/848611bfee2c12efc3c57f966d6acbb258811198
