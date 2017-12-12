@@ -639,6 +639,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/c04d823f586c7cccf42e
 https://github.com/ezio84/abc_packages_apps_Settings/commit/17146ed53d0ecb33047a7329f46f78a0553ab7f1
 https://github.com/ezio84/abc_frameworks_base/commit/bd70d9d661e87fde43fff176ed6cb03238b1c93e
 
+Allow Settings > Device info to load selinux status
+https://github.com/ezio84/abc_vendor_nexus/commit/80e1300ad31e519d1b75f3b2b539eb7fbaad6a84
+
 If not building Email app, add this:
 https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/807daec81025951361c4758c27bf94a4bce3329b
 
