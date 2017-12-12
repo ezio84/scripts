@@ -43,7 +43,8 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/41cc7db15a9da77a8400
 
 Display bluetooth battery status when available
 https://github.com/ezio84/abc_frameworks_base/commit/052f1a97972fcb3436ff24b3744c995e54e8380a
-https://github.com/ezio84/abc_frameworks_base/commit/6dd4fb4e1827e75862974e1a9a78475bc7994df0
+https://github.com/ezio84/abc_frameworks_base/commit/902b4e81a05acdf2c507ca2420b36d05edeb9d27
+https://github.com/ezio84/abc_frameworks_base/commit/f53975334e514e171ebc364e3a94227ba2ea57f5
 
 Night Light auto lower brightness mode
 https://github.com/ezio84/abc_frameworks_base/commit/f12538a079b6e33da47d141622477c9975fa4072
@@ -109,14 +110,14 @@ https://github.com/ezio84/abc_frameworks_base/commit/7b0baacf60e3877c4ddb2ad6696
 https://github.com/ezio84/abc_packages_apps_Settings/commit/448c954477e5bd3a55eea706af66e91beb2c13e1
 
 SystemUi tuner bringup
-https://github.com/ezio84/abc_frameworks_base/commit/67e020ce1221fb6d7fd120ad1415feba29bd0874
-https://github.com/ezio84/abc_frameworks_base/commit/66719e4a664e23bfc848b6ae4f385c5682783362
-https://github.com/ezio84/abc_frameworks_base/commit/f58bbe80a4839f2e94428e9e8f3db2d2688c7492
+https://github.com/ezio84/abc_frameworks_base/commit/6380f698f147a9fbb80a5e40238bd07accc8a083
+https://github.com/ezio84/abc_frameworks_base/commit/436862e5cea2bdf83e90daa023ab7922eea12e2a
+https://github.com/ezio84/abc_frameworks_base/commit/8bf2e72498fd705368f42090790c2b1013b645cc
     Split SystemUI tuner and allow to run it from Settings
-    https://github.com/ezio84/abc_frameworks_base/commit/43876fffe8ddcdac128c6deffc955bf24cd4bbd2
-    https://github.com/ezio84/abc_frameworks_base/commit/054b8c7af5cf7bbc224d834a2c26518b4ab36d16
-    https://github.com/ezio84/abc_frameworks_base/commit/6d96bf48cb9ebbe4dc291ad42fd326a605140452
-    https://github.com/ezio84/abc_frameworks_base/commit/f1fa63005c8e5535606f7e52f5c89b23053d5f42
+    https://github.com/ezio84/abc_frameworks_base/commit/694880a6948f2d7f7ce14c7dbff3b020021aee53
+    https://github.com/ezio84/abc_frameworks_base/commit/99559e198d5960ef2a05559d2a5a3a749176c3f8
+    https://github.com/ezio84/abc_frameworks_base/commit/85f3920803250df3ce63c3d56312ba17002cc5e0
+    https://github.com/ezio84/abc_frameworks_base/commit/c22bbe9a8fea65b9cf27a1c5ce276baa218a96d0
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b00e6d2f93c94cc68db4208f15d925276b77a299
     Lockscreen shortcuts improvements
     https://github.com/ezio84/abc_frameworks_base/commit/7b52777fabb863c7f017e43bb7cdbf62a1cd07ca
