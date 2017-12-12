@@ -42,8 +42,8 @@ Add additional battery saver steps
 https://github.com/ezio84/abc_packages_apps_Settings/commit/41cc7db15a9da77a8400db0ccf5b34d3a618dc9e
 
 Display bluetooth battery status when available
-https://github.com/ezio84/abc_frameworks_base/commit/052f1a97972fcb3436ff24b3744c995e54e8380a 
-https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/2f5b2a15877eac8e641a3f2ec2a195c06dffa5d9 **not needed anymore on 8.1, already added by google
+https://github.com/ezio84/abc_frameworks_base/commit/052f1a97972fcb3436ff24b3744c995e54e8380a
+https://github.com/ezio84/abc_frameworks_base/commit/6dd4fb4e1827e75862974e1a9a78475bc7994df0
 
 Night Light auto lower brightness mode
 https://github.com/ezio84/abc_frameworks_base/commit/f12538a079b6e33da47d141622477c9975fa4072
