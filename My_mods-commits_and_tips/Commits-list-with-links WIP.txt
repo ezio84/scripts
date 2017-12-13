@@ -120,9 +120,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/8bf2e72498fd705368f42090790
     https://github.com/ezio84/abc_frameworks_base/commit/c22bbe9a8fea65b9cf27a1c5ce276baa218a96d0
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b00e6d2f93c94cc68db4208f15d925276b77a299
     Lockscreen shortcuts improvements
-    https://github.com/ezio84/abc_frameworks_base/commit/7b52777fabb863c7f017e43bb7cdbf62a1cd07ca
-    https://github.com/ezio84/abc_frameworks_base/commit/848611bfee2c12efc3c57f966d6acbb258811198
-    https://github.com/ezio84/abc_frameworks_base/commit/4ecf5384a3344fa52bc4d89a81480f4b4e74f776
+    https://github.com/ezio84/abc_frameworks_base/commit/7a634b5e2b0389f55af515a51bfa87d2882c327f
+    https://github.com/ezio84/abc_frameworks_base/commit/a828c5fcf943c89cd93b4bc3971b5ee9a191b142
+    https://github.com/ezio84/abc_frameworks_base/commit/688e61e803bb96814a8f92308b1100895c6b4c1e
+    https://github.com/ezio84/abc_frameworks_base/commit/c4779ffd489a81f107f8e514bab96eef2753809a
 
 Stock Navbar improvements and custom features
 Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
@@ -142,48 +143,48 @@ https://github.com/ezio84/abc_frameworks_base/commit/f5c3049d00d6f095f38909b4287
 https://github.com/ezio84/abc_frameworks_base/commit/ff26f081ef7e09579319ed9dc4c2131e00554534
 
 Allow to swap volume buttons rotation based 
-https://github.com/ezio84/abc_frameworks_base/commit/eb027ebde051ff0d7e6f131982950a6e6f2a6879
+https://github.com/ezio84/abc_frameworks_base/commit/2c4d9b4f9324e26e8f7f610dbd7374743290d245
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/40d85564120a5822fb377fb237162e4d3db9a90c
 
 Volume panel shows Media volume as default
-https://github.com/ezio84/abc_frameworks_base/commit/4de615580ddae922e29b1070898d4c9946d24b29
+https://github.com/ezio84/abc_frameworks_base/commit/1502bf5d7ea10ef2b3cc44596304e3db08b60eac
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bfedc6ece38e424dbd9b0b87d81d3e3994da0a44
 
+Volume key music control to skip tracks on screen off
+https://github.com/ezio84/abc_frameworks_base/commit/31884d13a2d0d352f58206811314f4167674116d
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c0841a0ad56758eb9efabdf12331863cb990945a
+
+Launch music player on headset connect:
+https://github.com/ezio84/abc_frameworks_base/commit/0b7ee1e9ec4eb171035595b6f6685ecea68686fb
+https://github.com/ezio84/abc_frameworks_base/commit/51e9b698e2ba71ff8a6c61285240dc089e98e56e
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/85d342df5c6f339958ba68a5749ad70cd8c143d7
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/913597a62a78862290d60ecae6a2d9dfad591447
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a60f74bc0bc1b12d2dca8874c59cfb456ab86440
+
 Double tap to sleep on lockscreen
-https://github.com/ezio84/abc_frameworks_base/commit/2bcbe10a62ec003d1af047cf8f747f19ba96c42c
+https://github.com/ezio84/abc_frameworks_base/commit/4247a869d62323ccf70034a50efa2b0b4ee638c5
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/70bc128f32877d4fcf8a2aba350678133c380374
 
 QS quick right pulldown
-https://github.com/ezio84/abc_frameworks_base/commit/469a3fd24bf347d6ec708273fa468c3b6c625aaf
+https://github.com/ezio84/abc_frameworks_base/commit/c5ff6393cd645d3ff57134d1f98d6da592f847fb
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9611e935c494d10291396dd9c514b0eef898d74
 
-Volume key music control to skip tracks on screen off
-https://github.com/ezio84/abc_frameworks_base/commit/b252b4c1011cfa8789927cec3403bb4002703d4b
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c0841a0ad56758eb9efabdf12331863cb990945a
-
 Disable Lockscreen Media Art 
-https://github.com/ezio84/abc_frameworks_base/commit/2b4d10602381d9a5bd6daa639a83759e575277b2
+https://github.com/ezio84/abc_frameworks_base/commit/589ddc7d828944eff51500f3db87541f2e393c8a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/34b1ae6a6e4ab7fb89317fccbeae21575937dd44
 
 Allow to customize max SMS per minute limit
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/3ff89309baad1d8339dfbbd035ab9ff0f93f32e3
-https://github.com/ezio84/abc_frameworks_opt_telephony/commit/cde5113c20a193ff4a8a9f6db10e63a6b0af230d
+https://github.com/ezio84/abc_frameworks_opt_telephony/commit/0c9ea3f561c419bb88392aa17d86734029ad5886
 
 DoubletapPowerForCamera disabled by default 
 https://github.com/ezio84/abc_frameworks_base/commit/0b2a59bb3cee3b2a7803cacf5964dc8b3d7fd2e0
 https://github.com/ezio84/abc_packages_apps_Settings/commit/f259faa1899e38e7f5039ffaedc0b13475b6c529
 
 Allow to doubletap or longpress power to toggle flashlight
-https://github.com/ezio84/abc_frameworks_base/commit/5618c47f7f50263e92fa78766e7bb6b057d800ea
+https://github.com/ezio84/abc_frameworks_base/commit/bfe86efff449c132c5af729b429a48ef85b8f5e7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/24e76a9d219b7f2123f76145d50a0e28c77a5117
-https://github.com/ezio84/abc_packages_apps_Settings/commit/54c1024855196bb8fc44043ca70d4fc7043f70a5
-
-Launch music player on headset connect:
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/85d342df5c6f339958ba68a5749ad70cd8c143d7
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/913597a62a78862290d60ecae6a2d9dfad591447
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a60f74bc0bc1b12d2dca8874c59cfb456ab86440
-https://github.com/ezio84/abc_frameworks_base/commit/191b4d099171a8e6ac25e3dc52875a506d97e6a0
-https://github.com/ezio84/abc_frameworks_base/commit/cf9c2fff1635e159eec2e397463d84edf303d0c3
+https://github.com/ezio84/abc_packages_apps_Settings/commit/9d0b8a01bc273ed73827d457091bae13407ffe48
 
 Battery light customization
 Enable battery light
@@ -284,11 +285,6 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138
 Wake on plug
 https://github.com/ezio84/abc_frameworks_base/commit/705e79f3ca92682095c6eb4da49c8ee4aba70abf
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6d9727f124fa52d253f459050ab7d733d441eaa3
-
-Wired/BT headset: make ringtone audio focus customizable 
-https://github.com/ezio84/abc_frameworks_base/commit/e9f6998e8ae1e7b14416c5a543de38568bca0867
-https://github.com/ezio84/abc_frameworks_base/commit/1e2e085ac6b1bf40b5fced902ef17d9821249345
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1d76b5689c3d282fbb45c7ce2bac386224835a47
 
 Disable power menu on secure lock screen
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9b9f1684c74e518d6bdbd2ec248b534bcc59c0a4
