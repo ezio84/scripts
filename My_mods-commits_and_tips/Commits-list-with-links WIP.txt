@@ -263,29 +263,42 @@ Battery tile improvements
 https://github.com/ezio84/abc_frameworks_base/commit/dabf622c2952fa90867486c4aceaee7ac3f9e171
 
 Double tap to sleep on statusbar
-https://github.com/ezio84/abc_frameworks_base/commit/3a12108efb2ac8d3c210b7aef100c03639d9cc0a
+https://github.com/ezio84/abc_frameworks_base/commit/4467b77e6f70d2c80fc3c94fb9034c70c691a923
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f9bf22b975b821934fcc86ca97588670dbf74bad
 
 Less boring heads up option 
-https://github.com/ezio84/abc_frameworks_base/commit/55e776e7d4fae401bcb501c3a594ca8fdefbfbba
+https://github.com/ezio84/abc_frameworks_base/commit/aa25ce8759a91f3ce83068e5ac7709d0141777f4
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fad439bd7886f0aa074300dd016c0e3c41fd87a8
-https://github.com/ezio84/abc_frameworks_base/commit/f2890e3709d74afdeb530e9887d836415693d3dd
 
 Remove Settings dashboard conditions and suggestions
 https://github.com/ezio84/abc_packages_apps_Settings/commit/0c7b448c72cca0d52d8eda028a6400842c59784f
 
 Statusbar Net monitor
-https://github.com/ezio84/abc_frameworks_base/commit/872f640cef55dadca40d9690800141136a044c27
-https://github.com/ezio84/abc_frameworks_base/commit/880b12ceb15e23487a47f7ca983c8941fe0a96f7
+https://github.com/ezio84/abc_frameworks_base/commit/fa992d4f068a8b2762cff7752bac76efed94465d
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
 
 Wake on plug
-https://github.com/ezio84/abc_frameworks_base/commit/705e79f3ca92682095c6eb4da49c8ee4aba70abf
+https://github.com/ezio84/abc_frameworks_base/commit/c67f20011a91726a3e23893003e44be64c6b5e07
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6d9727f124fa52d253f459050ab7d733d441eaa3
 
 Disable power menu on secure lock screen
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9b9f1684c74e518d6bdbd2ec248b534bcc59c0a4
-https://github.com/ezio84/abc_frameworks_base/commit/dc96c8162f3bbaf324523e52e054413fff74c0bf
+https://github.com/ezio84/abc_frameworks_base/commit/8d09ebb5034e268dd892b8b01ada0010b70024cb
+
+Vibrate on plug
+https://github.com/ezio84/abc_frameworks_base/commit/cb540c2fa15b6e5dfaebb40eb686d0b48396963d
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a1255e4478a972d52fd5503478
+
+Status bar notification ticker
+https://github.com/ezio84/abc_frameworks_base/commit/5bd8ef0570ab84c10dba3c364545d21caeff0b08
+https://github.com/ezio84/abc_frameworks_base/commit/5b0a396466766cfb1fa8bfcd46cc8e2e495b5cbb
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
+
+Add download info and support to manually pause/resume downloads 
+https://github.com/ezio84/abc_frameworks_base/commit/c3faddb8bb7805242f0c0efe30b28a5de53687f9
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/0235f10e9b7bc3d249afa2cee41fe4433fcfa41b
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/6008b1fa53b5a0ac69d23adfad91b2ff6c744971
+https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/42c482888c06710b2f3ac7011de515b5fcb3d6ab
 
 Recents panel improvements
     Allow to kill any app from recents panel in a safe way
@@ -305,17 +318,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/74dbe3d2d2cd8390ba4420c7603
     https://github.com/ezio84/abc_frameworks_base/commit/8c6d1d33fae5396e281ca90cd1639cb59e1ebea4
 Fix empty recents view in multi window mode
 https://github.com/ezio84/abc_frameworks_base/commit/088c502e278d80c90cc96d85eed542c61cbd49bb
-
-Vibrate on plug
-https://github.com/ezio84/abc_frameworks_base/commit/11695547aead0971900cd2206a65684c7e99981e
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a1255e4478a972d52fd5503478
-
-Status bar notification ticker
-https://github.com/ezio84/abc_frameworks_base/commit/d152e83ec270d76037a62ba2cb73182560ece8a5
-https://github.com/ezio84/abc_frameworks_base/commit/c1231b9ca08eb4c458a4b2adf0e11c2185fca523
-https://github.com/ezio84/abc_frameworks_base/commit/98c48212308d72b7c7711def3423abfb78a5e2d7
-https://github.com/ezio84/abc_frameworks_base/commit/9d802a69c254a3bac58f3cac63c7b4fce48aa298
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
 
 Slim Recents
 fork this tree: https://github.com/ezio84/abc_packages_apps_SlimRecents
@@ -346,12 +348,6 @@ Smartbar dt2s
 https://github.com/ezio84/abc_frameworks_base/commit/a1034d2a317967f3da053d756602b072f0846f8b
 https://github.com/ezio84/abc_packages_apps_DUI/commit/65e26be1088af92f1449160e2b065c0af45708e7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b45ce83f8f2c4ab2add9d07b974da30421127293
-
-Add download info and support to manually pause/resume downloads 
-https://github.com/ezio84/abc_frameworks_base/commit/c3faddb8bb7805242f0c0efe30b28a5de53687f9
-https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/0235f10e9b7bc3d249afa2cee41fe4433fcfa41b
-https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/6008b1fa53b5a0ac69d23adfad91b2ff6c744971
-https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/42c482888c06710b2f3ac7011de515b5fcb3d6ab
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
