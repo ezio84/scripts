@@ -123,7 +123,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/8bf2e72498fd705368f42090790
     https://github.com/ezio84/abc_frameworks_base/commit/688e61e803bb96814a8f92308b1100895c6b4c1e
     https://github.com/ezio84/abc_frameworks_base/commit/c4779ffd489a81f107f8e514bab96eef2753809a
 
-Stock Navbar improvements and custom features
+Stock Navbar improvements and custom features (not needed with DUI navbar)
 Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
     Double tap to sleep: https://github.com/ezio84/abc_frameworks_base/commit/fee1061d4f55ef1b65b0e0c1ebd1d6166bf507ef
     https://github.com/ezio84/abc_frameworks_base/commit/239a8c8dda7cb11553e49a8177c79a2cd3baf7e8
@@ -302,22 +302,21 @@ https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/42c4828
 
 Recents panel improvements
     Allow to kill any app from recents panel in a safe way
-    https://github.com/ezio84/abc_frameworks_base/commit/254329cc89ede53ad865c1c4767e2a9faf40af43
+    https://github.com/ezio84/abc_frameworks_base/commit/0ef34b0164ac4f58cbcaea9c20fd8a4e1eec6bd0
+    https://github.com/ezio84/abc_frameworks_base/commit/d46c3cf857522e77fd2d1d2f2c27b2f35db988d7
 Support recents task locking
-https://github.com/ezio84/abc_frameworks_base/commit/1d347665c18603d52a01db577dc2b18a3b3fdcfc
+https://github.com/ezio84/abc_frameworks_base/commit/4171ad6f90ff1801b1c4112e4486abd62b461867
     Speed up Recents show additional button delay
-    https://github.com/ezio84/abc_frameworks_base/commit/e03fbeb0d20314e93efefb16ed3251aa2e0d0a90
+    https://github.com/ezio84/abc_frameworks_base/commit/d69ccb25e1a93c518f03250e3549f3081b073623
 Allow single tap on app icon to show app info overlay
-https://github.com/ezio84/abc_frameworks_base/commit/694a60be13dee6a0b9e2f2dda23b86ffee99c22a
+https://github.com/ezio84/abc_frameworks_base/commit/0feea184d631cb3db61e93d575b8cdc209b5712f
     Custom icon packs
-    https://github.com/ezio84/abc_frameworks_base/commit/188d8c52136175476523266c50eb553aada2a4e0
+    https://github.com/ezio84/abc_frameworks_base/commit/859d410a42899ac80d799acfb2b98a0dc4bd61b9
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
 SystemUI: Recents: Allow closing empty view via tapping
-https://github.com/ezio84/abc_frameworks_base/commit/74dbe3d2d2cd8390ba4420c76035543a728357e0
-    Recents: add pinch-in gesture on tasks to Clear All 
-    https://github.com/ezio84/abc_frameworks_base/commit/8c6d1d33fae5396e281ca90cd1639cb59e1ebea4
-Fix empty recents view in multi window mode
-https://github.com/ezio84/abc_frameworks_base/commit/088c502e278d80c90cc96d85eed542c61cbd49bb
+https://github.com/ezio84/abc_frameworks_base/commit/96b8a8236c287a0bc372eb5c0951e6bb2da06c34
+    Recents: add pinch-in gesture on tasks to Clear All
+    https://github.com/ezio84/abc_frameworks_base/commit/fd1a469ff029fbb8d327f4fe0eee69c56770aac7
 
 Slim Recents
 fork this tree: https://github.com/ezio84/abc_packages_apps_SlimRecents
