@@ -94,11 +94,9 @@ Show detailed kernel infos in System info menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/5edd44dfe6e75db4c7d2ce527062ab47eecbff48
 https://github.com/ezio84/abc_packages_apps_Settings/commit/357ffba2d3cbede1f12f8d8620cdca343edbeb4b
 
-Remove grey gap/shadow between QS panel and notifications
-https://github.com/ezio84/abc_frameworks_base/commit/4a0f1f3c1fba062015d2637242e7bfde3c97f4f6
-
-Disable QS panel transparency
-https://github.com/ezio84/abc_frameworks_base/commit/3fb5a3d0c3595e2ca77b3fb59a52a4fe9819d8eb
+Alert when screen off and charging if charge level becomes good
+https://github.com/ezio84/abc_frameworks_base/commit/cec1eee6a47d3c5d715bb922779747c82caddd94
+https://github.com/ezio84/abc_packages_apps_Settings/commit/9c21e72d9c123a4e35e81cc3b3133feb7300da85
 
 Lockscreen Charging info 
 https://github.com/ezio84/abc_frameworks_base/commit/4a4612bd08e68d32d3a8f160540a4fbd3ca3e74e
@@ -165,10 +163,6 @@ Double tap to sleep on lockscreen
 https://github.com/ezio84/abc_frameworks_base/commit/4247a869d62323ccf70034a50efa2b0b4ee638c5
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/70bc128f32877d4fcf8a2aba350678133c380374
 
-QS quick right pulldown
-https://github.com/ezio84/abc_frameworks_base/commit/c5ff6393cd645d3ff57134d1f98d6da592f847fb
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9611e935c494d10291396dd9c514b0eef898d74
-
 Disable Lockscreen Media Art 
 https://github.com/ezio84/abc_frameworks_base/commit/589ddc7d828944eff51500f3db87541f2e393c8a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/34b1ae6a6e4ab7fb89317fccbeae21575937dd44
@@ -209,6 +203,29 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/8f1f2f376f1f2d2b92f4
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
+Remove grey gap/shadow between QS panel and notifications
+https://github.com/ezio84/abc_frameworks_base/commit/4a0f1f3c1fba062015d2637242e7bfde3c97f4f6
+
+Disable QS panel transparency
+https://github.com/ezio84/abc_frameworks_base/commit/3fb5a3d0c3595e2ca77b3fb59a52a4fe9819d8eb
+
+QS quick right pulldown
+https://github.com/ezio84/abc_frameworks_base/commit/c5ff6393cd645d3ff57134d1f98d6da592f847fb
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9611e935c494d10291396dd9c514b0eef898d74
+
+Allow to quickly open Running Services from QS panel
+https://github.com/ezio84/abc_frameworks_base/commit/de18afd1fddc1aed20526336046fbeb76e254062
+https://github.com/ezio84/abc_packages_apps_Settings/commit/896fdb709c5ea217bba5e5d7b130d92785302988
+
+QS panel brightness slider customization
+https://github.com/ezio84/abc_frameworks_base/commit/efe9bc3aa1f4e085f375f7c5e9c8cc15e7486146
+https://github.com/ezio84/abc_frameworks_base/commit/145d322b2c264338a26ffd522f7df08adf79c8c4
+https://github.com/ezio84/abc_frameworks_base/commit/cff29a56a128addc612cf92e2fe6c9c4c89b1d6b
+https://github.com/ezio84/abc_frameworks_base/commit/13bd6df659d15b7dabe8a810e4f18313bdf753d3
+https://github.com/ezio84/abc_frameworks_base/commit/f0b9a10ae03c7dd3a7b8766cc5003ba9eb08e82e
+https://github.com/ezio84/abc_frameworks_base/commit/d40f18769632d7ddb3c152c8d371f4d647831ca5
+https://github.com/ezio84/abc_frameworks_base/commit/8228bab63c085b65e1ae80fe37077a0796dfe4c3
+
 Allow user to add/remove QS with one click
 https://github.com/ezio84/abc_frameworks_base/commit/53704a3e336f8c072522eb3211dc6e1b43f476da
     Caffeine qs tile
@@ -224,32 +241,26 @@ https://github.com/ezio84/abc_frameworks_base/commit/529f7c9ce50176ba6252228b8aa
     https://github.com/ezio84/abc_frameworks_base/commit/c9e2d0c9a2ea4598e47ad290395fd63e4b74b135
     https://github.com/ezio84/abc_frameworks_base/commit/a55b555ef7be1664c176c0511478aeec044b8dec
 Sound and volume tiles
-https://github.com/ezio84/abc_frameworks_base/commit/7572b3aa7788ba842b5fa81c5bb9186e548417bd
-https://github.com/ezio84/abc_frameworks_base/commit/ac087857276470ec61b7cfc6c80b61bdf31e21d2
-    QS tile titles visibility
-    https://github.com/ezio84/abc_frameworks_base/commit/06aa1afbded9117029f9658cbdd05da319cdd0b2
-    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
-    https://github.com/ezio84/abc_frameworks_base/commit/770ead7cfc6709331b155bcc13f4a15c33c76a5c
-    https://github.com/ezio84/abc_frameworks_base/commit/efee023be1fbfbe1de4683d61a5f4b04a97338fb
-Ask pin when tapping Data/airplane tiles on secure lockscreen
-https://github.com/ezio84/abc_frameworks_base/commit/f95c1e59890b93520b4de4f46d2c690fadbb4a8c
-    NFC tile
-    https://github.com/ezio84/abc_frameworks_base/commit/39928a918d3d41e1b6b29f897ae12957450c4603
-    https://github.com/ezio84/abc_frameworks_base/commit/5617a9c7943340a28586f44b40fcddebe2b3227b
-    https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78ba510a653c9cd8
-Battery tile improvements
-https://github.com/ezio84/abc_frameworks_base/commit/34f684a4a52dcd7a550e6a104924902b05b0eb4c
-https://github.com/ezio84/abc_frameworks_base/commit/b256d780efd6d42cbfb3c9740cad89086a239ac5
-https://github.com/ezio84/abc_frameworks_base/commit/e36d8ec6393601909f8e82e8fadb871a770afe94
-
+https://github.com/ezio84/abc_frameworks_base/commit/afd3f538a23d060439c2f292c803e612cba68397
+https://github.com/ezio84/abc_frameworks_base/commit/6faf44ed2d0cb0eb62ad044264948ca0a434d7b2
+    Allow to disable qs footer warnings
+    https://github.com/ezio84/abc_frameworks_base/commit/8fa5250fe1bb27bcd0e2b2357ce3feb51a9076ea
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fe444e041609a055e169e7527f2efe9c1a2f0cd4
 Allow to set QS panel columns and rows
-https://github.com/ezio84/abc_frameworks_base/commit/7bacad0d766dd3ca44e0a327496d05297829e8a4
-https://github.com/ezio84/abc_frameworks_base/commit/bfd2f6f1d59726be04035b906f2de59e2cafdaaf
+https://github.com/ezio84/abc_frameworks_base/commit/348641a32322e0e351756e8f0f5126cee2061941
+https://github.com/ezio84/abc_frameworks_base/commit/7b2234d35fc5608993f6b75bf0c6b98c041eaeb9
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/41316786a7aafbf3f9b68a4af17b67f6f9434d6a
-
-Allow to disable qs footer warnings
-https://github.com/ezio84/abc_frameworks_base/commit/bed123e376f24ab425f806e62a638b2e135e5606
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fe444e041609a055e169e7527f2efe9c1a2f0cd4
+    QS tile titles visibility
+    https://github.com/ezio84/abc_frameworks_base/commit/22442b77207ba743458e2a10779f4ba5c5a82068
+    https://github.com/ezio84/abc_frameworks_base/commit/faab0efafc1a32be0907ff0e344f4ff7b27d9263
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
+Ask pin when tapping Data/airplane tiles on secure lockscreen
+https://github.com/ezio84/abc_frameworks_base/commit/9f2a59613b8697f92c6185eb939040308a8ea2f4
+    NFC tile
+    https://github.com/ezio84/abc_frameworks_base/commit/793d8d02513c4a5f9979fe3d21afd5cf3450934b
+    https://github.com/ezio84/abc_frameworks_base/commit/4248f144bf72499a16af9d86e967edd0600396ce
+Battery tile improvements
+https://github.com/ezio84/abc_frameworks_base/commit/dabf622c2952fa90867486c4aceaee7ac3f9e171
 
 Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/3a12108efb2ac8d3c210b7aef100c03639d9cc0a
@@ -295,21 +306,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/74dbe3d2d2cd8390ba4420c7603
 Fix empty recents view in multi window mode
 https://github.com/ezio84/abc_frameworks_base/commit/088c502e278d80c90cc96d85eed542c61cbd49bb
 
-Allow to quickly open Running Services from QS panel
-https://github.com/ezio84/abc_frameworks_base/commit/de18afd1fddc1aed20526336046fbeb76e254062
-https://github.com/ezio84/abc_packages_apps_Settings/commit/896fdb709c5ea217bba5e5d7b130d92785302988
-
 Vibrate on plug
 https://github.com/ezio84/abc_frameworks_base/commit/11695547aead0971900cd2206a65684c7e99981e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f03931ee8103c1a1255e4478a972d52fd5503478
-
-Enable Ambient burn-in protection *useful only if you enable always on ambient <<< reverted, seems not really working
-https://github.com/ezio84/abc_device_huawei_angler/commit/e86974adbe45e4e9643008d2d75af95259939725
-
-Unlink ringtone and notification volume
-https://github.com/ezio84/abc_frameworks_base/commit/dbebc62ba735690f96537c5e92acbc489055d22f
-https://github.com/ezio84/abc_frameworks_base/commit/664e67eeacfe5ee2224571672d987e190025b68a
-https://github.com/ezio84/abc_packages_apps_Settings/commit/d73da2d392a390e87b37f94da80b980af06abb82
 
 Status bar notification ticker
 https://github.com/ezio84/abc_frameworks_base/commit/d152e83ec270d76037a62ba2cb73182560ece8a5
@@ -326,19 +325,6 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/8ef7c8930b0b0c6db
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7166ae330d467c0c63a2b07497fa3f09269a5540
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/76c0ea461daab9558412865a850b76b133f32d9c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bb92973ad66b6a3f57198a7448216ab9637253bb
-
-QS panel brightness slider customization
-https://github.com/ezio84/abc_frameworks_base/commit/efe9bc3aa1f4e085f375f7c5e9c8cc15e7486146
-https://github.com/ezio84/abc_frameworks_base/commit/145d322b2c264338a26ffd522f7df08adf79c8c4
-https://github.com/ezio84/abc_frameworks_base/commit/cff29a56a128addc612cf92e2fe6c9c4c89b1d6b
-https://github.com/ezio84/abc_frameworks_base/commit/13bd6df659d15b7dabe8a810e4f18313bdf753d3
-https://github.com/ezio84/abc_frameworks_base/commit/f0b9a10ae03c7dd3a7b8766cc5003ba9eb08e82e
-https://github.com/ezio84/abc_frameworks_base/commit/d40f18769632d7ddb3c152c8d371f4d647831ca5
-https://github.com/ezio84/abc_frameworks_base/commit/8228bab63c085b65e1ae80fe37077a0796dfe4c3
-
-Alert when screen off and charging if charge level becomes good
-https://github.com/ezio84/abc_frameworks_base/commit/cec1eee6a47d3c5d715bb922779747c82caddd94
-https://github.com/ezio84/abc_packages_apps_Settings/commit/9c21e72d9c123a4e35e81cc3b3133feb7300da85
 
 DUI navbar
 if you pick from my github instead of dui gerrit, be sure to have the sendCustomAction(Intent intent) stuff
@@ -366,7 +352,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/c3faddb8bb7805242f0c0efe30b
 https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/0235f10e9b7bc3d249afa2cee41fe4433fcfa41b
 https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/6008b1fa53b5a0ac69d23adfad91b2ff6c744971
 https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/42c482888c06710b2f3ac7011de515b5fcb3d6ab
-
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
