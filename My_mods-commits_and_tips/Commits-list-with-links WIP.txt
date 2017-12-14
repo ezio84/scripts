@@ -189,72 +189,58 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/9d0b8a01bc273ed73827
 Battery light customization
 Enable battery light
 https://github.com/ezio84/abc_device_huawei_angler/commit/9637a42f6d24f672f0b3ef7b7e9456941db05505
-Allow to disable battery light when in DND mode
+Allow to disable battery light when in DND mode (not needed if u pick full customization commits)
 https://github.com/ezio84/abc_frameworks_base/commit/585d5fa5e406e7729fc6da4da8a746ae846e5fd0
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/92d8c9b06f2edd4646bec5e1ea34755c5840ef19
 Full battery light customization
+https://github.com/ezio84/abc_frameworks_base/commit/92ec95afdb2f3966bf3e351827e2ba7a8ee52684
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86e1d10bb7b8a44666c4204d522d47ed75bf9c62
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a037a1d928c8cca424591a10b4a47f6fac0dbf2c
-https://github.com/ezio84/abc_frameworks_base/commit/0ef657bcab702d1bfa11dfbdde4f64c1ca5fef39
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7ab54f9d0520abd38f30baa9f607d1fc647dbcee
 
 Notification led light customization
 grab latest customseekbar and colorpicker from abcsettings, then
     Enable led light for notifications by default
-    https://github.com/ezio84/abc_frameworks_base/commit/53856cf9b7d914e582e97c9011b5fadd491b7c32
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/ecce4f1617d6e7e256f7ca5dcc8a90532742e53b
-https://github.com/ezio84/abc_device_huawei_angler/commit/c17147bf89df421eb821b6f2a2d01b0ae239ff9a
-https://github.com/ezio84/abc_frameworks_base/commit/daaa4b830eb4f67788a55587aaa8f308c0a161f5
-https://github.com/ezio84/abc_frameworks_base/commit/05601a9844bd73fd1389f23c64b9f5ea0ece2b39
-https://github.com/ezio84/abc_frameworks_base/commit/808b2e1d3ac2c7f68ed8f99be84236c1c856feb9
-https://github.com/ezio84/abc_frameworks_base/commit/ed9cf81285abc7fba7df64aae60bc6e625ebf0a9
-https://github.com/ezio84/abc_packages_apps_Settings/commit/ef09e4a3dde6c41be147a37961d2def5aeb830a5
-https://github.com/ezio84/abc_packages_apps_Settings/commit/e1fa39bc743d4435cdd697e84f97a7fed4313ff0
-https://github.com/ezio84/abc_packages_apps_Settings/commit/28d2fd6c7a98ffbd68f17a1e8233b22018284cab
-https://github.com/ezio84/abc_packages_apps_Settings/commit/a06afce60b26c1af782cd21ac4875e0872e60173
-https://github.com/ezio84/abc_packages_apps_Settings/commit/370b7ae457643e04cca0799e9ff0d329da10803c
+    https://github.com/ezio84/abc_frameworks_base/commit/5e6aabe5720d80a8b363806ef57e98bc6bc6b823
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/9f6ed371640e761bbffe2d5b1716e180f5a05083
+    https://github.com/ezio84/abc_device_huawei_angler/commit/c17147bf89df421eb821b6f2a2d01b0ae239ff9a
+https://github.com/ezio84/abc_frameworks_base/commit/1a5ba5c99fa6aadd1faeea7f03ffabe773cf0522
+https://github.com/ezio84/abc_packages_apps_Settings/commit/8f1f2f376f1f2d2b92f49f0a21b9c20042f1f74c
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 
 Allow user to add/remove QS with one click
-https://github.com/ezio84/abc_frameworks_base/commit/b419ac189e4e01e720a9ba128496a2d8bd558bc9
-        Caffeine qs tile
-        https://github.com/ezio84/abc_frameworks_base/commit/4320cb302323628fe9e6c7f22c13c2ce3feb215d
-Adb over network tile
-https://github.com/ezio84/abc_frameworks_base/commit/0d6f850b3298aa8a1da50efcdc5d174b61e43e99
-https://github.com/ezio84/abc_frameworks_base/commit/f320d3ea6d63ff7d67e85777687511ee87e64be6
-https://github.com/ezio84/abc_vendor_nexus/commit/7aaafc2608c92192e71f98049ca1b8aeb506f590
-        Screenshot tile
-        https://github.com/ezio84/abc_frameworks_base/commit/d93f18463c76942e4a42a5c49fbf8ce5bac6cce6
-        https://github.com/ezio84/abc_frameworks_base/commit/6eff6e26b7bc32a1cf056c3aa45a4e1ea17b2f36
-Add Ambient-LiftToWake tile
-https://github.com/ezio84/abc_frameworks_base/commit/84f8d8932a0c5392567d43b62a4f45bbdfa0538a
-https://github.com/ezio84/abc_frameworks_base/commit/f34dd1553bfc28ed87ebb8978ecbf2c4584a4a4d
-    Location tile: make it cycle modes
-    https://github.com/ezio84/abc_frameworks_base/commit/cca7b17ed718d9a9bf665d139fa6458c2ba0be14
-PiP tile
-https://github.com/ezio84/abc_frameworks_base/commit/573908111c290e28158ee321820b2f975a9ce677
-https://github.com/ezio84/abc_frameworks_base/commit/ae09573052d16fa4639226ef5283bbc7861558c7
-https://github.com/ezio84/abc_frameworks_base/commit/e730bff8beb8038da28f68c754a7bbc5b775d848
-https://github.com/ezio84/abc_frameworks_base/commit/6bde3dd35dace3ae7ec8a88c2316fc61b30e75e8
-    Sound and volume tiles
-    https://github.com/ezio84/abc_frameworks_base/commit/7572b3aa7788ba842b5fa81c5bb9186e548417bd
-    https://github.com/ezio84/abc_frameworks_base/commit/ac087857276470ec61b7cfc6c80b61bdf31e21d2
-QS tile titles visibility
-https://github.com/ezio84/abc_frameworks_base/commit/06aa1afbded9117029f9658cbdd05da319cdd0b2
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
-https://github.com/ezio84/abc_frameworks_base/commit/770ead7cfc6709331b155bcc13f4a15c33c76a5c
-https://github.com/ezio84/abc_frameworks_base/commit/efee023be1fbfbe1de4683d61a5f4b04a97338fb
-    Ask pin when tapping Data/airplane tiles on secure lockscreen
-    https://github.com/ezio84/abc_frameworks_base/commit/f95c1e59890b93520b4de4f46d2c690fadbb4a8c
-NFC tile
-https://github.com/ezio84/abc_frameworks_base/commit/39928a918d3d41e1b6b29f897ae12957450c4603
-https://github.com/ezio84/abc_frameworks_base/commit/5617a9c7943340a28586f44b40fcddebe2b3227b
-https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78ba510a653c9cd8
-    Battery tile
-    https://github.com/ezio84/abc_frameworks_base/commit/34f684a4a52dcd7a550e6a104924902b05b0eb4c
-    https://github.com/ezio84/abc_frameworks_base/commit/b256d780efd6d42cbfb3c9740cad89086a239ac5
-    https://github.com/ezio84/abc_frameworks_base/commit/e36d8ec6393601909f8e82e8fadb871a770afe94
+https://github.com/ezio84/abc_frameworks_base/commit/53704a3e336f8c072522eb3211dc6e1b43f476da
+    Caffeine qs tile
+    https://github.com/ezio84/abc_frameworks_base/commit/89502171bfdb62b16d29a5a9f3a7bccda1d2d9a0
+Screenshot tile
+https://github.com/ezio84/abc_frameworks_base/commit/968dbbab9f04a6bcd9bff7e5bae299ea96c48083
+    Add Ambient-LiftToWake tile
+    https://github.com/ezio84/abc_frameworks_base/commit/9f539d0a19be082cbce3295c7a84fba8f8227de8
+Location tile: make it cycle modes
+https://github.com/ezio84/abc_frameworks_base/commit/529f7c9ce50176ba6252228b8aadae36bcac6703
+    PiP tile
+    https://github.com/ezio84/abc_frameworks_base/commit/7a35266d491654d4098bc3bbfe076ce3c4fbb2f5
+    https://github.com/ezio84/abc_frameworks_base/commit/c9e2d0c9a2ea4598e47ad290395fd63e4b74b135
+    https://github.com/ezio84/abc_frameworks_base/commit/a55b555ef7be1664c176c0511478aeec044b8dec
+Sound and volume tiles
+https://github.com/ezio84/abc_frameworks_base/commit/7572b3aa7788ba842b5fa81c5bb9186e548417bd
+https://github.com/ezio84/abc_frameworks_base/commit/ac087857276470ec61b7cfc6c80b61bdf31e21d2
+    QS tile titles visibility
+    https://github.com/ezio84/abc_frameworks_base/commit/06aa1afbded9117029f9658cbdd05da319cdd0b2
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
+    https://github.com/ezio84/abc_frameworks_base/commit/770ead7cfc6709331b155bcc13f4a15c33c76a5c
+    https://github.com/ezio84/abc_frameworks_base/commit/efee023be1fbfbe1de4683d61a5f4b04a97338fb
+Ask pin when tapping Data/airplane tiles on secure lockscreen
+https://github.com/ezio84/abc_frameworks_base/commit/f95c1e59890b93520b4de4f46d2c690fadbb4a8c
+    NFC tile
+    https://github.com/ezio84/abc_frameworks_base/commit/39928a918d3d41e1b6b29f897ae12957450c4603
+    https://github.com/ezio84/abc_frameworks_base/commit/5617a9c7943340a28586f44b40fcddebe2b3227b
+    https://github.com/ezio84/abc_frameworks_base/commit/aa6dacf21b0e143f6c7d215a78ba510a653c9cd8
+Battery tile improvements
+https://github.com/ezio84/abc_frameworks_base/commit/34f684a4a52dcd7a550e6a104924902b05b0eb4c
+https://github.com/ezio84/abc_frameworks_base/commit/b256d780efd6d42cbfb3c9740cad89086a239ac5
+https://github.com/ezio84/abc_frameworks_base/commit/e36d8ec6393601909f8e82e8fadb871a770afe94
 
 Allow to set QS panel columns and rows
 https://github.com/ezio84/abc_frameworks_base/commit/7bacad0d766dd3ca44e0a327496d05297829e8a4
