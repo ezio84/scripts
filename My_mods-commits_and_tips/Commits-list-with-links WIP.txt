@@ -329,24 +329,21 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bb92973ad66b6a3f5
 
 DUI navbar
 if you pick from my github instead of dui gerrit, be sure to have the sendCustomAction(Intent intent) stuff
-from https://github.com/ezio84/abc_frameworks_base/commit/d93f18463c76942e4a42a5c49fbf8ce5bac6cce6#diff-d2136a76e46e0ce7823259ad6ed13a4a
-then:
-https://github.com/ezio84/abc_manifest/commit/34d91cf5a056952c816155b4521317a6bb70651b
-https://github.com/ezio84/abc_vendor_nexus/commit/2e2ac461fad0fbc8338ab6e011c935bb70af821c
-https://github.com/ezio84/abc_packages_apps_Settings/commit/45ac48dfe1f601f2159144b2810f31c52ea002c6
+from https://github.com/ezio84/abc_frameworks_base/commit/3d0f757973f9da795bde2213956a2f55b479680f
+then add DUtils and DUI to manifest:
+https://github.com/ezio84/abc_manifest/commit/975d431ed2d87c0abd5262ce834d40b1dd1b3d30
+then
+https://github.com/ezio84/abc_vendor_nexus/commit/d4f8c7f1453c3070416b97454ab99b577929e6f1
+https://github.com/ezio84/abc_packages_apps_Settings/commit/cf3193df8cbb58935f99a527a8f0c28abfc80314
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7e0b12788346b0c6fba629569ca2e49b6780e12c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6b70ef303f21be47c9f3bcaf243eda7ebd8ac68c
-https://github.com/ezio84/abc_frameworks_base/commit/7188ffbf44c72298e1ff13eae57177bfeef54aaa
-https://github.com/ezio84/abc_frameworks_base/commit/1f5e81b7439edfbae9fecfcada88b386cea54022
-    Optional:
-    https://github.com/ezio84/abc_frameworks_base/commit/621f9caab9e9865b32756e897606726a509d39d7
-    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d5160af5593e25812373b472d6322d4af1595421
-    https://github.com/ezio84/abc_packages_apps_DUI/commit/78df861baf56fbdea6ee30feac710c2b63e2dfad (revert this
-    if not using other Optional commits)
-Smartbar dt2s
-https://github.com/ezio84/abc_frameworks_base/commit/a1034d2a317967f3da053d756602b072f0846f8b
-https://github.com/ezio84/abc_packages_apps_DUI/commit/65e26be1088af92f1449160e2b065c0af45708e7
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b45ce83f8f2c4ab2add9d07b974da30421127293
+https://github.com/ezio84/abc_frameworks_base/commit/b4b4e14d9723adf3cef8a45ef1628c840559602d
+https://github.com/ezio84/abc_frameworks_base/commit/37f6bb12e665621939545a40ec07d7958c6139ec
+    Optional:
+    https://github.com/ezio84/abc_frameworks_base/commit/81a88f40525e1fcdd4f062668924e920603c87eb
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d5160af5593e25812373b472d6322d4af1595421
+(if not using the above Optional commits, revert this: https://github.com/ezio84/abc_packages_apps_DUI/commit/78df861baf56fbdea6ee30feac710c2b63e2dfad )
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
