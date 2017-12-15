@@ -263,6 +263,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/9f2a59613b8697f92c6185eb939
     https://github.com/ezio84/abc_frameworks_base/commit/4248f144bf72499a16af9d86e967edd0600396ce
 Battery tile improvements
 https://github.com/ezio84/abc_frameworks_base/commit/dabf622c2952fa90867486c4aceaee7ac3f9e171
+    CellularTile: don't show confirm dialog on disable
+    https://github.com/ezio84/abc_frameworks_base/commit/331f5dc09093e65d06022e2e25aab420b2e722c2
 
 Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/4467b77e6f70d2c80fc3c94fb9034c70c691a923
