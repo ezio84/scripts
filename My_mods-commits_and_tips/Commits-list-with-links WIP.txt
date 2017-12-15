@@ -303,7 +303,7 @@ https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/42c4828
 Recents panel improvements
     Allow to kill any app from recents panel in a safe way
     https://github.com/ezio84/abc_frameworks_base/commit/0ef34b0164ac4f58cbcaea9c20fd8a4e1eec6bd0
-    https://github.com/ezio84/abc_frameworks_base/commit/d46c3cf857522e77fd2d1d2f2c27b2f35db988d7
+    https://github.com/ezio84/abc_frameworks_base/commit/75a9220b319b18ec0b702bcae7c379ad85dba40b
 Support recents task locking
 https://github.com/ezio84/abc_frameworks_base/commit/4171ad6f90ff1801b1c4112e4486abd62b461867
     Speed up Recents show additional button delay
@@ -313,10 +313,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/0feea184d631cb3db61e93d575b
     Custom icon packs
     https://github.com/ezio84/abc_frameworks_base/commit/859d410a42899ac80d799acfb2b98a0dc4bd61b9
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
-SystemUI: Recents: Allow closing empty view via tapping
-https://github.com/ezio84/abc_frameworks_base/commit/96b8a8236c287a0bc372eb5c0951e6bb2da06c34
     Recents: add pinch-in gesture on tasks to Clear All
-    https://github.com/ezio84/abc_frameworks_base/commit/fd1a469ff029fbb8d327f4fe0eee69c56770aac7
+    https://github.com/ezio84/abc_frameworks_base/commit/23eb358316152b63d4caed35636f9de762e7a585
 
 Slim Recents
 fork this tree: https://github.com/ezio84/abc_packages_apps_SlimRecents
@@ -338,10 +336,10 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/cf3193df8cbb58935f99
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7e0b12788346b0c6fba629569ca2e49b6780e12c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6b70ef303f21be47c9f3bcaf243eda7ebd8ac68c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b45ce83f8f2c4ab2add9d07b974da30421127293
-https://github.com/ezio84/abc_frameworks_base/commit/b4b4e14d9723adf3cef8a45ef1628c840559602d
-https://github.com/ezio84/abc_frameworks_base/commit/c50adb6a1f3fd76f4f97d1256a79881169ca576f
+https://github.com/ezio84/abc_frameworks_base/commit/b89ce3c6708c08b68c8b4956a2d0e5e18356a2f3
+https://github.com/ezio84/abc_frameworks_base/commit/b21cbf24d7d5e5026a9b47c55bb7ccc1f5f006c3
     Optional:
-    https://github.com/ezio84/abc_frameworks_base/commit/81a88f40525e1fcdd4f062668924e920603c87eb
+    https://github.com/ezio84/abc_frameworks_base/commit/caf2a3dea3b482872f39ecf77a650f68b2c6aee7
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d5160af5593e25812373b472d6322d4af1595421
 (if not using the above Optional commits, revert this: https://github.com/ezio84/abc_packages_apps_DUI/commit/78df861baf56fbdea6ee30feac710c2b63e2dfad )
 
