@@ -116,6 +116,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/8bf2e72498fd705368f42090790
     https://github.com/ezio84/abc_frameworks_base/commit/99559e198d5960ef2a05559d2a5a3a749176c3f8
     https://github.com/ezio84/abc_frameworks_base/commit/85f3920803250df3ce63c3d56312ba17002cc5e0
     https://github.com/ezio84/abc_frameworks_base/commit/c22bbe9a8fea65b9cf27a1c5ce276baa218a96d0
+    https://github.com/ezio84/abc_frameworks_base/commit/35d36b1b920eb13cdeb4aed219016d5b35479770
+    https://github.com/ezio84/abc_frameworks_base/commit/3426511afa3f848cd4f629bfbe6f43714fdcd137
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b00e6d2f93c94cc68db4208f15d925276b77a299
     Lockscreen shortcuts improvements
     https://github.com/ezio84/abc_frameworks_base/commit/7a634b5e2b0389f55af515a51bfa87d2882c327f
