@@ -349,6 +349,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/b21cbf24d7d5e5026a9b47c55bb
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/d5160af5593e25812373b472d6322d4af1595421
 (if not using the above Optional commits, revert this: https://github.com/ezio84/abc_packages_apps_DUI/commit/78df861baf56fbdea6ee30feac710c2b63e2dfad )
 
+Configure SystemUI theme
+https://github.com/ezio84/abc_frameworks_base/commit/a02cba3cf2ce220b635b369838bc4558057c4e7a
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66d60c600fa58e2adcb68bd5b56724d53621d1a5
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
