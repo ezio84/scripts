@@ -351,7 +351,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/b21cbf24d7d5e5026a9b47c55bb
 
 Configure SystemUI theme
 https://github.com/ezio84/abc_frameworks_base/commit/a02cba3cf2ce220b635b369838bc4558057c4e7a
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/b3740720b38d5c54b958f70f3ba437484599316d
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4c2034289929a836e36d6a1f3fa7a79fd6118c1e
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
