@@ -354,6 +354,9 @@ Configure SystemUI theme
 https://github.com/ezio84/abc_frameworks_base/commit/a02cba3cf2ce220b635b369838bc4558057c4e7a
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4c2034289929a836e36d6a1f3fa7a79fd6118c1e
 
+Set Persisting Mobile Data connection off by default
+https://github.com/ezio84/abc_frameworks_base/commit/e613786d7d59ac90ff70b905bb87ee3b634c6212
+https://github.com/ezio84/abc_packages_apps_Settings/commit/b0f328727e28c5021593ee5ade0485bda7ead88c
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
