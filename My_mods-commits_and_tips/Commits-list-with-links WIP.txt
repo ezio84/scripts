@@ -359,6 +359,10 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4c2034289929a836e
 Set Persisting Mobile Data connection off by default
 https://github.com/ezio84/abc_frameworks_base/commit/e613786d7d59ac90ff70b905bb87ee3b634c6212
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b0f328727e28c5021593ee5ade0485bda7ead88c
+
+Append app name to screenshot file
+https://github.com/ezio84/abc_frameworks_base/commit/0ce181e8ad6aaf094d85efdc134e2130b7beeca2
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
