@@ -363,6 +363,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/b0f328727e28c5021593
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
+Make lockscreen swipe to unlock less hard
+https://github.com/ezio84/abc_vendor_nexus/commit/cc1a16bba850fbe759834e798d8feb1e99d94362
+
 Move Gestures to their own menu << not needed on 8.1 (google did this), keeping in the list as generic reference to move stuff
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd85a0739eca647e96aa78
 
@@ -473,6 +476,7 @@ https://github.com/ezio84/abc_packages_apps_Contacts/commit/8c78c29498b07dc6f9c4
 
 Fix aosp tiles race condition
 https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
+
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
