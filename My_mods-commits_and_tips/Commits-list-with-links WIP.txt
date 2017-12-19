@@ -361,7 +361,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/e613786d7d59ac90ff70b905bb8
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b0f328727e28c5021593ee5ade0485bda7ead88c
 
 Append app name to screenshot file
-https://github.com/ezio84/abc_frameworks_base/commit/0ce181e8ad6aaf094d85efdc134e2130b7beeca2
+https://github.com/ezio84/abc_frameworks_base/commit/0068e6da4eb54f9ae58165eb595caf4100a816da
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
