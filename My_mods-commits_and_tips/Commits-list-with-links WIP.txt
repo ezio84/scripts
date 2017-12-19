@@ -45,6 +45,7 @@ Display bluetooth battery status when available
 https://github.com/ezio84/abc_frameworks_base/commit/052f1a97972fcb3436ff24b3744c995e54e8380a
 https://github.com/ezio84/abc_frameworks_base/commit/902b4e81a05acdf2c507ca2420b36d05edeb9d27
 https://github.com/ezio84/abc_frameworks_base/commit/f53975334e514e171ebc364e3a94227ba2ea57f5
+https://github.com/ezio84/abc_frameworks_base/commit/842fe2a47af78a08885d05e7846723bf053c0ad0#diff-619b926e23176134f3803562793cdcf7
 
 Night Light auto lower brightness mode
 https://github.com/ezio84/abc_frameworks_base/commit/f12538a079b6e33da47d141622477c9975fa4072
