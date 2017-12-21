@@ -367,6 +367,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/a86790f96430103a1254ac4088d
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
 
+Make dialer swipeUpToAnswer less hard
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/3a0dc17f032f1dfae31a34d0251bca4c49df30f2
+
 Make lockscreen swipe to unlock less hard
 https://github.com/ezio84/abc_vendor_nexus/commit/cc1a16bba850fbe759834e798d8feb1e99d94362
 
