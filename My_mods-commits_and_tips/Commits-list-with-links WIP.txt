@@ -31,9 +31,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/0ce647cbd82d7f6a4d49d7bf32a
 https://github.com/ezio84/abc_frameworks_base/commit/258cb91151ea0319402268ef060d7e3cd289b46c
 https://github.com/ezio84/abc_device_huawei_angler/commit/934ab48cce83ac96d11ddc7672aad6e3b44f5d49
 
-PowerMenu: add a toggleable recovery/bootloader action
+Power menu: add a toggleable recovery/bootloader action
 https://github.com/ezio84/abc_frameworks_base/commit/0e1ce2c37930179a67c4771377d18b37480931f6
 https://github.com/ezio84/abc_frameworks_base/commit/601c33963c6d5d12da97562d09522363ec124e47
+https://github.com/ezio84/abc_frameworks_base/commit/f3015b82cdd1fce0904a0f92d87a5a97be3cd61e
 
 Add Power+VolUp action to catch a partial area screenshot
 https://github.com/ezio84/abc_frameworks_base/commit/508c45449baee821cbda8893bf4c709df0858902
