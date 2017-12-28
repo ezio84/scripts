@@ -249,6 +249,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/afd3f538a23d060439c2f292c80
 https://github.com/ezio84/abc_frameworks_base/commit/6faf44ed2d0cb0eb62ad044264948ca0a434d7b2
     Allow to disable qs footer warnings
     https://github.com/ezio84/abc_frameworks_base/commit/8fa5250fe1bb27bcd0e2b2357ce3feb51a9076ea
+    https://github.com/ezio84/abc_frameworks_base/commit/a704343d387fe10a7c4f3b4a2c7fd17e0a0e87aa
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fe444e041609a055e169e7527f2efe9c1a2f0cd4
 Allow to set QS panel columns and rows
 https://github.com/ezio84/abc_frameworks_base/commit/348641a32322e0e351756e8f0f5126cee2061941
