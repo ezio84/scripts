@@ -583,7 +583,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/a81141245a91c843b40db064cbc
 Permissions/gapps fixes
 https://github.com/ezio84/abc_packages_providers_MediaProvider/commit/54cb5fcc04f1ddcd3f6a4e7890b73d389900c64f
     https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/e04166bcf719049d16ad1d32effdbd797645be60
-    https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/e04166bcf719049d16ad1d32effdbd797645be60
+    https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/8356ae59e02955076a78205e4af8b111c03e8a77
 https://github.com/ezio84/abc_packages_apps_Settings/commit/4d72a83b54f5e7899c5226b03244b881216e4d52
 https://github.com/ezio84/abc_packages_apps_Settings/commit/c0000216c0523b06adce6abf36fb5bd6efb8c32e
     https://github.com/ezio84/abc_packages_apps_Dialer/commit/f017c287ed9e0277ef46853d5e9b16c29ee989cd
