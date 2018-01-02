@@ -370,6 +370,8 @@ Append app name to screenshot file
 https://github.com/ezio84/abc_frameworks_base/commit/a86790f96430103a1254ac4088def23b17d719d5
 https://github.com/ezio84/abc_frameworks_base/commit/762b1ad5ca6363d49a22f240d5689317a20c987e
 
+Partial and full screenshot: use dynamic wallpaper colors
+https://github.com/ezio84/abc_frameworks_base/commit/4ff3c9f57b6725998cb6c53bd9ca16938a93cf1c
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
