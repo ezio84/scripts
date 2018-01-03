@@ -606,6 +606,11 @@ then add this overlay:
 https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
 (just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
 
+Add OTA script do delete package cache (after flashing new image delete contents of /data/system/package_cache/
+to make sure they are recreated. Outdated cache files are the reason for the famous 'resource derps')
+https://github.com/ezio84/abc_vendor_nexus/commit/6451f86ed448adda41202193dae29001c1d71c7f
+https://github.com/ezio84/abc_build/commit/bdb29f0da39c8ba38e65aad0c4e83ce50721393f
+
 Remove aosp su for full magisk hide support
 https://github.com/ezio84/abc_system_extras/commit/507c965d504f9f142799f8cc155b38c7c2b98721
 
