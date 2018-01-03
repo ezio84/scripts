@@ -498,6 +498,8 @@ https://github.com/ezio84/abc_packages_apps_Contacts/commit/8c78c29498b07dc6f9c4
 Fix aosp tiles race condition
 https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
 
+Dialer adaptive icon
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/267ec50aaeac4b7448fd3b3c56f1ee3a20ca5dbe
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
