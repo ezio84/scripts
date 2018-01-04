@@ -381,6 +381,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/2e706ba8a735348a2
 
 Append VoLTE status in the carrier name
 https://github.com/ezio84/abc_frameworks_base/commit/ae14a0f1b3346e66c2829ee968409ff16adab410
+https://github.com/ezio84/abc_frameworks_base/commit/d5b4d1f7a80288b895f649b5cfb400e4fa2a0e87
 https://github.com/ezio84/abc_packages_services_Telephony/commit/574c363e5632087cb1d02d4b0b679579d03f3254
 
 ----------------------------------------------------------------------
