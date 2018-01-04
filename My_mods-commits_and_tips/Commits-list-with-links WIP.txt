@@ -373,9 +373,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/762b1ad5ca6363d49a22f240d56
 Partial and full screenshot: use dynamic wallpaper colors
 https://github.com/ezio84/abc_frameworks_base/commit/4ff3c9f57b6725998cb6c53bd9ca16938a93cf1c
 
-App notifications: allow to suppress sound/vibration if screen on
-https://github.com/ezio84/abc_frameworks_base/commit/242fe1c3cc4e0148c25ab4ae01d90f4ba3fb1764
-https://github.com/ezio84/abc_packages_apps_Settings/commit/9ef0157ac7a329081a2068ee5cfb6539770d81ca
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
