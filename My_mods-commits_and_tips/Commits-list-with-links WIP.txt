@@ -279,6 +279,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f9bf22b975b821934
 Less boring heads up option 
 https://github.com/ezio84/abc_frameworks_base/commit/aa25ce8759a91f3ce83068e5ac7709d0141777f4
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fad439bd7886f0aa074300dd016c0e3c41fd87a8
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/46d908e3ffa166b25cc7d5fd0251d959114b2db4
 
 Remove Settings dashboard conditions and suggestions
 https://github.com/ezio84/abc_packages_apps_Settings/commit/0c7b448c72cca0d52d8eda028a6400842c59784f
