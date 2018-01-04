@@ -379,6 +379,10 @@ Allow to suppress notifications sound/vibration if screen is On
 https://github.com/ezio84/abc_frameworks_base/commit/4f13d7e8a58fc9ba284898ee450131606e1325b4
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/2e706ba8a735348a2c729eb5a454c0491eac2543
 
+Append VoLTE status in the carrier name
+https://github.com/ezio84/abc_frameworks_base/commit/ae14a0f1b3346e66c2829ee968409ff16adab410
+https://github.com/ezio84/abc_packages_services_Telephony/commit/574c363e5632087cb1d02d4b0b679579d03f3254
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
