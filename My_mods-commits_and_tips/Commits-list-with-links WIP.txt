@@ -41,6 +41,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/4836e74cd000dfab2fa92fd8667
 
 Add Power+VolUp action to catch a partial area screenshot
 https://github.com/ezio84/abc_frameworks_base/commit/508c45449baee821cbda8893bf4c709df0858902
+https://github.com/ezio84/abc_frameworks_base/commit/7064be1425e11369a903e887e9b15a11b18493c3
 
 Add additional battery saver steps
 https://github.com/ezio84/abc_packages_apps_Settings/commit/41cc7db15a9da77a8400db0ccf5b34d3a618dc9e
@@ -239,6 +240,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/53704a3e336f8c072522eb3211d
     https://github.com/ezio84/abc_frameworks_base/commit/89502171bfdb62b16d29a5a9f3a7bccda1d2d9a0
 Screenshot tile
 https://github.com/ezio84/abc_frameworks_base/commit/968dbbab9f04a6bcd9bff7e5bae299ea96c48083
+https://github.com/ezio84/abc_frameworks_base/commit/7064be1425e11369a903e887e9b15a11b18493c3
     Add Ambient-LiftToWake tile
     https://github.com/ezio84/abc_frameworks_base/commit/9f539d0a19be082cbce3295c7a84fba8f8227de8
 Location tile: make it cycle modes
