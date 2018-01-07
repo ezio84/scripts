@@ -158,6 +158,8 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bfedc6ece38e424db
 
 Volume key music control to skip tracks on screen off
 https://github.com/ezio84/abc_frameworks_base/commit/31884d13a2d0d352f58206811314f4167674116d
+https://github.com/ezio84/abc_frameworks_base/commit/c678feaf8cdcd222635a3f6a37cc9491647c3182
+https://github.com/ezio84/abc_frameworks_base/commit/81c5b0805aed24887ff8fb1ec6065ad5cd8316ea
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c0841a0ad56758eb9efabdf12331863cb990945a
 
 Launch music player on headset connect:
@@ -184,6 +186,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/0b2a59bb3cee3b2a7803cacf596
 https://github.com/ezio84/abc_packages_apps_Settings/commit/f259faa1899e38e7f5039ffaedc0b13475b6c529
 
 Allow to doubletap or longpress power to toggle flashlight
+be sure to add the isDozing() api from this commit https://github.com/ezio84/abc_frameworks_base/commit/31884d13a2d0d352f58206811314f4167674116d
+then:
 https://github.com/ezio84/abc_frameworks_base/commit/bfe86efff449c132c5af729b429a48ef85b8f5e7
 https://github.com/ezio84/abc_frameworks_base/commit/1b16175b4ef61436c86f44bded68099063fa1a60
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/24e76a9d219b7f2123f76145d50a0e28c77a5117
