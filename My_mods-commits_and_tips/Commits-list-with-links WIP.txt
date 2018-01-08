@@ -329,6 +329,7 @@ Recents panel improvements
     https://github.com/ezio84/abc_frameworks_base/commit/b3cfc68823c13c5e95436c4b6adbbf4d1d20815b
 Support recents task locking
 https://github.com/ezio84/abc_frameworks_base/commit/4171ad6f90ff1801b1c4112e4486abd62b461867
+https://github.com/ezio84/abc_frameworks_base/commit/31944e59218fb3be5841490dd3a6736b6cb0169c
     Speed up Recents show additional button delay
     https://github.com/ezio84/abc_frameworks_base/commit/d69ccb25e1a93c518f03250e3549f3081b073623
 Allow single tap on app icon to show app info overlay
