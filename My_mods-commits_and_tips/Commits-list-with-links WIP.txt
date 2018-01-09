@@ -276,7 +276,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/9f2a59613b8697f92c6185eb939
     https://github.com/ezio84/abc_frameworks_base/commit/793d8d02513c4a5f9979fe3d21afd5cf3450934b
     https://github.com/ezio84/abc_frameworks_base/commit/4248f144bf72499a16af9d86e967edd0600396ce
 Battery tile improvements
-https://github.com/ezio84/abc_frameworks_base/commit/dabf622c2952fa90867486c4aceaee7ac3f9e171
+https://github.com/ezio84/abc_frameworks_base/commit/7d4560117866cda0e0dfea10b85f29bae9f54a2b
     CellularTile: don't show confirm dialog on disable
     https://github.com/ezio84/abc_frameworks_base/commit/331f5dc09093e65d06022e2e25aab420b2e722c2
 
