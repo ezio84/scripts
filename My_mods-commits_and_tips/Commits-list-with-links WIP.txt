@@ -684,5 +684,8 @@ https://github.com/GZOSP/frameworks_base/commit/976478e088053d4706c987a30000c80c
 Speed up fingerprint unlock with OP hack ** untested on 8.1
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/4e4e743c6d7f8b59ea70e36a54741e8f8134a2ab
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/06904deea1705d63abd6599e64142593c893786d
+
+Potentially fix netflix and similar issues on shamu and other devices
+https://github.com/ezio84/abc_frameworks_av/commit/33b68b0f260b2296a232796b77a630806a5d161a
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
