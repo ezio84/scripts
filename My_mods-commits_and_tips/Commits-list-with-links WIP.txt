@@ -190,6 +190,7 @@ be sure to add the isDozing() api from this commit https://github.com/ezio84/abc
 then:
 https://github.com/ezio84/abc_frameworks_base/commit/bfe86efff449c132c5af729b429a48ef85b8f5e7
 https://github.com/ezio84/abc_frameworks_base/commit/1b16175b4ef61436c86f44bded68099063fa1a60
+https://github.com/ezio84/abc_frameworks_base/commit/02d7892150e39f4c78fb2ab1c2976650664e9416
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/24e76a9d219b7f2123f76145d50a0e28c77a5117
 https://github.com/ezio84/abc_packages_apps_Settings/commit/9d0b8a01bc273ed73827d457091bae13407ffe48
 
