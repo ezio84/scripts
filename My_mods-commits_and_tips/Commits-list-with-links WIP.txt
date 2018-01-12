@@ -391,6 +391,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/ae14a0f1b3346e66c2829ee9684
 https://github.com/ezio84/abc_frameworks_base/commit/d5b4d1f7a80288b895f649b5cfb400e4fa2a0e87
 https://github.com/ezio84/abc_packages_services_Telephony/commit/574c363e5632087cb1d02d4b0b679579d03f3254
 
+Add dynamic screenrecord tile
+https://github.com/ezio84/abc_frameworks_base/commit/41231490b935a5f043b6b00dbe5336feb1b20c1b
+https://github.com/ezio84/abc_frameworks_base/commit/51932e815ca5eb0915503b9ca038dbbefb6455f5
+https://github.com/ezio84/abc_frameworks_av/commit/6377b07e27a93c46e900b857243566ef600d6b4d
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
