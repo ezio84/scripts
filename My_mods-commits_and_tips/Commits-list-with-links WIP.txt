@@ -395,6 +395,7 @@ Add dynamic screenrecord tile
 https://github.com/ezio84/abc_frameworks_base/commit/41231490b935a5f043b6b00dbe5336feb1b20c1b
 https://github.com/ezio84/abc_frameworks_base/commit/40b4a03a76a5499040e70ac2eaaaef9a341e41f5
 https://github.com/ezio84/abc_frameworks_base/commit/223c0482468077a8c9dbcfa79eaca4c55bf71dac
+https://github.com/ezio84/abc_frameworks_base/commit/7e9c2a8f9089e669c77cafd26388619f7a857720
 https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
 
 ----------------------------------------------------------------------
