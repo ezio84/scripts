@@ -404,6 +404,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/f00a9381f45554d5142a9c1aa59
 https://github.com/ezio84/abc_frameworks_base/commit/b69a2bd5a55551a7239db12043c60bf67eed5ddc
 https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
 
+Ambient display: show playing music track (it relies on ticker and dui media playing code but you can easily extract the needed lines)
+https://github.com/ezio84/abc_frameworks_base/commit/c102ac404ea9da5d060b60d6faa6afad4831bf87
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
