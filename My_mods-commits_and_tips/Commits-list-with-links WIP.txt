@@ -639,7 +639,7 @@ to make sure they are recreated. Outdated cache files are the reason for the fam
 https://github.com/ezio84/abc_vendor_nexus/commit/6451f86ed448adda41202193dae29001c1d71c7f
 https://github.com/ezio84/abc_build/commit/bdb29f0da39c8ba38e65aad0c4e83ce50721393f
 
-Remove aosp su for full magisk hide support
+Remove aosp su for full magisk hide support >>> ***** NOT NEEDED ANYMORE WITH LATEST MAGISK RELEASES*
 https://github.com/ezio84/abc_system_extras/commit/507c965d504f9f142799f8cc155b38c7c2b98721
 
 Generic important fixes that Google forgot
