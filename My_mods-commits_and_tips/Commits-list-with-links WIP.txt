@@ -407,9 +407,10 @@ https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca
 Ambient display: show playing music track (it relies on ticker and dui media playing code but you can easily extract the needed lines)
 https://github.com/ezio84/abc_frameworks_base/commit/c102ac404ea9da5d060b60d6faa6afad4831bf87
 
-Show Ambient notif. when new track is played even if AD is off
-https://github.com/ezio84/abc_frameworks_base/commit/bf29e321cd76fd3eb8978eb7ee3926aa9086a735
-https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/3a988eba5c2eba6732abd465033159f78eb1d825
+Ambient display music ticker
+https://github.com/ezio84/abc_frameworks_base/commit/f4431542b685d2d6ef7639f0db64194e92ef8cac
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66f5330b26fa68d5723a046a7fddd45b90acebfa
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
