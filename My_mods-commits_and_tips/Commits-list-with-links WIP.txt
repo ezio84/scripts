@@ -408,8 +408,11 @@ Ambient display: show playing music track (it relies on ticker and dui media pla
 https://github.com/ezio84/abc_frameworks_base/commit/c102ac404ea9da5d060b60d6faa6afad4831bf87
 
 Ambient display music ticker
-https://github.com/ezio84/abc_frameworks_base/commit/f4431542b685d2d6ef7639f0db64194e92ef8cac
+https://github.com/ezio84/abc_frameworks_base/commit/775bceb8fc54b3b08414c1895cefae76f960cae3
+https://github.com/ezio84/abc_frameworks_base/commit/d0b62ecc30052c4c8ed13cc1c8d8b6b056f130ed
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66f5330b26fa68d5723a046a7fddd45b90acebfa
+(just for reference, this is the older version i made without the AmbientIndicationContainer:
+https://github.com/ezio84/abc_frameworks_base/commit/c175c1010c835a5facd2cfcb9da37e9dd99bb6e9 )
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
