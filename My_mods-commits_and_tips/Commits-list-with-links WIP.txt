@@ -411,8 +411,10 @@ Ambient display music ticker
 https://github.com/ezio84/abc_frameworks_base/commit/775bceb8fc54b3b08414c1895cefae76f960cae3
 https://github.com/ezio84/abc_frameworks_base/commit/d0b62ecc30052c4c8ed13cc1c8d8b6b056f130ed
 https://github.com/ezio84/abc_frameworks_base/commit/2af3dbf01ee47cfbe314de04e5bdea6ff820f698
+https://github.com/ezio84/abc_frameworks_base/commit/9a927df8c3f3055d1d4f2f4acec724f007936c72
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66f5330b26fa68d5723a046a7fddd45b90acebfa
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/81307d884311e7c8b24dd20f06da8ff92469991b
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c5ed44da172b9e5da21f3c92cf3921340ec8700b
 (just for reference, this is the older version i made without the AmbientIndicationContainer:
 https://github.com/ezio84/abc_frameworks_base/commit/c175c1010c835a5facd2cfcb9da37e9dd99bb6e9 )
 
