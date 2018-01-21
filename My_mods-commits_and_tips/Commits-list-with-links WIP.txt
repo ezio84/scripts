@@ -402,6 +402,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/223c0482468077a8c9dbcfa79ea
 https://github.com/ezio84/abc_frameworks_base/commit/7e9c2a8f9089e669c77cafd26388619f7a857720
 https://github.com/ezio84/abc_frameworks_base/commit/f00a9381f45554d5142a9c1aa5992cce0e135ca4
 https://github.com/ezio84/abc_frameworks_base/commit/b69a2bd5a55551a7239db12043c60bf67eed5ddc
+https://github.com/ezio84/abc_frameworks_base/commit/d8fda12dcdf7d4066773b9721871efc8644ea8eb
 https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
 
 Ambient display: show playing music track (it relies on ticker and dui media playing code but you can easily extract the needed lines)
