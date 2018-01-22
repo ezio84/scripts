@@ -423,6 +423,11 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1872559dfa1560f09
 (just for reference, this is the older version i made without the AmbientIndicationContainer:
 https://github.com/ezio84/abc_frameworks_base/commit/c175c1010c835a5facd2cfcb9da37e9dd99bb6e9 )
 
+Allow to dismiss notifications with FP left/right swipe
+https://github.com/ezio84/abc_packages_apps_Settings/commit/7cac2be89b70328e15514d422d54cc5a6c0ecc0b
+https://github.com/ezio84/abc_frameworks_base/commit/3500a4f46cc14680aa6a52f577351010ef69a8b4
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
