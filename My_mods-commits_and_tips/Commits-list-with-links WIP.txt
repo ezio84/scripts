@@ -387,6 +387,7 @@ Allow to suppress notifications sound/vibration if screen is On
 https://github.com/ezio84/abc_frameworks_base/commit/4f13d7e8a58fc9ba284898ee450131606e1325b4
 https://github.com/ezio84/abc_frameworks_base/commit/3ce3a905dabb0e7bea652eaa6773e627f60f588b
 https://github.com/ezio84/abc_frameworks_base/commit/d443f96b303d36e8049a3328ade63cc68a36d5a8
+then open my last StatusBar.java file in the o2 branch and move setMediaPlaying like there (i've improved its position in the class)
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/2e706ba8a735348a2c729eb5a454c0491eac2543
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1b0ebd56a47a033cc3acf83e29209bfcc0815dab
 
