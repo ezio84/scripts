@@ -409,7 +409,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/7e9c2a8f9089e669c77cafd2638
 https://github.com/ezio84/abc_frameworks_base/commit/f00a9381f45554d5142a9c1aa5992cce0e135ca4
 https://github.com/ezio84/abc_frameworks_base/commit/b69a2bd5a55551a7239db12043c60bf67eed5ddc
 https://github.com/ezio84/abc_frameworks_base/commit/d8fda12dcdf7d4066773b9721871efc8644ea8eb
-https://github.com/ezio84/abc_frameworks_base/commit/91be70826d6951aab41c2d40daa21dbf8688cefe
+https://github.com/ezio84/abc_frameworks_base/commit/8ff1b4270c546467486d9e058602d8dd031de4ad
 https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
 
 Ambient display: show playing music track (it relies on ticker and dui media playing code but you can easily extract the needed lines)
@@ -474,6 +474,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/94dd3c4d9b94a5905b4912fe8ee
 
 DeviceInfoSettings: Add back ABC version 
 https://github.com/ezio84/abc_packages_apps_Settings/commit/8889e9519da5a77ddfc184120154cc380e6c50dc
+https://github.com/ezio84/abc_packages_apps_Settings/commit/fc6291ce2a72628a9ad432c66458ba4e138ecc79
 
 Port "Battery Usage Alerts" feature from factory images to aosp
 https://github.com/ezio84/abc_packages_apps_Settings/commit/566a5c90d9a6da6144549d5e58cfdc7d81152479
