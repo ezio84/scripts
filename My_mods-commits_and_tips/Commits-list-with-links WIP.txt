@@ -100,7 +100,7 @@ Show detailed kernel infos in System info menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/5edd44dfe6e75db4c7d2ce527062ab47eecbff48
 https://github.com/ezio84/abc_packages_apps_Settings/commit/357ffba2d3cbede1f12f8d8620cdca343edbeb4b
 
-Alert when screen off and charging if charge level becomes good
+Alert when screen off and charging if charge level becomes good << REVERTED because we found this a bit useless lately
 https://github.com/ezio84/abc_frameworks_base/commit/cec1eee6a47d3c5d715bb922779747c82caddd94
 https://github.com/ezio84/abc_packages_apps_Settings/commit/9c21e72d9c123a4e35e81cc3b3133feb7300da85
 
