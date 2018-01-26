@@ -1,0 +1,9 @@
+extract the webview apk (e.g. Chrome stable apk) with a zip archiver
+extract Keystore explorer zip
+open the program with: java -jar kse.jar
+click on Examine Certificate
+choose the META-INF/CERT.RSA file from the extracted webview 
+click on Examine
+click on PEM and get the signature
+
+Download latest official keystore explorer from: http://keystore-explorer.org/index.html
