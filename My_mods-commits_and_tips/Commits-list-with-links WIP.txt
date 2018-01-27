@@ -419,9 +419,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/84576f2e6f9c987b130b26850d0
 https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
 
 Ambient display: show playing music track (it relies on ticker and dui media playing code but you can easily extract the needed lines)
-https://github.com/ezio84/abc_frameworks_base/commit/c102ac404ea9da5d060b60d6faa6afad4831bf87
-
-Ambient display music ticker
 https://github.com/ezio84/abc_frameworks_base/commit/775bceb8fc54b3b08414c1895cefae76f960cae3
 https://github.com/ezio84/abc_frameworks_base/commit/d0b62ecc30052c4c8ed13cc1c8d8b6b056f130ed
 https://github.com/ezio84/abc_frameworks_base/commit/2af3dbf01ee47cfbe314de04e5bdea6ff820f698
@@ -671,7 +668,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/d4cc65afa2591fd129564279f2e987
 https://github.com/ezio84/abc_vendor_nexus/commit/c042123a2a4157268c4465526b16d53c52a50535
 https://github.com/ezio84/abc_vendor_nexus/commit/2620a94be1aa54b475eed99ab29306d2429b10fe
     https://github.com/ezio84/abc_frameworks_base/commit/40fe0dfa0717da6ec575b5d349d955ee0f0e6866
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/124bf7003f7c80248d9c6a7213a47d7ee021e1aa
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/364cedbad45be2ac60ab15b1f3df3544db808549
 then add this overlay:
 https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
 (just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
