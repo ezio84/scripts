@@ -130,6 +130,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/8bf2e72498fd705368f42090790
     https://github.com/ezio84/abc_frameworks_base/commit/a828c5fcf943c89cd93b4bc3971b5ee9a191b142
     https://github.com/ezio84/abc_frameworks_base/commit/688e61e803bb96814a8f92308b1100895c6b4c1e
     https://github.com/ezio84/abc_frameworks_base/commit/c4779ffd489a81f107f8e514bab96eef2753809a
+    https://github.com/ezio84/abc_frameworks_base/commit/ca4ea055060f46dadf19dbe2a5d70a44bc2f894f
 
 Stock Navbar improvements and custom features (not needed with DUI navbar)
 Use a thinner navbar: https://github.com/ezio84/abc_device_huawei_angler/commit/0d02af4515574c76b4c13a78ad9b3209d87ee180
