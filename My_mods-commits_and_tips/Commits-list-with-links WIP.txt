@@ -286,6 +286,19 @@ https://github.com/ezio84/abc_frameworks_base/commit/91d25e75dbc5f071c710312f0f7
 https://github.com/ezio84/abc_frameworks_base/commit/ae95374d8edadc9f6d7e5ac50d01249c89a4857e
 https://github.com/ezio84/abc_vendor_nexus/commit/ea99e400d608c884867a5c7b3acb00c076acb7c3
 additional: https://github.com/ezio84/abc_system_core/commit/71b71bfb1b631add5bde67ea66b6c303e7cc6846
+    SystemUI: use slashify for more qs tile
+    https://github.com/ezio84/abc_frameworks_base/commit/36a2609a3a9517d8c85f220d677ee0146c352fd0
+Add dynamic screenrecord (tile)
+https://github.com/ezio84/abc_frameworks_base/commit/41231490b935a5f043b6b00dbe5336feb1b20c1b
+https://github.com/ezio84/abc_frameworks_base/commit/40b4a03a76a5499040e70ac2eaaaef9a341e41f5
+https://github.com/ezio84/abc_frameworks_base/commit/223c0482468077a8c9dbcfa79eaca4c55bf71dac
+https://github.com/ezio84/abc_frameworks_base/commit/7e9c2a8f9089e669c77cafd26388619f7a857720
+https://github.com/ezio84/abc_frameworks_base/commit/f00a9381f45554d5142a9c1aa5992cce0e135ca4
+https://github.com/ezio84/abc_frameworks_base/commit/b69a2bd5a55551a7239db12043c60bf67eed5ddc
+https://github.com/ezio84/abc_frameworks_base/commit/d8fda12dcdf7d4066773b9721871efc8644ea8eb
+https://github.com/ezio84/abc_frameworks_base/commit/8ff1b4270c546467486d9e058602d8dd031de4ad
+https://github.com/ezio84/abc_frameworks_base/commit/84576f2e6f9c987b130b26850d0f73767f422e22
+https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
 
 Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/4467b77e6f70d2c80fc3c94fb9034c70c691a923
@@ -406,18 +419,6 @@ https://github.com/ezio84/abc_frameworks_base/commit/ae14a0f1b3346e66c2829ee9684
 https://github.com/ezio84/abc_frameworks_base/commit/d5b4d1f7a80288b895f649b5cfb400e4fa2a0e87
 https://github.com/ezio84/abc_packages_services_Telephony/commit/574c363e5632087cb1d02d4b0b679579d03f3254
 
-Add dynamic screenrecord (tile)
-https://github.com/ezio84/abc_frameworks_base/commit/41231490b935a5f043b6b00dbe5336feb1b20c1b
-https://github.com/ezio84/abc_frameworks_base/commit/40b4a03a76a5499040e70ac2eaaaef9a341e41f5
-https://github.com/ezio84/abc_frameworks_base/commit/223c0482468077a8c9dbcfa79eaca4c55bf71dac
-https://github.com/ezio84/abc_frameworks_base/commit/7e9c2a8f9089e669c77cafd26388619f7a857720
-https://github.com/ezio84/abc_frameworks_base/commit/f00a9381f45554d5142a9c1aa5992cce0e135ca4
-https://github.com/ezio84/abc_frameworks_base/commit/b69a2bd5a55551a7239db12043c60bf67eed5ddc
-https://github.com/ezio84/abc_frameworks_base/commit/d8fda12dcdf7d4066773b9721871efc8644ea8eb
-https://github.com/ezio84/abc_frameworks_base/commit/8ff1b4270c546467486d9e058602d8dd031de4ad
-https://github.com/ezio84/abc_frameworks_base/commit/84576f2e6f9c987b130b26850d0f73767f422e22
-https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
-
 Ambient display: show playing music track (it relies on ticker and dui media playing code but you can easily extract the needed lines)
 https://github.com/ezio84/abc_frameworks_base/commit/775bceb8fc54b3b08414c1895cefae76f960cae3
 https://github.com/ezio84/abc_frameworks_base/commit/d0b62ecc30052c4c8ed13cc1c8d8b6b056f130ed
@@ -444,11 +445,6 @@ https://github.com/ezio84/abc_system_core/commit/71b71bfb1b631add5bde67ea66b6c30
 ----------------------------------------------------------------------
 
 Core and deep stuff improvements, pixel theme stuff and prebuilt apps
-
-Add custom launcher3:
-https://github.com/ezio84/abc_frameworks_base/commit/40944502a206b19b0d83c15139e4e7f26daf5969
-then add the tree in the manifest:
-
 
 Make dialer swipeUpToAnswer less hard
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/3a0dc17f032f1dfae31a34d0251bca4c49df30f2
