@@ -301,6 +301,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/d8fda12dcdf7d4066773b972187
 https://github.com/ezio84/abc_frameworks_base/commit/8ff1b4270c546467486d9e058602d8dd031de4ad
 https://github.com/ezio84/abc_frameworks_base/commit/84576f2e6f9c987b130b26850d0f73767f422e22
 https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
+https://github.com/ezio84/abc_frameworks_base/commit/18c8b7b295ff67b6336bd876463147fabb8f1ba0
     Fix aosp tiles race condition
     https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
 
