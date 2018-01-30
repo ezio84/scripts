@@ -289,6 +289,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/ea99e400d608c884867a5c7b3acb00
 additional: https://github.com/ezio84/abc_system_core/commit/71b71bfb1b631add5bde67ea66b6c303e7cc6846
     SystemUI: use slashify for more qs tile
     https://github.com/ezio84/abc_frameworks_base/commit/36a2609a3a9517d8c85f220d677ee0146c352fd0
+    https://github.com/ezio84/abc_frameworks_base/commit/5f2186859d16add98e8655ec9951134bfab8ef02
 Add dynamic screenrecord (tile)
 https://github.com/ezio84/abc_frameworks_base/commit/41231490b935a5f043b6b00dbe5336feb1b20c1b
 https://github.com/ezio84/abc_frameworks_base/commit/40b4a03a76a5499040e70ac2eaaaef9a341e41f5
@@ -300,6 +301,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/d8fda12dcdf7d4066773b972187
 https://github.com/ezio84/abc_frameworks_base/commit/8ff1b4270c546467486d9e058602d8dd031de4ad
 https://github.com/ezio84/abc_frameworks_base/commit/84576f2e6f9c987b130b26850d0f73767f422e22
 https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
+    Fix aosp tiles race condition
+    https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
 
 Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/4467b77e6f70d2c80fc3c94fb9034c70c691a923
@@ -564,9 +567,6 @@ Aosp Contacts improvements
 https://github.com/ezio84/abc_packages_apps_Contacts/commit/5d0589a7c97606029e521c94cfe4f3749c759430
 https://github.com/ezio84/abc_packages_apps_Contacts/commit/d3d4e225e93d591f6cce09960403b37ed84814eb
 https://github.com/ezio84/abc_packages_apps_Contacts/commit/8c78c29498b07dc6f9c4c950e88cf3d96890203a
-
-Fix aosp tiles race condition
-https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
 
 Dialer adaptive icon
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/267ec50aaeac4b7448fd3b3c56f1ee3a20ca5dbe
