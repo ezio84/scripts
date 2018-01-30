@@ -448,6 +448,10 @@ https://github.com/ezio84/abc_system_core/commit/71b71bfb1b631add5bde67ea66b6c30
 Prevent users from sharing sensitive information
 https://github.com/ezio84/abc_packages_apps_Settings/commit/084d5e03e5989d39cd0c5efd1b8e13e24a26e3c4
 
+Less notification sounds
+https://github.com/ezio84/abc_frameworks_base/commit/9a8fa707f8deac3fb09ee3a6c224d1398f2b81dc
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9aea0dfa9852fbceea3d3410b031d6531744608
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
