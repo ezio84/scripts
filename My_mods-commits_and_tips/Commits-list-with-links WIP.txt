@@ -275,6 +275,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/41316786a7aafbf3f
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
 Ask pin when tapping Data/airplane tiles on secure lockscreen
 https://github.com/ezio84/abc_frameworks_base/commit/9f2a59613b8697f92c6185eb939040308a8ea2f4
+https://github.com/ezio84/abc_frameworks_base/commit/df8cd360ac1005ad1a3895350ac7f21eb3c638c4
     NFC tile
     https://github.com/ezio84/abc_frameworks_base/commit/793d8d02513c4a5f9979fe3d21afd5cf3450934b
     https://github.com/ezio84/abc_frameworks_base/commit/4248f144bf72499a16af9d86e967edd0600396ce
