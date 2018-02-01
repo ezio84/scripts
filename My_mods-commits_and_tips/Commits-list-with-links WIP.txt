@@ -213,10 +213,16 @@ grab latest customseekbar and colorpicker from abcsettings, then
     https://github.com/ezio84/abc_frameworks_base/commit/5e6aabe5720d80a8b363806ef57e98bc6bc6b823
     https://github.com/ezio84/abc_packages_apps_Settings/commit/9f6ed371640e761bbffe2d5b1716e180f5a05083
     https://github.com/ezio84/abc_device_huawei_angler/commit/c17147bf89df421eb821b6f2a2d01b0ae239ff9a
+Then the main code
 https://github.com/ezio84/abc_frameworks_base/commit/1a5ba5c99fa6aadd1faeea7f03ffabe773cf0522
 https://github.com/ezio84/abc_packages_apps_Settings/commit/8f1f2f376f1f2d2b92f49f0a21b9c20042f1f74c
     to call the fragment for custom rom menu add this: 
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
+Add a real time preview of the actual led settings
+https://github.com/ezio84/abc_frameworks_base/commit/985618ff802b63f0df926e12d6e32aed15b33464
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/789ca3d3ecd6c2b95887181fad98b25aed7c4069
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fd6e8c32d0d061f2804b35cb400e2b2fa9bc05e6
+https://github.com/ezio84/abc_packages_apps_Settings/commit/5e68dfc2c0420b3629542cfa0de17fd2928680c2
 
 Remove grey gap/shadow between QS panel and notifications
 https://github.com/ezio84/abc_frameworks_base/commit/4a0f1f3c1fba062015d2637242e7bfde3c97f4f6
