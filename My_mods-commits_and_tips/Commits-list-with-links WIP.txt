@@ -462,6 +462,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9aea0dfa9852fbce
 
 Expose the hidden Notifications log
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b2486a34748487630a72c6010e0ba58404547272
+https://github.com/ezio84/abc_packages_apps_Settings/commit/91c476842bdfc4ab63318b97b88dbb683920a63c
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
