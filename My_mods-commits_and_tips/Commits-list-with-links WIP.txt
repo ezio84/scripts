@@ -454,6 +454,8 @@ Less notification sounds
 https://github.com/ezio84/abc_frameworks_base/commit/9a8fa707f8deac3fb09ee3a6c224d1398f2b81dc
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9aea0dfa9852fbceea3d3410b031d6531744608
 
+Expose the hidden Notifications log
+https://github.com/ezio84/abc_packages_apps_Settings/commit/b2486a34748487630a72c6010e0ba58404547272
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
