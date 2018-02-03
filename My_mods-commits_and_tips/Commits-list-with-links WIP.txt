@@ -420,6 +420,7 @@ Append app name to screenshot file
 https://github.com/ezio84/abc_frameworks_base/commit/a86790f96430103a1254ac4088def23b17d719d5
 https://github.com/ezio84/abc_frameworks_base/commit/762b1ad5ca6363d49a22f240d5689317a20c987e
 https://github.com/ezio84/abc_frameworks_base/commit/78afad6f89c5dc0657be4f5ca9c16c80de9d8f0d
+https://github.com/ezio84/abc_frameworks_base/commit/0bcbf484a0a69a897e64595cc778e2f669a6017f
 
 Allow to suppress notifications sound/vibration if screen is On 
 https://github.com/ezio84/abc_frameworks_base/commit/4f13d7e8a58fc9ba284898ee450131606e1325b4
