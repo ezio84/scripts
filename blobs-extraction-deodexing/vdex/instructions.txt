@@ -1,0 +1,18 @@
+with Superr Kitchen free, extract the system.img from the latest factory image WITHOUT deodexing with the kitchen
+then, from the folder where you have the extract-files.sh, run:
+
+./extract-files.sh PATHtoEXTRACTEDsystem VENDOR DEVICE
+
+for exampe:
+./extract-files.sh /home/ezio/Android/SuperRs_Kitchen_v1.1.7.5/superr_t/system/ huawei angler
+
+a few other blobs like ims and TimeService are already deodexed so just extract the vendor.img with Superr 
+
+PS: you might need to update blobs and paths in the blobs.txt list (provided one is for angler) according to the device
+
+
+--------------
+ABOUT
+extraction tools are from CM/Lineage/Carbon, modified to run from any path
+vdex extractor tool is from https://github.com/anestisb/vdexExtractor
+Superr kitchen free and donate: https://forum.xda-developers.com/apps/superr-kitchen/kitchen-superr-s-kitchen-v1-1-50-v2-1-6-t3597434
