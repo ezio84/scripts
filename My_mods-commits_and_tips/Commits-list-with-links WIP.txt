@@ -350,6 +350,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/d25de8113c54d56928263fec16a
 https://github.com/ezio84/abc_frameworks_base/commit/ca61434a5ddc1e44a8714e5f4d4792a5538a519c
 https://github.com/ezio84/abc_frameworks_base/commit/15aa77cc9e85365b888c39480a6c3d344927f17a
 https://github.com/ezio84/abc_frameworks_base/commit/db43551d47dae619a77989c3b168bc2491ab38b3
+https://github.com/ezio84/abc_frameworks_base/commit/19e6a6cea7229b6c2c4e4c4c829301f688dc4255
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
 
 Add download info and support to manually pause/resume downloads 
