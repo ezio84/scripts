@@ -405,9 +405,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/b21cbf24d7d5e5026a9b47c55bb
 (if not using the above Optional commits, revert this: https://github.com/ezio84/abc_packages_apps_DUI/commit/78df861baf56fbdea6ee30feac710c2b63e2dfad )
 Additional dui features
     DUI Pulse: add Automatic albumart base color mode
-    https://github.com/ezio84/abc_packages_apps_DUI/commit/74e8c8b15453915f3529e0b9bd8031ddca19b34c
     https://github.com/ezio84/abc_frameworks_base/commit/82094284f5e9c2e3cb2c4728a15dbe88999f015b
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/01ff2f57e4a115878515cca3c678b98de374c21c
+    other parts are in dui tree
 
 Configure SystemUI theme
 https://github.com/ezio84/abc_frameworks_base/commit/a02cba3cf2ce220b635b369838bc4558057c4e7a
@@ -764,5 +764,8 @@ https://github.com/ezio84/abc_kernel_huawei_angler/commit/06904deea1705d63abd659
 
 Potentially fix netflix and similar issues on shamu and other devices
 https://github.com/ezio84/abc_frameworks_av/commit/33b68b0f260b2296a232796b77a630806a5d161a
+
+Allow redeclaring typeattributes 
+https://github.com/ezio84/abc_system_core/commit/0e103125feee2960c45a9e0f9f41827e64c7d60d
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
