@@ -253,6 +253,7 @@ Allow user to add/remove QS with one click
 https://github.com/ezio84/abc_frameworks_base/commit/53704a3e336f8c072522eb3211dc6e1b43f476da
     Caffeine qs tile
     https://github.com/ezio84/abc_frameworks_base/commit/89502171bfdb62b16d29a5a9f3a7bccda1d2d9a0
+    https://github.com/ezio84/abc_frameworks_base/commit/107e1ee8f1796806e8a60cdb7c3f68616a534b16
 Screenshot tile
 add screenshot api: https://github.com/ezio84/abc_frameworks_base/commit/3d0f757973f9da795bde2213956a2f55b479680f
 https://github.com/ezio84/abc_frameworks_base/commit/968dbbab9f04a6bcd9bff7e5bae299ea96c48083
