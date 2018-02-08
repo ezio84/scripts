@@ -343,6 +343,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9b9f1684c74e518d6
 https://github.com/ezio84/abc_frameworks_base/commit/8d09ebb5034e268dd892b8b01ada0010b70024cb
 https://github.com/ezio84/abc_frameworks_base/commit/b44ef89cfba4df22eaacec9f874cd4ae3ae10d8b
 https://github.com/ezio84/abc_frameworks_base/commit/a03f26cf3dcd71056bcda068745215882bf6e136
+https://github.com/ezio84/abc_frameworks_base/commit/fa253d4bb01127b42bcee454129db1275a76be99
 
 Vibrate on plug
 https://github.com/ezio84/abc_frameworks_base/commit/cb540c2fa15b6e5dfaebb40eb686d0b48396963d
