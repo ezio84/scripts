@@ -69,6 +69,9 @@ https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/5770ae054ed0
 Change power save mode color to sexy red
 https://github.com/ezio84/abc_frameworks_base/commit/e111b7305706afd5ca4700d34f88b18583c1deef
 
+Expose screenshot flash colors and use a light grey by default
+https://github.com/ezio84/abc_frameworks_base/commit/5c8e976d919a63dc2e31c330d972da79a000eb05
+
 Dialer auto proximity speakerphone 
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/681f42db7457b132d55899d5e853a043be29a646
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/145461035f0a7e19811374fa9ce17267ed9fd11a
