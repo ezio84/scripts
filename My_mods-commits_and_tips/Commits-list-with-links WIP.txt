@@ -267,7 +267,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/8a6143770f2e56573540ded2d0e
     https://github.com/ezio84/abc_frameworks_base/commit/9f539d0a19be082cbce3295c7a84fba8f8227de8
 Location tile: make it cycle modes
 https://github.com/ezio84/abc_frameworks_base/commit/529f7c9ce50176ba6252228b8aadae36bcac6703
-    PiP tile
+    PiP tile *** REVERTED, UNUSED
     https://github.com/ezio84/abc_frameworks_base/commit/7a35266d491654d4098bc3bbfe076ce3c4fbb2f5
     https://github.com/ezio84/abc_frameworks_base/commit/c9e2d0c9a2ea4598e47ad290395fd63e4b74b135
     https://github.com/ezio84/abc_frameworks_base/commit/a55b555ef7be1664c176c0511478aeec044b8dec
@@ -318,6 +318,8 @@ https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca
 https://github.com/ezio84/abc_frameworks_base/commit/18c8b7b295ff67b6336bd876463147fabb8f1ba0
     Fix aosp tiles race condition
     https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
+Google Sound Search tile
+https://github.com/ezio84/abc_frameworks_base/commit/e2e48e9c3e1273b01313a6f0391a3f16124f5c36
 
 Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/4467b77e6f70d2c80fc3c94fb9034c70c691a923
