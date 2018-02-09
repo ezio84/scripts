@@ -320,6 +320,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/18c8b7b295ff67b6336bd876463
     https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
 Google Sound Search tile
 https://github.com/ezio84/abc_frameworks_base/commit/e2e48e9c3e1273b01313a6f0391a3f16124f5c36
+https://github.com/ezio84/abc_frameworks_base/commit/87ada4d31a7ad7c4109bd7ad1a8183dc3fac68c6
 
 Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/4467b77e6f70d2c80fc3c94fb9034c70c691a923
