@@ -483,6 +483,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/91c476842bdfc4ab6331
 Status bar left/right clock customizations
 https://github.com/ezio84/abc_frameworks_base/commit/61d04936186922f6d42e9b458920d248d258f9e8
 https://github.com/ezio84/abc_frameworks_base/commit/877a5e863f2c3e0ed02fc343a69addd8e8c64dc2
+https://github.com/ezio84/abc_frameworks_base/commit/72403f531770c2572909d98efbc277558c712d2e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fb6d160d1520a02db67514aef01c35c65ce748d4
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
