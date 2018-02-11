@@ -471,13 +471,19 @@ https://github.com/ezio84/abc_system_core/commit/71b71bfb1b631add5bde67ea66b6c30
 Prevent users from sharing sensitive information
 https://github.com/ezio84/abc_packages_apps_Settings/commit/084d5e03e5989d39cd0c5efd1b8e13e24a26e3c4
 
-Less notification sounds
+Less annoying notification sounds
 https://github.com/ezio84/abc_frameworks_base/commit/9a8fa707f8deac3fb09ee3a6c224d1398f2b81dc
+https://github.com/ezio84/abc_frameworks_base/commit/8e8b74d1b909eb6dd16693f16cfd4ee8a3c13968
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9aea0dfa9852fbceea3d3410b031d6531744608
 
 Expose the hidden Notifications log
 https://github.com/ezio84/abc_packages_apps_Settings/commit/b2486a34748487630a72c6010e0ba58404547272
 https://github.com/ezio84/abc_packages_apps_Settings/commit/91c476842bdfc4ab63318b97b88dbb683920a63c
+
+Status bar left/right clock customizations
+https://github.com/ezio84/abc_frameworks_base/commit/61d04936186922f6d42e9b458920d248d258f9e8
+https://github.com/ezio84/abc_frameworks_base/commit/877a5e863f2c3e0ed02fc343a69addd8e8c64dc2
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fb6d160d1520a02db67514aef01c35c65ce748d4
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
