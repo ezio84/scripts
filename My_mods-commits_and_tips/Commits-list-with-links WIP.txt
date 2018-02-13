@@ -486,6 +486,20 @@ https://github.com/ezio84/abc_frameworks_base/commit/877a5e863f2c3e0ed02fc343a69
 https://github.com/ezio84/abc_frameworks_base/commit/72403f531770c2572909d98efbc277558c712d2e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fb6d160d1520a02db67514aef01c35c65ce748d4
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/5eb3b8417b05c9388628a2b37d8e247d6f0f6447
+
+Battery icon customization
+https://github.com/ezio84/abc_frameworks_base/commit/6ec8c88ab7e8ba3dd25934891579a06b9f226fbf
+https://github.com/ezio84/abc_frameworks_base/commit/a74845cc6b95c261d0dd2f179f32d087aa02a94a
+https://github.com/ezio84/abc_frameworks_base/commit/1e1548b384bc3d1061766213091c2631b94a07c3
+https://github.com/ezio84/abc_frameworks_base/commit/09497d6b55eccc3f4716fad05006090734465933
+https://github.com/ezio84/abc_frameworks_base/commit/cf4fbd69ba4fc297e931f15495685cdd8845889c
+https://github.com/ezio84/abc_frameworks_base/commit/491fdc348e2371821da22821134039a56ab8ca39
+https://github.com/ezio84/abc_frameworks_base/commit/46f2db1a5fbf7b6d34fb52aa20c0b2f47375f0e8
+https://github.com/ezio84/abc_packages_apps_Settings/commit/c482376b42620de9a21a83a562f90b00492105b5
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/97ef32b9e5f586b249300fbcccc3d5987b5133d7
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9d8e00f3d8944453b7d235852b356b9a7624c1e9
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e04c98195542e458577ba092ccb1350cfc7bf11e
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
