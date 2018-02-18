@@ -317,8 +317,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/8ff1b4270c546467486d9e05860
 https://github.com/ezio84/abc_frameworks_base/commit/84576f2e6f9c987b130b26850d0f73767f422e22
 https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca0007419f8ad
 https://github.com/ezio84/abc_frameworks_base/commit/18c8b7b295ff67b6336bd876463147fabb8f1ba0
-    Fix aosp tiles race condition
+    Fix aosp tiles race condition and aosp NPE
     https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
+    https://github.com/ezio84/abc_frameworks_base/commit/debfa0f766c2587dbf89b7241ab4c11f75f45fa4
+    https://github.com/ezio84/abc_frameworks_base/commit/72dfd0b9b13c6fa3daa2feaddcca5cc14f72f0b6
+    https://github.com/ezio84/abc_frameworks_base/commit/91149c42a9d9e946e16c5c975ed5542dfb2d9be6
 Google Sound Search tile
 https://github.com/ezio84/abc_frameworks_base/commit/e2e48e9c3e1273b01313a6f0391a3f16124f5c36
 https://github.com/ezio84/abc_frameworks_base/commit/87ada4d31a7ad7c4109bd7ad1a8183dc3fac68c6
