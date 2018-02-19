@@ -285,7 +285,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/41316786a7aafbf3f
     QS tile titles visibility
     https://github.com/ezio84/abc_frameworks_base/commit/22442b77207ba743458e2a10779f4ba5c5a82068
     https://github.com/ezio84/abc_frameworks_base/commit/faab0efafc1a32be0907ff0e344f4ff7b27d9263
-    https://github.com/ezio84/abc_frameworks_base/commit/a39f28047b2d0011fe7132b0b183fe82d1f95b2e
+    https://github.com/ezio84/abc_frameworks_base/commit/b8954de276ce3f2927cc376e0e4b1595280d458d
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/82f2fbbcbfa19ebed75a57dc13ac16270d11ba7a
 Ask pin when tapping Data/airplane tiles on secure lockscreen
 https://github.com/ezio84/abc_frameworks_base/commit/9f2a59613b8697f92c6185eb939040308a8ea2f4
@@ -319,9 +319,9 @@ https://github.com/ezio84/abc_frameworks_av/commit/b4f66458095aae9286c4bd4dbe8ca
 https://github.com/ezio84/abc_frameworks_base/commit/18c8b7b295ff67b6336bd876463147fabb8f1ba0
     Fix aosp tiles race condition and aosp NPE
     https://github.com/ezio84/abc_frameworks_base/commit/a9f9b31f45895fd0383bd0b3068594d4b43e3f59
-    https://github.com/ezio84/abc_frameworks_base/commit/debfa0f766c2587dbf89b7241ab4c11f75f45fa4
-    https://github.com/ezio84/abc_frameworks_base/commit/72dfd0b9b13c6fa3daa2feaddcca5cc14f72f0b6
-    https://github.com/ezio84/abc_frameworks_base/commit/91149c42a9d9e946e16c5c975ed5542dfb2d9be6
+    https://github.com/ezio84/abc_frameworks_base/commit/0b96336387899ae9a6af3b9b4341e09990ee7912
+    https://github.com/ezio84/abc_frameworks_base/commit/b400769d2024407107aa2da327eed7dd001d37e8
+    https://github.com/ezio84/abc_frameworks_base/commit/03a044ea870abd35c5d555794b036da316ec1796
 Google Sound Search tile
 https://github.com/ezio84/abc_frameworks_base/commit/e2e48e9c3e1273b01313a6f0391a3f16124f5c36
 https://github.com/ezio84/abc_frameworks_base/commit/87ada4d31a7ad7c4109bd7ad1a8183dc3fac68c6
@@ -490,6 +490,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/877a5e863f2c3e0ed02fc343a69
 https://github.com/ezio84/abc_frameworks_base/commit/72403f531770c2572909d98efbc277558c712d2e
 https://github.com/ezio84/abc_frameworks_base/commit/2323b1fe775ed0c7493cf52b41a7df35ccd51bc8
 https://github.com/ezio84/abc_frameworks_base/commit/7b692ddc07343cbeaee800a08c2fc58e6d35b86c
+https://github.com/ezio84/abc_frameworks_base/commit/eb3315fe582839e874d7ad03a36441cd1cac7035
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fb6d160d1520a02db67514aef01c35c65ce748d4
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/5eb3b8417b05c9388628a2b37d8e247d6f0f6447
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c3a1cabe0d569399c16f6985e9bef8e5be93f845
