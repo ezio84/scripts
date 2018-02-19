@@ -491,7 +491,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/72403f531770c2572909d98efbc
 https://github.com/ezio84/abc_frameworks_base/commit/2323b1fe775ed0c7493cf52b41a7df35ccd51bc8
 https://github.com/ezio84/abc_frameworks_base/commit/7b692ddc07343cbeaee800a08c2fc58e6d35b86c
 https://github.com/ezio84/abc_frameworks_base/commit/eb3315fe582839e874d7ad03a36441cd1cac7035
-https://github.com/ezio84/abc_frameworks_base/commit/381c051bbd1ad54ccad496d329a0695602ba3fa2
+https://github.com/ezio84/abc_frameworks_base/commit/20c8c5498bbbce4249e00fc09c31ce93d5577b0e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/fb6d160d1520a02db67514aef01c35c65ce748d4
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/5eb3b8417b05c9388628a2b37d8e247d6f0f6447
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c3a1cabe0d569399c16f6985e9bef8e5be93f845
@@ -517,6 +517,10 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/97ef32b9e5f586b24
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9d8e00f3d8944453b7d235852b356b9a7624c1e9
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e04c98195542e458577ba092ccb1350cfc7bf11e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e0f55a4178c4ae70e5d58e0d1c2020ab1bcf7572
+
+Allow vibration instead of beep when for in-call notifications
+https://github.com/ezio84/abc_frameworks_base/commit/46d43356e8197c215069b9acd4c2542a6ce703be
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6ec6be6c0ca484d6a68d1dc469fb3429d97023ac
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
