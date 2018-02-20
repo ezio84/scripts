@@ -499,6 +499,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c3a1cabe0d569399c
 
 Battery icon customization
 https://github.com/ezio84/abc_frameworks_base/commit/6ec8c88ab7e8ba3dd25934891579a06b9f226fbf
+https://github.com/ezio84/abc_frameworks_base/commit/b6e0f90de591ba8e06e535cefd2e071e9ef64af4
 https://github.com/ezio84/abc_frameworks_base/commit/a74845cc6b95c261d0dd2f179f32d087aa02a94a
 https://github.com/ezio84/abc_frameworks_base/commit/1e1548b384bc3d1061766213091c2631b94a07c3
 https://github.com/ezio84/abc_frameworks_base/commit/09497d6b55eccc3f4716fad05006090734465933
