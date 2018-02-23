@@ -301,7 +301,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/7d4560117866cda0e0dfea10b85
 Adb over Network (wifi) tile
 https://github.com/ezio84/abc_frameworks_base/commit/91d25e75dbc5f071c710312f0f7a56834959dfeb
 https://github.com/ezio84/abc_frameworks_base/commit/ae95374d8edadc9f6d7e5ac50d01249c89a4857e
-https://github.com/ezio84/abc_frameworks_base/commit/7b52104025a90c3e759dc6cd063b1201fe06b44c
+https://github.com/ezio84/abc_frameworks_base/commit/2b40af9d8cc44fa1279ebcf4ae2165de7a40d5fc
 https://github.com/ezio84/abc_vendor_nexus/commit/ea99e400d608c884867a5c7b3acb00c076acb7c3
 additional: https://github.com/ezio84/abc_system_core/commit/71b71bfb1b631add5bde67ea66b6c303e7cc6846
     SystemUI: use slashify for more qs tile
