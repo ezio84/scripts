@@ -39,6 +39,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/ef66511ac73418dddba356a9fab
 https://github.com/ezio84/abc_frameworks_base/commit/a1db17ae9683e13bcfbee0d0eb4416d9223b1caf
 https://github.com/ezio84/abc_frameworks_base/commit/4836e74cd000dfab2fa92fd8667cdbd61be9af24
 https://github.com/ezio84/abc_frameworks_base/commit/a1158bbf43d98f9b1f5c4edd2d120f1cc62410c3
+https://github.com/ezio84/abc_frameworks_base/commit/48e79348b67bb7475b7ba64a8912d683f0cf32f7
 
 Add Power+VolUp action to catch a partial area screenshot
 https://github.com/ezio84/abc_frameworks_base/commit/508c45449baee821cbda8893bf4c709df0858902
