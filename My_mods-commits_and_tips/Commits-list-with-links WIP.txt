@@ -523,6 +523,9 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/97ef32b9e5f586b24
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9d8e00f3d8944453b7d235852b356b9a7624c1e9
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e04c98195542e458577ba092ccb1350cfc7bf11e
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e0f55a4178c4ae70e5d58e0d1c2020ab1bcf7572
+    To add back hidden battery style
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f2ff44cae8322a4c6de8ba4f94a6a223c1891a03
+    https://github.com/ezio84/abc_frameworks_base/commit/172914c09c40de82a1a6ad5f4f434a49f114a2f5
 
 Allow vibration instead of beep when for in-call notifications
 https://github.com/ezio84/abc_frameworks_base/commit/46d43356e8197c215069b9acd4c2542a6ce703be
