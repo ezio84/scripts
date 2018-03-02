@@ -781,6 +781,7 @@ https://github.com/ezio84/abc_packages_services_Telephony/commit/3d2dca3e0912f65
 https://github.com/ezio84/abc_packages_services_Telephony/commit/73e2b787b611c745bd4bfed2479d783b8aa807ff
 https://github.com/ezio84/abc_frameworks_base/commit/8837e5060d9d1d4d1ae6ef5288fd77afd57a07c4
 https://github.com/ezio84/abc_frameworks_base/commit/7cacf26a7c7b3da32991eafce605f566ae4afd18
+https://github.com/ezio84/abc_frameworks_base/commit/4c15a7ced21569bf7319cbc3b0a0eaab1db229e2
 PS: dropped roaming commits because on 8.1.x those configs have been moved to carrierconfig: 
 https://github.com/ezio84/abc_frameworks_base/commit/1c6027c156c1e0ffbadcef3415d46c27116881dd
 
