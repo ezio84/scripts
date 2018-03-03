@@ -402,6 +402,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7166ae330d467c0c6
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/76c0ea461daab9558412865a850b76b133f32d9c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bb92973ad66b6a3f57198a7448216ab9637253bb
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/85adcad568054180382240cbc0a9522879480fb3
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c3de8b29a37c7ba89dee062f689bb41be4651d3b
 
 DUI navbar
 if you pick from my github instead of dui gerrit, be sure to have the sendCustomAction(Intent intent) stuff
