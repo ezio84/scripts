@@ -389,6 +389,7 @@ Allow single tap on app icon to show app info overlay
 https://github.com/ezio84/abc_frameworks_base/commit/0feea184d631cb3db61e93d575b8cdc209b5712f
     Custom icon packs
     https://github.com/ezio84/abc_frameworks_base/commit/859d410a42899ac80d799acfb2b98a0dc4bd61b9
+    https://github.com/ezio84/abc_frameworks_base/commit/39bdbf319dc76d1f0a359b11fd746f38ad9564da
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
     Recents: add pinch-in gesture on tasks to Clear All
     https://github.com/ezio84/abc_frameworks_base/commit/23eb358316152b63d4caed35636f9de762e7a585
