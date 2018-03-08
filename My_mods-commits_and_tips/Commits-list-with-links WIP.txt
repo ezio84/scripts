@@ -536,7 +536,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/46d43356e8197c215069b9acd4c
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6ec6be6c0ca484d6a68d1dc469fb3429d97023ac
 
 Ambient: show battery level on bottom
-https://github.com/ezio84/abc_frameworks_base/commit/fef0de246f4749e1fa8a713d6d8b6c09a84d9335
+https://github.com/ezio84/abc_frameworks_base/commit/25bccb1a5c6d73821992eac0ee08f7d5b1c834d4
+https://github.com/ezio84/abc_frameworks_base/commit/41d5f1322333d16ad9e1482edfaeb476db8f5456
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
