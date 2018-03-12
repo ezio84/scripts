@@ -542,6 +542,9 @@ Ambient: show battery level on bottom
 https://github.com/ezio84/abc_frameworks_base/commit/25bccb1a5c6d73821992eac0ee08f7d5b1c834d4
 https://github.com/ezio84/abc_frameworks_base/commit/41d5f1322333d16ad9e1482edfaeb476db8f5456
 
+Screenshot: add "Markup" edit action support
+https://github.com/ezio84/abc_frameworks_base/commit/56efa74743d667fbe677a43d23009fdc9dd098a3
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
