@@ -536,6 +536,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e0f55a4178c4ae70e
 
 Allow vibration instead of beep when for in-call notifications
 https://github.com/ezio84/abc_frameworks_base/commit/46d43356e8197c215069b9acd4c2542a6ce703be
+https://github.com/ezio84/abc_frameworks_base/commit/bcf6e528daae8bcd0435fb3e63a2919186bd19a5
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6ec6be6c0ca484d6a68d1dc469fb3429d97023ac
 
 Ambient: show battery level on bottom
