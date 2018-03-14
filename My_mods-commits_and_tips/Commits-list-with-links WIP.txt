@@ -100,6 +100,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/6b2f2da6f03095a014eae2711b72c9
 
 Add a prebuilt busybox fstrim bin (for Tasker or terminal)
 https://github.com/ezio84/abc_vendor_nexus/commit/4487e559e1a480400820212b75d1a2abff7429bc
+EDIT: not needed, you can run system builtin trim with "vdc fstrim dotrim" from Tasker (check trim results with adb logcat)
 
 Show detailed kernel infos in System info menu
 https://github.com/ezio84/abc_packages_apps_Settings/commit/5edd44dfe6e75db4c7d2ce527062ab47eecbff48
