@@ -670,6 +670,10 @@ https://github.com/ezio84/abc_packages_apps_Contacts/commit/8c78c29498b07dc6f9c4
 Dialer adaptive icon
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/267ec50aaeac4b7448fd3b3c56f1ee3a20ca5dbe
 
+White navbar for aosp dialer and contacts like Google playstore version
+https://github.com/ezio84/abc_packages_apps_Dialer/commit/d6a0f0fe1818003759dae650bdc1080faa216945
+https://github.com/ezio84/abc_packages_apps_Contacts/commit/c36b295c57ad0fd19ec161877baeac53e3f19355
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 Add custom Statusbar observer
