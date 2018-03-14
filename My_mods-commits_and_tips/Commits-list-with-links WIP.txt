@@ -408,6 +408,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/76c0ea461daab9558
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/bb92973ad66b6a3f57198a7448216ab9637253bb
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/85adcad568054180382240cbc0a9522879480fb3
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c3de8b29a37c7ba89dee062f689bb41be4651d3b
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/874b7e34a77e313b56313dfbc12349a8d0e01983
 
 DUI navbar
 if you pick from my github instead of dui gerrit, be sure to have the sendCustomAction(Intent intent) stuff
@@ -546,6 +547,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/41d5f1322333d16ad9e1482edfa
 
 Screenshot: add "Markup" edit action support
 https://github.com/ezio84/abc_frameworks_base/commit/56efa74743d667fbe677a43d23009fdc9dd098a3
+https://github.com/ezio84/abc_frameworks_base/commit/b3ac8df25688e2c028d3efc5a2768c952365804b
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
