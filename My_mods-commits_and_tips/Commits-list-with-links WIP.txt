@@ -552,6 +552,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/b3ac8df25688e2c028d3efc5a27
     Choose a custom editor app for screenshot notification edit button
     https://github.com/ezio84/abc_frameworks_base/commit/c42fea0837940a06977dff1cb5474a3a1b78cb3d
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/9a9ea81b6e1cee6c3042eb0f790feab6f1f247aa
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ff06e2f14c95c005a2e4fe2cb499eadc9a3a8b52
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
