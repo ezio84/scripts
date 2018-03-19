@@ -557,7 +557,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/b3ac8df25688e2c028d3efc5a27
 
 Settings: Add package name to installed app details
 https://github.com/ezio84/abc_packages_apps_Settings/commit/729eb3bf83e8a97dbca84d7f9ee28f2d1bc92363
-https://github.com/ezio84/abc_packages_apps_Settings/commit/28470eb92047d713a96d283b2835c33ac7eb422f
+https://github.com/ezio84/abc_packages_apps_Settings/commit/1bd8b54c22aea697d6f465b57e3d359629741101
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
