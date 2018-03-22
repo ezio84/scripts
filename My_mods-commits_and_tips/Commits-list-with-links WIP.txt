@@ -115,9 +115,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/4a4612bd08e68d32d3a8f160540
 https://github.com/ezio84/abc_system_core/commit/9dfc45d4483770ae4f8071bc2b1b269176675e5a
 https://github.com/ezio84/abc_device_huawei_angler/commit/7878ab5a84d3f6057797f272b4f13d424ac82fbc
 
-Allow to set custom brightness for ambient display and liftToWwake
-https://github.com/ezio84/abc_frameworks_base/commit/7b0baacf60e3877c4ddb2ad6696c4fc5bdd10dfd
-https://github.com/ezio84/abc_packages_apps_Settings/commit/448c954477e5bd3a55eea706af66e91beb2c13e1
+Auto brightness for ambient display and liftToWwake <----- REVERTED, USE THIS INSTEAD: https://github.com/ezio84/abc_frameworks_base/commit/b6004d469d390441e92ee13f2fffc0d55d0796ac
+https://github.com/ezio84/abc_frameworks_base/commit/7b0baacf60e3877c4ddb2ad6696c4fc5bdd10dfd<----- REVERTED
+https://github.com/ezio84/abc_packages_apps_Settings/commit/448c954477e5bd3a55eea706af66e91beb2c13e1<----- REVERTED
+
+
 
 SystemUi tuner bringup
 https://github.com/ezio84/abc_frameworks_base/commit/6380f698f147a9fbb80a5e40238bd07accc8a083
