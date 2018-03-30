@@ -877,5 +877,9 @@ https://github.com/ezio84/abc_frameworks_av/commit/33b68b0f260b2296a232796b77a63
 
 Allow redeclaring typeattributes 
 https://github.com/ezio84/abc_system_core/commit/0e103125feee2960c45a9e0f9f41827e64c7d60d
+
+Fix multipointer in games
+https://github.com/ezio84/abc_frameworks_native/commit/43ee6e03c7910922706765720d1622d6c6d9e8d1
+https://github.com/ezio84/abc_frameworks_native/commit/610d972f85bb624d09c3ff34c28418d7a14423a4
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
