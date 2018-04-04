@@ -586,6 +586,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/e54c99bb307721c598dd
 
 Disable top left/right statusbar and navbar icons padding for non rounded screen devices
 https://github.com/ezio84/abc_vendor_nexus/commit/f1c230e1654d734d7eae059af1315087e83e9ad1
+https://github.com/ezio84/abc_frameworks_base/commit/05ee7bb0b62fa99217293c3d071fadfd833db1b2
 
 Persistent background app notification: disable by default
 https://github.com/ezio84/abc_frameworks_base/commit/0d6806c696b51f8b035f22ce38a9f898a29f0280
