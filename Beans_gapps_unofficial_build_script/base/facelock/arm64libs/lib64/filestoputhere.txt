@@ -1,0 +1,3 @@
+libfacenet.so
+libfilterpack_facedetect.so
+libfrsdk.so

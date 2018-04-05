@@ -1,0 +1,2 @@
+libjni_latinime.so
+libjni_latinimegoogle.so

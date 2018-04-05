@@ -1,0 +1,161 @@
+#!/sbin/sh
+
+# Based on osm0sis's shell installer script with bits from Chainfire's SuperSU shell installer script
+
+# This file contains parts from the scripts taken from the TK GApps Project by TKruzze and osmOsis.
+# This file contains parts from the scripts taken from the Open GApps Project by mfonville.
+# This file contains parts from the update-binary taken from the SuperSU installation zip.
+#
+# This script is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# These scripts are distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
+outfd=$2
+ui_print() {
+  echo "ui_print $1" > /proc/self/fd/$outfd
+  echo "ui_print" > /proc/self/fd/$outfd
+}
+
+gapps_ver=8.x.x
+
+ui_print "*******************************************"
+ui_print "** Beans GApps (Mini) for Android $gapps_ver **"
+ui_print "** UNOFFICIAL VERSION by ezio84 **"
+ui_print "*******************************************"
+
+is_mounted() {
+  if [ ! -z "$2" ]; then
+    cat /proc/mounts | grep $1 | grep $2, 1> /dev/null 2>&1
+  else
+    cat /proc/mounts | grep $1 1> /dev/null 2>&1
+  fi
+  return $?
+}
+toolbox_mount() {
+  RW=rw
+  if [ ! -z "$2" ]; then
+    RW=$2
+  fi
+
+  DEV=
+  POINT=
+  FS=
+  for i in `cat /etc/fstab | grep "$1"`; do
+    if [ -z "$DEV" ]; then
+      DEV=$i
+    elif [ -z "$POINT" ]; then
+      POINT=$i
+    elif [ -z "$FS" ]; then
+      FS=$i
+      break
+    fi
+  done
+  if (! is_mounted $1 $RW); then mount -t $FS -o $RW $DEV $POINT; fi
+  if (! is_mounted $1 $RW); then mount -t $FS -o $RW,remount $DEV $POINT; fi
+
+  DEV=
+  POINT=
+  FS=
+  for i in `cat /etc/recovery.fstab | grep "$1"`; do
+    if [ -z "$POINT" ]; then
+      POINT=$i
+    elif [ -z "$FS" ]; then
+      FS=$i
+    elif [ -z "$DEV" ]; then
+      DEV=$i
+      break
+    fi
+  done
+  if [ "$FS" = "emmc" ]; then
+    if (! is_mounted $1 $RW); then mount -t ext4 -o $RW $DEV $POINT; fi
+    if (! is_mounted $1 $RW); then mount -t ext4 -o $RW,remount $DEV $POINT; fi
+    if (! is_mounted $1 $RW); then mount -t f2fs -o $RW $DEV $POINT; fi
+    if (! is_mounted $1 $RW); then mount -t f2fs -o $RW,remount $DEV $POINT; fi
+  else
+    if (! is_mounted $1 $RW); then mount -t $FS -o $RW $DEV $POINT; fi
+    if (! is_mounted $1 $RW); then mount -t $FS -o $RW,remount $DEV $POINT; fi
+  fi
+}
+
+ui_print "Mounting /system..."
+toolbox_mount /system
+
+file_getprop() { grep "^$2" "$1" | cut -d= -f2; }
+
+if [ -f "/system/system/build.prop" ]; then
+  rom_build_prop=/system/system/build.prop
+  SYSTEM=/system/system
+  ROOT=/system
+else 
+  rom_build_prop=/system/build.prop
+  SYSTEM=/system
+  ROOT=/
+fi
+
+system_sdk=$(file_getprop $rom_build_prop "ro.build.version.sdk")
+gapps_sdk=27
+
+ui_print "Checking if GApps are compatible with your system..."
+ui_print "You need an SDK version of $gapps_sdk to proceed..."
+if [ "$system_sdk" -eq "$gapps_sdk" ]; then
+  ui_print "Your SDK version is $system_sdk, GApps are compatible..."
+  ui_print "Continuing install..."
+else
+  ui_print "Your SDK version is $system_sdk, GApps are not compatible..."
+  ui_print "Aborting install..."
+  umount /system
+  exit 1
+fi
+
+ui_print "Removing conflicting apks..."
+rm -rf "$SYSTEM/app/BrowserProviderProxy" "$SYSTEM/app/PartnerBookmarksProvider" "$SYSTEM/app/Provision" "$SYSTEM/app/QuickSearchBox" "$SYSTEM/priv-app/BrowserProviderProxy" "$SYSTEM/priv-app/PartnerBookmarksProvider" "$SYSTEM/priv-app/Provision" "$SYSTEM/priv-app/QuickSearchBox" "$SYSTEM/priv-app/CyanogenSetupWizard"
+
+zipfile=$3
+
+set_perm() {
+  uid=$1; gid=$2; mod=$3;
+  shift 3;
+  chown $uid.$gid $*; chown $uid:$gid $*;
+  chmod $mod $*;
+}
+
+ui_print "Installing Beans GApps..."
+unzip -o "$zipfile" "system/*" -d $ROOT
+unzip -o "$zipfile" "facelock/*" -d /tmp
+set_perm 0 0 0777 /tmp/facelock/facelock.sh
+/tmp/facelock/facelock.sh
+unzip -o "$zipfile" "keyboard/*" -d /tmp
+set_perm 0 0 0777 /tmp/keyboard/keyboard.sh
+/tmp/keyboard/keyboard.sh
+unzip -o "$zipfile" "prebuiltgmscore/*" -d /tmp
+set_perm 0 0 0777 /tmp/prebuiltgmscore/prebuiltgmscore.sh
+/tmp/prebuiltgmscore/prebuiltgmscore.sh
+unzip -o "$zipfile" "velvet/*" -d /tmp
+set_perm 0 0 0777 /tmp/velvet/velvet.sh
+/tmp/velvet/velvet.sh
+
+set_perm_recursive() {
+  uid=$1; gid=$2; dmod=$3; fmod=$4;
+  shift 4;
+  until [ ! "$1" ]; do
+    chown -R $uid.$gid $1; chown -R $uid:$gid $1;
+    find "$1" -type d -exec chmod $dmod {} +;
+    find "$1" -type f -exec chmod $fmod {} +;
+    shift;
+  done;
+}
+
+ui_print "Setting permissions..."
+set_perm_recursive 0 0 755 644 "$SYSTEM/app" "$SYSTEM/etc/permissions" "$SYSTEM/etc/preferred-apps" "$SYSTEM/etc/sysconfig" "$SYSTEM/framework" "$SYSTEM/lib" "$SYSTEM/lib64" "$SYSTEM/priv-app" "$SYSTEM/usr/srec" "$SYSTEM/vendor/lib" "$SYSTEM/vendor/lib64"
+set_perm_recursive 0 0 755 755 "$SYSTEM/addon.d"
+
+ui_print "Unmounting /system..."
+umount /system
+
+ui_print "Installation complete!"
