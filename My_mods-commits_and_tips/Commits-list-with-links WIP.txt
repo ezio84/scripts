@@ -42,6 +42,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/a1158bbf43d98f9b1f5c4edd2d1
 https://github.com/ezio84/abc_frameworks_base/commit/48e79348b67bb7475b7ba64a8912d683f0cf32f7
 ***still not sure if this is good, reverted for now:
 https://github.com/ezio84/abc_frameworks_base/commit/011a6239d7543ab5964c1fafab1916f649c00dfe
+Power menu fixes for aosp bugs
+https://github.com/ezio84/abc_frameworks_base/commit/a83ed41a58ee94e04ea56ae1997dd3f52071c684
 
 Add Power+VolUp action to catch a partial area screenshot
 https://github.com/ezio84/abc_frameworks_base/commit/508c45449baee821cbda8893bf4c709df0858902
@@ -348,6 +350,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/0c7b448c72cca0d52d8e
 
 Statusbar Net monitor
 https://github.com/ezio84/abc_frameworks_base/commit/fa992d4f068a8b2762cff7752bac76efed94465d
+https://github.com/ezio84/abc_frameworks_base/commit/f5428618b9749f64208fa7538e1aec3873e4d174
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
 
 Wake on plug
