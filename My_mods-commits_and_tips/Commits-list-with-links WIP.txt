@@ -373,6 +373,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/15aa77cc9e85365b888c39480a6
 https://github.com/ezio84/abc_frameworks_base/commit/db43551d47dae619a77989c3b168bc2491ab38b3
 https://github.com/ezio84/abc_frameworks_base/commit/19e6a6cea7229b6c2c4e4c4c829301f688dc4255
 https://github.com/ezio84/abc_frameworks_base/commit/8b8864b5975326d9df743435f97d4a89f2da9686
+https://github.com/ezio84/abc_frameworks_base/commit/0998cb078c717bfd50bdb697df84d21d68b07c34
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
 
 Add download info and support to manually pause/resume downloads 
@@ -876,6 +877,10 @@ https://github.com/GZOSP/frameworks_base/commit/976478e088053d4706c987a30000c80c
 Speed up fingerprint unlock with OP hack ** untested on 8.1
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/4e4e743c6d7f8b59ea70e36a54741e8f8134a2ab
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/06904deea1705d63abd6599e64142593c893786d
+
+Improve fp unlock on 6p
+from https://github.com/ezio84/abc_kernel_huawei_angler/commit/7e1df29abb909ea626c46177093d130b4bc5eb4b
+to https://github.com/ezio84/abc_kernel_huawei_angler/commit/22211a645a57e60f33c3090b9f3d991bd5de1fa7
 
 Potentially fix netflix and similar issues on shamu and other devices
 https://github.com/ezio84/abc_frameworks_av/commit/33b68b0f260b2296a232796b77a630806a5d161a
