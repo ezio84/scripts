@@ -29,6 +29,7 @@ High Brightness mode:
 https://github.com/ezio84/abc_kernel_huawei_angler/commit/f9deec31db75e050725663ef284b05b8ec292e6e
 https://github.com/ezio84/abc_frameworks_base/commit/0ce647cbd82d7f6a4d49d7bf32aac9905e65e22c
 https://github.com/ezio84/abc_frameworks_base/commit/258cb91151ea0319402268ef060d7e3cd289b46c
+tile slashify: https://github.com/ezio84/abc_frameworks_base/commit/36a2609a3a9517d8c85f220d677ee0146c352fd0
 https://github.com/ezio84/abc_device_huawei_angler/commit/934ab48cce83ac96d11ddc7672aad6e3b44f5d49
 
 Power menu: add a toggleable recovery/bootloader action
