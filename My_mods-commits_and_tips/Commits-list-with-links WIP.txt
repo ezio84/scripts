@@ -174,6 +174,7 @@ Volume key music control to skip tracks on screen off
 https://github.com/ezio84/abc_frameworks_base/commit/31884d13a2d0d352f58206811314f4167674116d
 https://github.com/ezio84/abc_frameworks_base/commit/c678feaf8cdcd222635a3f6a37cc9491647c3182
 https://github.com/ezio84/abc_frameworks_base/commit/81c5b0805aed24887ff8fb1ec6065ad5cd8316ea
+https://github.com/ezio84/abc_frameworks_base/commit/d2184df6a10016c417eb8f44dea8ba3c8db53ab8
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c0841a0ad56758eb9efabdf12331863cb990945a
 
 Launch music player on headset connect:
