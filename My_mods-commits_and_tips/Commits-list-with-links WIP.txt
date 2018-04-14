@@ -380,6 +380,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/db43551d47dae619a77989c3b16
 https://github.com/ezio84/abc_frameworks_base/commit/19e6a6cea7229b6c2c4e4c4c829301f688dc4255
 https://github.com/ezio84/abc_frameworks_base/commit/8b8864b5975326d9df743435f97d4a89f2da9686
 https://github.com/ezio84/abc_frameworks_base/commit/0998cb078c717bfd50bdb697df84d21d68b07c34
+https://github.com/ezio84/abc_frameworks_base/commit/1849e1501b9e4c59fc91058b7abdf77893a07d28
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
 
 Add download info and support to manually pause/resume downloads 
@@ -421,6 +422,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/9e434d5fdda4c9e109c79236098
 https://github.com/ezio84/abc_frameworks_base/commit/864ba3030dc77c53dce28216eac49c3e9bc512c0
 https://github.com/ezio84/abc_frameworks_base/commit/09620a79d48977204666d74f8f7356349dfcaaad
 https://github.com/ezio84/abc_frameworks_base/commit/5d133aa69312ae04cf40d0103235e7c4a74b5428
+https://github.com/ezio84/abc_frameworks_base/commit/0414cffd4271abc2c8259fffe2136322c54c23dd
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/8ef7c8930b0b0c6db60a4dc098b379c25c9d78e0
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7166ae330d467c0c63a2b07497fa3f09269a5540
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/76c0ea461daab9558412865a850b76b133f32d9c
@@ -482,7 +484,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/ae14a0f1b3346e66c2829ee9684
 https://github.com/ezio84/abc_frameworks_base/commit/d5b4d1f7a80288b895f649b5cfb400e4fa2a0e87
 https://github.com/ezio84/abc_packages_services_Telephony/commit/574c363e5632087cb1d02d4b0b679579d03f3254
 
-Ambient display: show playing music track (it relies on ticker and dui media playing code but you can easily extract the needed lines)
+Ambient music ticker: show playing music track (it relies on ticker and dui media playing code but you can easily extract the needed lines)
 https://github.com/ezio84/abc_frameworks_base/commit/775bceb8fc54b3b08414c1895cefae76f960cae3
 https://github.com/ezio84/abc_frameworks_base/commit/d0b62ecc30052c4c8ed13cc1c8d8b6b056f130ed
 https://github.com/ezio84/abc_frameworks_base/commit/2af3dbf01ee47cfbe314de04e5bdea6ff820f698
@@ -491,6 +493,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/6c23ab18ef1e803b82b4b916ddb
 https://github.com/ezio84/abc_frameworks_base/commit/8ec40a05f783deea376ae0ee3fa71aa599e9a898
 https://github.com/ezio84/abc_frameworks_base/commit/63ac335e13b4fc7dd60a6980ef8c843a0a0da268
 https://github.com/ezio84/abc_frameworks_base/commit/c17dddb90c12ad0c5b4247fda53838797fdf357c
+https://github.com/ezio84/abc_frameworks_base/commit/c61bfc34b7da8459d2efface1a3893f94253bd45
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66f5330b26fa68d5723a046a7fddd45b90acebfa
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/81307d884311e7c8b24dd20f06da8ff92469991b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c5ed44da172b9e5da21f3c92cf3921340ec8700b
