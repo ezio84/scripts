@@ -457,6 +457,10 @@ Additional dui features
     https://github.com/ezio84/abc_frameworks_base/commit/82094284f5e9c2e3cb2c4728a15dbe88999f015b
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/01ff2f57e4a115878515cca3c678b98de374c21c
     other parts are in dui tree
+Media arrows remote session compatibility:
+https://github.com/ezio84/abc_frameworks_base/commit/d2184df6a10016c417eb8f44dea8ba3c8db53ab8
+https://github.com/ezio84/abc_frameworks_base/commit/3c5fd7d87063e3a61705c8d2a383e0d298922a35
+the other one is in DUtils tree
 
 Configure SystemUI theme
 https://github.com/ezio84/abc_frameworks_base/commit/a02cba3cf2ce220b635b369838bc4558057c4e7a
