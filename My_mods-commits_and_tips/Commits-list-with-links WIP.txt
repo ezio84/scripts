@@ -380,8 +380,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/db43551d47dae619a77989c3b16
 https://github.com/ezio84/abc_frameworks_base/commit/19e6a6cea7229b6c2c4e4c4c829301f688dc4255
 https://github.com/ezio84/abc_frameworks_base/commit/8b8864b5975326d9df743435f97d4a89f2da9686
 https://github.com/ezio84/abc_frameworks_base/commit/0998cb078c717bfd50bdb697df84d21d68b07c34
-https://github.com/ezio84/abc_frameworks_base/commit/d43182e71846320476c15bad023760b5ff86790e
-https://github.com/ezio84/abc_frameworks_base/commit/a1c4caee16affed7e28da345e5b0e1187802b3dd
+https://github.com/ezio84/abc_frameworks_base/commit/91a2e319489077220c281b163211b7a149c602a3
+https://github.com/ezio84/abc_frameworks_base/commit/3c4a370bde9bad46ade5af16b0dd0dc6a537b68b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/995744b5b47fc858bdc1c5b5bca1a5a51d137b1b
 
 Add download info and support to manually pause/resume downloads 
@@ -494,8 +494,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/6c23ab18ef1e803b82b4b916ddb
 https://github.com/ezio84/abc_frameworks_base/commit/8ec40a05f783deea376ae0ee3fa71aa599e9a898
 https://github.com/ezio84/abc_frameworks_base/commit/63ac335e13b4fc7dd60a6980ef8c843a0a0da268
 https://github.com/ezio84/abc_frameworks_base/commit/c17dddb90c12ad0c5b4247fda53838797fdf357c
-https://github.com/ezio84/abc_frameworks_base/commit/d43182e71846320476c15bad023760b5ff86790e
-https://github.com/ezio84/abc_frameworks_base/commit/a1c4caee16affed7e28da345e5b0e1187802b3dd
+https://github.com/ezio84/abc_frameworks_base/commit/91a2e319489077220c281b163211b7a149c602a3
+https://github.com/ezio84/abc_frameworks_base/commit/3c4a370bde9bad46ade5af16b0dd0dc6a537b68b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66f5330b26fa68d5723a046a7fddd45b90acebfa
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/81307d884311e7c8b24dd20f06da8ff92469991b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c5ed44da172b9e5da21f3c92cf3921340ec8700b
