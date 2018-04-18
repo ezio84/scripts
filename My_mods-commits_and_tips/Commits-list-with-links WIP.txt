@@ -829,6 +829,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/2620a94be1aa54b475eed99ab29306
     https://github.com/ezio84/abc_frameworks_base/commit/40fe0dfa0717da6ec575b5d349d955ee0f0e6866
     https://github.com/ezio84/abc_packages_apps_Settings/commit/364cedbad45be2ac60ab15b1f3df3544db808549
 https://github.com/ezio84/abc_frameworks_base/commit/1bdd8638bcf477e205d897b92ae45c1167c54b13
+    https://github.com/ezio84/abc_frameworks_base/commit/85a45fcccd2bf5e9804930d6e5dcc9670569ada5
 then add this overlay:
 https://github.com/ezio84/abc_vendor_nexus/blob/o/overlay/common/frameworks/base/core/res/res/values/config.xml
 (just remove additional things u don't need and not related to gapps stuff like config_globalActionsList, config_useRoundIcon, config_safe_media_volume_enabled)
