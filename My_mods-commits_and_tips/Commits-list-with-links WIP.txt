@@ -253,6 +253,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e9611e935c494d102
 
 Allow to quickly open Running Services from QS panel
 https://github.com/ezio84/abc_frameworks_base/commit/de18afd1fddc1aed20526336046fbeb76e254062
+https://github.com/ezio84/abc_frameworks_base/commit/af64453c217db4063826281e8a69586515464446
 https://github.com/ezio84/abc_packages_apps_Settings/commit/896fdb709c5ea217bba5e5d7b130d92785302988
 
 QS panel brightness slider customization
