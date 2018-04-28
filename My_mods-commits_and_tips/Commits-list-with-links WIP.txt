@@ -124,8 +124,6 @@ Auto brightness for ambient display and liftToWwake <----- REVERTED, USE THIS IN
 https://github.com/ezio84/abc_frameworks_base/commit/7b0baacf60e3877c4ddb2ad6696c4fc5bdd10dfd<----- REVERTED
 https://github.com/ezio84/abc_packages_apps_Settings/commit/448c954477e5bd3a55eea706af66e91beb2c13e1<----- REVERTED
 
-
-
 SystemUi tuner bringup
 https://github.com/ezio84/abc_frameworks_base/commit/6380f698f147a9fbb80a5e40238bd07accc8a083
 https://github.com/ezio84/abc_frameworks_base/commit/436862e5cea2bdf83e90daa023ab7922eea12e2a
@@ -581,6 +579,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6ec6be6c0ca484d6a
 Ambient: show battery level on bottom
 https://github.com/ezio84/abc_frameworks_base/commit/25bccb1a5c6d73821992eac0ee08f7d5b1c834d4
 https://github.com/ezio84/abc_frameworks_base/commit/41d5f1322333d16ad9e1482edfaeb476db8f5456
+https://github.com/ezio84/abc_frameworks_base/commit/694d906a88851d6bdd64438d8476434b3a0e7ba0
 
 Screenshot: add "Markup" edit action support
 https://github.com/ezio84/abc_frameworks_base/commit/56efa74743d667fbe677a43d23009fdc9dd098a3
