@@ -501,12 +501,13 @@ https://github.com/ezio84/abc_frameworks_base/commit/63ac335e13b4fc7dd60a6980ef8
 https://github.com/ezio84/abc_frameworks_base/commit/c17dddb90c12ad0c5b4247fda53838797fdf357c
 https://github.com/ezio84/abc_frameworks_base/commit/91a2e319489077220c281b163211b7a149c602a3
 https://github.com/ezio84/abc_frameworks_base/commit/3c4a370bde9bad46ade5af16b0dd0dc6a537b68b
+https://github.com/ezio84/abc_frameworks_base/commit/13f1906a5836b300f56a292bf17fd59ee972c4dd
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66f5330b26fa68d5723a046a7fddd45b90acebfa
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/81307d884311e7c8b24dd20f06da8ff92469991b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c5ed44da172b9e5da21f3c92cf3921340ec8700b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1872559dfa1560f09c810a19d4154dc249395c02
-(just for reference, this is the older version i made without the AmbientIndicationContainer:
-https://github.com/ezio84/abc_frameworks_base/commit/c175c1010c835a5facd2cfcb9da37e9dd99bb6e9 )
+    (just for reference, this is the older version i made without the AmbientIndicationContainer:
+    https://github.com/ezio84/abc_frameworks_base/commit/c175c1010c835a5facd2cfcb9da37e9dd99bb6e9 )
 
 Allow to dismiss notifications with FP left/right swipe
 https://github.com/ezio84/abc_frameworks_base/commit/3500a4f46cc14680aa6a52f577351010ef69a8b4
