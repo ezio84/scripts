@@ -598,6 +598,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/c6b29d4ec038b2415dd1
 Blacklist apps in the ChooserAcitivity (notification Share button)
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/5f88b51127f76c07753c31b47f7daef53d743b24
 https://github.com/ezio84/abc_frameworks_base/commit/e1079799b52fdc6d566559b0a2bad974a7b287c3
+https://github.com/ezio84/abc_frameworks_base/commit/f9ae5a37df7ce5af039f8887fdc3dfa60e97c5fb
 
 
 ----------------------------------------------------------------------
