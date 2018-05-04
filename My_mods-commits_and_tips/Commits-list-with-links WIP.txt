@@ -600,6 +600,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/5f88b51127f76c077
 https://github.com/ezio84/abc_frameworks_base/commit/e1079799b52fdc6d566559b0a2bad974a7b287c3
 https://github.com/ezio84/abc_frameworks_base/commit/0494ebbdcf011731ad1259a728a365e8697d2a85
 https://github.com/ezio84/abc_frameworks_base/commit/f9ae5a37df7ce5af039f8887fdc3dfa60e97c5fb
+https://github.com/ezio84/abc_frameworks_base/commit/0d407d3c6eb5c1433b19c3db1970135fe314aa9b
 
 
 ----------------------------------------------------------------------
