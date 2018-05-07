@@ -408,6 +408,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/0feea184d631cb3db61e93d575b
     https://github.com/ezio84/abc_frameworks_base/commit/aa380c69e907109f984b47d7fabe8e8168c63fc1
     https://github.com/ezio84/abc_frameworks_base/commit/778925e2ea9cb0c5eecc5b229bb27599de8bacf0
     https://github.com/ezio84/abc_frameworks_base/commit/ab065a84db046a6bec1bfabeafcf8f0bb178958f
+    https://github.com/ezio84/abc_frameworks_base/commit/d95c36145cffb0084c5a8716d55557a55edec57e
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
     Recents: add pinch-in gesture on tasks to Clear All
     https://github.com/ezio84/abc_frameworks_base/commit/23eb358316152b63d4caed35636f9de762e7a585
