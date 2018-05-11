@@ -234,6 +234,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/8f1f2f376f1f2d2b92f4
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/86f17445f02c914b141047afc1b5219b0778784a
 Add a real time preview of the actual led settings
 https://github.com/ezio84/abc_frameworks_base/commit/985618ff802b63f0df926e12d6e32aed15b33464
+https://github.com/ezio84/abc_frameworks_base/commit/9de89e5a91f6fe7a803b074a395a83f7d9cc9bf2
 https://github.com/ezio84/abc_packages_apps_Settings/commit/2a7bb83a81eb17a8492aaa0cc8fbb2ae7f6f8044
 https://github.com/ezio84/abc_packages_apps_Settings/commit/0d5c617387f425573a279c93d83ae1e9a4fc8b0f
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f54405ed98f2687a4165a7d6ee514c4464e36a9b
