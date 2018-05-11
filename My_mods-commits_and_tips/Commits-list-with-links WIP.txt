@@ -931,3 +931,27 @@ https://github.com/ezio84/abc_frameworks_native/commit/43ee6e03c7910922706765720
 https://github.com/ezio84/abc_frameworks_native/commit/610d972f85bb624d09c3ff34c28418d7a14423a4
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
+
+Berkeley bringup (and treble devices generic shit)
+blobs: https://github.com/ezio84/abc_vendor_huawei/tree/o2/berkeley
+device tree: https://github.com/ezio84/device_huawei_berkeley/ (no kernel atm, the provided huawei sources are useless)
+https://github.com/ezio84/abc_vendor_nexus/commit/fb2d4decf832984b1a43cc2c568bd8210db2f718
+https://github.com/ezio84/abc_system_core/commit/0e103125feee2960c45a9e0f9f41827e64c7d60d
+https://github.com/ezio84/abc_vendor_nexus/commit/fbc386ddb55cadd5c41f6a82be8a9fe410a44982 (if you use sysinit stuff)
+https://github.com/ezio84/abc_build/commit/bce11e2d9200b8b120ac55b09e7cb96348884cd0
+https://github.com/ezio84/abc_build/commit/26780c45ed3b8fa338b9c035703f171f9900dc49
+https://github.com/ezio84/abc_build/commit/2080620b1c622e2dfce6c292ed4349dd57396cdc
+https://github.com/ezio84/abc_external_selinux/commit/79519fc6254d0b740eb9fd1442a403a7346a4ce5
+https://github.com/ezio84/abc_external_selinux/commit/3500e62b3b9b56d5d73381cc58aae527956cfd42
+https://github.com/ezio84/abc_external_selinux/commit/f31f1c8559b3c5720e1064246b872b0e2b1a1a4c
+https://github.com/ezio84/abc_external_selinux/commit/bcb999632e74091de2714b511d5a36aafa5750e3
+https://github.com/ezio84/abc_external_selinux/commit/1b3255206764c16c6a78d30e03c0d354e5b135dd
+https://github.com/ezio84/abc_external_selinux/commit/0d2544b31c20b344e4ca11c7b7dbbda8ed08cb50
+https://github.com/ezio84/abc_external_selinux/commit/0f8fc99d07233197c35b53a301b42b2846953ff0
+https://github.com/ezio84/abc_system_vold/commit/2369dad308dcdcd7d2d958bc819ba7fa673ee219
+https://github.com/ezio84/abc_system_sepolicy/commit/0c81305301087758d82b877d2e214257639236c2
+Fix custom sepolicy rules loading (adb over net and others):
+https://github.com/ezio84/abc_build/commit/87846dbb0127298f3571814b0a48562b601ce3e1
+https://github.com/ezio84/device_huawei_berkeley/commit/96dfc971b46ee6e932687e9df3a7167bc051cd28
+https://github.com/ezio84/abc_system_sepolicy/commit/80ccce7317e83efc594daa88eace9673c23c8f4f
+
