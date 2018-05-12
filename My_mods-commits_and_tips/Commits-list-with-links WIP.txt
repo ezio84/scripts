@@ -951,8 +951,16 @@ https://github.com/ezio84/abc_external_selinux/commit/0d2544b31c20b344e4ca11c7b7
 https://github.com/ezio84/abc_external_selinux/commit/0f8fc99d07233197c35b53a301b42b2846953ff0
 https://github.com/ezio84/abc_system_vold/commit/2369dad308dcdcd7d2d958bc819ba7fa673ee219
 https://github.com/ezio84/abc_system_sepolicy/commit/0c81305301087758d82b877d2e214257639236c2
-Fix custom sepolicy rules loading (adb over net and others):
-https://github.com/ezio84/abc_build/commit/87846dbb0127298f3571814b0a48562b601ce3e1
-https://github.com/ezio84/device_huawei_berkeley/commit/96dfc971b46ee6e932687e9df3a7167bc051cd28
-https://github.com/ezio84/abc_system_sepolicy/commit/80ccce7317e83efc594daa88eace9673c23c8f4f
+    Fix custom sepolicy rules loading (adb over net and others):
+    https://github.com/ezio84/abc_build/commit/87846dbb0127298f3571814b0a48562b601ce3e1
+    https://github.com/ezio84/device_huawei_berkeley/commit/96dfc971b46ee6e932687e9df3a7167bc051cd28
+    https://github.com/ezio84/abc_system_sepolicy/commit/80ccce7317e83efc594daa88eace9673c23c8f4f
+Init.rc 
+https://github.com/ezio84/abc_vendor_nexus/commit/ea12cb7bcce8dc7edafa783790b5424344dae892
+https://github.com/ezio84/device_huawei_berkeley/commit/5533735915862912fad2ff6971f788a98916c231
+    Custom doze service
+    https://github.com/ezio84/device_huawei_berkeley/commit/34e768bc11f298f3cb00752771be69e0dbf5af54
+    https://github.com/ezio84/device_huawei_berkeley/commit/d53275aec63e36897d4e0bbdb86b8437148180c3
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e0b1008ad4ba3d315095136f6499558a48750119
+    https://github.com/ezio84/abc_frameworks_base/commit/db37fc85fcf532dfc3406debbf72ad18c4c9c178
 
