@@ -961,6 +961,7 @@ https://github.com/ezio84/device_huawei_berkeley/commit/5533735915862912fad2ff69
     Custom doze service
     https://github.com/ezio84/device_huawei_berkeley/commit/34e768bc11f298f3cb00752771be69e0dbf5af54
     https://github.com/ezio84/device_huawei_berkeley/commit/d53275aec63e36897d4e0bbdb86b8437148180c3
+    https://github.com/ezio84/device_huawei_berkeley/commit/9cb6d34a89ac075d3f4e2e0f34f5f6bcb4a2b196
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e0b1008ad4ba3d315095136f6499558a48750119
     https://github.com/ezio84/abc_frameworks_base/commit/db37fc85fcf532dfc3406debbf72ad18c4c9c178
 
