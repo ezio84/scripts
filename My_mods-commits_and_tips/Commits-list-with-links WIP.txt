@@ -780,6 +780,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c82bfb4a131e3b052
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f54405ed98f2687a4165a7d6ee514c4464e36a9b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/4869db3d82cf0826bf09a82019fbeec7c5b8364f
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/83d6c4ef89b58d05281c9269576930ad96c7ea52
+    **see also on bottom of this list the part about treble devices for the crappy led devices color picker mode**
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
@@ -969,4 +970,10 @@ https://github.com/ezio84/device_huawei_berkeley/commit/5533735915862912fad2ff69
 Fix pre-O apps aspect ratio on big screen devices
 https://github.com/ezio84/abc_frameworks_base/commit/b794090bd2c52fc3febdbf50d90a8a0f092f333b
 https://github.com/ezio84/device_huawei_berkeley/commit/e81b8240f51a579b4d9ba61c03eae6b3373aae5f
+    Show a simpler led color picker for crappy led devices
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/ccc6d2623c38c9242027b52b5f28331cba1545a9
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/794d4ebe373ca6c39d3a2a52ce6f2df0da079d8b
+    https://github.com/ezio84/device_huawei_berkeley/commit/a581b365d9de4c06c55a60de540267b6f6996d7e
+    https://github.com/ezio84/abc_frameworks_base/commit/226d4893e68a563b620dd9bc03618221cead648b
+
 
