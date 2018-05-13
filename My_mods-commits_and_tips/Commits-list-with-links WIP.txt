@@ -951,6 +951,7 @@ https://github.com/ezio84/abc_external_selinux/commit/0d2544b31c20b344e4ca11c7b7
 https://github.com/ezio84/abc_external_selinux/commit/0f8fc99d07233197c35b53a301b42b2846953ff0
 https://github.com/ezio84/abc_system_vold/commit/2369dad308dcdcd7d2d958bc819ba7fa673ee219
 https://github.com/ezio84/abc_system_sepolicy/commit/0c81305301087758d82b877d2e214257639236c2
+https://github.com/ezio84/abc_frameworks_base/commit/63507af5a7f0b1c7cd1f7c59ffe8b9d7aaa73fbe
     Fix custom sepolicy rules loading (adb over net and others):
     https://github.com/ezio84/abc_build/commit/87846dbb0127298f3571814b0a48562b601ce3e1
     https://github.com/ezio84/device_huawei_berkeley/commit/96dfc971b46ee6e932687e9df3a7167bc051cd28
@@ -967,3 +968,4 @@ https://github.com/ezio84/device_huawei_berkeley/commit/5533735915862912fad2ff69
 Fix pre-O apps aspect ratio on big screen devices
 https://github.com/ezio84/abc_frameworks_base/commit/b794090bd2c52fc3febdbf50d90a8a0f092f333b
 https://github.com/ezio84/device_huawei_berkeley/commit/e81b8240f51a579b4d9ba61c03eae6b3373aae5f
+
