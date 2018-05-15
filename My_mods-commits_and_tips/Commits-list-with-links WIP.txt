@@ -960,6 +960,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/63507af5a7f0b1c7cd1f7c59ffe
     https://github.com/ezio84/abc_build/commit/87846dbb0127298f3571814b0a48562b601ce3e1
     https://github.com/ezio84/device_huawei_berkeley/commit/96dfc971b46ee6e932687e9df3a7167bc051cd28
     https://github.com/ezio84/abc_system_sepolicy/commit/80ccce7317e83efc594daa88eace9673c23c8f4f
+    https://github.com/ezio84/abc_system_sepolicy/commit/be327fa76ab1957d7f2f1c6bbbeaee97ae4d97f5
 Init.rc 
 https://github.com/ezio84/abc_vendor_nexus/commit/ea12cb7bcce8dc7edafa783790b5424344dae892
 https://github.com/ezio84/device_huawei_berkeley/commit/5533735915862912fad2ff6971f788a98916c231
