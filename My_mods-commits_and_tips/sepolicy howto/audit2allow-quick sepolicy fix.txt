@@ -1,0 +1,4 @@
+adb pull /sys/fs/selinux/policy
+adb logcat -b all -d | audit2allow -p policy
+
+the terminal will show the needed "allow" lines for current avc denials

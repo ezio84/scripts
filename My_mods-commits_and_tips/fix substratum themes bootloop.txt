@@ -1,0 +1,1 @@
+delete /data/system/overlays.xml and the /data/resource-cache folder

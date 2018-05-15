@@ -1,0 +1,1 @@
+adb logcat -b radio -v time -d > logcat_radio.log 
