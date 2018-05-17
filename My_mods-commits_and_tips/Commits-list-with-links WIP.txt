@@ -281,6 +281,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/8a6143770f2e56573540ded2d0e
 https://github.com/ezio84/abc_frameworks_base/commit/facf53c70957d51d5c18a65987825ca47d726c25
     Add Ambient-LiftToWake tile
     https://github.com/ezio84/abc_frameworks_base/commit/9f539d0a19be082cbce3295c7a84fba8f8227de8
+    To add custom doze devices compatibility:
+    https://github.com/ezio84/device_huawei_berkeley/commit/7727e24c7858ab8bf19ab79f86abdaa4f7606c47
+    https://github.com/ezio84/abc_frameworks_base/commit/3fc5253453f816f8d0b852f71a2b8befd4f42bcd
 Location tile: make it cycle modes
 https://github.com/ezio84/abc_frameworks_base/commit/529f7c9ce50176ba6252228b8aadae36bcac6703
     PiP tile *** REVERTED, UNUSED
