@@ -985,6 +985,7 @@ https://github.com/ezio84/device_huawei_berkeley/commit/e81b8240f51a579b4d9ba61c
     https://github.com/ezio84/device_huawei_berkeley/commit/93c18ab5a2d3ed3cce03ed07eefb082531c2266f
 Disable navbar on fingerprint enroll if bottom fingerprint 
 https://github.com/ezio84/abc_packages_apps_Settings/commit/40d634ab1b219277c02c3c75114b81e6c8fc423b
+https://github.com/ezio84/abc_packages_apps_Settings/commit/63fb718b7754b486774b3bf2a87f7fa4f18f3f87
 https://github.com/ezio84/device_huawei_berkeley/commit/a7ab41b1458a910090b466c39b2254bda6fb51ae
 
 
