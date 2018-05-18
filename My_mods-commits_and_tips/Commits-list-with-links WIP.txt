@@ -991,5 +991,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/63fb718b7754b486774b
 https://github.com/ezio84/device_huawei_berkeley/commit/5671a19ab70a2c392fd904fff15263107e394e6d
     Enable navbar by default
     https://github.com/ezio84/device_huawei_berkeley/commit/4338deb3b1975ccf34aa8574406c02c4784fff79#diff-e0a3646285a5f4f89d0d2f1cd05c0458R228
+Force disable BLE always scan on crappy devices
+https://github.com/ezio84/abc_frameworks_base/commit/1707608c6bb2b5e0d6a98eac4500e3d0bb46c73f
+https://github.com/ezio84/device_huawei_berkeley/commit/589a20aba0809591817cca300a24a950b8b27d4a
+https://github.com/ezio84/abc_packages_apps_Settings/commit/5be2d0e71bcb5e37434d90bbb4349578e46e0ef9
 
 
