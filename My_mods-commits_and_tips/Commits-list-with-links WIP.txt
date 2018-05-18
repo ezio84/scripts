@@ -241,6 +241,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/0d5c617387f425573a27
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f54405ed98f2687a4165a7d6ee514c4464e36a9b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/8c4e293a65c5423d0d205c96c4668a1728398904
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/6bdfc8fc37b578a5d5747bfa90416dab3cd99c3a
+    For devices with crappy led, see bottom of this list: "Show a simpler led color picker for crappy led devices"
 
 Remove grey gap/shadow between QS panel and notifications
 https://github.com/ezio84/abc_frameworks_base/commit/4a0f1f3c1fba062015d2637242e7bfde3c97f4f6
@@ -282,7 +283,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/facf53c70957d51d5c18a659878
     Add Ambient-LiftToWake tile
     https://github.com/ezio84/abc_frameworks_base/commit/9f539d0a19be082cbce3295c7a84fba8f8227de8
     To add custom doze devices compatibility:
-    https://github.com/ezio84/device_huawei_berkeley/commit/7727e24c7858ab8bf19ab79f86abdaa4f7606c47
+    https://github.com/ezio84/device_huawei_berkeley/commit/a60ba917842541deee51736438d56c56dafa30a0
     https://github.com/ezio84/abc_frameworks_base/commit/3fc5253453f816f8d0b852f71a2b8befd4f42bcd
 Location tile: make it cycle modes
 https://github.com/ezio84/abc_frameworks_base/commit/529f7c9ce50176ba6252228b8aadae36bcac6703
@@ -964,29 +965,31 @@ https://github.com/ezio84/abc_frameworks_base/commit/63507af5a7f0b1c7cd1f7c59ffe
 https://github.com/ezio84/abc_packages_services_Telephony/commit/d5aed8dd9b3faafb13fdec48d1b811610bbc90d8
 https://github.com/ezio84/abc_frameworks_base/commit/63507af5a7f0b1c7cd1f7c59ffe8b9d7aaa73fbe
     Fix custom sepolicy rules loading (adb over net and others):
-    https://github.com/ezio84/abc_build/commit/87846dbb0127298f3571814b0a48562b601ce3e1
-    https://github.com/ezio84/device_huawei_berkeley/commit/96dfc971b46ee6e932687e9df3a7167bc051cd28
-    https://github.com/ezio84/abc_system_sepolicy/commit/80ccce7317e83efc594daa88eace9673c23c8f4f
-    https://github.com/ezio84/abc_system_sepolicy/commit/be327fa76ab1957d7f2f1c6bbbeaee97ae4d97f5
+    https://github.com/ezio84/abc_system_sepolicy/commit/2eb800462f0d917072b39c4d10ea1040d437046c
+    https://github.com/ezio84/abc_build/commit/dd189579cac1e7f954ad4cb9103a8d796796df3b
+    https://github.com/ezio84/device_huawei_berkeley/commit/1a54e0e1a9e874dd5375cbf0129a73f3ebdc0121
 Init.rc 
-https://github.com/ezio84/abc_vendor_nexus/commit/ea12cb7bcce8dc7edafa783790b5424344dae892
-https://github.com/ezio84/device_huawei_berkeley/commit/5533735915862912fad2ff6971f788a98916c231
+https://github.com/ezio84/abc_vendor_nexus/commit/0ac8e295b7efe6ba750fb0d3d6f448bd7414177e
     Custom doze service
-    https://github.com/ezio84/device_huawei_berkeley/commit/34e768bc11f298f3cb00752771be69e0dbf5af54
-    https://github.com/ezio84/device_huawei_berkeley/commit/d53275aec63e36897d4e0bbdb86b8437148180c3
-    https://github.com/ezio84/device_huawei_berkeley/commit/9cb6d34a89ac075d3f4e2e0f34f5f6bcb4a2b196
+    https://github.com/ezio84/device_huawei_berkeley/commit/159ce28f6cd62522a552e999d2cf564986fea865
+    https://github.com/ezio84/device_huawei_berkeley/commit/09ce9943c2969c58cfb5c79ed31c605191987f4e
+    https://github.com/ezio84/device_huawei_berkeley/commit/70da73d9829b56476a4da3c9f9f995a113a55314
+    https://github.com/ezio84/device_huawei_berkeley/commit/a60ba917842541deee51736438d56c56dafa30a0
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e0b1008ad4ba3d315095136f6499558a48750119
     https://github.com/ezio84/abc_frameworks_base/commit/db37fc85fcf532dfc3406debbf72ad18c4c9c178
+    https://github.com/ezio84/abc_frameworks_base/commit/3fc5253453f816f8d0b852f71a2b8befd4f42bcd
 Fix pre-O apps aspect ratio on big screen devices
 https://github.com/ezio84/abc_frameworks_base/commit/b794090bd2c52fc3febdbf50d90a8a0f092f333b
-https://github.com/ezio84/device_huawei_berkeley/commit/e81b8240f51a579b4d9ba61c03eae6b3373aae5f
+https://github.com/ezio84/device_huawei_berkeley/commit/37d9039d848d03b3bcf49dad68ba9de8c888686b
     Show a simpler led color picker for crappy led devices
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f00ff4ebc49f94f1fadbf784660d0957eb59a812
     https://github.com/ezio84/abc_packages_apps_Settings/commit/9862cfa3c5642c9cfb7ea8a58431c9a720acc1fd
-    https://github.com/ezio84/device_huawei_berkeley/commit/93c18ab5a2d3ed3cce03ed07eefb082531c2266f
+    https://github.com/ezio84/device_huawei_berkeley/commit/c22416f6c546a51e261072805c33ff112d42935e
 Disable navbar on fingerprint enroll if bottom fingerprint 
 https://github.com/ezio84/abc_packages_apps_Settings/commit/40d634ab1b219277c02c3c75114b81e6c8fc423b
 https://github.com/ezio84/abc_packages_apps_Settings/commit/63fb718b7754b486774b3bf2a87f7fa4f18f3f87
-https://github.com/ezio84/device_huawei_berkeley/commit/a7ab41b1458a910090b466c39b2254bda6fb51ae
+https://github.com/ezio84/device_huawei_berkeley/commit/5671a19ab70a2c392fd904fff15263107e394e6d
+    Enable navbar by default
+    https://github.com/ezio84/device_huawei_berkeley/commit/4338deb3b1975ccf34aa8574406c02c4784fff79#diff-e0a3646285a5f4f89d0d2f1cd05c0458R228
 
 
