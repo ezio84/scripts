@@ -996,5 +996,8 @@ Force disable BLE always scan on crappy devices
 https://github.com/ezio84/abc_frameworks_base/commit/1707608c6bb2b5e0d6a98eac4500e3d0bb46c73f
 https://github.com/ezio84/device_huawei_berkeley/commit/589a20aba0809591817cca300a24a950b8b27d4a
 https://github.com/ezio84/abc_packages_apps_Settings/commit/5be2d0e71bcb5e37434d90bbb4349578e46e0ef9
-
+    Better auto brightness
+    https://github.com/ezio84/device_huawei_berkeley/commit/afe6c1ff81b6d0a389fce255c53adcfd5e4a0397
+Allow to suspend when screen is off due to the proximity sensor
+https://github.com/ezio84/device_huawei_berkeley/commit/68997a1acb8d1c912ea5dab6ac549a8693311514
 
