@@ -1,0 +1,4 @@
+remove the app in these two files:
+
+/data/system/packages.list
+/data/system/packages.xml
