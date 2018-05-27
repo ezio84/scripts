@@ -748,6 +748,11 @@ White navbar for aosp dialer and contacts like Google playstore version
 https://github.com/ezio84/abc_packages_apps_Dialer/commit/d6a0f0fe1818003759dae650bdc1080faa216945
 https://github.com/ezio84/abc_packages_apps_Contacts/commit/c36b295c57ad0fd19ec161877baeac53e3f19355
 
+Allow to use always on Ambient Display
+https://github.com/ezio84/abc_frameworks_base/commit/0e370e2b412ad8e289b8a120368ed60404e8c855
+https://github.com/ezio84/abc_device_huawei_angler/commit/61ae12f9ec27936d8de457c1bdd3ee6f9c2a4afb
+(config_displayBlanksAfterDoze is needed on a lot of devices to avoid screen issues when using aod)
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 Add custom Statusbar observer
