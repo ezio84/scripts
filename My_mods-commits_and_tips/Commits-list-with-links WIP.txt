@@ -972,6 +972,8 @@ https://github.com/ezio84/abc_system_sepolicy/commit/0c81305301087758d82b877d2e2
 https://github.com/ezio84/abc_frameworks_base/commit/63507af5a7f0b1c7cd1f7c59ffe8b9d7aaa73fbe
 https://github.com/ezio84/abc_packages_services_Telephony/commit/d5aed8dd9b3faafb13fdec48d1b811610bbc90d8
 https://github.com/ezio84/abc_frameworks_base/commit/63507af5a7f0b1c7cd1f7c59ffe8b9d7aaa73fbe
+https://github.com/ezio84/abc_frameworks_base/commit/84af0d41dc2b0ad0ed8351265c60bff9fa89230c
+https://github.com/ezio84/abc_frameworks_base/commit/2007c84882862ea8e13eb598a2786a7883a39391
     Fix custom sepolicy rules loading (adb over net and others):
     https://github.com/ezio84/abc_system_sepolicy/commit/2eb800462f0d917072b39c4d10ea1040d437046c
     https://github.com/ezio84/abc_build/commit/dd189579cac1e7f954ad4cb9103a8d796796df3b
@@ -1008,4 +1010,4 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/5be2d0e71bcb5e37434d
     https://github.com/ezio84/device_huawei_berkeley/commit/afe6c1ff81b6d0a389fce255c53adcfd5e4a0397
 Allow to suspend when screen is off due to the proximity sensor
 https://github.com/ezio84/device_huawei_berkeley/commit/68997a1acb8d1c912ea5dab6ac549a8693311514
-
+ 
