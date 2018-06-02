@@ -997,6 +997,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/b794090bd2c52fc3febdbf50d90
 https://github.com/ezio84/device_huawei_berkeley/commit/37d9039d848d03b3bcf49dad68ba9de8c888686b
     Show a simpler led color picker for crappy led devices
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f00ff4ebc49f94f1fadbf784660d0957eb59a812
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/81962ea8272bdf569bc27fb3351573cb599107a6
     https://github.com/ezio84/abc_packages_apps_Settings/commit/9862cfa3c5642c9cfb7ea8a58431c9a720acc1fd
     https://github.com/ezio84/device_huawei_berkeley/commit/c22416f6c546a51e261072805c33ff112d42935e
 Disable navbar on fingerprint enroll if bottom fingerprint 
