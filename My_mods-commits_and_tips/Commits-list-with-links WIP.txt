@@ -511,6 +511,9 @@ https://github.com/ezio84/abc_frameworks_base/commit/91a2e319489077220c281b16321
 https://github.com/ezio84/abc_frameworks_base/commit/3c4a370bde9bad46ade5af16b0dd0dc6a537b68b
 https://github.com/ezio84/abc_frameworks_base/commit/13f1906a5836b300f56a292bf17fd59ee972c4dd
 https://github.com/ezio84/abc_frameworks_base/commit/8c6ddb291fea393a7b1ca5c8b5ad0925bc1d2184
+https://github.com/ezio84/abc_frameworks_base/commit/4fdb631f24b3140a17f1e840f8c323918e391f82
+https://github.com/ezio84/abc_frameworks_base/commit/fdd193baf299f82ec913880a048ca7813a33fb6c
+https://github.com/ezio84/abc_frameworks_base/commit/729d96e9285fcd588a065cb9741cf506016be956
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66f5330b26fa68d5723a046a7fddd45b90acebfa
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/81307d884311e7c8b24dd20f06da8ff92469991b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c5ed44da172b9e5da21f3c92cf3921340ec8700b
@@ -619,8 +622,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/e8b49b28aa21773ae95a683c640
 https://github.com/ezio84/abc_frameworks_base/commit/91c0390693b65202f272e47e334b976721181361
 https://github.com/ezio84/abc_frameworks_base/commit/cd86a435ba4170c81e75f599a06270802a18a6a0
 https://github.com/ezio84/abc_frameworks_base/commit/6cf38171777297ff2c956f5bae8fada3433507cc
+https://github.com/ezio84/abc_frameworks_base/commit/ad124a22834c4e61ec2e8ff6444035d13accda08
 https://github.com/ezio84/abc_vendor_nexus/commit/a31c0dee04ca05b5bfef4121c39a4ecc88882720
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7beafa357bb24486094d3530dc01a5dd2b3624d9
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/407e53f99b15209e87b4e61c63d856ad3a603818
 
 
 ----------------------------------------------------------------------
@@ -997,7 +1002,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/b794090bd2c52fc3febdbf50d90
 https://github.com/ezio84/device_huawei_berkeley/commit/37d9039d848d03b3bcf49dad68ba9de8c888686b
     Show a simpler led color picker for crappy led devices
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/f00ff4ebc49f94f1fadbf784660d0957eb59a812
-    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/81962ea8272bdf569bc27fb3351573cb599107a6
+    https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/a4ff255fbf1c36b658b12cbb900c336426ca72b2
     https://github.com/ezio84/abc_packages_apps_Settings/commit/9862cfa3c5642c9cfb7ea8a58431c9a720acc1fd
     https://github.com/ezio84/device_huawei_berkeley/commit/c22416f6c546a51e261072805c33ff112d42935e
 Disable navbar on fingerprint enroll if bottom fingerprint 
