@@ -995,6 +995,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/0ac8e295b7efe6ba750fb0d3d6f448
     https://github.com/ezio84/device_huawei_berkeley/commit/70da73d9829b56476a4da3c9f9f995a113a55314
     https://github.com/ezio84/device_huawei_berkeley/commit/a60ba917842541deee51736438d56c56dafa30a0
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e0b1008ad4ba3d315095136f6499558a48750119
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/0e7ee1a03cfaf5661316638401139a475ce5a166
     https://github.com/ezio84/abc_frameworks_base/commit/db37fc85fcf532dfc3406debbf72ad18c4c9c178
     https://github.com/ezio84/abc_frameworks_base/commit/3fc5253453f816f8d0b852f71a2b8befd4f42bcd
     https://github.com/ezio84/device_huawei_berkeley/commit/c58b9f9db62921937420c80099529d43799e407a
