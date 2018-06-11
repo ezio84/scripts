@@ -638,7 +638,7 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/7beafa357bb244860
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/407e53f99b15209e87b4e61c63d856ad3a603818
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/52d0bbf65c8bb626a598021d50fe972a78b5de9e
 custom clock overlay example:
-https://gerrit.dirtyunicorns.com/#/c/3447/
+https://github.com/ezio84/abc_vendor_nexus/commit/76051c02a3197c183f798540284c614ae5fdd60f
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
