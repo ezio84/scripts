@@ -400,7 +400,7 @@ https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/0235f10
 https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/6008b1fa53b5a0ac69d23adfad91b2ff6c744971
 https://github.com/ezio84/abc_packages_providers_DownloadProvider/commit/42c482888c06710b2f3ac7011de515b5fcb3d6ab
 
-Recents panel improvements
+Stock Recents panel improvements
     Allow to kill any app from recents panel in a safe way
     https://github.com/ezio84/abc_frameworks_base/commit/0ef34b0164ac4f58cbcaea9c20fd8a4e1eec6bd0
     https://github.com/ezio84/abc_frameworks_base/commit/75a9220b319b18ec0b702bcae7c379ad85dba40b
@@ -422,6 +422,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/0feea184d631cb3db61e93d575b
     https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/51b280ea9c62df36ee80b4adb17919a7017c6d07
     Recents: add pinch-in gesture on tasks to Clear All
     https://github.com/ezio84/abc_frameworks_base/commit/23eb358316152b63d4caed35636f9de762e7a585
+Bigger icons, dynamic mediaplaying and alarm clock infos
+https://github.com/ezio84/abc_frameworks_base/commit/bd4c1eb58022bb4efdc21006c89346ab4ab3e765
 
 Slim Recents
 fork this tree: https://github.com/ezio84/abc_packages_apps_SlimRecents
