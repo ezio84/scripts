@@ -315,7 +315,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/df8cd360ac1005ad1a3895350ac
     https://github.com/ezio84/abc_frameworks_base/commit/793d8d02513c4a5f9979fe3d21afd5cf3450934b
     https://github.com/ezio84/abc_frameworks_base/commit/4248f144bf72499a16af9d86e967edd0600396ce
 Battery tile improvements
-https://github.com/ezio84/abc_frameworks_base/commit/7d4560117866cda0e0dfea10b85f29bae9f54a2b
+https://github.com/ezio84/abc_frameworks_base/commit/e363e330edec7a7d8e35bb6db422d9a2d3d91705
     CellularTile: don't show confirm dialog on disable
     https://github.com/ezio84/abc_frameworks_base/commit/331f5dc09093e65d06022e2e25aab420b2e722c2
 Adb over Network (wifi) tile
