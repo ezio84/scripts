@@ -776,6 +776,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/0e370e2b412ad8e289b8a120368
 https://github.com/ezio84/abc_device_huawei_angler/commit/61ae12f9ec27936d8de457c1bdd3ee6f9c2a4afb
 (config_displayBlanksAfterDoze is needed on a lot of devices to avoid screen issues when using aod)
 
+Fix stk FC on some SIMs
+https://github.com/ezio84/abc_packages_apps_Stk/commit/dea89b84d028684acc8e35920820419335cbbb70
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 Add custom Statusbar observer
