@@ -521,10 +521,12 @@ https://github.com/ezio84/abc_frameworks_base/commit/4fdb631f24b3140a17f1e840f8c
 https://github.com/ezio84/abc_frameworks_base/commit/fdd193baf299f82ec913880a048ca7813a33fb6c
 https://github.com/ezio84/abc_frameworks_base/commit/ea039ab4bda8aced1dfd56b45ff0c8058eef7365
 https://github.com/ezio84/abc_frameworks_base/commit/aa8376709d3f13954dcc50aba1cdb8101d04f7ba
+https://github.com/ezio84/abc_frameworks_base/commit/60649be55ba6e0f8347636cf053ea9e812a20595
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/66f5330b26fa68d5723a046a7fddd45b90acebfa
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/81307d884311e7c8b24dd20f06da8ff92469991b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/c5ed44da172b9e5da21f3c92cf3921340ec8700b
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/1872559dfa1560f09c810a19d4154dc249395c02
+https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/775ed7200ae7d6f9ea68e88b82c59a0870208953
     (just for reference, this is the older version i made without the AmbientIndicationContainer:
     https://github.com/ezio84/abc_frameworks_base/commit/c175c1010c835a5facd2cfcb9da37e9dd99bb6e9 )
 
