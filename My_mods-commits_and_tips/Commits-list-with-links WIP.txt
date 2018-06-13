@@ -424,6 +424,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/0feea184d631cb3db61e93d575b
     https://github.com/ezio84/abc_frameworks_base/commit/23eb358316152b63d4caed35636f9de762e7a585
 Bigger icons, dynamic mediaplaying and alarm clock infos
 https://github.com/ezio84/abc_frameworks_base/commit/bd4c1eb58022bb4efdc21006c89346ab4ab3e765
+https://github.com/ezio84/abc_frameworks_base/commit/ec3fa2113e982b4a7901ad8363ceba82e344432e
     Use round corners for headers 
     https://github.com/ezio84/abc_frameworks_base/commit/66fe35bd6ad4ed818b323ea1640f37e802c092f9
 
