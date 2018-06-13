@@ -89,7 +89,8 @@ then
     done
     fi
 
-    cp $BUILD_PATH/ABC_ROM_*.zip $ROOT_PATH
+    mv $BUILD_PATH/ABC_ROM_*.zip $ROOT_PATH
+    rm $BUILD_PATH/$DEVICE-ota-eng.*.zip
 
     # If the build failed
 else
