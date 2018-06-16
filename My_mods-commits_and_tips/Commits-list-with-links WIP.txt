@@ -500,7 +500,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/762b1ad5ca6363d49a22f240d56
 https://github.com/ezio84/abc_frameworks_base/commit/78afad6f89c5dc0657be4f5ca9c16c80de9d8f0d
 https://github.com/ezio84/abc_frameworks_base/commit/0bcbf484a0a69a897e64595cc778e2f669a6017f
 https://github.com/ezio84/abc_frameworks_base/commit/6f04f0a330b0d8d54251e8303f65faddd9c1e736
-https://github.com/ezio84/abc_frameworks_base/commit/9b835cd2f9f3f3eaa6d07bcfc6069bccc3d57aa8
+https://github.com/ezio84/abc_frameworks_base/commit/4e297919362193be9a7450b1a080d2df1b086f21
 
 Allow to suppress notifications sound/vibration if screen is On 
 https://github.com/ezio84/abc_frameworks_base/commit/4f13d7e8a58fc9ba284898ee450131606e1325b4
