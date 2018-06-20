@@ -365,9 +365,10 @@ https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/46d908e3ffa166b25
 Remove Settings dashboard conditions and suggestions
 https://github.com/ezio84/abc_packages_apps_Settings/commit/0c7b448c72cca0d52d8eda028a6400842c59784f
 
-Statusbar Net monitor
+Statusbar Network monitor/arrows
 https://github.com/ezio84/abc_frameworks_base/commit/fa992d4f068a8b2762cff7752bac76efed94465d
 https://github.com/ezio84/abc_frameworks_base/commit/f5428618b9749f64208fa7538e1aec3873e4d174
+https://github.com/ezio84/abc_frameworks_base/commit/31139e83ed7aed4f386561a73261d202dceed662
 https://github.com/ezio84/abc_packages_apps_AbcSettings/commit/e014c87bd24952138a5d6455a384ead3f80ac8cf
 
 Wake on plug
@@ -791,6 +792,11 @@ https://github.com/ezio84/abc_device_huawei_angler/commit/61ae12f9ec27936d8de457
 
 Fix stk FC on some SIMs
 https://github.com/ezio84/abc_packages_apps_Stk/commit/dea89b84d028684acc8e35920820419335cbbb70
+
+Statusbar icons tint fixes
+https://github.com/ezio84/abc_frameworks_base/commit/3f23a236f8250c678a41c6daa36c53b8221dd5da
+https://github.com/ezio84/abc_frameworks_base/commit/e60297be62f58d6df5eaba33e9aeca5b961a4d85
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 Add custom Statusbar observer
