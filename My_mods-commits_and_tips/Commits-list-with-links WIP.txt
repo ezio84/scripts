@@ -354,6 +354,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/e2e48e9c3e1273b01313a6f0391
 https://github.com/ezio84/abc_frameworks_base/commit/87ada4d31a7ad7c4109bd7ad1a8183dc3fac68c6
     Immersive Mode tile
     https://github.com/ezio84/abc_frameworks_base/commit/a62bb33f5ee13b4b833444e369c881bab758f6b1
+    https://github.com/ezio84/abc_frameworks_base/commit/b2bd92c24c628b3264c2704c2b0751f35e864186
 
 Split calendar from clock in qs footer
 https://github.com/ezio84/abc_frameworks_base/commit/3c1628df0936a989ee41deed8e8e37eac1b10298
