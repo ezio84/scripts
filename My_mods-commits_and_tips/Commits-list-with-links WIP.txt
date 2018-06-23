@@ -359,6 +359,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/87ada4d31a7ad7c4109bd7ad1a8
 Split calendar from clock in qs footer
 https://github.com/ezio84/abc_frameworks_base/commit/3c1628df0936a989ee41deed8e8e37eac1b10298
 https://github.com/ezio84/abc_frameworks_base/commit/dc7a51aaa3bf42fb5f6818d6f4e0940b297d64bc
+https://github.com/ezio84/abc_frameworks_base/commit/ff17243ff34213a29071f8ca075fced0d8c55b94
 
 Double tap to sleep on statusbar
 https://github.com/ezio84/abc_frameworks_base/commit/4467b77e6f70d2c80fc3c94fb9034c70c691a923
