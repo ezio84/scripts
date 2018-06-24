@@ -44,8 +44,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/48e79348b67bb7475b7ba64a891
 https://github.com/ezio84/abc_frameworks_base/commit/13026fff9b6f8c58c730ecaff722c10261e06967
 ***still not sure if this is good, reverted for now:
 https://github.com/ezio84/abc_frameworks_base/commit/011a6239d7543ab5964c1fafab1916f649c00dfe
-Power menu fixes for aosp bugs
-https://github.com/ezio84/abc_frameworks_base/commit/a83ed41a58ee94e04ea56ae1997dd3f52071c684
+    Power menu fixes for aosp bugs
+    https://github.com/ezio84/abc_frameworks_base/commit/a83ed41a58ee94e04ea56ae1997dd3f52071c684
+Add a ripple effect to the power menu items
+https://github.com/ezio84/abc_frameworks_base/commit/31659d8b51be41d17b09b9f1481bd1f08d5e8b5f
 
 Add Power+VolUp action to catch a partial area screenshot
 https://github.com/ezio84/abc_frameworks_base/commit/508c45449baee821cbda8893bf4c709df0858902
