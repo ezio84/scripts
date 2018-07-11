@@ -1047,6 +1047,7 @@ https://github.com/ezio84/abc_vendor_nexus/commit/0ac8e295b7efe6ba750fb0d3d6f448
     https://github.com/ezio84/abc_frameworks_base/commit/db37fc85fcf532dfc3406debbf72ad18c4c9c178
     https://github.com/ezio84/abc_frameworks_base/commit/3fc5253453f816f8d0b852f71a2b8befd4f42bcd
     https://github.com/ezio84/device_huawei_berkeley/commit/c58b9f9db62921937420c80099529d43799e407a
+    https://github.com/ezio84/device_huawei_berkeley/commit/47ed7af486dff4f8fa9daca0501f0986a97a14dd
 https://github.com/ezio84/device_huawei_berkeley/commit/5832c96d53659e1fc7fb52de5e61b0ac238324e6
 Fix pre-O apps aspect ratio on big screen devices
 https://github.com/ezio84/abc_frameworks_base/commit/b794090bd2c52fc3febdbf50d90a8a0f092f333b
