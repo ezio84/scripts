@@ -275,6 +275,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/d40f18769632d7ddb3c152c8d37
 https://github.com/ezio84/abc_frameworks_base/commit/8228bab63c085b65e1ae80fe37077a0796dfe4c3
 https://github.com/ezio84/abc_frameworks_base/commit/9e36d54376c87e2fda060df9b613b9b2bb8ed59d
 https://github.com/ezio84/abc_frameworks_base/commit/88c4a089c3c8d54b8bcb76fb2b08a85dffa76e00
+https://github.com/ezio84/abc_frameworks_base/commit/dbdb9e59c1114f4de1486aa5430a8f0f39735c94
 
 Allow user to add/remove QS with one click
 https://github.com/ezio84/abc_frameworks_base/commit/53704a3e336f8c072522eb3211dc6e1b43f476da
