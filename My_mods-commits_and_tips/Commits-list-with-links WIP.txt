@@ -78,6 +78,8 @@ https://github.com/ezio84/abc_packages_apps_PackageInstaller/commit/5770ae054ed0
 
 Change power save mode color to sexy red
 https://github.com/ezio84/abc_frameworks_base/commit/e111b7305706afd5ca4700d34f88b18583c1deef
+ALTERNATIVE: Don't change statusbar color at all when power saving:
+https://github.com/ezio84/abc_frameworks_base/commit/421dd4512974325a7c4e641ff27063128577fb8e
 
 Expose screenshot flash colors and use a light grey by default
 https://github.com/ezio84/abc_frameworks_base/commit/4f0c283fd4c1a12697233fbc123f5dbc47956dab
@@ -502,6 +504,9 @@ Media arrows remote session compatibility:
 https://github.com/ezio84/abc_frameworks_base/commit/d2184df6a10016c417eb8f44dea8ba3c8db53ab8
 https://github.com/ezio84/abc_frameworks_base/commit/3c5fd7d87063e3a61705c8d2a383e0d298922a35
 the other one is in DUtils tree
+    Port P rotation lock navbar button to DUI navbar
+    https://github.com/ezio84/abc_frameworks_base/commit/fa8c25dd9275f978b0414fb64291dad1e035a854
+    other ones are in DUtils and apps/DUI
 
 Configure SystemUI theme
 https://github.com/ezio84/abc_frameworks_base/commit/a02cba3cf2ce220b635b369838bc4558057c4e7a
