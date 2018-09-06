@@ -80,6 +80,7 @@ Change power save mode color to sexy red
 https://github.com/ezio84/abc_frameworks_base/commit/e111b7305706afd5ca4700d34f88b18583c1deef
 ALTERNATIVE: Don't change statusbar color at all when power saving:
 https://github.com/ezio84/abc_frameworks_base/commit/421dd4512974325a7c4e641ff27063128577fb8e
+https://github.com/ezio84/abc_frameworks_base/commit/992c4e5c3c42d8148f5b41645365d1e5856eced7
 
 Expose screenshot flash colors and use a light grey by default
 https://github.com/ezio84/abc_frameworks_base/commit/4f0c283fd4c1a12697233fbc123f5dbc47956dab
