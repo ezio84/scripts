@@ -1079,4 +1079,9 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/5be2d0e71bcb5e37434d
     https://github.com/ezio84/device_huawei_berkeley/commit/afe6c1ff81b6d0a389fce255c53adcfd5e4a0397
 Allow to suspend when screen is off due to the proximity sensor
 https://github.com/ezio84/device_huawei_berkeley/commit/68997a1acb8d1c912ea5dab6ac549a8693311514
+    Fix berkeley in-call mute button
+    https://github.com/ezio84/abc_packages_services_Telephony/commit/92162692ecf6ba8c4f32f832ef7db4eed9870362
+    https://github.com/ezio84/device_huawei_berkeley/commit/de8b7c837a5df91c64752469be6f1f3c8c0ff64a
+Fix IR on some huawei devices (like berkeley l04)
+https://github.com/ezio84/abc_frameworks_base/commit/03bfbe7a795441666576a352cbce179da19a9212
  
