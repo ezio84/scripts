@@ -1084,4 +1084,6 @@ https://github.com/ezio84/device_huawei_berkeley/commit/68997a1acb8d1c912ea5dab6
     https://github.com/ezio84/device_huawei_berkeley/commit/de8b7c837a5df91c64752469be6f1f3c8c0ff64a
 Fix IR on some huawei devices (like berkeley l04)
 https://github.com/ezio84/abc_frameworks_base/commit/03bfbe7a795441666576a352cbce179da19a9212
+    Fix ussd on some crappy devices
+    https://github.com/ezio84/abc_frameworks_opt_telephony/commit/3ae33f97e8db8400e083d4dc7049c6cc4a9e9871
  
