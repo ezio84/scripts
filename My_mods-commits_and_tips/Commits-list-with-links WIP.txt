@@ -702,6 +702,8 @@ Disable  tethering provisioning (unlock tethering with some carriers apn)
 https://github.com/ezio84/abc_frameworks_base/commit/c9b3b07d8ec372bd5101ab195b2c4a2b70c38f47
 https://github.com/ezio84/abc_vendor_nexus/commit/3a81b6a15705933c27e24c487c5e738bbaa4131e
 https://github.com/ezio84/abc_vendor_nexus/commit/fe158ae4e13d31841f17440cd2d7aef42d37817d
+    Allow to edit or remove apn even if carrier blocked editing
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/5ff237944f05af58d1bebd829b0cd8c6bc924dc3
 
 Move custom dp dpi settings under Display
 https://github.com/ezio84/abc_packages_apps_Settings/commit/2521952548db9e00cf994e3094c44f088d9b2076
