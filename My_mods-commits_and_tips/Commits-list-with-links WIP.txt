@@ -657,7 +657,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/0494ebbdcf011731ad1259a728a
 https://github.com/ezio84/abc_frameworks_base/commit/f9ae5a37df7ce5af039f8887fdc3dfa60e97c5fb
 https://github.com/ezio84/abc_frameworks_base/commit/0d407d3c6eb5c1433b19c3db1970135fe314aa9b
 https://github.com/ezio84/abc_frameworks_base/commit/0e97c0728365138416ab61600de1a4afd1395dc0
-https://github.com/ezio84/abc_frameworks_base/commit/fe3782d59ead1c65ba89d8df1b89a3b2d2705ccf
+https://github.com/ezio84/abc_frameworks_base/commit/5aaae907a128c4ba287ff141d6e6044aebf1641d
 
 Lockscreen and Ambient clock/date styles
 https://github.com/ezio84/abc_frameworks_base/commit/4e309011dfec4445e92866a903bc9023e0b1c98b
