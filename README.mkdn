@@ -2,13 +2,13 @@
 
 Command example:	 . scripts/build_rom.sh hammerhead nosync clean log on
  
-Parameter 1: The device tree: angler | hammeread | others
+Parameter 1: The device to build: angler | hammeread | others
 
-Parameter 2: Repo sync or don't sync the source: sync | nosync
+Parameter 2: The build type (GSI image or twrp flashable zip): gsi | nogsi
 
-Parameter 3: Make a clean build: clean (to run a "make clobber") | noclean (to run a "make installclean") (hint: installclean is usually enough to build without errors)
+Parameter 3: Repo sync or don't sync the source: sync | nosync
 
-Parameter 4: Save a txt log in the root repo folder: log | nolog
+Parameter 4: Make a clean build: clean (to run a "make clobber") | noclean (to run a "make installclean") (hint: installclean is usually enough to build without errors)
 
 Parameter 5: Shutdown the system: on (to keep it on) | off (to switch it off after the build is done)
 
@@ -17,20 +17,21 @@ Parameter 5: Shutdown the system: on (to keep it on) | off (to switch it off aft
 
 ** build_apk.sh **
 
-Command example:	 . scripts/build_rom.sh hammerhead nosync clean log SystemUI
+Command example: . scripts/build_rom.sh hammerhead nosync clean log SystemUI
  
-Parameters 1, 2, 3, 4: like the ones in the build rom script
+Parameter 1: The device to build: angler | hammeread | others
 
-Parameter 5: The apk package name you want to build, for example SystemUI
+Parameter 2: Repo sync or don't sync the source: sync | nosync
+
+Parameter 3: Make a clean build: clean (to run a "make clobber") | noclean (to run a "make installclean") (hint: installclean is usually enough to build without errors)
+
+Parameter 4: The apk package name you want to build, for example SystemUI
 
 
 ---------------------
 
 ** build_kernel.sh **
 
-
-Command example:	. build_kernel.sh hammerhead log
+Command example: build_kernel.sh hammerhead log
 
 Parameter 1: The device tree: angler | hammeread | others
-
-Parameter 2: Save a txt log in the root repo folder: log | nolog

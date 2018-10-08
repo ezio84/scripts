@@ -11,9 +11,9 @@ bldblu=${txtbld}$(tput setaf 4) #  bold blue
 txtrst=$(tput sgr0)             #  reset
 
 DEVICE="$1"
-SYNC="$2"
-CLEAN="$3"
-LOG="$4"
+GSI="$2"
+SYNC="$3"
+CLEAN="$4"
 SHUTDOWN="$5"
 
 ROOT_PATH=$PWD
@@ -58,43 +58,55 @@ else
   make installclean;
 fi
 
-# Start compilation with or without log
-if [ "$LOG" == "log" ]
+# Start compilation and save a log
+if [ "$GSI" == "gsi" ]
 then
-   echo -e "${bldblu}Compiling for $DEVICE and saving a build log file ${txtrst}"
-   mka bacon 2>&1 | tee build.log;
+   echo -e "${bldblu}Compiling a fastboot flashable system image for $DEVICE and saving a build log file ${txtrst}"
+   mka systemimage 2>&1 | tee build.log;
 else
-   echo -e "${bldblu}Compiling for $DEVICE without saving a build log file ${txtrst}"
-   mka bacon;
+   echo -e "${bldblu}Compiling a flashable zip for $DEVICE and saving a build log file ${txtrst}"
+   mka bacon 2>&1 | tee build.log;
 fi
 
-# If the above was successful
-if [ `ls $BUILD_PATH/ABC_ROM_*.zip 2>/dev/null | wc -l` != "0" ]
+if [ "$GSI" == "gsi" ]
 then
-   BUILD_RESULT="Build successful"
-
-    # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
-    echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
-
-    if [ `ls $ROOT_PATH/OLD_ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+    # If the above was successful
+    if [ `ls $BUILD_PATH/system.img 2>/dev/null | wc -l` != "0" ]
     then
-    rm OLD_ABC_ROM_$DEVICE-*.zip
+    BUILD_RESULT="Build successful"
+        echo -e "${bldblu}Making a smaller img zip for faster uploads ${txtrst}"
+        zip system system.img
+    else
+    BUILD_RESULT="Build failed"
     fi
-
-    if [ `ls $ROOT_PATH/ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+else
+    # If the above was successful
+    if [ `ls $BUILD_PATH/ABC_ROM_*.zip 2>/dev/null | wc -l` != "0" ]
     then
-    for file in ABC_ROM_$DEVICE-*.zip
-    do
-        mv -f "${file}" "${file/ABC_ROM/OLD_ABC_ROM}"
-    done
-    fi
+    BUILD_RESULT="Build successful"
+        # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
+        echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
 
-    mv $BUILD_PATH/ABC_ROM_*.zip $ROOT_PATH
-    rm $BUILD_PATH/$DEVICE-ota-eng.*.zip
+        if [ `ls $ROOT_PATH/OLD_ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+        then
+        rm OLD_ABC_ROM_$DEVICE-*.zip
+        fi
+
+        if [ `ls $ROOT_PATH/ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+        then
+        for file in ABC_ROM_$DEVICE-*.zip
+        do
+            mv -f "${file}" "${file/ABC_ROM/OLD_ABC_ROM}"
+        done
+        fi
+
+        mv $BUILD_PATH/ABC_ROM_*.zip $ROOT_PATH
+        rm $BUILD_PATH/$DEVICE-ota-eng.*.zip
 
     # If the build failed
-else
-   BUILD_RESULT="Build failed"
+    else
+    BUILD_RESULT="Build failed"
+    fi
 fi
 
 # back to root dir

@@ -10,8 +10,7 @@ txtrst=$(tput sgr0)             # Reset
 DEVICE="$1"
 SYNC="$2"
 CLEAN="$3"
-LOG="$4"
-APK="$5"
+APK="$4"
 
 # Time of build startup
 res1=$(date +%s.%N)
@@ -46,15 +45,9 @@ else
   make installclean;
 fi
 
-# Start compilation with or without log
-if [ "$LOG" == "log" ]
-then
-   echo -e "${bldblu}Compiling $APK apk for $DEVICE and saving a build-apk log file ${txtrst}"
-   make $APK 2>&1 | tee build-apk.log;
-else
-   echo -e "${bldblu}Compiling $APK for $DEVICE without saving a build log file ${txtrst}"
-   make $APK;
-fi
+# Start compilation and save a log
+echo -e "${bldblu}Compiling $APK apk for $DEVICE and saving a build-apk log file ${txtrst}"
+make $APK 2>&1 | tee build-apk.log;
 
 # Get elapsed time
 res2=$(date +%s.%N)

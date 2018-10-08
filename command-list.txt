@@ -1,14 +1,14 @@
- . scripts/build_rom.sh angler nosync noclean log on
- . scripts/build_apk.sh angler nosync noclean log SystemUI
- . scripts/build_apk.sh angler nosync noclean log Settings
- . scripts/build_apk.sh angler nosync noclean log MusicFX
- . scripts/build_apk.sh angler nosync noclean log Launcher3
- . scripts/build_apk.sh angler nosync noclean log Dialer
+ . scripts/build_rom.sh berkeley gsi nosync noclean on
+ . scripts/build_apk.sh berkeley nosync noclean SystemUI
+ . scripts/build_apk.sh berkeley nosync noclean Settings
+ . scripts/build_apk.sh berkeley nosync noclean SystemDarkTheme
+ . scripts/build_apk.sh berkeley nosync noclean Launcher3
+ . scripts/build_apk.sh berkeley nosync noclean HwCamera2
  
- . scripts/build_kernel.sh angler log
+ . scripts/build_kernel.sh angler
  linux kernel new tags: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/
  
-git push abc o2
+git push abc p
 
 adb root
 adb remount
@@ -92,3 +92,9 @@ Start kde:
 First, try to run simply 'X' . If it doesn't run, it should be debugged separately (for this you'd better create a new thread and leave a link to it here). 
 Second, try 'init 5'. If everything was set up correctly, it will give you X login screen.
 If it fails, run 'xinit' . You'll have X session with a terminal. Try 'startkde'.
+
+------
+
+check selinux denials
+adb pull /sys/fs/selinux/policy
+adb logcat -b all -d | audit2allow -p policy
