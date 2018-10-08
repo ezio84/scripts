@@ -75,7 +75,22 @@ then
     then
     BUILD_RESULT="Build successful"
         echo -e "${bldblu}Making a smaller img zip for faster uploads ${txtrst}"
-        zip system system.img
+        if [ `ls $ROOT_PATH/OLD_ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+        then
+        rm OLD_ABC_ROM_$DEVICE-*.zip
+        fi
+
+        if [ `ls $ROOT_PATH/ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+        then
+        for file in ABC_ROM_$DEVICE-*.zip
+        do
+            mv -f "${file}" "${file/ABC_ROM/OLD_ABC_ROM}"
+        done
+        fi
+
+        zip ABC_ROM_$DEVICE-gsi_image-$(date +%Y%m%d) $BUILD_PATH/system.img
+        rm $ROOT_PATH/system.img
+        mv $BUILD_PATH/system.img $ROOT_PATH
     else
     BUILD_RESULT="Build failed"
     fi
