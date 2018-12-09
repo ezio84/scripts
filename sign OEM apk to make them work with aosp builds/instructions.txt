@@ -1,0 +1,7 @@
+./signapk.jar -a 4 shared.x509.pem shared.pk8 APKNAME.apk APK.signed.apk
+
+(shared keys above are the test one from google aosp, you can also use your custom ones if needed)
+
+then zipalign:
+
+./zipalign -f -v 4 APK.signed.apk APK.apk
