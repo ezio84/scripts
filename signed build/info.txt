@@ -1,0 +1,4 @@
+https://source.android.com/devices/tech/ota/sign_builds.html#manually-generating-keys 
+
+build flag to build with generated keys: 
+PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/PATHtoRELEASEkey
