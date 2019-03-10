@@ -1,9 +1,9 @@
- . scripts/build_rom.sh berkeley gsi nosync noclean on
- . scripts/build_apk.sh berkeley nosync noclean SystemUI
- . scripts/build_apk.sh berkeley nosync noclean Settings
- . scripts/build_apk.sh berkeley nosync noclean SystemDarkTheme
- . scripts/build_apk.sh berkeley nosync noclean Launcher3
- . scripts/build_apk.sh berkeley nosync noclean HwCamera2
+ . scripts/build_rom.sh taimen user nogsi nosync noclean on
+ . scripts/build_apk.sh taimen user nosync noclean SystemUI
+ . scripts/build_apk.sh taimen user nosync noclean Settings
+ . scripts/build_apk.sh taimen user nosync noclean SystemDarkTheme
+ . scripts/build_apk.sh taimen user nosync noclean Launcher3QuickStep
+ . scripts/build_apk.sh taimen user nosync noclean CustomDoze
  
  . scripts/build_kernel.sh angler
  linux kernel new tags: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/

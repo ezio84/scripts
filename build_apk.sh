@@ -8,9 +8,10 @@ bldblu=${txtbld}$(tput setaf 4) #  blue
 txtrst=$(tput sgr0)             # Reset
 
 DEVICE="$1"
-SYNC="$2"
-CLEAN="$3"
-APK="$4"
+USERDEBUG="$2"
+SYNC="$3"
+CLEAN="$4"
+APK="$5"
 
 # Time of build startup
 res1=$(date +%s.%N)
@@ -33,7 +34,12 @@ export CCACHE_DIR="/home/ezio/Android/ccache"
 
 # Set the device
 echo -e "Setting the device... ${txtrst}"
-breakfast "$DEVICE-userdebug"
+if [ "$USERDEBUG" == "debug" ]
+then
+  breakfast "$DEVICE-userdebug"
+else
+  breakfast "$DEVICE-user"
+fi
 
 # Clean out folder
 if [ "$CLEAN" == "clean" ]
