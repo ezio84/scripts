@@ -8,6 +8,7 @@ bldblu=${txtbld}$(tput setaf 4) #  blue
 txtrst=$(tput sgr0)             # Reset
 
 DEVICE="$1"
+USERDEBUG="$2"
 
 # Time of build startup
 res1=$(date +%s.%N)
@@ -23,7 +24,12 @@ export CCACHE_DIR="/home/ezio/Android/ccache"
 
 # Set the device
 echo -e "Setting the device... ${txtrst}"
-breakfast "$DEVICE-userdebug"
+if [ "$USERDEBUG" == "debug" ]
+then
+  breakfast "$DEVICE-userdebug"
+else
+  breakfast "$DEVICE-user"
+fi
 
 # Start compilation and save a log
 echo -e "${bldblu}Starting build kernel for $DEVICE and saving a build log file ${txtrst}"

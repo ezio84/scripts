@@ -5,7 +5,7 @@
  . scripts/build_apk.sh taimen user nosync noclean Launcher3QuickStep
  . scripts/build_apk.sh taimen user nosync noclean CustomDoze
  
- . scripts/build_kernel.sh angler
+ . scripts/build_kernel.sh taimen user
  linux kernel new tags: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/
  
 git push abc p

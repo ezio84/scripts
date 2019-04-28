@@ -36,6 +36,8 @@ Parameter 5: The apk package name you want to build, for example SystemUI
 
 ** build_kernel.sh **
 
-Command example: build_kernel.sh taimen log
+Command example: build_kernel.sh taimen user
 
 Parameter 1: The device tree: angler | taimen | others
+
+Parameter 2: The build type: userdebug | user
