@@ -6,38 +6,8 @@ Parameter 1: The device to build: angler | taimen | others
 
 Parameter 2: The build type: userdebug | user
 
-Parameter 3: The build type (GSI image or twrp flashable zip): gsi | nogsi
-
-Parameter 4: Repo sync or don't sync the source: sync | nosync
-
-Parameter 5: Make a clean build: clean (to run a "make clobber") | noclean (to run a "make installclean") (hint: installclean is usually enough to build without errors)
-
-Parameter 6: Shutdown the system: on (to keep it on) | off (to switch it off after the build is done)
-
-
-----------------
-
-** build_apk.sh **
-
-Command example: . scripts/build_apk.sh taimen nosync noclean SystemUI
- 
-Parameter 1: The device to build: angler | taimen | others
-
-Parameter 2: The build type: userdebug | user
-
 Parameter 3: Repo sync or don't sync the source: sync | nosync
 
 Parameter 4: Make a clean build: clean (to run a "make clobber") | noclean (to run a "make installclean") (hint: installclean is usually enough to build without errors)
 
-Parameter 5: The apk package name you want to build, for example SystemUI
-
-
----------------------
-
-** build_kernel.sh **
-
-Command example: build_kernel.sh taimen user
-
-Parameter 1: The device tree: angler | taimen | others
-
-Parameter 2: The build type: userdebug | user
+Parameter 5: Shutdown the system: on (to keep it on) | off (to switch it off after the build is done)

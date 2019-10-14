@@ -12,10 +12,10 @@ txtrst=$(tput sgr0)             #  reset
 
 DEVICE="$1"
 USERDEBUG="$2"
-GSI="$3"
-SYNC="$4"
-CLEAN="$5"
-SHUTDOWN="$6"
+#GSI="$3"
+SYNC="$3"
+CLEAN="$4"
+SHUTDOWN="$5"
 
 ROOT_PATH=$PWD
 BUILD_PATH="$ROOT_PATH/out/target/product/$DEVICE"
@@ -46,13 +46,13 @@ export CCACHE_DIR="/home/ezio/Android/ccache"
 /usr/bin/ccache -M 25G
 
 # Set the device
-echo -e "Setting the device... ${txtrst}"
-if [ "$USERDEBUG" == "debug" ]
-then
-  breakfast "$DEVICE-userdebug"
-else
-  breakfast "$DEVICE-user"
-fi
+#echo -e "Setting the device... ${txtrst}"
+#if [ "$USERDEBUG" == "debug" ]
+#then
+  #breakfast "$DEVICE-userdebug"
+#else
+  #breakfast "$DEVICE-user"
+#fi
 
 # Clean out folder
 if [ "$CLEAN" == "clean" ]
@@ -65,70 +65,76 @@ else
 fi
 
 # Start compilation and save a log
-if [ "$GSI" == "gsi" ]
+#if [ "$GSI" == "gsi" ]
+#then
+   #echo -e "${bldblu}Compiling a fastboot flashable system image for $DEVICE and saving a build log file ${txtrst}"
+   #mka systemimage 2>&1 | tee build.log;
+#else
+   echo -e "${bldblu}Compiling the rom for $DEVICE and saving a build log file ${txtrst}"
+   #mka bacon 2>&1 | tee build.log;
+#fi
+if [ "$USERDEBUG" == "debug" ]
 then
-   echo -e "${bldblu}Compiling a fastboot flashable system image for $DEVICE and saving a build log file ${txtrst}"
-   mka systemimage 2>&1 | tee build.log;
+  brunch "abc_$DEVICE-userdebug" 2>&1 | tee build.log;
 else
-   echo -e "${bldblu}Compiling a flashable zip for $DEVICE and saving a build log file ${txtrst}"
-   mka bacon 2>&1 | tee build.log;
+  brunch "abc_$DEVICE-user" 2>&1 | tee build.log;
 fi
 
-if [ "$GSI" == "gsi" ]
-then
+#if [ "$GSI" == "gsi" ]
+#then
     # If the above was successful
-    if [ `ls $BUILD_PATH/system.img 2>/dev/null | wc -l` != "0" ]
+    #if [ `ls $BUILD_PATH/system.img 2>/dev/null | wc -l` != "0" ]
+    #then
+    #BUILD_RESULT="Build successful"
+        #echo -e "${bldblu}Making a smaller img zip for faster uploads ${txtrst}"
+       # if [ `ls $ROOT_PATH/OLD_ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+        #then
+       # rm OLD_ABC_ROM_$DEVICE-*.zip
+        #fi
+
+        #if [ `ls $ROOT_PATH/ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+        #then
+        #for file in ABC_ROM_$DEVICE-*.zip
+       # do
+           # mv -f "${file}" "${file/ABC_ROM/OLD_ABC_ROM}"
+        #done
+        #fi
+
+       # zip ABC_ROM_$DEVICE-gsi_image-$(date +%Y%m%d) $BUILD_PATH/system.img
+       # rm $ROOT_PATH/system.img
+       #mv $BUILD_PATH/system.img $ROOT_PATH
+    #else
+    #BUILD_RESULT="Build failed"
+   # fi
+#else
+    # If the above was successful
+    if [ `ls $BUILD_PATH/abc_*.zip 2>/dev/null | wc -l` != "0" ]
     then
     BUILD_RESULT="Build successful"
-        echo -e "${bldblu}Making a smaller img zip for faster uploads ${txtrst}"
-        if [ `ls $ROOT_PATH/OLD_ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
-        then
-        rm OLD_ABC_ROM_$DEVICE-*.zip
-        fi
-
-        if [ `ls $ROOT_PATH/ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
-        then
-        for file in ABC_ROM_$DEVICE-*.zip
-        do
-            mv -f "${file}" "${file/ABC_ROM/OLD_ABC_ROM}"
-        done
-        fi
-
-        zip ABC_ROM_$DEVICE-gsi_image-$(date +%Y%m%d) $BUILD_PATH/system.img
-        rm $ROOT_PATH/system.img
-        mv $BUILD_PATH/system.img $ROOT_PATH
-    else
-    BUILD_RESULT="Build failed"
-    fi
-else
-    # If the above was successful
-    if [ `ls $BUILD_PATH/ABC_ROM_*.zip 2>/dev/null | wc -l` != "0" ]
-    then
-    BUILD_RESULT="Build successful"
-        # Copy the device ROM.zip to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
+        # Copy the device ROM.zip (EDIT 2019: for now we use the ota zip) to root (and before doing this, remove old device builds but not the last one of them, adding an OLD_tag to it)
         echo -e "${bldblu}Copying ROM.zip to $ROOT_PATH ${txtrst}"
 
-        if [ `ls $ROOT_PATH/OLD_ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+        if [ `ls $ROOT_PATH/OLD_abc_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
         then
-        rm OLD_ABC_ROM_$DEVICE-*.zip
+        rm OLD_abc_$DEVICE-*.zip
         fi
 
-        if [ `ls $ROOT_PATH/ABC_ROM_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
+        if [ `ls $ROOT_PATH/abc_$DEVICE-*.zip 2>/dev/null | wc -l` != "0" ]
         then
-        for file in ABC_ROM_$DEVICE-*.zip
+        for file in abc_$DEVICE-*.zip
         do
-            mv -f "${file}" "${file/ABC_ROM/OLD_ABC_ROM}"
+            mv -f "${file}" "${file/abc/OLD_abc}"
         done
         fi
 
-        mv $BUILD_PATH/ABC_ROM_*.zip $ROOT_PATH
-        rm $BUILD_PATH/$DEVICE-ota-eng.*.zip
+        mv $BUILD_PATH/abc_$DEVICE-ota*.zip $ROOT_PATH
+        #rm $BUILD_PATH/$DEVICE-ota-eng.*.zip
 
     # If the build failed
     else
     BUILD_RESULT="Build failed"
     fi
-fi
+#fi
 
 # back to root dir
 cd $ROOT_PATH
@@ -147,7 +153,7 @@ echo -e ${txtrst}
 BUILDTIME="Build time: $(echo $((${END}-${START})) | awk '{print int($1/60)" minutes and "int($1%60)" seconds"}')"
 
 #kill java if it's hanging on
-pkill java
+#pkill java
 
 # Shutdown the system if required by the user
 if [ "$SHUTDOWN" == "off" ]
