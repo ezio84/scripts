@@ -1,11 +1,3 @@
-Custom doze (not pushed to main ABC trees because pixel devices already have wake gestures)
-https://github.com/ezio84/abc_frameworks_base/commit/c8d227cc5edb87bcbb5cf0f93b1dc75d3d8cfa2e
-then get the tree
-https://github.com/ezio84/abc_packages_apps_CustomDoze
-and build the product package in your build or custom vendor tree
-then add "Allow to choose lockscreen or Ambient on wake gestures" commits from this commits list
-and be sure to have "Custom preferences" tree from this commits list
-
 Enable doze display state support for all devices (deep sleep)
     https://github.com/ezio84/abc_vendor_nexus/commit/1336275c8a3f7b92a24a2542b464eca8ae80c3b0
 
@@ -291,5 +283,16 @@ Enable Swipe-up home gesture for all devices
     
 Allow all apps to use smart replies
     https://github.com/ezio84/abc_vendor_nexus/commit/615b121c2384f91aae82a1bf075aa00d1f2b2f41
+
+Custom doze (not pushed to main ABC trees because pixel devices already have wake gestures) UNTESTED
+https://github.com/ezio84/abc_frameworks_base/commit/c8d227cc5edb87bcbb5cf0f93b1dc75d3d8cfa2e
+then get the tree
+https://github.com/ezio84/abc_packages_apps_CustomDoze
+and build the product package in your build or custom vendor tree
+then add "Allow to choose lockscreen or Ambient on wake gestures" commits from this commits list
+and be sure to have "Custom preferences" tree from this commits list
+to call custom doze settings from Settings menu:
+https://gerrit.dirtyunicorns.com/#/c/4403/
+
     
 IMPORTANT: there are more useful overlays and prebuilt apk in vendor/nexus tree, just check it (q branch)
