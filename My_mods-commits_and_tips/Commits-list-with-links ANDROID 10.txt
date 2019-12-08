@@ -1,0 +1,286 @@
+Enable doze display state support for all devices (deep sleep)
+    https://github.com/ezio84/abc_vendor_nexus/commit/1336275c8a3f7b92a24a2542b464eca8ae80c3b0
+
+Build source without aosp email tree
+    https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/95982e2139efcdaa7d5ef9c6bba8f4172b5db0dd
+
+Aosp stock theme fixes
+    https://github.com/ezio84/abc_packages_apps_SettingsIntelligence/commit/f8075731b6841a51e426d175d68f321bc26876e8
+    https://github.com/ezio84/abc_packages_apps_SettingsIntelligence/commit/381d931b6f650a05f0fa5b34fe4e0a86f27a5ed5
+    https://github.com/ezio84/abc_vendor_themes/commit/ae8e0d23c3b52b03f34d3c89c5ba0f49c60883e7
+    https://github.com/ezio84/abc_vendor_themes/commit/a105372577a34273221a6816a77e99e57d16ff66
+    https://github.com/ezio84/abc_vendor_themes/commit/b3959f320de26913728930e574d1cf5745c1bf59
+    
+Some sepolicy/core fixes
+    https://github.com/ezio84/abc_system_sepolicy/commit/edd43f389507f9992527b974eb9bc07d6636c1e6
+    https://github.com/ezio84/abc_system_sepolicy/commit/b2b580b99c98c6e3541ab71c1c3cdb2e0dcb667b
+    https://github.com/ezio84/abc_system_sepolicy/commit/a07e32b0836ee45997e94f09fc61b498419073be
+    https://github.com/ezio84/abc_system_sepolicy/commit/7904567bc83ff1171ac9f5cab063661b17e92df6
+    https://github.com/ezio84/abc_system_sepolicy/commit/bb7be2b6af758acf06e7f05ed27f049754d5dce5
+    https://github.com/ezio84/abc_system_core/commit/bab1185d84cb94f616a26c4d10007315ab57aec7
+    https://github.com/ezio84/abc_system_core/commit/4c40adb0872d46ca5cf6bb8a8304893f6a362f59
+    https://github.com/ezio84/abc_system_core/commit/84f176640a190c89d044496ca50e420498562f3f
+    https://github.com/ezio84/abc_system_core/commit/0cf4cb2c9507db69389ed2b85a25dfb696e2942b
+
+Fixes for build fingerprint and packages cache refresh on dirty flash
+    https://github.com/ezio84/abc_frameworks_base/commit/76590c19ce6cffb2414218aa40e584e80d9d11b6
+    https://github.com/ezio84/abc_frameworks_base/commit/3732d438bb9fb3938b6b11866a379f2296cf9cbe
+    https://github.com/ezio84/abc_frameworks_base/commit/66261018608dacb877afeba818b59a707d77f402
+    https://github.com/ezio84/abc_frameworks_base/commit/e1773aedc0d2614a230042e8a1a2d57a130fbf6b
+    https://github.com/ezio84/abc_frameworks_base/commit/590114fe1c81cf7230fcc7d6b6db240225e676dc
+    https://github.com/ezio84/abc_frameworks_base/commit/681ccd33aa4ea92cffe7129d33d4800ebfafd5a5
+    https://github.com/ezio84/abc_frameworks_base/commit/61cb36c1dc96793f906460698aecc03599362050
+    https://github.com/ezio84/abc_frameworks_base/commit/f9f22099fbe4d50625bc758b23c1dfd2cb886738
+    https://github.com/ezio84/abc_frameworks_base/commit/6c2f541b0e96c9ebb37cd871bd202030676c4c36
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/de3d3786f98810aa193b20ee593a97b2e97140f8
+    https://github.com/ezio84/abc_packages_services_Telephony/commit/2e26ba87b6737eea6fa9369396d62f24de96c3a4
+    https://github.com/ezio84/abc_vendor_nexus/commit/88d2efe89c665e131d29f75a0a004fef1f9bbcd4
+    https://github.com/ezio84/abc_vendor_nexus/commit/fb02cfba24db185f454c4ece743c89887dd25820
+    https://github.com/ezio84/abc_packages_apps_SettingsIntelligence/commit/1edecab69ff7524c8adca5591a6ce74618282839
+    
+Disable aosp rescue party on SysUI FCs
+    https://github.com/ezio84/abc_frameworks_base/commit/faadba22ee132e6c3567489c39fd12dcd0b0cf8a
+    https://github.com/ezio84/abc_vendor_nexus/commit/30d9ea933d2788f7d27cf52ac42bed46f0813f71
+
+Permissions fixes for Gapps, system apps and sh#t like that
+    https://github.com/ezio84/abc_frameworks_base/commit/c1c8cae314759dbee40ce09f03a79261d014712b
+    https://github.com/ezio84/abc_frameworks_base/commit/814ce921abc831fec908540cbc170ca964d771f0
+    https://github.com/ezio84/abc_frameworks_base/commit/202db4358053a49a61256e24d611900536aee29c
+    https://github.com/ezio84/abc_frameworks_base/commit/5fd8e966da2bb24a8628e396ceed84fda05ec352
+    https://github.com/ezio84/abc_frameworks_base/commit/1efb2453fbfc354d4ae4c840b3922502f7fdf8c6
+    https://github.com/ezio84/abc_frameworks_base/commit/03700f63a21b9d86d44badadf6f9a7afba8e6844
+    https://github.com/ezio84/abc_frameworks_base/commit/81a9b4ee1528b3a47080c9a065154f809bf0113f
+    https://github.com/ezio84/abc_frameworks_base/commit/63c40092d84bfd82cd775c8265cfb6229326feb7
+    https://github.com/ezio84/abc_frameworks_base/commit/0ab3deef9cf14ce8340db1d55c7c2185580274a2
+    https://github.com/ezio84/abc_frameworks_base/commit/acd0340b438485ba493690456ffb76fe037196bf
+    https://github.com/ezio84/abc_frameworks_base/commit/9c84d5bba1d3f977db7e1fdcb45ab33814269232
+    https://github.com/ezio84/abc_frameworks_base/commit/d4506fbc6eeb800b1a66d77311fbc11b633f47fc
+    https://github.com/ezio84/abc_frameworks_base/commit/b9b0c041131e33b4e7fb3121f2fa0fae0f142f4c
+    https://github.com/ezio84/abc_frameworks_base/commit/4f7d51fbecee68912d71f4dc8fcb8aec67f8749a
+    https://github.com/ezio84/abc_frameworks_base/commit/142681e4597cd17af0946951a788e6d7bf77d75a
+    https://github.com/ezio84/abc_frameworks_base/commit/86d6bfd74b099412e0789e2fa1ee87fed4e85ce7
+    https://github.com/ezio84/abc_frameworks_base/commit/47afe1ca2772a25dc06c60d9f6ca06aea85e3d1d
+
+Add prebuilt fuelgauge, smartbattery & Co (battery stats and management) stuff from stock images
+    https://github.com/ezio84/abc_vendor_nexus/commit/b16224ce192ef1bbc905359751db5d14a1e4e8c9
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a65a131c89b2a3395da5a5e44c7a3b8934ab8a02
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/24265c66647c277520c1dc5fc31f9773551fe30d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/0c0d1a74ba1d39535509a09d09068e9578e905dd
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a2b9e6bf3cb36ecbc981cade84636248c5ecdf16
+    Then add Turbo prebuilt apk:
+    https://gitlab.com/ezio84/android_vendor_pixelgapps/tree/q/priv-app/TurboPrebuilt
+    and set as default:
+    https://gitlab.com/ezio84/android_vendor_pixelgapps/commit/1ac40607519873c0ba45f8d27a075e988a78ec5e
+    
+Custom preferences
+    https://github.com/ezio84/abc_vendor_support
+    To build it inline with Settings:
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e15fce8deafca015a65197e9b92a99cebdb4504c
+    
+Enable dev settings by default and remove/block aosp OTA checks
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/41fc1c61517666701d0aabfc73e12aecf8c7d039
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a91edae0b03612b9da855d7c12a52305cef5e1be
+    https://github.com/ezio84/abc_frameworks_base/commit/e7ec725bdb54996af35d76dc77acff1bb0938f58
+    https://github.com/ezio84/abc_frameworks_base/commit/62c247c6920ba13f5f055cad361590c4d54e4fa0
+    
+Add a custom settings observer in the framework
+    https://github.com/ezio84/abc_frameworks_base/commit/e9005e034d3f422654a6bf905fbfb792f60f54f0
+    https://github.com/ezio84/abc_frameworks_base/commit/67097ed85683e3e82f7854562dc3f011059d3492
+    
+Aosp settings menu fixes  and improvements (package names, app info, various submenu, stuff here and there)
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/bd8acb15032f4b1ffef3d894cbca738e6d0c29b1
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/063b5aa9b63d59ce0e22ed0bd52cfa1d9cc31d43
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e8e13daf70aa058efa0d33929094b0593682c9e7
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/07d82e36592d1ad6af3c261fac205814ccbc0bc3
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/f744bbd369ae832a19c25d5ef26e7f399c20c66f
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/f20059a0df7ccb43cc0fd4f8eedc3489eb480fdc
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/dda27ee011fc7069003ccd1ad81ebac11a80dde6
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/2cad4c14175d239d890ddfd1e591ff4234215961
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/8d46cb9276d77bdf5d6285e469792e865cafc899
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/b941d07ce5ffb1d1a022dc2343c832bd94efe61b
+    
+QS panel and tiles stuff
+    https://github.com/ezio84/abc_frameworks_base/commit/cd037dc2525ab7a766c253c2b0ffd5e8fa298808
+    https://github.com/ezio84/abc_vendor_nexus/commit/dc6aea3c51e5d53c330e1ac5249b42fe8ead3f75
+    *(Reminder): https://github.com/ezio84/abc_frameworks_base/commit/6f6a7be6ddbcf3b9e164502933854f3d3af7e2d5
+        Allow user to add/remove QS with one click
+        https://github.com/ezio84/abc_frameworks_base/commit/9e5cc7c48e5a2867d050ab3ac08c86f874adc2d0
+    QS panel: don't show the annoying build number if Dev settings are ON
+    https://github.com/ezio84/abc_frameworks_base/commit/0dfad8ec4dfe95b7cf81d64f3ede201d2d3d258c
+        Allow to quickly open Running Services from QS panel
+        https://github.com/ezio84/abc_frameworks_base/commit/64639bc4ff7a13ff2eb4a408790c2bf5f17ce561
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/ec45ae7b60187dbb54979958d6503bf2e9613a28
+    Caffeine tile
+    https://github.com/ezio84/abc_frameworks_base/commit/039999b8dcea88a7166ecfee15b5a314c601d1aa
+        Sound search tile
+        https://github.com/ezio84/abc_frameworks_base/commit/f2f50032d231f9925f92b20f2bbf1adb0966646a
+        https://github.com/ezio84/abc_frameworks_base/commit/fcac842fb8055ccfb4351f5c392c1b6ed05699aa
+        https://github.com/ezio84/abc_frameworks_base/commit/87e4364568198c8f08b0ac43ad0a23838651d84f
+    Ask pin on secure lockscreen for sensitive tiles
+    https://github.com/ezio84/abc_frameworks_base/commit/62537d0ea76331fe838f25732fbe38c69eb0904e
+    https://github.com/ezio84/abc_frameworks_base/commit/502e73c800d1ff3639445b6ee5d4cf8e3321b53f
+    https://github.com/ezio84/abc_frameworks_base/commit/67064ab14a13e8c77b7c14fe9e867c92989b5dcd
+        Allow to set QS panel columns and rows
+        https://github.com/ezio84/abc_frameworks_base/commit/107dae03636e1a0d9ecd629aaa9e1a86d0e1b8ba
+        https://github.com/ezio84/abc_frameworks_base/commit/2869766adf20fb60990eeb2fd29841783c93d372
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/dec41d552fee874ac614709bca38c575d83bd06b
+    Qs tile title visibility
+    https://github.com/ezio84/abc_frameworks_base/commit/74f2343679249526f1c3441d4cf15666e2fa3cdc
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/dec41d552fee874ac614709bca38c575d83bd06b
+        Qs quick pulldown
+        https://github.com/ezio84/abc_frameworks_base/commit/5e894460552b82420ae0814fa4f6ffb15f513c7b
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/1d7f9dbe46c0abae14301159d1240b2c536f39ff
+        
+Disable notification channel warnings by default 
+https://github.com/ezio84/abc_frameworks_base/commit/ebb33b29f3b9d3a8d0c1d1c00016e430584f5c86
+https://github.com/ezio84/abc_packages_apps_Settings/commit/0102ea583d2d5b5c75d9ca2863b4b376a64c7cef
+
+Aosp Screenrecord: fixes, improvements, red dot, quality settings and more
+https://github.com/ezio84/abc_frameworks_base/commit/bb28be00b1817cbe4b7dd516b60f3b147cad0f75
+https://github.com/ezio84/abc_frameworks_base/commit/db20b1966f84ae08175a5480bb4d05c31d4f1ee9
+https://github.com/ezio84/abc_frameworks_base/commit/6092d9ca8b0949d64c1b87d6cd53d66daf002e14
+https://github.com/ezio84/abc_frameworks_base/commit/070c3a37d00f81d9504d0d9bb97aa19a668ef06a
+https://github.com/ezio84/abc_frameworks_base/commit/91c00e8fb70cb17b8658678bf476452f96cd44d1
+https://github.com/ezio84/abc_frameworks_base/commit/3e3be6af5253d7ffa4556b6d1cab7d0e1d6a0479
+https://github.com/ezio84/abc_frameworks_base/commit/02438c04da9152035140a05cafa60125cf4ec88c
+https://github.com/ezio84/abc_frameworks_base/commit/fe186acacf81edd0a1be7dd11bc108537d439412
+https://github.com/ezio84/abc_frameworks_base/commit/3e9e9ff5a56fdd8d7e084a119d1e3829e6df57a6
+https://github.com/ezio84/abc_frameworks_base/commit/191d0e602657dd036e70bfb4e11e4cb721586525
+https://github.com/ezio84/abc_frameworks_base/commit/a53478465de68cc9cba216bfe67a62d2d90df9aa
+https://github.com/ezio84/abc_frameworks_base/commit/317edadc89f83514c52bee15fe5d4bfbaadffe42
+
+Statusbar BT battery level
+https://github.com/ezio84/abc_frameworks_base/commit/a73b727394be516423b4e82127657cdc6bd84b7d
+https://github.com/ezio84/abc_frameworks_base/commit/10f3d13a1824648f9316ba2f68ba1424faa30ae5
+https://github.com/ezio84/abc_frameworks_base/commit/68a04f5f04a117da94eb3ac67012127b3b1bf15b
+
+Allow to dismiss notifications with back FP left/right swipe 
+https://github.com/ezio84/abc_frameworks_base/commit/cd94079b1b65c207f6e53ad818256ace3a92faf2
+https://github.com/ezio84/abc_packages_apps_Settings/commit/0be0b6e65fcbd78694f156071947c8108a3fea92
+
+Add some framework utils
+https://github.com/ezio84/abc_frameworks_base/commit/f303ffc8da4264243228a089fcf6c832c987a1af
+https://github.com/ezio84/abc_frameworks_base/commit/45916b071709b89006f14a412cfc106613e26cea
+https://github.com/ezio84/abc_frameworks_base/commit/42cf7de64004ddea687fd414423ca4d1c115c81d
+https://github.com/ezio84/abc_frameworks_base/commit/d27bfb5dd463512599132c7e52b2acb0ddca7c37
+https://github.com/ezio84/abc_frameworks_base/commit/276a19794f745faf4f291edd986c9186c8436869
+https://github.com/ezio84/abc_frameworks_base/commit/b0d5e3253289e65e4ff4b1e0dfb299cf14ec9d5b
+https://github.com/ezio84/abc_frameworks_base/commit/36ccac1d98d19702a0be95a849999c07116353ee
+
+Allow doubletap/longpress power to toggle torch
+    add above framework utils commits, then:
+    https://github.com/ezio84/abc_frameworks_base/commit/bd51d9d4805d18917f8d76ca44a4868dfd5b835c
+    https://github.com/ezio84/abc_frameworks_base/commit/853de15fb1cf827156757e66fe310c20e9f00aa8
+    https://github.com/ezio84/abc_frameworks_base/commit/c0b9a0d32fb7c453c7d9d221af9f6e6b6fcee976
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/f2b8a5300cf198da459710ef84f215f8a54be44f
+
+Skip track with volume rocker when screen is off or ambient (for both local and remote playing)
+    https://github.com/ezio84/abc_frameworks_base/commit/47c138175d41a17f7d750760db8e64016afa77dc
+    https://github.com/ezio84/abc_frameworks_base/commit/f3d1a4926bfbac9614b8cb7acb4103272d565476
+    https://github.com/ezio84/abc_frameworks_base/commit/1fff6cabfed15ca16beddff65122ab1ca0bbeb11
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/31eb5192ca468de78eca6206f0f3bdf541b892ff
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a5a1a58575b5257b44687ba518dd3b38557171fd
+    
+Allow to choose lockscreen or Ambient on wake gestures
+    https://github.com/ezio84/abc_frameworks_base/commit/cafc3931f8a018b1f3f030358767e18e6d3a6af3
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/9502afd753ee0bcc7e9a98138f5bcfe835f043f1
+    
+Aosp Ambient music: allow to pulse on new tracks 
+    https://github.com/ezio84/abc_frameworks_base/commit/a8c9411791669c8217d2be7e1e8c6e092f4dde9a
+    https://github.com/ezio84/abc_frameworks_base/commit/abc170e90e0b7dbf3f1545f9cfe43820edaf675e
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/d74b8200b90be253dc737cf4752d682efadebc3f
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/bbb97697ad7952e161cabbe7c4fcd2784d83f1b4
+    
+Ambient music ticker: double tap on track title to skip track
+    https://github.com/ezio84/abc_frameworks_base/commit/575d86a052e5f889815736c91a51fbb4257877fd
+
+Ambient music: add Pixel Now Playing support
+    https://github.com/ezio84/abc_frameworks_base/commit/98dd3d10690abcefc7f10f27309da1c87e5e53c5
+    
+Power menu:  make it advanced
+    https://github.com/ezio84/abc_frameworks_base/commit/749ba7b9e0821d755d8775b018af266083569ffc
+    https://github.com/ezio84/abc_frameworks_base/commit/ef93cfb7ea0d2fd1fae842480802fdac28efdd31
+    https://github.com/ezio84/abc_frameworks_base/commit/8f78576b23accd59ff83a9366d23172608aacb6b
+    https://github.com/ezio84/abc_frameworks_base/commit/57acbc3d1734c3028639ba44dd8cc3560efa44c0
+    https://github.com/ezio84/abc_frameworks_base/commit/9e1434e6a8108c425201b16c9a74697f72b0aecb
+    https://github.com/ezio84/abc_frameworks_base/commit/439b16f749cfa3a5906603ce5cfbca9a5ed25b6d
+    https://github.com/ezio84/abc_frameworks_base/commit/629755e8c8c2765781ff1fe6bfc88288f69095bd
+    
+Double tap to sleep on lockscreen
+    https://github.com/ezio84/abc_frameworks_base/commit/1efa3e6b4f1182b8408c3c2026d6393bdccc009e
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/d5dec0f0d65753e1c1871e8f70b60e07b1197484
+    
+Swap volume buttons on screen rotation
+    https://github.com/ezio84/abc_frameworks_base/commit/8558098cec191b8356fbdb00ea16ff47dc466093
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/3065543044b39b40189e7121c9e81900c2b3581a
+    https://github.com/ezio84/abc_frameworks_native/commit/018a35ae457e44b8427c7eef67f36f53974a3dfa
+    
+Screenshot: Append app name to filename 
+    https://github.com/ezio84/abc_frameworks_base/commit/e8639dee9bf4a07654b8a878752a041d92adcc21
+    
+Aosp partial screenshot improvements
+    https://github.com/ezio84/abc_frameworks_base/commit/622ab0e153f5d5a28d48b6b5aa969dfe29b820da
+    then check power menu commits, i added longpress for partial screenshot to the existing screenshot button
+    
+Expanded statusbar network traffic
+    https://github.com/ezio84/abc_frameworks_base/commit/91a99c711683c33b3017d4cdced940441bf3a631
+    https://github.com/ezio84/abc_frameworks_base/commit/88aa75efc6ae4c5381dba99817b0e9a86da8b7ad
+    https://github.com/ezio84/abc_frameworks_base/commit/cbc605d29d8b3a947b31f0cee9d370b2a4f75f63
+    https://github.com/ezio84/abc_frameworks_base/commit/4ee2f30df98de77c432a70809aad4c40db845db5
+    https://github.com/ezio84/abc_frameworks_base/commit/c17468201a154796331d3995f0b5e3b335454fb2
+    https://github.com/ezio84/abc_frameworks_base/commit/a3a542f4fc89f6339aeb641d4eac6099806216cc
+    https://github.com/ezio84/abc_frameworks_base/commit/adbfc24da57785620b044b5a30f2708f27f1a2db
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/8866db89364aab478cec9238ab935c8a340e77ab
+
+
+Battery and notification led light customization
+    https://github.com/ezio84/abc_frameworks_base/commit/e853768af8b5619dac0f728e0d04784788ca2e88
+    https://github.com/ezio84/abc_frameworks_base/commit/ad54bacaa7f6024654c630091748214192016766
+    https://github.com/ezio84/abc_frameworks_base/commit/5737221c0ebcccf5d09ad4a1e1f3d855b56f5797
+    https://github.com/ezio84/abc_frameworks_base/commit/aee25e5a4b7dabf9b0f930c9512690d3853f274f
+    https://github.com/ezio84/abc_frameworks_base/commit/2d6bb2b72687960c9dc20ce62bc45c89d72a7c5f
+    https://github.com/ezio84/abc_frameworks_base/commit/5728c9e04683b7568105ffcbf16d41492c74189c
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e7b14f74646b2d25099e1c2c1301f9ece02479a8
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/d851702c95ca9e62a1604e8713ba1327c600f287
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/8723df84bdcabac011cfad97a8e59cd7cbe2471e
+    
+Less boring heads up option
+    https://github.com/ezio84/abc_frameworks_base/commit/88f2bf9024357803932b1db9838edb813a5345a4
+    https://github.com/ezio84/abc_frameworks_base/commit/07c7edd2528427e8e388f2bca920783981288ae6
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/ac0f774db94b9520ce90da099ec0a6f990f5cc90
+    
+Disable screenshot sound
+    https://github.com/ezio84/abc_frameworks_base/commit/571612b38f78b40a20ef67d27f5b2aa42b4bcf09
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/22b087c846f846bb8e857428966c920a7c274821
+    
+Customize or disable lockscreen media art blur level
+    https://github.com/ezio84/abc_frameworks_base/commit/a126b4034e433a1ce02352d655aa1e42f96ba52e
+    https://github.com/ezio84/abc_frameworks_base/commit/8e2a7102ba3ac94c5d502754bcd7dc8783691563
+    https://github.com/ezio84/abc_frameworks_base/commit/17ac3defc6a72ce0f5f23023ae145345c95d0145
+    https://github.com/ezio84/abc_frameworks_base/commit/4d43dad60d11fb983c7697e65099306f26b057a1
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/158b4809350cc56d55f02068411ff2187e52da6d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/eea86970ac4467b855cef45dea3f8bc82a8910eb
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/46a81f7a3a5920ba2bed9445d4e8aeb0acc9afd8
+    
+Enable AOD on charging only
+    https://github.com/ezio84/abc_frameworks_base/commit/3f157e1f9d0fddd5ccbbe8d2f2dc318d726a771e
+    https://github.com/ezio84/abc_frameworks_base/commit/d339b1b1a39f548cb779a9b6ab6d381712a774eb
+    https://github.com/ezio84/abc_frameworks_base/commit/dae5210319c0a962e99eac4d76f615fb4304faf5
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/460d535d900c9ad5c4fc3205e7c6a71dd5573157
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/acf0a6249192f9554d528f454d70e1b38dcbb0a1
+    
+Allow to suppress notifications sound/vibration if screen is ON
+    https://github.com/ezio84/abc_frameworks_base/commit/3193780acc6d862637ab1cfa24aadc5815d8202d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/b30d7568d91cb0db26043df666ebc404217df27d
+    
+NightLight: Enable and allow lower temperatures
+    https://github.com/ezio84/abc_vendor_nexus/commit/310add4a8320973f0a566aa74acfaa1fb8902ab8
+    https://github.com/ezio84/abc_vendor_nexus/commit/c8e17ee619a9e85a6b6c5f5e948682f892fbbb77
+
+Enable Swipe-up home gesture for all devices
+    https://github.com/ezio84/abc_vendor_nexus/commit/e84155905aedd6a79f60892470cae62d0f8655a2
+    
+Allow all apps to use smart replies
+    https://github.com/ezio84/abc_vendor_nexus/commit/615b121c2384f91aae82a1bf075aa00d1f2b2f41
+    
+IMPORTANT: there are more useful overlays and prebuilt apk in vendor/nexus tree, just check it (q branch)
