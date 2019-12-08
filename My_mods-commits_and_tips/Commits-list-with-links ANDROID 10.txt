@@ -293,6 +293,8 @@ then add "Allow to choose lockscreen or Ambient on wake gestures" commits from t
 and be sure to have "Custom preferences" tree from this commits list
 to call custom doze settings from Settings menu:
 https://gerrit.dirtyunicorns.com/#/c/4403/
+NB: this looks better now on Q for custom doze brightness: https://gerrit.omnirom.org/#/c/android_frameworks_base/+/35483/
+because DozeScreenBrightness.java clamps the value according to user set brightness
 
     
 IMPORTANT: there are more useful overlays and prebuilt apk in vendor/nexus tree, just check it (q branch)
