@@ -242,6 +242,7 @@ Battery and notification led light customization
     https://github.com/ezio84/abc_frameworks_base/commit/5728c9e04683b7568105ffcbf16d41492c74189c
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e7b14f74646b2d25099e1c2c1301f9ece02479a8
     https://github.com/ezio84/abc_packages_apps_Settings/commit/d851702c95ca9e62a1604e8713ba1327c600f287
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/57249ecb338069837a2a17f9dcb4a25f9e0401d6
     https://github.com/ezio84/abc_packages_apps_Settings/commit/8723df84bdcabac011cfad97a8e59cd7cbe2471e
     
 Less boring heads up option
