@@ -124,6 +124,7 @@ QS panel and tiles stuff
         https://github.com/ezio84/abc_frameworks_base/commit/107dae03636e1a0d9ecd629aaa9e1a86d0e1b8ba
         https://github.com/ezio84/abc_frameworks_base/commit/2869766adf20fb60990eeb2fd29841783c93d372
         https://github.com/ezio84/abc_packages_apps_Settings/commit/dec41d552fee874ac614709bca38c575d83bd06b
+        https://github.com/ezio84/abc_frameworks_base/commit/8f5ae586328b4cc33c360861a34fd37f286f6def
     Qs tile title visibility
     https://github.com/ezio84/abc_frameworks_base/commit/74f2343679249526f1c3441d4cf15666e2fa3cdc
     https://github.com/ezio84/abc_packages_apps_Settings/commit/dec41d552fee874ac614709bca38c575d83bd06b
