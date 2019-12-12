@@ -189,6 +189,7 @@ Allow to choose lockscreen or Ambient on wake gestures
 Aosp Ambient music: allow to pulse on new tracks 
     https://github.com/ezio84/abc_frameworks_base/commit/a8c9411791669c8217d2be7e1e8c6e092f4dde9a
     https://github.com/ezio84/abc_frameworks_base/commit/abc170e90e0b7dbf3f1545f9cfe43820edaf675e
+    https://github.com/ezio84/abc_frameworks_base/commit/f1889739e3fb6110a0f8dd6c5360e0e0175e2ae6
     https://github.com/ezio84/abc_packages_apps_Settings/commit/d74b8200b90be253dc737cf4752d682efadebc3f
     https://github.com/ezio84/abc_packages_apps_Settings/commit/bbb97697ad7952e161cabbe7c4fcd2784d83f1b4
     
