@@ -98,7 +98,11 @@ Aosp settings menu fixes  and improvements (package names, app info, various sub
     https://github.com/ezio84/abc_packages_apps_Settings/commit/2cad4c14175d239d890ddfd1e591ff4234215961
     https://github.com/ezio84/abc_packages_apps_Settings/commit/8d46cb9276d77bdf5d6285e469792e865cafc899
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b941d07ce5ffb1d1a022dc2343c832bd94efe61b
-    
+
+Allow to skip back swipe gesture on top half or top smaller area of the screen
+    https://github.com/ezio84/abc_frameworks_base/commit/8e99ded46cc813eb28364961d1569b2c393ea491
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/24508690ae2e96d3f142764c0a9990ea9b2ca205
+
 QS panel and tiles stuff
     https://github.com/ezio84/abc_frameworks_base/commit/cd037dc2525ab7a766c253c2b0ffd5e8fa298808
     https://github.com/ezio84/abc_vendor_nexus/commit/dc6aea3c51e5d53c330e1ac5249b42fe8ead3f75
