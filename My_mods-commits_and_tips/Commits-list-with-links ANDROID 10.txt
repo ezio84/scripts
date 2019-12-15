@@ -291,16 +291,23 @@ Allow all apps to use smart replies
     https://github.com/ezio84/abc_vendor_nexus/commit/615b121c2384f91aae82a1bf075aa00d1f2b2f41
 
 Custom doze (not pushed to main ABC trees because pixel devices already have wake gestures) UNTESTED
-https://github.com/ezio84/abc_frameworks_base/commit/c8d227cc5edb87bcbb5cf0f93b1dc75d3d8cfa2e
-then get the tree
-https://github.com/ezio84/abc_packages_apps_CustomDoze
-and build the product package in your build or custom vendor tree
-then add "Allow to choose lockscreen or Ambient on wake gestures" commits from this commits list
-and be sure to have "Custom preferences" tree from this commits list
-to call custom doze settings from Settings menu:
-https://gerrit.dirtyunicorns.com/#/c/4403/
-NB: this looks better now on Q for custom doze brightness: https://gerrit.omnirom.org/#/c/android_frameworks_base/+/35483/
-because DozeScreenBrightness.java clamps the value according to user set brightness
+    https://github.com/ezio84/abc_frameworks_base/commit/c8d227cc5edb87bcbb5cf0f93b1dc75d3d8cfa2e
+    then get the tree
+    https://github.com/ezio84/abc_packages_apps_CustomDoze
+    and build the product package in your build or custom vendor tree
+    then add "Allow to choose lockscreen or Ambient on wake gestures" commits from this commits list
+    and be sure to have "Custom preferences" tree from this commits list
+    to call custom doze settings from Settings menu:
+    https://gerrit.dirtyunicorns.com/#/c/4403/
+    NB: this looks better now on Q for custom doze brightness: https://gerrit.omnirom.org/#/c/android_frameworks_base/+/35483/
+    because DozeScreenBrightness.java clamps the value according to user set brightness
 
+Add a custom Settings menu (new dashboard tile) ***** P code, haven't done it yet on Q so something could have been changed
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/b3b0c6de2dbfe181565b83962b6d55ba08a07c46#diff-5e55bcaca3555e37e7fa21ec5f0f7145
+    then add the icon: https://github.com/ezio84/abc_packages_apps_Settings/blob/p/res/drawable/ic_settings_abc.xml
+    then the custom tree with res and src https://github.com/ezio84/abc_packages_apps_AbcSettings
+    
+    
+    
     
 IMPORTANT: there are more useful overlays and prebuilt apk in vendor/nexus tree, just check it (q branch)
