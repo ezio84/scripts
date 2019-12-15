@@ -129,6 +129,7 @@ fi
 
         mv $BUILD_PATH/abc_$DEVICE-ota*.zip $ROOT_PATH
         #rm $BUILD_PATH/$DEVICE-ota-eng.*.zip
+        rm $BUILD_PATH/abc_$DEVICE*.zip
 
     # If the build failed
     else
