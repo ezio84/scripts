@@ -200,6 +200,7 @@ Aosp Ambient music: allow to pulse on new tracks
     
 Ambient music ticker: double tap on track title to skip track
     https://github.com/ezio84/abc_frameworks_base/commit/575d86a052e5f889815736c91a51fbb4257877fd
+    https://github.com/ezio84/abc_frameworks_base/commit/49e36c687adb2d2a401f5d5628a79cae515d72f1
 
 Ambient music: add Pixel Now Playing support
     https://github.com/ezio84/abc_frameworks_base/commit/98dd3d10690abcefc7f10f27309da1c87e5e53c5
