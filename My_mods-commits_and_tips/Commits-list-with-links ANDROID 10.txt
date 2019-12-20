@@ -60,6 +60,7 @@ Permissions fixes for Gapps, system apps and sh#t like that
     https://github.com/ezio84/abc_frameworks_base/commit/142681e4597cd17af0946951a788e6d7bf77d75a
     https://github.com/ezio84/abc_frameworks_base/commit/86d6bfd74b099412e0789e2fa1ee87fed4e85ce7
     https://github.com/ezio84/abc_frameworks_base/commit/47afe1ca2772a25dc06c60d9f6ca06aea85e3d1d
+    https://github.com/ezio84/abc_frameworks_base/commit/b752d7119a2503a896d9cbbf9fb6093729334f57
 
 Add prebuilt fuelgauge, smartbattery & Co (battery stats and management) stuff from stock images
     https://github.com/ezio84/abc_vendor_nexus/commit/b16224ce192ef1bbc905359751db5d14a1e4e8c9
