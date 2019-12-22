@@ -311,6 +311,10 @@ Lockscreen/Ambient Google weather (needs google app installed)
 
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
+
+More dalivk heap configs
+    https://github.com/ezio84/abc_frameworks_base/commit/3a66fad8ed64aeb2fd1e3af5efb2b38a7fdebeb3
+    https://github.com/ezio84/abc_vendor_extras/commit/5efd3a03456c2664df30b8d1bf4d12858a33f7ce
     
 Custom doze (not pushed to main ABC trees because pixel devices already have wake gestures) UNTESTED
     https://github.com/ezio84/abc_frameworks_base/commit/c8d227cc5edb87bcbb5cf0f93b1dc75d3d8cfa2e
