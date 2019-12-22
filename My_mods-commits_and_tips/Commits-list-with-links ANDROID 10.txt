@@ -99,6 +99,12 @@ Aosp settings menu fixes  and improvements (package names, app info, various sub
     https://github.com/ezio84/abc_packages_apps_Settings/commit/2cad4c14175d239d890ddfd1e591ff4234215961
     https://github.com/ezio84/abc_packages_apps_Settings/commit/8d46cb9276d77bdf5d6285e469792e865cafc899
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b941d07ce5ffb1d1a022dc2343c832bd94efe61b
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/86f7060a588e360aacd2f6e495d53315a09fc768
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/4e5eac524c21c8b2a954584022248fc54866a875
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/43c663fdd74ed717fed7479b8e8e10e678d1020f
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e2173c554cff381c360639521793664417c3382b
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e6ba8cfa595c219b22ba1e5fca18fa13c70ff45d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/fece51d13c3f9669a94d2fa7d3688997044f19cd
 
 Allow to skip back swipe gesture on top half or top smaller area of the screen
     https://github.com/ezio84/abc_frameworks_base/commit/8e99ded46cc813eb28364961d1569b2c393ea491
@@ -296,6 +302,15 @@ Enable Swipe-up home gesture for all devices
 Allow all apps to use smart replies
     https://github.com/ezio84/abc_vendor_nexus/commit/615b121c2384f91aae82a1bf075aa00d1f2b2f41
 
+Lockscreen/Ambient Google weather (needs google app installed)
+    https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
+    https://github.com/ezio84/abc_frameworks_base/commit/f7968c74eb31a12d7c8eceaee0789b7bacb985dc
+    https://github.com/ezio84/abc_frameworks_base/commit/a90953fb6ca83a000454f6464501d07ba7d323f6
+    https://github.com/ezio84/abc_frameworks_base/commit/f93da9e40b362a2753d9e59be489e57795acde69
+
+Build cutout overlays conditionally
+    https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
+    
 Custom doze (not pushed to main ABC trees because pixel devices already have wake gestures) UNTESTED
     https://github.com/ezio84/abc_frameworks_base/commit/c8d227cc5edb87bcbb5cf0f93b1dc75d3d8cfa2e
     then get the tree
