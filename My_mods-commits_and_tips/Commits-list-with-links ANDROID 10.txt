@@ -306,7 +306,8 @@ Lockscreen/Ambient Google weather (needs google app installed)
     https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
     https://github.com/ezio84/abc_frameworks_base/commit/f7968c74eb31a12d7c8eceaee0789b7bacb985dc
     https://github.com/ezio84/abc_frameworks_base/commit/a90953fb6ca83a000454f6464501d07ba7d323f6
-    https://github.com/ezio84/abc_frameworks_base/commit/f93da9e40b362a2753d9e59be489e57795acde69
+    https://github.com/ezio84/abc_frameworks_base/commit/806e260aad38c11c5a7385075a505cebec7baa27
+    https://github.com/ezio84/abc_frameworks_base/commit/f0d3b19e66d2c03f95985eb7d3b8a38f49470e1d
 
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
