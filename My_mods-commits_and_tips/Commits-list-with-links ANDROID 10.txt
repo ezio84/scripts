@@ -309,6 +309,10 @@ Lockscreen/Ambient Google weather (needs google app installed)
     https://github.com/ezio84/abc_frameworks_base/commit/806e260aad38c11c5a7385075a505cebec7baa27
     https://github.com/ezio84/abc_frameworks_base/commit/f0d3b19e66d2c03f95985eb7d3b8a38f49470e1d
 
+Statusbar clock customization
+    https://github.com/ezio84/abc_frameworks_base/commit/f48899b8d376b2f1004d242b7c4455e7b2a7eb2f
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/678887016448a4a6a2f9e6d310df01eb3f7740a5
+    
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
 
