@@ -302,7 +302,7 @@ Enable Swipe-up home gesture for all devices
 Allow all apps to use smart replies
     https://github.com/ezio84/abc_vendor_nexus/commit/615b121c2384f91aae82a1bf075aa00d1f2b2f41
 
-Lockscreen/Ambient Google weather (needs google app installed)
+Lockscreen/Ambient Google weather/calendar events/livewallpapers (needs google app installed)
     https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
     https://github.com/ezio84/abc_frameworks_base/commit/f7968c74eb31a12d7c8eceaee0789b7bacb985dc
     https://github.com/ezio84/abc_frameworks_base/commit/a90953fb6ca83a000454f6464501d07ba7d323f6
