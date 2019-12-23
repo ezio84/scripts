@@ -277,6 +277,7 @@ Customize or disable lockscreen media art blur level
     https://github.com/ezio84/abc_frameworks_base/commit/8e2a7102ba3ac94c5d502754bcd7dc8783691563
     https://github.com/ezio84/abc_frameworks_base/commit/17ac3defc6a72ce0f5f23023ae145345c95d0145
     https://github.com/ezio84/abc_frameworks_base/commit/4d43dad60d11fb983c7697e65099306f26b057a1
+    https://github.com/ezio84/abc_frameworks_base/commit/84f9898f18488f6238e4b644eea7d761b54ecb47
     https://github.com/ezio84/abc_packages_apps_Settings/commit/158b4809350cc56d55f02068411ff2187e52da6d
     https://github.com/ezio84/abc_packages_apps_Settings/commit/eea86970ac4467b855cef45dea3f8bc82a8910eb
     https://github.com/ezio84/abc_packages_apps_Settings/commit/46a81f7a3a5920ba2bed9445d4e8aeb0acc9afd8
