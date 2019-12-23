@@ -311,6 +311,7 @@ Lockscreen/Ambient Google weather/calendar events/livewallpapers (needs google a
 
 Statusbar clock customization
     https://github.com/ezio84/abc_frameworks_base/commit/f48899b8d376b2f1004d242b7c4455e7b2a7eb2f
+    https://github.com/ezio84/abc_frameworks_base/commit/65b0f25b70d49d56d7760df6825497c07d1cfb7c
     https://github.com/ezio84/abc_packages_apps_Settings/commit/678887016448a4a6a2f9e6d310df01eb3f7740a5
     
 Build cutout overlays conditionally
