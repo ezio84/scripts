@@ -211,6 +211,9 @@ Ambient music ticker: double tap on track title to skip track
 
 Ambient music: add Pixel Now Playing support
     https://github.com/ezio84/abc_frameworks_base/commit/98dd3d10690abcefc7f10f27309da1c87e5e53c5
+
+Ambient pulsing: don't show lock icon
+    https://github.com/ezio84/abc_frameworks_base/commit/d4c529a62786987a5d7759eb500fec89ba18e88f
     
 Power menu:  make it advanced
     https://github.com/ezio84/abc_frameworks_base/commit/749ba7b9e0821d755d8775b018af266083569ffc
