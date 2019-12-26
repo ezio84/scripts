@@ -109,9 +109,10 @@ Aosp settings menu fixes  and improvements (package names, app info, various sub
 Package installer: show current and new version on apk installation
     https://github.com/ezio84/abc_frameworks_base/commit/f5e7325ca98fadd4bc3f13f9e4f44a4c9972ef4e
 
-Allow to skip back swipe gesture on top half or top smaller area of the screen
+Allow to skip back swipe gestures on a custom area of the screen edge
     https://github.com/ezio84/abc_frameworks_base/commit/8e99ded46cc813eb28364961d1569b2c393ea491
     https://github.com/ezio84/abc_frameworks_base/commit/0333d1fa59a8e7532c200efd6d9bfb2e63b36720
+    https://github.com/ezio84/abc_frameworks_base/commit/7a9a70b2421312b96c6b5c1c499992038ac80855
     https://github.com/ezio84/abc_packages_apps_Settings/commit/24508690ae2e96d3f142764c0a9990ea9b2ca205
 
 QS panel and tiles stuff
