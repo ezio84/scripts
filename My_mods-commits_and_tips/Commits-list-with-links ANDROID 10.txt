@@ -200,6 +200,7 @@ Skip track with volume rocker when screen is off or ambient (for both local and 
     
 Allow to choose lockscreen or Ambient on wake gestures
     https://github.com/ezio84/abc_frameworks_base/commit/cafc3931f8a018b1f3f030358767e18e6d3a6af3
+    https://github.com/ezio84/abc_frameworks_base/commit/31f816358db0e051c452d4a10480aae9820ce1ce
     https://github.com/ezio84/abc_packages_apps_Settings/commit/9502afd753ee0bcc7e9a98138f5bcfe835f043f1
     
 Aosp Ambient music: allow to pulse on new tracks 
