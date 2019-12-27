@@ -200,7 +200,7 @@ Skip track with volume rocker when screen is off or ambient (for both local and 
     
 Allow to choose lockscreen or Ambient on wake gestures
     https://github.com/ezio84/abc_frameworks_base/commit/cafc3931f8a018b1f3f030358767e18e6d3a6af3
-    https://github.com/ezio84/abc_frameworks_base/commit/31f816358db0e051c452d4a10480aae9820ce1ce
+    https://github.com/ezio84/abc_frameworks_base/commit/0b9675ec034fedf6da7d12b51cf9be0cdd5f9bb8
     https://github.com/ezio84/abc_packages_apps_Settings/commit/9502afd753ee0bcc7e9a98138f5bcfe835f043f1
     
 Aosp Ambient music: allow to pulse on new tracks 
@@ -214,7 +214,6 @@ Aosp Ambient music: allow to pulse on new tracks
 Ambient music ticker: double tap on track title to skip track
     https://github.com/ezio84/abc_frameworks_base/commit/575d86a052e5f889815736c91a51fbb4257877fd
     https://github.com/ezio84/abc_frameworks_base/commit/49e36c687adb2d2a401f5d5628a79cae515d72f1
-    https://github.com/ezio84/abc_frameworks_base/commit/6b3efffd2b5021d662c5165c7ad9136feef63f05 ** override the bool for soli devices
             REMINDER: on ome devices like Bonito the AoD touch sensor reports always a 0.0
             float value when touching any area of the screen, so on those devices the feature
             won't work when in AoD, but only when on pulsing Ambient (there the touch is 
