@@ -341,6 +341,7 @@ Statusbar clock customization
 Add Adb over Network tile
 https://github.com/ezio84/abc_frameworks_base/commit/69db156777b1543bfaa6b1c199a97c637fbc0491
 https://github.com/ezio84/abc_frameworks_base/commit/1c200dceeea243cb947cc995ff8ababa7e4ae1c4
+https://github.com/ezio84/abc_frameworks_base/commit/3e75b3e38952fc261a21d97aa0b49da22fe55be3
 https://github.com/ezio84/abc_vendor_nexus/blob/98e5e2024eb766bb753fa0d62dcd0cfc42839117/prebuilt/common/etc/init.local.rc
 https://github.com/ezio84/abc_system_sepolicy/commit/877ade72af8c4033fdc6f7e491cabf65dad18c5d
     
