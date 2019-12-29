@@ -105,6 +105,7 @@ Aosp settings menu fixes  and improvements (package names, app info, various sub
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e2173c554cff381c360639521793664417c3382b
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e6ba8cfa595c219b22ba1e5fca18fa13c70ff45d
     https://github.com/ezio84/abc_packages_apps_Settings/commit/fece51d13c3f9669a94d2fa7d3688997044f19cd
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/acb0c35e57749a48b9b3e1065eafe2c8b1607a1f
 
 Package installer: show current and new version on apk installation
     https://github.com/ezio84/abc_frameworks_base/commit/f5e7325ca98fadd4bc3f13f9e4f44a4c9972ef4e
