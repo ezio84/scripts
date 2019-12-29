@@ -337,6 +337,12 @@ Statusbar clock customization
     https://github.com/ezio84/abc_frameworks_base/commit/f48899b8d376b2f1004d242b7c4455e7b2a7eb2f
     https://github.com/ezio84/abc_frameworks_base/commit/65b0f25b70d49d56d7760df6825497c07d1cfb7c
     https://github.com/ezio84/abc_packages_apps_Settings/commit/678887016448a4a6a2f9e6d310df01eb3f7740a5
+
+Add Adb over Network tile
+https://github.com/ezio84/abc_frameworks_base/commit/69db156777b1543bfaa6b1c199a97c637fbc0491
+https://github.com/ezio84/abc_frameworks_base/commit/1c200dceeea243cb947cc995ff8ababa7e4ae1c4
+https://github.com/ezio84/abc_vendor_nexus/blob/98e5e2024eb766bb753fa0d62dcd0cfc42839117/prebuilt/common/etc/init.local.rc
+https://github.com/ezio84/abc_system_sepolicy/commit/877ade72af8c4033fdc6f7e491cabf65dad18c5d
     
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
@@ -361,8 +367,5 @@ Add a custom Settings menu (new dashboard tile) ***** P code, haven't done it ye
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b3b0c6de2dbfe181565b83962b6d55ba08a07c46#diff-5e55bcaca3555e37e7fa21ec5f0f7145
     then add the icon: https://github.com/ezio84/abc_packages_apps_Settings/blob/p/res/drawable/ic_settings_abc.xml
     then the custom tree with res and src https://github.com/ezio84/abc_packages_apps_AbcSettings
-    
-    
-    
-    
+
 IMPORTANT: there are more useful overlays and prebuilt apk in vendor/nexus tree, just check it (q branch)
