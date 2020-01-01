@@ -228,6 +228,7 @@ Ambient music: add Pixel Now Playing support
 
 Ambient pulsing: don't show lock icon
     https://github.com/ezio84/abc_frameworks_base/commit/d4c529a62786987a5d7759eb500fec89ba18e88f
+    https://github.com/ezio84/abc_frameworks_base/commit/4cab5bfa74a974d83db85ba3aca93913174e534f
     
 Revert "Apply front scrim to doze pulsing" aka make Pulsing bright again
 (tldr: Ambient pulsing is no-sense with the front scrim.
