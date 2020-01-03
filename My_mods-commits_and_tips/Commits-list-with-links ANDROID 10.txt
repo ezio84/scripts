@@ -206,7 +206,6 @@ Allow to choose lockscreen or Ambient on wake gestures
     https://github.com/ezio84/abc_frameworks_base/commit/f75a085e79a97420219cdc23778f0b68d16863f1
     https://github.com/ezio84/abc_packages_apps_Settings/commit/9502afd753ee0bcc7e9a98138f5bcfe835f043f1
     https://github.com/ezio84/abc_packages_apps_Settings/commit/ce16ff8e872327ac1f4e141857203543e48ef580
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/44b05f862b918dc5155af949f84b027f9a651b61
     
 Aosp Ambient music: allow to pulse on new tracks 
     https://github.com/ezio84/abc_frameworks_base/commit/a8c9411791669c8217d2be7e1e8c6e092f4dde9a
@@ -215,6 +214,7 @@ Aosp Ambient music: allow to pulse on new tracks
     https://github.com/ezio84/abc_frameworks_base/commit/3681333c220ea2ca4e37cc714f6568c0c7e898d1
     https://github.com/ezio84/abc_packages_apps_Settings/commit/d74b8200b90be253dc737cf4752d682efadebc3f
     https://github.com/ezio84/abc_packages_apps_Settings/commit/bbb97697ad7952e161cabbe7c4fcd2784d83f1b4
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/4adcf4efb78c518dbd0f20900735dc6739fa049b
     
 Ambient music ticker: double tap on track title to skip track
     https://github.com/ezio84/abc_frameworks_base/commit/575d86a052e5f889815736c91a51fbb4257877fd
