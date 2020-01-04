@@ -250,6 +250,7 @@ Power menu:  make it advanced
     https://github.com/ezio84/abc_frameworks_base/commit/439b16f749cfa3a5906603ce5cfbca9a5ed25b6d
     https://github.com/ezio84/abc_frameworks_base/commit/629755e8c8c2765781ff1fe6bfc88288f69095bd
     https://github.com/ezio84/abc_frameworks_base/commit/2ba6cc638c5ac650f9842698bb46c7ebc7af0331
+    https://github.com/ezio84/abc_frameworks_base/commit/66c584b0316c4855cced6af32493cd12df49e0cc
         
 Double tap to sleep on lockscreen
     https://github.com/ezio84/abc_frameworks_base/commit/1efa3e6b4f1182b8408c3c2026d6393bdccc009e
