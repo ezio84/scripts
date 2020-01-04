@@ -167,6 +167,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/191d0e602657dd036e70bfb4e11
 https://github.com/ezio84/abc_frameworks_base/commit/a53478465de68cc9cba216bfe67a62d2d90df9aa
 https://github.com/ezio84/abc_frameworks_base/commit/317edadc89f83514c52bee15fe5d4bfbaadffe42
 https://github.com/ezio84/abc_frameworks_base/commit/b6f1792364c3091decd30521d4234a9e7eddecd8
+https://github.com/ezio84/abc_frameworks_base/commit/0aa2d1f6cdd11e7a20fcf3910228fda1a1e1466f
+https://github.com/ezio84/abc_frameworks_base/commit/c1f8d0807a6e4d7b5de99051d0c9da539b462c24
 
 Statusbar BT battery level
 https://github.com/ezio84/abc_frameworks_base/commit/a73b727394be516423b4e82127657cdc6bd84b7d
@@ -247,7 +249,8 @@ Power menu:  make it advanced
     https://github.com/ezio84/abc_frameworks_base/commit/9e1434e6a8108c425201b16c9a74697f72b0aecb
     https://github.com/ezio84/abc_frameworks_base/commit/439b16f749cfa3a5906603ce5cfbca9a5ed25b6d
     https://github.com/ezio84/abc_frameworks_base/commit/629755e8c8c2765781ff1fe6bfc88288f69095bd
-    
+    https://github.com/ezio84/abc_frameworks_base/commit/2ba6cc638c5ac650f9842698bb46c7ebc7af0331
+        
 Double tap to sleep on lockscreen
     https://github.com/ezio84/abc_frameworks_base/commit/1efa3e6b4f1182b8408c3c2026d6393bdccc009e
     https://github.com/ezio84/abc_packages_apps_Settings/commit/d5dec0f0d65753e1c1871e8f70b60e07b1197484
