@@ -215,7 +215,7 @@ Aosp Ambient music: allow to pulse on new tracks
     https://github.com/ezio84/abc_frameworks_base/commit/3681333c220ea2ca4e37cc714f6568c0c7e898d1
     https://github.com/ezio84/abc_packages_apps_Settings/commit/d74b8200b90be253dc737cf4752d682efadebc3f
     https://github.com/ezio84/abc_packages_apps_Settings/commit/bbb97697ad7952e161cabbe7c4fcd2784d83f1b4
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/4adcf4efb78c518dbd0f20900735dc6739fa049b
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/d0ec1bfe51a866f35ce2f65a9167725d84d90637
     
 Ambient music ticker: double tap on track title to skip track
     https://github.com/ezio84/abc_frameworks_base/commit/575d86a052e5f889815736c91a51fbb4257877fd
