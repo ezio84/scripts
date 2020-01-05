@@ -270,6 +270,9 @@ Aosp partial screenshot improvements
     Partial screenshot: allow BACK action only from right side:
     https://github.com/ezio84/abc_frameworks_base/commit/79f6c0b1737399bce7bade83b468643117da74f6
     
+Lockscreen/Ambient clock options
+https://github.com/ezio84/abc_frameworks_base/commit/ef1373d962a9adda252b771bea7a3bc216c3a3d7
+https://github.com/ezio84/abc_packages_apps_Settings/commit/6b3ca7bf783126203e919a9b764a2cb64d74d499
     
 Expanded statusbar network traffic
     https://github.com/ezio84/abc_frameworks_base/commit/91a99c711683c33b3017d4cdced940441bf3a631
@@ -280,7 +283,6 @@ Expanded statusbar network traffic
     https://github.com/ezio84/abc_frameworks_base/commit/a3a542f4fc89f6339aeb641d4eac6099806216cc
     https://github.com/ezio84/abc_frameworks_base/commit/adbfc24da57785620b044b5a30f2708f27f1a2db
     https://github.com/ezio84/abc_packages_apps_Settings/commit/8866db89364aab478cec9238ab935c8a340e77ab
-
 
 Battery and notification led light customization
     https://github.com/ezio84/abc_frameworks_base/commit/e853768af8b5619dac0f728e0d04784788ca2e88
@@ -354,7 +356,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/3e75b3e38952fc261a21d97aa0b
 https://github.com/ezio84/abc_frameworks_base/commit/411014ac7c0669f9e8af964fcd0aa186a6b6af33
 https://github.com/ezio84/abc_vendor_nexus/blob/98e5e2024eb766bb753fa0d62dcd0cfc42839117/prebuilt/common/etc/init.local.rc
 https://github.com/ezio84/abc_system_sepolicy/commit/877ade72af8c4033fdc6f7e491cabf65dad18c5d
-    
+
+SearchBar: Add avatar/multiuser button to search bar
+https://github.com/ezio84/abc_packages_apps_Settings/commit/6fd07ba855b9d48f8772ad166432dd3d46c1d9aa
+
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
 
