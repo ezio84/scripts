@@ -350,15 +350,19 @@ Statusbar clock customization
     https://github.com/ezio84/abc_packages_apps_Settings/commit/678887016448a4a6a2f9e6d310df01eb3f7740a5
 
 Add Adb over Network tile
-https://github.com/ezio84/abc_frameworks_base/commit/69db156777b1543bfaa6b1c199a97c637fbc0491
-https://github.com/ezio84/abc_frameworks_base/commit/1c200dceeea243cb947cc995ff8ababa7e4ae1c4
-https://github.com/ezio84/abc_frameworks_base/commit/3e75b3e38952fc261a21d97aa0b49da22fe55be3
-https://github.com/ezio84/abc_frameworks_base/commit/411014ac7c0669f9e8af964fcd0aa186a6b6af33
-https://github.com/ezio84/abc_vendor_nexus/blob/98e5e2024eb766bb753fa0d62dcd0cfc42839117/prebuilt/common/etc/init.local.rc
-https://github.com/ezio84/abc_system_sepolicy/commit/877ade72af8c4033fdc6f7e491cabf65dad18c5d
+    https://github.com/ezio84/abc_frameworks_base/commit/69db156777b1543bfaa6b1c199a97c637fbc0491
+    https://github.com/ezio84/abc_frameworks_base/commit/1c200dceeea243cb947cc995ff8ababa7e4ae1c4
+    https://github.com/ezio84/abc_frameworks_base/commit/3e75b3e38952fc261a21d97aa0b49da22fe55be3
+    https://github.com/ezio84/abc_frameworks_base/commit/411014ac7c0669f9e8af964fcd0aa186a6b6af33
+    https://github.com/ezio84/abc_vendor_nexus/blob/98e5e2024eb766bb753fa0d62dcd0cfc42839117/prebuilt/common/etc/init.local.rc
+    https://github.com/ezio84/abc_system_sepolicy/commit/877ade72af8c4033fdc6f7e491cabf65dad18c5d
+
+Gesture nav Assistant handles: don't show them in lockscreen, we learned the gesture after 2 days instead of 10
+and don't reset counters when the users changes navbar modes
+    https://github.com/ezio84/abc_frameworks_base/commit/094dcf11de10ff8af12b79265ff4e265fdd7bde2
 
 SearchBar: Add avatar/multiuser button to search bar
-https://github.com/ezio84/abc_packages_apps_Settings/commit/6fd07ba855b9d48f8772ad166432dd3d46c1d9aa
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/6fd07ba855b9d48f8772ad166432dd3d46c1d9aa
 
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
