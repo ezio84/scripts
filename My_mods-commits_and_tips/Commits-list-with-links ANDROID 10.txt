@@ -169,7 +169,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/317edadc89f83514c52bee15fe5
 https://github.com/ezio84/abc_frameworks_base/commit/b6f1792364c3091decd30521d4234a9e7eddecd8
 https://github.com/ezio84/abc_frameworks_base/commit/0aa2d1f6cdd11e7a20fcf3910228fda1a1e1466f
 https://github.com/ezio84/abc_frameworks_base/commit/c1f8d0807a6e4d7b5de99051d0c9da539b462c24
-https://github.com/ezio84/abc_frameworks_base/commit/bd982cbf97dd04617deb865c72779a017d7693b5
+https://github.com/ezio84/abc_frameworks_base/commit/767f0ca534b55a9a816eadf8d6177470bd11044b
 
 Statusbar BT battery level
 https://github.com/ezio84/abc_frameworks_base/commit/a73b727394be516423b4e82127657cdc6bd84b7d
