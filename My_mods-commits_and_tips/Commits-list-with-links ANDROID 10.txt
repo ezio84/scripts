@@ -195,6 +195,7 @@ Allow doubletap/longpress power to toggle torch (flashlight)
     https://github.com/ezio84/abc_frameworks_base/commit/853de15fb1cf827156757e66fe310c20e9f00aa8
     https://github.com/ezio84/abc_frameworks_base/commit/c0b9a0d32fb7c453c7d9d221af9f6e6b6fcee976
     https://github.com/ezio84/abc_frameworks_base/commit/563fecdcafe41f1c184dfcaca2c7c63c66979dc8
+    https://github.com/ezio84/abc_frameworks_base/commit/8d121111bd9ae031f82296c68cdd8a70bf1f6233
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f2b8a5300cf198da459710ef84f215f8a54be44f
 
 Skip track with volume rocker when screen is off or ambient (for both local and remote playing)
@@ -338,6 +339,7 @@ Allow all apps to use smart replies
     https://github.com/ezio84/abc_vendor_nexus/commit/615b121c2384f91aae82a1bf075aa00d1f2b2f41
 
 Lockscreen/Ambient Google weather/calendar events/livewallpapers (needs google app installed)
+(NB: here's the new version adapted to Active Edge/Soli code: https://github.com/ezio84/abc_frameworks_base/commit/c05fdbcce9687d485855738aa77285b6d1f9f3b5)
     https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
     https://github.com/ezio84/abc_frameworks_base/commit/f7968c74eb31a12d7c8eceaee0789b7bacb985dc
     https://github.com/ezio84/abc_frameworks_base/commit/a90953fb6ca83a000454f6464501d07ba7d323f6
@@ -383,6 +385,22 @@ Custom doze (not pushed to main ABC trees because pixel devices already have wak
     https://gerrit.dirtyunicorns.com/#/c/4403/
     NB: this looks better now on Q for custom doze brightness: https://gerrit.omnirom.org/#/c/android_frameworks_base/+/35483/
     because DozeScreenBrightness.java clamps the value according to user set brightness
+
+Active Edge / Motion Sense:
+    https://github.com/ezio84/abc_frameworks_base/commit/8612b9b78ab1ebc6abf10aa82e3d4f945439f95a
+    https://github.com/ezio84/abc_frameworks_base/commit/4c8ced1d6e090a42144b1961008cbfbd4ae9b6b3
+    https://github.com/ezio84/abc_frameworks_base/commit/af0eefec4cda227d43f1c7c4f19d6d2ee61d57da
+    https://github.com/ezio84/abc_frameworks_base/commit/7a83838564b5e00c120ec49e1f7e1398ab1c6794
+    https://github.com/ezio84/abc_frameworks_base/commit/8d121111bd9ae031f82296c68cdd8a70bf1f6233
+    https://github.com/ezio84/abc_frameworks_base/commit/b9be2a9467227e3316e42b2ce6d73a4e6fac6f5d
+    https://github.com/ezio84/abc_frameworks_base/commit/aad14d9503e959e48230ed506650db8aa5ee2394
+    https://github.com/ezio84/abc_vendor_themes/commit/9c0bae092b7d721ca38959cd06a3984b231637ea
+    https://github.com/ezio84/abc_device_google_bonito/commit/8e5058f6daa9bad1dcf0a7c808d5f1d9dc23b7f9
+    https://github.com/ezio84/abc_vendor_google/commit/fe6b844c4e97f5f52c2957c3823314e082c299fd (to be added also to other pixel devices if you build for them)
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/60290743d3076b84a3be5fa8a839f7022ad574b3
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/ebae94f377b9a12287ebe24a78140ea71e215566
+    https://github.com/ezio84/abc_build/commit/1253e2db787df4b98e7e56c6bb83c3e8a129717c
+    then track this repo https://github.com/ezio84/abc_manifest/blob/572d1c31bdef0ee87983bcc2628c722a5f251df7/default.xml#L41
 
 Add a custom Settings menu (new dashboard tile) ***** P code, haven't done it yet on Q so something could have been changed
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b3b0c6de2dbfe181565b83962b6d55ba08a07c46#diff-5e55bcaca3555e37e7fa21ec5f0f7145
