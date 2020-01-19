@@ -171,10 +171,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/0aa2d1f6cdd11e7a20fcf391022
 https://github.com/ezio84/abc_frameworks_base/commit/c1f8d0807a6e4d7b5de99051d0c9da539b462c24
 https://github.com/ezio84/abc_frameworks_base/commit/767f0ca534b55a9a816eadf8d6177470bd11044b
 
-Statusbar BT battery level
+Statusbar bluetooth battery level
 https://github.com/ezio84/abc_frameworks_base/commit/a73b727394be516423b4e82127657cdc6bd84b7d
 https://github.com/ezio84/abc_frameworks_base/commit/10f3d13a1824648f9316ba2f68ba1424faa30ae5
 https://github.com/ezio84/abc_frameworks_base/commit/68a04f5f04a117da94eb3ac67012127b3b1bf15b
+https://github.com/ezio84/abc_frameworks_base/commit/374bc32c318633b8fd17aa728017585e5d08a439
 
 Allow to dismiss notifications with back FP left/right swipe 
 https://github.com/ezio84/abc_frameworks_base/commit/cd94079b1b65c207f6e53ad818256ace3a92faf2
