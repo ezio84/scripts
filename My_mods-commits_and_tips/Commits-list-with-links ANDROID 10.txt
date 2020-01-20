@@ -5,6 +5,7 @@ Build source without aosp email tree
     https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/95982e2139efcdaa7d5ef9c6bba8f4172b5db0dd
 
 Aosp stock theme fixes
+    https://github.com/ezio84/abc_frameworks_base/commit/3ab9279a679cddf069c7bf692d61592d9b9ffe1a
     https://github.com/ezio84/abc_packages_apps_SettingsIntelligence/commit/f8075731b6841a51e426d175d68f321bc26876e8
     https://github.com/ezio84/abc_packages_apps_SettingsIntelligence/commit/381d931b6f650a05f0fa5b34fe4e0a86f27a5ed5
     https://github.com/ezio84/abc_vendor_themes/commit/ae8e0d23c3b52b03f34d3c89c5ba0f49c60883e7
