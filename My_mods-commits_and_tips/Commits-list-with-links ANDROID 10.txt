@@ -371,6 +371,11 @@ and don't reset counters when the users changes navbar modes
 SearchBar: Add avatar/multiuser button to search bar
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6fd07ba855b9d48f8772ad166432dd3d46c1d9aa
 
+Hide power menu on secure lockscreen
+https://github.com/ezio84/abc_packages_apps_Settings/commit/7a434bc623032738890bb92ebd97890cc4c782ea
+https://github.com/ezio84/abc_frameworks_base/commit/68e7ddd26833eec85a61c6505f604f070dc93891
+https://github.com/ezio84/abc_frameworks_base/commit/a57ceb86643d1ae2a9febf65a69476187f57dc12
+    
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
 
