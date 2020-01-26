@@ -269,14 +269,17 @@ Screenshot: Append app name to filename
     https://github.com/ezio84/abc_frameworks_base/commit/e8639dee9bf4a07654b8a878752a041d92adcc21
     
 Aosp partial screenshot improvements
-    https://github.com/ezio84/abc_frameworks_base/commit/622ab0e153f5d5a28d48b6b5aa969dfe29b820da
-        then check power menu commits, i added longpress for partial screenshot to the existing screenshot button
-    Partial screenshot: allow BACK action only from right side:
-    https://github.com/ezio84/abc_frameworks_base/commit/79f6c0b1737399bce7bade83b468643117da74f6
-    
+    (check also power menu commits, i added longpress for partial screenshot to the existing screenshot button)
+    https://github.com/ezio84/abc_frameworks_base/commit/b17e084edcede313927b1490a9cc8334538a1b8d
+    https://github.com/ezio84/abc_frameworks_base/commit/f4563a585baffdba77764a7907f682eb4ace3e96
+    https://github.com/ezio84/abc_frameworks_base/commit/2206a3d675346d8ff649bca571e0051cc7302a15
+        **deprecated**: https://github.com/ezio84/abc_frameworks_base/commit/622ab0e153f5d5a28d48b6b5aa969dfe29b820da
+        **deprecated**: Partial screenshot: allow BACK action only from right side:
+        https://github.com/ezio84/abc_frameworks_base/commit/79f6c0b1737399bce7bade83b468643117da74f6
+
 Lockscreen/Ambient clock options
-https://github.com/ezio84/abc_frameworks_base/commit/ef1373d962a9adda252b771bea7a3bc216c3a3d7
-https://github.com/ezio84/abc_packages_apps_Settings/commit/6b3ca7bf783126203e919a9b764a2cb64d74d499
+    https://github.com/ezio84/abc_frameworks_base/commit/ef1373d962a9adda252b771bea7a3bc216c3a3d7
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/6b3ca7bf783126203e919a9b764a2cb64d74d499
     
 Expanded statusbar network traffic
     https://github.com/ezio84/abc_frameworks_base/commit/91a99c711683c33b3017d4cdced940441bf3a631
