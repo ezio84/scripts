@@ -371,14 +371,21 @@ Gesture nav Assistant handles: don't show them in lockscreen, we learned the ges
 and don't reset counters when the users changes navbar modes
     https://github.com/ezio84/abc_frameworks_base/commit/094dcf11de10ff8af12b79265ff4e265fdd7bde2
 
-SearchBar: Add avatar/multiuser button to search bar
+User avatar/multiuser improvements
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6fd07ba855b9d48f8772ad166432dd3d46c1d9aa
+        https://github.com/ezio84/abc_frameworks_base/commit/8c52e70593c95932d01ef88472b2d937b0a078fa
 
 Hide power menu on secure lockscreen
 https://github.com/ezio84/abc_packages_apps_Settings/commit/7a434bc623032738890bb92ebd97890cc4c782ea
 https://github.com/ezio84/abc_frameworks_base/commit/68e7ddd26833eec85a61c6505f604f070dc93891
 https://github.com/ezio84/abc_frameworks_base/commit/a57ceb86643d1ae2a9febf65a69476187f57dc12
     
+SettingsLib: Don't show system overlays on apps list
+    https://github.com/ezio84/abc_frameworks_base/commit/e8b39ec23f3065f1ec6bcdae6773cc66113547dc
+
+Volume panel improvements
+https://github.com/ezio84/abc_frameworks_base/commit/25ae3301d26b8f2016fac220d7614209a82c4d30
+
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
 
