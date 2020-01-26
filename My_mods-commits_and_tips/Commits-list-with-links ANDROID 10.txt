@@ -419,7 +419,7 @@ Active Edge / Motion Sense:
     https://github.com/ezio84/abc_vendor_google/commit/fe6b844c4e97f5f52c2957c3823314e082c299fd (to be added also to other pixel devices if you build for them)
     https://github.com/ezio84/abc_packages_apps_Settings/commit/60290743d3076b84a3be5fa8a839f7022ad574b3
     https://github.com/ezio84/abc_packages_apps_Settings/commit/ebae94f377b9a12287ebe24a78140ea71e215566
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/4427042988ca105413c60f8c28e5fc02397839f4
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/0eab0163201a9387ed8f8928c6e3cefa2cd6a980
     https://github.com/ezio84/abc_build/commit/1253e2db787df4b98e7e56c6bb83c3e8a129717c
     then track this repo https://github.com/ezio84/abc_manifest/blob/572d1c31bdef0ee87983bcc2628c722a5f251df7/default.xml#L41
 
