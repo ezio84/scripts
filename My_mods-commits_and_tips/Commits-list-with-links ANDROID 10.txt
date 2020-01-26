@@ -273,6 +273,7 @@ Aosp partial screenshot improvements
     https://github.com/ezio84/abc_frameworks_base/commit/b17e084edcede313927b1490a9cc8334538a1b8d
     https://github.com/ezio84/abc_frameworks_base/commit/f4563a585baffdba77764a7907f682eb4ace3e96
     https://github.com/ezio84/abc_frameworks_base/commit/2206a3d675346d8ff649bca571e0051cc7302a15
+    https://github.com/ezio84/abc_frameworks_base/commit/a8fa6edab8823e299f29dc64cb1397628b623cfa
         **deprecated**: https://github.com/ezio84/abc_frameworks_base/commit/622ab0e153f5d5a28d48b6b5aa969dfe29b820da
         **deprecated**: Partial screenshot: allow BACK action only from right side:
         https://github.com/ezio84/abc_frameworks_base/commit/79f6c0b1737399bce7bade83b468643117da74f6
