@@ -270,11 +270,10 @@ Screenshot: Append app name to filename
     
 Aosp partial screenshot improvements
     (check also power menu commits, i added longpress for partial screenshot to the existing screenshot button)
-    https://github.com/ezio84/abc_frameworks_base/commit/b17e084edcede313927b1490a9cc8334538a1b8d
-    https://github.com/ezio84/abc_frameworks_base/commit/f4563a585baffdba77764a7907f682eb4ace3e96
-    https://github.com/ezio84/abc_frameworks_base/commit/2206a3d675346d8ff649bca571e0051cc7302a15
-    https://github.com/ezio84/abc_frameworks_base/commit/a8fa6edab8823e299f29dc64cb1397628b623cfa
-    https://github.com/ezio84/abc_frameworks_base/commit/55c8d198330cd9349be5ca3b552f7635d4a6be6a
+    https://github.com/ezio84/abc_frameworks_base/commit/f6ef20c7f0686123e7a73374510eb22f3d06b464
+    https://github.com/ezio84/abc_frameworks_base/commit/cbda55512cf0207562e877509f3166cdf155a493
+    https://github.com/ezio84/abc_frameworks_base/commit/33f2670e486bcc7462677384611ee4f0ce1b7618
+    https://github.com/ezio84/abc_frameworks_base/commit/d8fca388ae5b08fc6025252cf18456b5e423f8b3
         **deprecated**: https://github.com/ezio84/abc_frameworks_base/commit/622ab0e153f5d5a28d48b6b5aa969dfe29b820da
         **deprecated**: Partial screenshot: allow BACK action only from right side:
         https://github.com/ezio84/abc_frameworks_base/commit/79f6c0b1737399bce7bade83b468643117da74f6
@@ -375,7 +374,7 @@ and don't reset counters when the users changes navbar modes
 
 User avatar/multiuser improvements
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6fd07ba855b9d48f8772ad166432dd3d46c1d9aa
-        https://github.com/ezio84/abc_frameworks_base/commit/8c52e70593c95932d01ef88472b2d937b0a078fa
+        https://github.com/ezio84/abc_frameworks_base/commit/c89ab4fed15c16aa8b10cf6907543cd245beece8
 
 Hide power menu on secure lockscreen
 https://github.com/ezio84/abc_packages_apps_Settings/commit/7a434bc623032738890bb92ebd97890cc4c782ea
@@ -383,10 +382,10 @@ https://github.com/ezio84/abc_frameworks_base/commit/68e7ddd26833eec85a61c6505f6
 https://github.com/ezio84/abc_frameworks_base/commit/a57ceb86643d1ae2a9febf65a69476187f57dc12
     
 SettingsLib: Don't show system overlays on apps list
-    https://github.com/ezio84/abc_frameworks_base/commit/e8b39ec23f3065f1ec6bcdae6773cc66113547dc
+    https://github.com/ezio84/abc_frameworks_base/commit/efc28685c2b3d152f0134bb60fe7edc53be8d710
 
 Volume panel improvements
-https://github.com/ezio84/abc_frameworks_base/commit/25ae3301d26b8f2016fac220d7614209a82c4d30
+https://github.com/ezio84/abc_frameworks_base/commit/cb88bdede92fa7deb7edec029ea513ec4b2811f0
 
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
