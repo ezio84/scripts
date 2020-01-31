@@ -423,6 +423,9 @@ Active Edge / Motion Sense:
     https://github.com/ezio84/abc_build/commit/1253e2db787df4b98e7e56c6bb83c3e8a129717c
     then track this repo https://github.com/ezio84/abc_manifest/blob/572d1c31bdef0ee87983bcc2628c722a5f251df7/default.xml#L41
 
+Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
+https://github.com/ezio84/abc_frameworks_base/commit/025154e1c4d79a59042e35b27b32bc1e568cfcb6
+
 Add a custom Settings menu (new dashboard tile) ***** P code, haven't done it yet on Q so something could have been changed
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b3b0c6de2dbfe181565b83962b6d55ba08a07c46#diff-5e55bcaca3555e37e7fa21ec5f0f7145
     then add the icon: https://github.com/ezio84/abc_packages_apps_Settings/blob/p/res/drawable/ic_settings_abc.xml
