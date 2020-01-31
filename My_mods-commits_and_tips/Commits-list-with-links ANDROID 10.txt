@@ -171,6 +171,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/b6f1792364c3091decd30521d42
 https://github.com/ezio84/abc_frameworks_base/commit/0aa2d1f6cdd11e7a20fcf3910228fda1a1e1466f
 https://github.com/ezio84/abc_frameworks_base/commit/c1f8d0807a6e4d7b5de99051d0c9da539b462c24
 https://github.com/ezio84/abc_frameworks_base/commit/767f0ca534b55a9a816eadf8d6177470bd11044b
+https://github.com/ezio84/abc_frameworks_base/commit/623c29a67b2e0c79a470fd67632c0b2f6f7a01ca
 
 Statusbar bluetooth battery level
 https://github.com/ezio84/abc_frameworks_base/commit/a73b727394be516423b4e82127657cdc6bd84b7d
@@ -424,7 +425,7 @@ Active Edge / Motion Sense:
     then track this repo https://github.com/ezio84/abc_manifest/blob/572d1c31bdef0ee87983bcc2628c722a5f251df7/default.xml#L41
 
 Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
-https://github.com/ezio84/abc_frameworks_base/commit/025154e1c4d79a59042e35b27b32bc1e568cfcb6
+https://github.com/ezio84/abc_frameworks_base/commit/641819b8f4ecaedbfad01a1c5ce3b7ff33cae1fb
 
 Add a custom Settings menu (new dashboard tile) ***** P code, haven't done it yet on Q so something could have been changed
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b3b0c6de2dbfe181565b83962b6d55ba08a07c46#diff-5e55bcaca3555e37e7fa21ec5f0f7145
