@@ -347,6 +347,7 @@ Allow all apps to use smart replies
 
 Lockscreen/Ambient Google weather/calendar events/livewallpapers (needs google app installed)
 (NB: here's the new version adapted to Active Edge/Soli code: https://github.com/ezio84/abc_frameworks_base/commit/c05fdbcce9687d485855738aa77285b6d1f9f3b5
+https://github.com/ezio84/abc_frameworks_base/commit/0623353973352f2642fe34b69ee95b2a35c79eca
 https://github.com/ezio84/abc_external_google/commit/19dd63feada4ca28f35bc1ef81f5c701cb3a72f2)
     Older version to be used without Active Edge / Soli stuff:
     https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
@@ -378,10 +379,34 @@ User avatar/multiuser improvements
         https://github.com/ezio84/abc_frameworks_base/commit/c89ab4fed15c16aa8b10cf6907543cd245beece8
 
 Hide power menu on secure lockscreen
-https://github.com/ezio84/abc_packages_apps_Settings/commit/7a434bc623032738890bb92ebd97890cc4c782ea
-https://github.com/ezio84/abc_frameworks_base/commit/68e7ddd26833eec85a61c6505f604f070dc93891
-https://github.com/ezio84/abc_frameworks_base/commit/a57ceb86643d1ae2a9febf65a69476187f57dc12
-    
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/7a434bc623032738890bb92ebd97890cc4c782ea
+    https://github.com/ezio84/abc_frameworks_base/commit/68e7ddd26833eec85a61c6505f604f070dc93891
+    https://github.com/ezio84/abc_frameworks_base/commit/a57ceb86643d1ae2a9febf65a69476187f57dc12
+
+Bottom brightness slider in notification/qs panel
+    https://github.com/ezio84/abc_frameworks_base/commit/884a0219669783314589bbfc579a2e52bf18be9c
+    https://github.com/ezio84/abc_frameworks_base/commit/901ab9d4695433fb9be72101cb3221d2021ba226
+    https://github.com/ezio84/abc_frameworks_base/commit/4533947be4f57c445124a9c3e6724cc245db611e
+    https://github.com/ezio84/abc_frameworks_base/commit/f559c026f139a112bb6cf3c49caa07130a4eba1b
+    https://github.com/ezio84/abc_frameworks_base/commit/c3822c03cecedec4bacf55f862cde0697a0260f7
+    https://github.com/ezio84/abc_frameworks_base/commit/31668090b8eb676eaabb971433cdcdd2482191ba
+    https://github.com/ezio84/abc_frameworks_base/commit/e82e253a236468be066b217c14347f6d58e5d463
+    https://github.com/ezio84/abc_frameworks_base/commit/2262759950b79e10412439e7ffd654ab15729635
+    https://github.com/ezio84/abc_frameworks_base/commit/dac691a571d23f79c96ea9dd6f5682258bd7aee1
+    https://github.com/ezio84/abc_frameworks_base/commit/f09d86fe2dc7cb06c05edf1aac288f7be9497790
+    https://github.com/ezio84/abc_frameworks_base/commit/410e5e8188e9d75d44bbdbc74acba77be3ad9d05
+    https://github.com/ezio84/abc_frameworks_base/commit/3daa2df90ed99699b165097bee989a1c700838f9
+    https://github.com/ezio84/abc_frameworks_base/commit/6f81a6011b08f375f9f89c3b43afb7d4ab06a345
+    https://github.com/ezio84/abc_frameworks_base/commit/30be41d327b6322a948cc66a5ebb210a3197d03e
+    https://github.com/ezio84/abc_frameworks_base/commit/fa49d205d7e0446af19adb55254d95039727646e
+    https://github.com/ezio84/abc_frameworks_base/commit/79a5386326fca3f99b11ea40fd054d888642e9ec
+    https://github.com/ezio84/abc_frameworks_base/commit/171cf5cd7ff5873a3ed003932df7b3c0b54a079c
+    https://github.com/ezio84/abc_frameworks_base/commit/bef4de0e0638e1ecaaf1d492e580d1564b81f337
+    https://github.com/ezio84/abc_frameworks_base/commit/f498f4dd9ef2d2bb49be3b9afe2cf752627da6df
+    https://github.com/ezio84/abc_frameworks_base/commit/bb47add407fac6a84a1a4a6c1238670aa1cdb291
+    https://github.com/ezio84/abc_frameworks_base/commit/5838f6baa1558ca29f067a9701cf1e8776351a35
+    https://github.com/ezio84/abc_frameworks_base/commit/e9dfc2615a1c0ad5f6d4b55208d31b62cbdd4cda
+
 SettingsLib: Don't show system overlays on apps list
     https://github.com/ezio84/abc_frameworks_base/commit/efc28685c2b3d152f0134bb60fe7edc53be8d710
 
