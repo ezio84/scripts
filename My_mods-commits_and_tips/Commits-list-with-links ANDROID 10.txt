@@ -149,6 +149,8 @@ QS panel and tiles stuff
         Qs quick pulldown
         https://github.com/ezio84/abc_frameworks_base/commit/5e894460552b82420ae0814fa4f6ffb15f513c7b
         https://github.com/ezio84/abc_packages_apps_Settings/commit/1d7f9dbe46c0abae14301159d1240b2c536f39ff
+    Add dynamic Immersive Mode tile 
+    https://github.com/ezio84/abc_frameworks_base/commit/812bf707d956e419e88961ee411a0efbc8f0ec8d
         
 Disable notification channel warnings by default 
 https://github.com/ezio84/abc_frameworks_base/commit/ebb33b29f3b9d3a8d0c1d1c00016e430584f5c86
@@ -256,6 +258,10 @@ Power menu:  make it advanced
     https://github.com/ezio84/abc_frameworks_base/commit/629755e8c8c2765781ff1fe6bfc88288f69095bd
     https://github.com/ezio84/abc_frameworks_base/commit/2ba6cc638c5ac650f9842698bb46c7ebc7af0331
     https://github.com/ezio84/abc_frameworks_base/commit/66c584b0316c4855cced6af32493cd12df49e0cc
+    Additional stuff:
+        Power menu: allow to trigger partial screenshot on normal click
+        https://github.com/ezio84/abc_frameworks_base/commit/510e8a20b34b4c0f0452dfe94dc854b4be126275
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/948d3752e092dc531839fea92d2d8a4aaa8025c9
         
 Double tap to sleep on lockscreen
     https://github.com/ezio84/abc_frameworks_base/commit/1efa3e6b4f1182b8408c3c2026d6393bdccc009e
@@ -347,7 +353,7 @@ Allow all apps to use smart replies
 
 Lockscreen/Ambient Google weather/calendar events/livewallpapers (needs google app installed)
 (NB: here's the new version adapted to Active Edge/Soli code: https://github.com/ezio84/abc_frameworks_base/commit/c05fdbcce9687d485855738aa77285b6d1f9f3b5
-https://github.com/ezio84/abc_frameworks_base/commit/0623353973352f2642fe34b69ee95b2a35c79eca
+https://github.com/ezio84/abc_frameworks_base/commit/42e311625397d60874d7fdb4e13c02e735489304
 https://github.com/ezio84/abc_external_google/commit/19dd63feada4ca28f35bc1ef81f5c701cb3a72f2)
     Older version to be used without Active Edge / Soli stuff:
     https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
