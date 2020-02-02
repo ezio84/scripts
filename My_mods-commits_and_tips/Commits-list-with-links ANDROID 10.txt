@@ -151,6 +151,8 @@ QS panel and tiles stuff
         https://github.com/ezio84/abc_packages_apps_Settings/commit/1d7f9dbe46c0abae14301159d1240b2c536f39ff
     Add dynamic Immersive Mode tile 
     https://github.com/ezio84/abc_frameworks_base/commit/812bf707d956e419e88961ee411a0efbc8f0ec8d
+        Add Mono audio tile (aka headphone in one ear only)
+        https://github.com/ezio84/abc_frameworks_base/commit/368a042fe8d7e40ba27187c5a5470ca0c5cfab53
         
 Disable notification channel warnings by default 
 https://github.com/ezio84/abc_frameworks_base/commit/ebb33b29f3b9d3a8d0c1d1c00016e430584f5c86
