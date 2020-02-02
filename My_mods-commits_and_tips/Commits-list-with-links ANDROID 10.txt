@@ -264,6 +264,7 @@ Power menu:  make it advanced
         Power menu: allow to trigger partial screenshot on normal click
         https://github.com/ezio84/abc_frameworks_base/commit/510e8a20b34b4c0f0452dfe94dc854b4be126275
         https://github.com/ezio84/abc_packages_apps_Settings/commit/948d3752e092dc531839fea92d2d8a4aaa8025c9
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/cbfadae4cf9809fa52ee30c984b7aac6689050d4
         
 Double tap to sleep on lockscreen
     https://github.com/ezio84/abc_frameworks_base/commit/1efa3e6b4f1182b8408c3c2026d6393bdccc009e
