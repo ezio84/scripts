@@ -357,9 +357,10 @@ Allow all apps to use smart replies
     https://github.com/ezio84/abc_vendor_nexus/commit/615b121c2384f91aae82a1bf075aa00d1f2b2f41
 
 Lockscreen/Ambient Google weather/calendar events/livewallpapers (needs google app installed)
-(NB: here's the new version adapted to Active Edge/Soli code: https://github.com/ezio84/abc_frameworks_base/commit/c05fdbcce9687d485855738aa77285b6d1f9f3b5
+( NB: here's the new version adapted to Active Edge/Soli code: https://github.com/ezio84/abc_frameworks_base/commit/c05fdbcce9687d485855738aa77285b6d1f9f3b5
 https://github.com/ezio84/abc_frameworks_base/commit/42e311625397d60874d7fdb4e13c02e735489304
 https://github.com/ezio84/abc_external_google/commit/19dd63feada4ca28f35bc1ef81f5c701cb3a72f2)
+https://github.com/ezio84/abc_frameworks_base/commit/d3309be94a0b848c3b53073a1d3c18bdfaceabff )
     Older version to be used without Active Edge / Soli stuff:
     https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
     https://github.com/ezio84/abc_frameworks_base/commit/f7968c74eb31a12d7c8eceaee0789b7bacb985dc
