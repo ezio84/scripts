@@ -357,16 +357,20 @@ Allow all apps to use smart replies
     https://github.com/ezio84/abc_vendor_nexus/commit/615b121c2384f91aae82a1bf075aa00d1f2b2f41
 
 Lockscreen/Ambient Google weather/calendar events/livewallpapers (needs google app installed)
-( NB: here's the new version adapted to Active Edge/Soli code: https://github.com/ezio84/abc_frameworks_base/commit/c05fdbcce9687d485855738aa77285b6d1f9f3b5
-https://github.com/ezio84/abc_frameworks_base/commit/42e311625397d60874d7fdb4e13c02e735489304
-https://github.com/ezio84/abc_external_google/commit/19dd63feada4ca28f35bc1ef81f5c701cb3a72f2)
-https://github.com/ezio84/abc_frameworks_base/commit/d3309be94a0b848c3b53073a1d3c18bdfaceabff )
-    Older version to be used without Active Edge / Soli stuff:
-    https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
-    https://github.com/ezio84/abc_frameworks_base/commit/f7968c74eb31a12d7c8eceaee0789b7bacb985dc
-    https://github.com/ezio84/abc_frameworks_base/commit/a90953fb6ca83a000454f6464501d07ba7d323f6
-    https://github.com/ezio84/abc_frameworks_base/commit/806e260aad38c11c5a7385075a505cebec7baa27
-    https://github.com/ezio84/abc_frameworks_base/commit/f0d3b19e66d2c03f95985eb7d3b8a38f49470e1d
+    https://github.com/ezio84/abc_frameworks_base/commit/ef705a4dbbce7ed418b5897c03f0d9e551abb716
+    https://github.com/ezio84/abc_frameworks_base/commit/ef705a4dbbce7ed418b5897c03f0d9e551abb716
+    https://github.com/ezio84/abc_frameworks_base/commit/28d16cae08d6e21226270ba349617d4e526b87a2
+    https://github.com/ezio84/abc_frameworks_base/commit/7dfb75737031d983c7854f3a16384d837f35ff98
+    https://github.com/ezio84/abc_external_google/commit/f751593464aa0f10b906e6f3acf51b0cb8b0f93f
+    https://github.com/ezio84/abc_external_google/commit/468429b688f2f89818d5930843c891f298c2313b
+    https://github.com/ezio84/abc_external_google/commit/1b3c2260b998c54778cea5cf750185b715f648ac
+    https://github.com/ezio84/abc_build_soong/commit/436cd67cc0a9d39c7a353585a5463bbf50f0da04
+        Older version to be used without Active Edge / Soli stuff:
+        https://github.com/ezio84/abc_frameworks_base/commit/b6da7bd23d8f945ec82f24fda7d59ea5f5357941
+        https://github.com/ezio84/abc_frameworks_base/commit/f7968c74eb31a12d7c8eceaee0789b7bacb985dc
+        https://github.com/ezio84/abc_frameworks_base/commit/a90953fb6ca83a000454f6464501d07ba7d323f6
+        https://github.com/ezio84/abc_frameworks_base/commit/806e260aad38c11c5a7385075a505cebec7baa27
+        https://github.com/ezio84/abc_frameworks_base/commit/f0d3b19e66d2c03f95985eb7d3b8a38f49470e1d
 
 Statusbar clock customization
     https://github.com/ezio84/abc_frameworks_base/commit/f48899b8d376b2f1004d242b7c4455e7b2a7eb2f
@@ -459,6 +463,7 @@ Active Edge / Motion Sense:
     https://github.com/ezio84/abc_packages_apps_Settings/commit/ebae94f377b9a12287ebe24a78140ea71e215566
     https://github.com/ezio84/abc_packages_apps_Settings/commit/0eab0163201a9387ed8f8928c6e3cefa2cd6a980
     https://github.com/ezio84/abc_build/commit/1253e2db787df4b98e7e56c6bb83c3e8a129717c
+    https://github.com/ezio84/abc_build/commit/0c845e047a2b504c633b1450a52f104127d2f977
     then track this repo https://github.com/ezio84/abc_manifest/blob/572d1c31bdef0ee87983bcc2628c722a5f251df7/default.xml#L41
 
 Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
