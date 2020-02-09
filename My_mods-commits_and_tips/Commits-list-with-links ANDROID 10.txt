@@ -427,7 +427,8 @@ Bottom brightness slider in notification/qs panel
     https://github.com/ezio84/abc_frameworks_base/commit/bb47add407fac6a84a1a4a6c1238670aa1cdb291
     https://github.com/ezio84/abc_frameworks_base/commit/5838f6baa1558ca29f067a9701cf1e8776351a35
     https://github.com/ezio84/abc_frameworks_base/commit/e9dfc2615a1c0ad5f6d4b55208d31b62cbdd4cda
-
+    https://github.com/ezio84/abc_frameworks_base/commit/4011b6f8b7961aeb3e9c9adc5fa0c9794cd50a39
+    
 SettingsLib: Don't show system overlays on apps list
     https://github.com/ezio84/abc_frameworks_base/commit/efc28685c2b3d152f0134bb60fe7edc53be8d710
 
