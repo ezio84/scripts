@@ -299,7 +299,7 @@ Lockscreen/Ambient clock options
     https://github.com/ezio84/abc_frameworks_base/commit/ef1373d962a9adda252b771bea7a3bc216c3a3d7
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6b3ca7bf783126203e919a9b764a2cb64d74d499
     
-Expanded statusbar network traffic
+Statusbar network traffic monitor
     https://github.com/ezio84/abc_frameworks_base/commit/91a99c711683c33b3017d4cdced940441bf3a631
     https://github.com/ezio84/abc_frameworks_base/commit/88aa75efc6ae4c5381dba99817b0e9a86da8b7ad
     https://github.com/ezio84/abc_frameworks_base/commit/cbc605d29d8b3a947b31f0cee9d370b2a4f75f63
@@ -308,6 +308,18 @@ Expanded statusbar network traffic
     https://github.com/ezio84/abc_frameworks_base/commit/a3a542f4fc89f6339aeb641d4eac6099806216cc
     https://github.com/ezio84/abc_frameworks_base/commit/adbfc24da57785620b044b5a30f2708f27f1a2db
     https://github.com/ezio84/abc_packages_apps_Settings/commit/8866db89364aab478cec9238ab935c8a340e77ab
+        Visual improvements and allow to show it in normal statusbar too
+        https://github.com/ezio84/abc_frameworks_base/commit/3c33a276c92d871190f48911538ee24937609dbe
+        https://github.com/ezio84/abc_frameworks_base/commit/563087264fa8baee1255a58ba040f327bea3d52f
+        https://github.com/ezio84/abc_frameworks_base/commit/c54b5cf9f7474470e27e87979be5ca8b60d0706b
+        https://github.com/ezio84/abc_frameworks_base/commit/2216b9bd6c467b7ba1655448f58e250353d0aa3c
+        https://github.com/ezio84/abc_frameworks_base/commit/a9c3b836b158338a65f013b97f7a6e91968675c4
+        https://github.com/ezio84/abc_frameworks_base/commit/bf6379b6d42ca39efb3d5cba77ca3d442f0fc45f
+        https://github.com/ezio84/abc_frameworks_base/commit/d4e6432dad67b0e9e73f634a57503d0d9af5e86d
+        https://github.com/ezio84/abc_frameworks_base/commit/6c2d9453987150e548c2410d343d1df4b6cb7452
+        https://github.com/ezio84/abc_frameworks_base/commit/f30a50fcf6530a184e8307fe1837039b4d00c593
+        https://github.com/ezio84/abc_frameworks_base/commit/874d2f80e75e29e5c5245eb08bcfa0c1b4826a41
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/b6c6787f668d5b469e3b7bf9ff1931bdc466efdc
 
 Battery and notification led light customization
     https://github.com/ezio84/abc_frameworks_base/commit/e853768af8b5619dac0f728e0d04784788ca2e88
