@@ -84,7 +84,12 @@ Enable dev settings by default and remove/block aosp OTA checks
     https://github.com/ezio84/abc_packages_apps_Settings/commit/a91edae0b03612b9da855d7c12a52305cef5e1be
     https://github.com/ezio84/abc_frameworks_base/commit/e7ec725bdb54996af35d76dc77acff1bb0938f58
     https://github.com/ezio84/abc_frameworks_base/commit/62c247c6920ba13f5f055cad361590c4d54e4fa0
-    
+        https://github.com/ezio84/abc_frameworks_base/commit/af493e179c623f4f25a76572173e9e2bd7d7d70f
+        https://github.com/ezio84/abc_frameworks_base/commit/3c292cf26350ac48dd446b6f3d73979610101542
+        https://github.com/ezio84/abc_vendor_nexus/commit/0872ba09ea2443fc93002f474151dd6dfaf3c486
+        https://github.com/ezio84/abc_vendor_nexus/commit/7bdc91dfb16c6f6296f0866899a0326508a9eb4e
+        https://github.com/ezio84/abc_vendor_nexus/commit/32dedcf572526bfb7a4b58af4692598cf5fac8a7
+            
 Add a custom settings observer in the framework
     https://github.com/ezio84/abc_frameworks_base/commit/e9005e034d3f422654a6bf905fbfb792f60f54f0
     https://github.com/ezio84/abc_frameworks_base/commit/67097ed85683e3e82f7854562dc3f011059d3492
