@@ -320,6 +320,7 @@ Statusbar network traffic monitor
         https://github.com/ezio84/abc_frameworks_base/commit/f30a50fcf6530a184e8307fe1837039b4d00c593
         https://github.com/ezio84/abc_frameworks_base/commit/874d2f80e75e29e5c5245eb08bcfa0c1b4826a41
         https://github.com/ezio84/abc_packages_apps_Settings/commit/b6c6787f668d5b469e3b7bf9ff1931bdc466efdc
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/298e5e94da00f5874ecdd0b29096e00cbfb4ced8
 
 Battery and notification led light customization
     https://github.com/ezio84/abc_frameworks_base/commit/e853768af8b5619dac0f728e0d04784788ca2e88
@@ -406,6 +407,12 @@ Add Adb over Network tile
 Gesture nav Assistant handles: don't show them in lockscreen, we learned the gesture after 2 days instead of 10
 and don't reset counters when the users changes navbar modes
     https://github.com/ezio84/abc_frameworks_base/commit/094dcf11de10ff8af12b79265ff4e265fdd7bde2
+
+Allow long back swipe to kill app 
+https://github.com/ezio84/abc_frameworks_base/commit/5c4442174e7fa205dfd009fd91aefac992f552f4
+https://github.com/ezio84/abc_frameworks_base/commit/98ad400020004b9eea2a502e4a6cd49f919d056c
+https://github.com/ezio84/abc_frameworks_base/commit/aaa334e4d87270549781ab4802bd34910864a895
+https://github.com/ezio84/abc_packages_apps_Settings/commit/9462fb3e3a1be27114db790d85318949e96d3f95
 
 User avatar/multiuser improvements
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6fd07ba855b9d48f8772ad166432dd3d46c1d9aa
