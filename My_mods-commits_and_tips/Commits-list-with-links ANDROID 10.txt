@@ -408,7 +408,8 @@ Gesture nav Assistant handles: don't show them in lockscreen, we learned the ges
 and don't reset counters when the users changes navbar modes
     https://github.com/ezio84/abc_frameworks_base/commit/094dcf11de10ff8af12b79265ff4e265fdd7bde2
 
-Allow long back swipe to kill app 
+Allow long back swipe to kill app (reverted on abc because killing app is kinda useless nowaday, but if you want it
+the code is solid and well working)
 https://github.com/ezio84/abc_frameworks_base/commit/5c4442174e7fa205dfd009fd91aefac992f552f4
 https://github.com/ezio84/abc_frameworks_base/commit/98ad400020004b9eea2a502e4a6cd49f919d056c
 https://github.com/ezio84/abc_frameworks_base/commit/aaa334e4d87270549781ab4802bd34910864a895
