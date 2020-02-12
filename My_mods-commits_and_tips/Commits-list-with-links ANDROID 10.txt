@@ -158,6 +158,9 @@ QS panel and tiles stuff
     https://github.com/ezio84/abc_frameworks_base/commit/812bf707d956e419e88961ee411a0efbc8f0ec8d
         Add Mono audio tile (aka headphone in one ear only)
         https://github.com/ezio84/abc_frameworks_base/commit/368a042fe8d7e40ba27187c5a5470ca0c5cfab53
+        https://github.com/ezio84/abc_frameworks_base/commit/a34861311bddf3de23d32bfcd8136020f86a93af
+    Cellular QS tile: Kill dialog asking to disable mobile data
+    https://github.com/ezio84/abc_frameworks_base/commit/cfd86e0e0d28910388878ec896a18db28279c23c
         
 Disable notification channel warnings by default 
 https://github.com/ezio84/abc_frameworks_base/commit/ebb33b29f3b9d3a8d0c1d1c00016e430584f5c86
@@ -319,6 +322,9 @@ Statusbar network traffic monitor
         https://github.com/ezio84/abc_frameworks_base/commit/6c2d9453987150e548c2410d343d1df4b6cb7452
         https://github.com/ezio84/abc_frameworks_base/commit/f30a50fcf6530a184e8307fe1837039b4d00c593
         https://github.com/ezio84/abc_frameworks_base/commit/874d2f80e75e29e5c5245eb08bcfa0c1b4826a41
+        https://github.com/ezio84/abc_frameworks_base/commit/aef0a5e8ed31ad8bfe72d178aca4f8fef64f99ff
+        https://github.com/ezio84/abc_frameworks_base/commit/da8df6bf9b4a6de02ec8ac1379fab23674664abb
+        https://github.com/ezio84/abc_frameworks_base/commit/d49f13a386a1ff208038b75529a06ea15648d2aa
         https://github.com/ezio84/abc_packages_apps_Settings/commit/b6c6787f668d5b469e3b7bf9ff1931bdc466efdc
         https://github.com/ezio84/abc_packages_apps_Settings/commit/298e5e94da00f5874ecdd0b29096e00cbfb4ced8
 
@@ -482,12 +488,15 @@ Active Edge / Motion Sense:
     https://github.com/ezio84/abc_frameworks_base/commit/8d121111bd9ae031f82296c68cdd8a70bf1f6233
     https://github.com/ezio84/abc_frameworks_base/commit/b9be2a9467227e3316e42b2ce6d73a4e6fac6f5d
     https://github.com/ezio84/abc_frameworks_base/commit/aad14d9503e959e48230ed506650db8aa5ee2394
+    https://github.com/ezio84/abc_frameworks_base/commit/1f5c1dfe353c66599a36266ef84a234f70fb2053
     https://github.com/ezio84/abc_vendor_themes/commit/9c0bae092b7d721ca38959cd06a3984b231637ea
     https://github.com/ezio84/abc_device_google_bonito/commit/8e5058f6daa9bad1dcf0a7c808d5f1d9dc23b7f9
     https://github.com/ezio84/abc_vendor_google/commit/fe6b844c4e97f5f52c2957c3823314e082c299fd (to be added also to other pixel devices if you build for them)
     https://github.com/ezio84/abc_packages_apps_Settings/commit/60290743d3076b84a3be5fa8a839f7022ad574b3
     https://github.com/ezio84/abc_packages_apps_Settings/commit/ebae94f377b9a12287ebe24a78140ea71e215566
     https://github.com/ezio84/abc_packages_apps_Settings/commit/0eab0163201a9387ed8f8928c6e3cefa2cd6a980
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/9ad99b492ff51f8081a2eb22a3ae63fd0b03f4a2
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a22861f63380bfed8157ed4e8cd8d47560156679
     https://github.com/ezio84/abc_build/commit/1253e2db787df4b98e7e56c6bb83c3e8a129717c
     https://github.com/ezio84/abc_build/commit/0c845e047a2b504c633b1450a52f104127d2f977
     then track this repo https://github.com/ezio84/abc_manifest/blob/572d1c31bdef0ee87983bcc2628c722a5f251df7/default.xml#L41
