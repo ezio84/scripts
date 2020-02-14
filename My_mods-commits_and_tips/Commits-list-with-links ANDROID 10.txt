@@ -325,6 +325,8 @@ Statusbar network traffic monitor
         https://github.com/ezio84/abc_frameworks_base/commit/aef0a5e8ed31ad8bfe72d178aca4f8fef64f99ff
         https://github.com/ezio84/abc_frameworks_base/commit/da8df6bf9b4a6de02ec8ac1379fab23674664abb
         https://github.com/ezio84/abc_frameworks_base/commit/d49f13a386a1ff208038b75529a06ea15648d2aa
+        https://github.com/ezio84/abc_frameworks_base/commit/14c634964dc2f9b41e515b8fbc7ca833533693ec
+        https://github.com/ezio84/abc_frameworks_base/commit/fe5792b8def4de9152fb96b2af0d9c4fe335ad48
         https://github.com/ezio84/abc_packages_apps_Settings/commit/b6c6787f668d5b469e3b7bf9ff1931bdc466efdc
         https://github.com/ezio84/abc_packages_apps_Settings/commit/298e5e94da00f5874ecdd0b29096e00cbfb4ced8
 
@@ -459,7 +461,8 @@ SettingsLib: Don't show system overlays on apps list
     https://github.com/ezio84/abc_frameworks_base/commit/efc28685c2b3d152f0134bb60fe7edc53be8d710
 
 Volume panel improvements
-https://github.com/ezio84/abc_frameworks_base/commit/cb88bdede92fa7deb7edec029ea513ec4b2811f0
+    https://github.com/ezio84/abc_frameworks_base/commit/cb88bdede92fa7deb7edec029ea513ec4b2811f0
+    https://github.com/ezio84/abc_frameworks_base/commit/7a4cdcd2ceaad4ed626535503b16020ba8f3f9e6
 
 Build cutout overlays conditionally
     https://github.com/ezio84/abc_frameworks_base/commit/bd7bea324feb35b78302852b5025284e59521ef7
@@ -502,7 +505,10 @@ Active Edge / Motion Sense:
     then track this repo https://github.com/ezio84/abc_manifest/blob/572d1c31bdef0ee87983bcc2628c722a5f251df7/default.xml#L41
 
 Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
-https://github.com/ezio84/abc_frameworks_base/commit/641819b8f4ecaedbfad01a1c5ce3b7ff33cae1fb
+    https://github.com/ezio84/abc_frameworks_base/commit/641819b8f4ecaedbfad01a1c5ce3b7ff33cae1fb
+
+Remove DUN requirement for tethering
+    https://github.com/ezio84/abc_frameworks_base/commit/bb445cfdadb1433c07b8fb035ebb2bbb3288b00a
 
 Add a custom Settings menu (new dashboard tile) ***** P code, haven't done it yet on Q so something could have been changed
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b3b0c6de2dbfe181565b83962b6d55ba08a07c46#diff-5e55bcaca3555e37e7fa21ec5f0f7145
