@@ -155,6 +155,7 @@ QS panel and tiles stuff
         https://github.com/ezio84/abc_packages_apps_Settings/commit/1d7f9dbe46c0abae14301159d1240b2c536f39ff
     Add dynamic Immersive Mode tile 
     https://github.com/ezio84/abc_frameworks_base/commit/812bf707d956e419e88961ee411a0efbc8f0ec8d
+    https://github.com/ezio84/abc_frameworks_base/commit/06ff308627e4e0503ebe6f571ec9e726c4fc46d7
         Add Mono audio tile (aka headphone in one ear only)
         https://github.com/ezio84/abc_frameworks_base/commit/368a042fe8d7e40ba27187c5a5470ca0c5cfab53
         https://github.com/ezio84/abc_frameworks_base/commit/a34861311bddf3de23d32bfcd8136020f86a93af
