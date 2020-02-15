@@ -6,11 +6,10 @@ Build source without aosp email tree
 
 Aosp stock theme fixes
     https://github.com/ezio84/abc_frameworks_base/commit/3ab9279a679cddf069c7bf692d61592d9b9ffe1a
+    https://github.com/ezio84/abc_frameworks_base/commit/ebba74950a907d21ce4078eaeb36e0ffa25e81e2
     https://github.com/ezio84/abc_packages_apps_SettingsIntelligence/commit/f8075731b6841a51e426d175d68f321bc26876e8
     https://github.com/ezio84/abc_packages_apps_SettingsIntelligence/commit/381d931b6f650a05f0fa5b34fe4e0a86f27a5ed5
-    https://github.com/ezio84/abc_vendor_themes/commit/ae8e0d23c3b52b03f34d3c89c5ba0f49c60883e7
-    https://github.com/ezio84/abc_vendor_themes/commit/a105372577a34273221a6816a77e99e57d16ff66
-    https://github.com/ezio84/abc_vendor_themes/commit/b3959f320de26913728930e574d1cf5745c1bf59
+    then other commits in https://github.com/ezio84/abc_vendor_themes/
     
 Some sepolicy/core fixes
     https://github.com/ezio84/abc_system_sepolicy/commit/edd43f389507f9992527b974eb9bc07d6636c1e6
@@ -509,6 +508,9 @@ Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
 
 Remove DUN requirement for tethering
     https://github.com/ezio84/abc_frameworks_base/commit/bb445cfdadb1433c07b8fb035ebb2bbb3288b00a
+
+Project FI fixes
+    https://github.com/ezio84/abc_frameworks_opt_telephony/commit/cfccb912a48b4303d7d1fb67ea3495b699a3685b
 
 Add a custom Settings menu (new dashboard tile) ***** P code, haven't done it yet on Q so something could have been changed
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b3b0c6de2dbfe181565b83962b6d55ba08a07c46#diff-5e55bcaca3555e37e7fa21ec5f0f7145
