@@ -59,9 +59,10 @@ if [ "$CLEAN" == "clean" ]
 then
   echo -e "${bldblu}Cleaning up the OUT folder with make clobber ${txtrst}"
   make clean;
-else
-  echo -e "${bldblu}No make clobber so just make installclean ${txtrst}"
-  make installclean;
+# we'll always call installclean from our vendor/extras/envsetup.sh now
+#else
+  #echo -e "${bldblu}No make clobber so just make installclean ${txtrst}"
+  #make installclean;
 fi
 
 # Start compilation and save a log
