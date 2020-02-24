@@ -211,6 +211,7 @@ Allow doubletap/longpress power to toggle torch (flashlight)
     https://github.com/ezio84/abc_frameworks_base/commit/c0b9a0d32fb7c453c7d9d221af9f6e6b6fcee976
     https://github.com/ezio84/abc_frameworks_base/commit/563fecdcafe41f1c184dfcaca2c7c63c66979dc8
     https://github.com/ezio84/abc_frameworks_base/commit/8d121111bd9ae031f82296c68cdd8a70bf1f6233
+    https://github.com/ezio84/abc_frameworks_base/commit/133b38b7149beb751460090d5813b1428ef78e82
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f2b8a5300cf198da459710ef84f215f8a54be44f
 
 Skip track with volume rocker when screen is off or ambient (for both local and remote playing)
