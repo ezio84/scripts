@@ -121,10 +121,12 @@ Allow to skip back swipe gestures on a custom area of the screen edge
     https://github.com/ezio84/abc_frameworks_base/commit/7a9a70b2421312b96c6b5c1c499992038ac80855
     https://github.com/ezio84/abc_packages_apps_Settings/commit/24508690ae2e96d3f142764c0a9990ea9b2ca205
 
-Allow long back swipe to trigger custom actions/app/activities
-    https://github.com/ezio84/abc_frameworks_base/commit/29982abb0ba035fe1ffe220ba4f239474f06a92d
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/64870579a6a036a11b433e162abba45f57d9b7a7
+Allow long/wide back swipe to trigger custom actions/app/activities 
     (needs vendor/support tree app picker)
+    https://github.com/ezio84/abc_frameworks_base/commit/29982abb0ba035fe1ffe220ba4f239474f06a92d
+    https://github.com/ezio84/abc_frameworks_base/commit/ddb9b1f2af52e938bb4299b3cb8775618f9c456c
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/64870579a6a036a11b433e162abba45f57d9b7a7
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/f9c397b7d5bbb06e34d170fafcd1d0e8d344c525    
 
 QS panel and tiles stuff
     https://github.com/ezio84/abc_frameworks_base/commit/cd037dc2525ab7a766c253c2b0ffd5e8fa298808
