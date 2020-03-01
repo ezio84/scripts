@@ -126,11 +126,14 @@ Allow long/wide back swipe to trigger custom actions/app/activities
     https://github.com/ezio84/abc_frameworks_base/commit/29982abb0ba035fe1ffe220ba4f239474f06a92d
     https://github.com/ezio84/abc_frameworks_base/commit/ddb9b1f2af52e938bb4299b3cb8775618f9c456c
     https://github.com/ezio84/abc_frameworks_base/commit/00007c61863a49f857a5d380364ee8cad3b7549c
+    https://github.com/ezio84/abc_frameworks_base/commit/43cb17eb8c853dae4c28e258dcbefcd8e05c2a64
+    https://github.com/ezio84/abc_frameworks_base/commit/0b8a31f9eaf71ba443537c62841636570bf37822
     https://github.com/ezio84/abc_packages_apps_Settings/commit/fd9f2ec85afe94cf3b9a842b3a4e351165b73940
     https://github.com/ezio84/abc_packages_apps_Settings/commit/64870579a6a036a11b433e162abba45f57d9b7a7
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f9c397b7d5bbb06e34d170fafcd1d0e8d344c525    
     https://github.com/ezio84/abc_packages_apps_Settings/commit/88c65a2f47ee27514b7ac07237b8482225359ca8
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6ed2b4bc566c0108f6c66db5b43e9e375d4320ef
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/4259784ecc3e6066b6df510735dc37cd610ac30c
 
 QS panel and tiles stuff
     https://github.com/ezio84/abc_frameworks_base/commit/cd037dc2525ab7a766c253c2b0ffd5e8fa298808
@@ -514,7 +517,10 @@ Active Edge / Motion Sense:
     https://github.com/ezio84/abc_packages_apps_Settings/commit/a22861f63380bfed8157ed4e8cd8d47560156679
     https://github.com/ezio84/abc_build/commit/1253e2db787df4b98e7e56c6bb83c3e8a129717c
     https://github.com/ezio84/abc_build/commit/0c845e047a2b504c633b1450a52f104127d2f977
-    then track this repo https://github.com/ezio84/abc_manifest/blob/572d1c31bdef0ee87983bcc2628c722a5f251df7/default.xml#L41
+    then track https://github.com/ezio84/abc_external_google
+
+Add kill-app api (with new fresh implementation)
+    https://github.com/ezio84/abc_frameworks_base/commit/0b8a31f9eaf71ba443537c62841636570bf37822
 
 Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
     https://github.com/ezio84/abc_frameworks_base/commit/641819b8f4ecaedbfad01a1c5ce3b7ff33cae1fb
