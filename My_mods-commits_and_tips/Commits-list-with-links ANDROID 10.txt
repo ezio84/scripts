@@ -519,6 +519,7 @@ Active Edge / Motion Sense:
     https://github.com/ezio84/abc_build/commit/1253e2db787df4b98e7e56c6bb83c3e8a129717c
     https://github.com/ezio84/abc_build/commit/0c845e047a2b504c633b1450a52f104127d2f977
     then track https://github.com/ezio84/abc_external_google
+        needed after r31: https://github.com/ezio84/abc_frameworks_base/commit/b2f5ae43de34c7337aec8f003cbc3eea1789ade2
 
 Add kill-app api (with new fresh implementation)
     https://github.com/ezio84/abc_frameworks_base/commit/0b8a31f9eaf71ba443537c62841636570bf37822
