@@ -343,6 +343,7 @@ Statusbar network traffic monitor
         https://github.com/ezio84/abc_frameworks_base/commit/d49f13a386a1ff208038b75529a06ea15648d2aa
         https://github.com/ezio84/abc_frameworks_base/commit/14c634964dc2f9b41e515b8fbc7ca833533693ec
         https://github.com/ezio84/abc_frameworks_base/commit/fe5792b8def4de9152fb96b2af0d9c4fe335ad48
+        https://github.com/ezio84/abc_frameworks_base/commit/296e82e1517d86fa9ad61f25447461cd8a847ddc
         https://github.com/ezio84/abc_packages_apps_Settings/commit/b6c6787f668d5b469e3b7bf9ff1931bdc466efdc
         https://github.com/ezio84/abc_packages_apps_Settings/commit/298e5e94da00f5874ecdd0b29096e00cbfb4ced8
 
