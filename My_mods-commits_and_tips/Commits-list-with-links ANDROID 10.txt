@@ -147,6 +147,7 @@ QS panel and tiles stuff
         Allow to quickly open Running Services from QS panel
         https://github.com/ezio84/abc_frameworks_base/commit/64639bc4ff7a13ff2eb4a408790c2bf5f17ce561
         https://github.com/ezio84/abc_packages_apps_Settings/commit/ec45ae7b60187dbb54979958d6503bf2e9613a28
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/e5b04892351e365327d51ba7c55bd1c0e9a5b7ab
     Caffeine tile
     https://github.com/ezio84/abc_frameworks_base/commit/039999b8dcea88a7166ecfee15b5a314c601d1aa
         Sound search tile
