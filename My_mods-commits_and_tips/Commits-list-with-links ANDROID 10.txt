@@ -129,6 +129,7 @@ Allow long/wide back swipe to trigger custom actions/app/activities
     https://github.com/ezio84/abc_frameworks_base/commit/43cb17eb8c853dae4c28e258dcbefcd8e05c2a64
     https://github.com/ezio84/abc_frameworks_base/commit/0b8a31f9eaf71ba443537c62841636570bf37822
     https://github.com/ezio84/abc_frameworks_base/commit/44ca2a376ba172bffc23ea130f6806d4d7a53ca4
+    https://github.com/ezio84/abc_frameworks_base/commit/0535c67ccff6b6c404dead40920e143d7b0cecd7
     https://github.com/ezio84/abc_packages_apps_Settings/commit/fd9f2ec85afe94cf3b9a842b3a4e351165b73940
     https://github.com/ezio84/abc_packages_apps_Settings/commit/64870579a6a036a11b433e162abba45f57d9b7a7
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f9c397b7d5bbb06e34d170fafcd1d0e8d344c525    
