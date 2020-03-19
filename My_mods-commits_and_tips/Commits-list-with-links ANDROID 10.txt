@@ -203,6 +203,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/0aa2d1f6cdd11e7a20fcf391022
 https://github.com/ezio84/abc_frameworks_base/commit/c1f8d0807a6e4d7b5de99051d0c9da539b462c24
 https://github.com/ezio84/abc_frameworks_base/commit/767f0ca534b55a9a816eadf8d6177470bd11044b
 https://github.com/ezio84/abc_frameworks_base/commit/623c29a67b2e0c79a470fd67632c0b2f6f7a01ca
+https://github.com/ezio84/abc_frameworks_base/commit/152c18caea491c86c38d0086f634f3536946694d
 
 Statusbar bluetooth battery level
 https://github.com/ezio84/abc_frameworks_base/commit/a73b727394be516423b4e82127657cdc6bd84b7d
