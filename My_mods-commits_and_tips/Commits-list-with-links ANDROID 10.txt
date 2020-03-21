@@ -514,7 +514,7 @@ Active Edge / Motion Sense:
     https://github.com/ezio84/abc_frameworks_base/commit/b9be2a9467227e3316e42b2ce6d73a4e6fac6f5d
     https://github.com/ezio84/abc_frameworks_base/commit/aad14d9503e959e48230ed506650db8aa5ee2394
     https://github.com/ezio84/abc_frameworks_base/commit/1f5c1dfe353c66599a36266ef84a234f70fb2053
-    https://github.com/ezio84/abc_frameworks_base/commit/a62a3dc65a6cd9520d0055230158722ba3ce4ad9
+    https://github.com/ezio84/abc_frameworks_base/commit/d0052c6bf4a0998c2675061fe862dfc89b40fdae
     https://github.com/ezio84/abc_vendor_themes/commit/9c0bae092b7d721ca38959cd06a3984b231637ea
     https://github.com/ezio84/abc_vendor_themes/commit/66d470f777d1c4e6663eb7d5626999e091d45eff
     https://github.com/ezio84/abc_device_google_bonito/commit/8e5058f6daa9bad1dcf0a7c808d5f1d9dc23b7f9
@@ -525,7 +525,7 @@ Active Edge / Motion Sense:
     https://github.com/ezio84/abc_packages_apps_Settings/commit/9ad99b492ff51f8081a2eb22a3ae63fd0b03f4a2
     https://github.com/ezio84/abc_packages_apps_Settings/commit/a22861f63380bfed8157ed4e8cd8d47560156679
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f81d17881e40d605e22c4799269d2e48fd89280b
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/d73f2edac7caa2e365468ac407b6770aabe673a6
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/735631677adbefbc50dbf01612621316343a6512
     https://github.com/ezio84/abc_build/commit/1253e2db787df4b98e7e56c6bb83c3e8a129717c
     https://github.com/ezio84/abc_build/commit/0c845e047a2b504c633b1450a52f104127d2f977
     then track https://github.com/ezio84/abc_external_google
