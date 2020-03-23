@@ -189,6 +189,8 @@ QS panel and tiles stuff
         https://github.com/ezio84/abc_packages_apps_Settings/commit/7f029a332fef9dd849fe1b65fe687716b5b8b482
         https://github.com/ezio84/abc_packages_apps_Settings/commit/d3da21ec69a70db0d4b9561c5586d85ebfee7221
         https://github.com/ezio84/abc_packages_apps_Settings/commit/1cb3ab8e96a217d7c77606e51f4894bdeea5ea7f
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/21cdbc10a754d83481f560acfb572ff24494eb11
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/14737a00a4ef20749be58e8b83c6d99ce4953948
         
 Disable notification channel warnings by default 
 https://github.com/ezio84/abc_frameworks_base/commit/ebb33b29f3b9d3a8d0c1d1c00016e430584f5c86
