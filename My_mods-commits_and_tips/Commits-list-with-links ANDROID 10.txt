@@ -182,6 +182,13 @@ QS panel and tiles stuff
         https://github.com/ezio84/abc_frameworks_base/commit/a34861311bddf3de23d32bfcd8136020f86a93af
     Cellular QS tile: Kill dialog asking to disable mobile data
     https://github.com/ezio84/abc_frameworks_base/commit/cfd86e0e0d28910388878ec896a18db28279c23c
+        Tiles long press: use panel slice instead of full settings menu
+        https://github.com/ezio84/abc_frameworks_base/commit/76898db53591f7a7cdaa294dec9e6b8e15b0ec23
+        https://github.com/ezio84/abc_frameworks_base/commit/10458bdbfd01c3933c00399be45b9879cde9be46
+        https://github.com/ezio84/abc_frameworks_base/commit/d912e478248c3a11f5d4ed54bd8eed261e9ca8a4
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/7f029a332fef9dd849fe1b65fe687716b5b8b482
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/d3da21ec69a70db0d4b9561c5586d85ebfee7221
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/1cb3ab8e96a217d7c77606e51f4894bdeea5ea7f
         
 Disable notification channel warnings by default 
 https://github.com/ezio84/abc_frameworks_base/commit/ebb33b29f3b9d3a8d0c1d1c00016e430584f5c86
