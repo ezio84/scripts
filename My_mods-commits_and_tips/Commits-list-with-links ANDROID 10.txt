@@ -190,7 +190,8 @@ QS panel and tiles stuff
         https://github.com/ezio84/abc_packages_apps_Settings/commit/d3da21ec69a70db0d4b9561c5586d85ebfee7221
         https://github.com/ezio84/abc_packages_apps_Settings/commit/1cb3ab8e96a217d7c77606e51f4894bdeea5ea7f
         https://github.com/ezio84/abc_packages_apps_Settings/commit/21cdbc10a754d83481f560acfb572ff24494eb11
-        https://github.com/ezio84/abc_packages_apps_Settings/commit/14737a00a4ef20749be58e8b83c6d99ce4953948
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/2b99a0120495f022dcfa9b03bf8d6e32712276a3
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/c2cf89ee8aac1d66bc414fff79074c854a3b5d1b
         
 Disable notification channel warnings by default 
 https://github.com/ezio84/abc_frameworks_base/commit/ebb33b29f3b9d3a8d0c1d1c00016e430584f5c86
@@ -215,6 +216,7 @@ https://github.com/ezio84/abc_frameworks_base/commit/c1f8d0807a6e4d7b5de99051d0c
 https://github.com/ezio84/abc_frameworks_base/commit/767f0ca534b55a9a816eadf8d6177470bd11044b
 https://github.com/ezio84/abc_frameworks_base/commit/623c29a67b2e0c79a470fd67632c0b2f6f7a01ca
 https://github.com/ezio84/abc_frameworks_base/commit/152c18caea491c86c38d0086f634f3536946694d
+https://github.com/ezio84/abc_frameworks_base/commit/cf314dc27e685957a6dd3c67e8c2e4bc42652ae1
 
 Statusbar bluetooth battery level
 https://github.com/ezio84/abc_frameworks_base/commit/a73b727394be516423b4e82127657cdc6bd84b7d
