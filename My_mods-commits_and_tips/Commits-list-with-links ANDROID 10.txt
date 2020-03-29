@@ -382,6 +382,10 @@ Less boring heads up option
     https://github.com/ezio84/abc_frameworks_base/commit/88f2bf9024357803932b1db9838edb813a5345a4
     https://github.com/ezio84/abc_frameworks_base/commit/07c7edd2528427e8e388f2bca920783981288ae6
     https://github.com/ezio84/abc_packages_apps_Settings/commit/ac0f774db94b9520ce90da099ec0a6f990f5cc90
+
+Show media heads up on new tracks (works well with "less boring heads up" too)
+    https://github.com/ezio84/abc_frameworks_base/commit/fb934a50f4b53d7d2aa3419adbdbc3dbb3ac777c
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/19e01ce6ef981688c2ce828f4510d0c96a936153
     
 Disable screenshot sound
     https://github.com/ezio84/abc_frameworks_base/commit/571612b38f78b40a20ef67d27f5b2aa42b4bcf09
