@@ -381,6 +381,7 @@ Battery and notification led light customization
 Less boring heads up option
     https://github.com/ezio84/abc_frameworks_base/commit/88f2bf9024357803932b1db9838edb813a5345a4
     https://github.com/ezio84/abc_frameworks_base/commit/07c7edd2528427e8e388f2bca920783981288ae6
+    https://github.com/ezio84/abc_frameworks_base/commit/16092fe5ad0f83dcc303bd44d783c1f07aa25d01
     https://github.com/ezio84/abc_packages_apps_Settings/commit/ac0f774db94b9520ce90da099ec0a6f990f5cc90
 
 Show media heads up on new tracks (works well with "less boring heads up" too)
