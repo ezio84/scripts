@@ -144,6 +144,10 @@ Allow long/wide back swipe to trigger custom actions/app/activities
     https://github.com/ezio84/abc_packages_apps_Settings/commit/88ca8b97d853e3a0c5120950c24018ae204f81ba
     https://github.com/ezio84/abc_packages_apps_Settings/commit/398123d271f4797b201c773bee95d86aea6f3128
 
+Allow to hide navigation bar gesture completely
+    https://github.com/ezio84/abc_frameworks_base/commit/66fd1690e6b04a484f4a9d94389026da47098a71
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/c98ec57c033978e513f2c5e23eddfe9382242d37
+
 QS panel and tiles stuff
     https://github.com/ezio84/abc_frameworks_base/commit/cd037dc2525ab7a766c253c2b0ffd5e8fa298808
     https://github.com/ezio84/abc_vendor_nexus/commit/dc6aea3c51e5d53c330e1ac5249b42fe8ead3f75
