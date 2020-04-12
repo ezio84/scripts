@@ -72,6 +72,9 @@ Add prebuilt fuelgauge, smartbattery & Co (battery stats and management) stuff f
     https://gitlab.com/ezio84/android_vendor_pixelgapps/tree/q/priv-app/TurboPrebuilt
     and set as default:
     https://gitlab.com/ezio84/android_vendor_pixelgapps/commit/1ac40607519873c0ba45f8d27a075e988a78ec5e
+
+Fix estimated battery life in qs header
+    https://github.com/ezio84/abc_frameworks_base/commit/242f5c2a14020deb065c52cee07160b493cbc8bd
     
 Custom preferences
     https://github.com/ezio84/abc_vendor_support
