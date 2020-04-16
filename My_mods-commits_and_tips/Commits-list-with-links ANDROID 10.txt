@@ -1,5 +1,6 @@
 Enable doze display state support for all devices (deep sleep)
     https://github.com/ezio84/abc_vendor_nexus/commit/1336275c8a3f7b92a24a2542b464eca8ae80c3b0
+    https://github.com/ezio84/abc_vendor_nexus/commit/f5a0032d952c55571843904f250f8aadab9b8a59
 
 Build source without aosp email tree
     https://github.com/ezio84/abc_packages_apps_Bluetooth/commit/95982e2139efcdaa7d5ef9c6bba8f4172b5db0dd
