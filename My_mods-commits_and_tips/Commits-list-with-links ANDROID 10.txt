@@ -244,16 +244,11 @@ https://github.com/ezio84/abc_frameworks_base/commit/cd94079b1b65c207f6e53ad8182
 https://github.com/ezio84/abc_packages_apps_Settings/commit/0be0b6e65fcbd78694f156071947c8108a3fea92
 
 Add some framework utils
-https://github.com/ezio84/abc_frameworks_base/commit/f303ffc8da4264243228a089fcf6c832c987a1af
-https://github.com/ezio84/abc_frameworks_base/commit/45916b071709b89006f14a412cfc106613e26cea
-https://github.com/ezio84/abc_frameworks_base/commit/42cf7de64004ddea687fd414423ca4d1c115c81d
-https://github.com/ezio84/abc_frameworks_base/commit/d27bfb5dd463512599132c7e52b2acb0ddca7c37
-https://github.com/ezio84/abc_frameworks_base/commit/276a19794f745faf4f291edd986c9186c8436869
-https://github.com/ezio84/abc_frameworks_base/commit/b0d5e3253289e65e4ff4b1e0dfb299cf14ec9d5b
-https://github.com/ezio84/abc_frameworks_base/commit/36ccac1d98d19702a0be95a849999c07116353ee
+https://github.com/ezio84/abc_frameworks_base/commits/q/core/java/com/android/internal/util/custom/Utils.java
+https://github.com/ezio84/abc_frameworks_base/commit/5513d44d35ee123ca655a1b3325fe35d6df471c3
 
 Allow doubletap/longpress power to toggle torch (flashlight)
-    add above framework utils commits, then:
+    https://github.com/ezio84/abc_frameworks_base/commit/276a19794f745faf4f291edd986c9186c8436869
     https://github.com/ezio84/abc_frameworks_base/commit/bd51d9d4805d18917f8d76ca44a4868dfd5b835c
     https://github.com/ezio84/abc_frameworks_base/commit/853de15fb1cf827156757e66fe310c20e9f00aa8
     https://github.com/ezio84/abc_frameworks_base/commit/c0b9a0d32fb7c453c7d9d221af9f6e6b6fcee976
@@ -458,6 +453,21 @@ Statusbar clock customization
     https://github.com/ezio84/abc_frameworks_base/commit/65b0f25b70d49d56d7760df6825497c07d1cfb7c
     https://github.com/ezio84/abc_frameworks_base/commit/9071ee6888ab037c015014aa9394137f997ce5b6
     https://github.com/ezio84/abc_packages_apps_Settings/commit/678887016448a4a6a2f9e6d310df01eb3f7740a5
+
+Statusbar battery icon customization
+    https://github.com/ezio84/abc_frameworks_base/commit/96f341368946647db3f96f19fd44340d7c0aad80
+    https://github.com/ezio84/abc_frameworks_base/commit/1383b62b1c98f539a0017f9f7a49061678198722
+    https://github.com/ezio84/abc_frameworks_base/commit/899ab88bce4d20d34aa4979c17a9c4f689c7eca0
+    https://github.com/ezio84/abc_frameworks_base/commit/b21f6e1caca8a1d487e760e336c290b8ee245bfa
+    https://github.com/ezio84/abc_frameworks_base/commit/92cc5d7f2be0e41792d63987b614b4369d10d8d7
+    https://github.com/ezio84/abc_frameworks_base/commit/c9ac560404b2d3bcb51e09845c08bb3a42e6cdef
+    https://github.com/ezio84/abc_frameworks_base/commit/6e4bfc39cebadef21d76c080ced5ef04b7697249
+    https://github.com/ezio84/abc_frameworks_base/commit/e1f2135da98a4333daf9cb4748459ba044a9434b
+    https://github.com/ezio84/abc_frameworks_base/commit/bbad197268534e4026dba4587dfe8d90e8227c9a
+    https://github.com/ezio84/abc_frameworks_base/commit/0cc24c6e95cdab2b6cc982baaad4ed56f9211bfa
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a3516caf582740a4bf3234bf0ce5ecf29be702fd
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/5a944bcae389ce37a13f52afaa691069612832ef
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/2474cb036c09b79ce84760b08e17fa36c90602b3
 
 Add Adb over Network tile
     https://github.com/ezio84/abc_frameworks_base/commit/69db156777b1543bfaa6b1c199a97c637fbc0491
