@@ -465,9 +465,11 @@ Statusbar battery icon customization
     https://github.com/ezio84/abc_frameworks_base/commit/e1f2135da98a4333daf9cb4748459ba044a9434b
     https://github.com/ezio84/abc_frameworks_base/commit/bbad197268534e4026dba4587dfe8d90e8227c9a
     https://github.com/ezio84/abc_frameworks_base/commit/0cc24c6e95cdab2b6cc982baaad4ed56f9211bfa
+    https://github.com/ezio84/abc_frameworks_base/commit/d03bd522b6ba9a9e819c8eebc103cb119466dee5
     https://github.com/ezio84/abc_packages_apps_Settings/commit/a3516caf582740a4bf3234bf0ce5ecf29be702fd
     https://github.com/ezio84/abc_packages_apps_Settings/commit/5a944bcae389ce37a13f52afaa691069612832ef
     https://github.com/ezio84/abc_packages_apps_Settings/commit/2474cb036c09b79ce84760b08e17fa36c90602b3
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/7d907b05480453cf158acc44fb5372a6285db813
 
 Add Adb over Network tile
     https://github.com/ezio84/abc_frameworks_base/commit/69db156777b1543bfaa6b1c199a97c637fbc0491
