@@ -467,6 +467,7 @@ Statusbar battery icon customization
     https://github.com/ezio84/abc_frameworks_base/commit/bbad197268534e4026dba4587dfe8d90e8227c9a
     https://github.com/ezio84/abc_frameworks_base/commit/0cc24c6e95cdab2b6cc982baaad4ed56f9211bfa
     https://github.com/ezio84/abc_frameworks_base/commit/d03bd522b6ba9a9e819c8eebc103cb119466dee5
+    https://github.com/ezio84/abc_frameworks_base/commit/6cb44236cf48ca843664d9ae9896c3510ec8b805
     https://github.com/ezio84/abc_packages_apps_Settings/commit/a3516caf582740a4bf3234bf0ce5ecf29be702fd
     https://github.com/ezio84/abc_packages_apps_Settings/commit/5a944bcae389ce37a13f52afaa691069612832ef
     https://github.com/ezio84/abc_packages_apps_Settings/commit/2474cb036c09b79ce84760b08e17fa36c90602b3
