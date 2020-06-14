@@ -355,6 +355,7 @@ Statusbar network traffic monitor
     https://github.com/ezio84/abc_frameworks_base/commit/c17468201a154796331d3995f0b5e3b335454fb2
     https://github.com/ezio84/abc_frameworks_base/commit/a3a542f4fc89f6339aeb641d4eac6099806216cc
     https://github.com/ezio84/abc_frameworks_base/commit/adbfc24da57785620b044b5a30f2708f27f1a2db
+    https://github.com/ezio84/abc_frameworks_base/commit/f0a2cd78ac82219c2dd11ac86bfaf2dcafca89a2
     https://github.com/ezio84/abc_packages_apps_Settings/commit/8866db89364aab478cec9238ab935c8a340e77ab
         Visual improvements and allow to show it in normal statusbar too
         https://github.com/ezio84/abc_frameworks_base/commit/3c33a276c92d871190f48911538ee24937609dbe
