@@ -602,4 +602,8 @@ Add a custom Settings menu (new dashboard tile) ***** P code, haven't done it ye
 AOSP wallpaper crash fix
 https://github.com/ezio84/abc_frameworks_base/commit/1d978204c060a2d51375a52dffb51354ab3c5ce5
 
+Safetynet fixes
+https://github.com/ezio84/abc_kernel_google_bluecross/commit/2bd5f17f26a3dafb5b41c71ea01c8868a11d84a2
+https://github.com/ezio84/abc_kernel_google_bluecross/commit/835ae949dafb4d3812712e68e92b2445e8223164
+
 IMPORTANT: there are more useful overlays and prebuilt apk in vendor/nexus tree, just check it (q branch)
