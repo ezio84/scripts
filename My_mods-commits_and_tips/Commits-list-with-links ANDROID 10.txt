@@ -486,13 +486,6 @@ Gesture nav Assistant handles: don't show them in lockscreen, we learned the ges
 and don't reset counters when the users changes navbar modes
     https://github.com/ezio84/abc_frameworks_base/commit/094dcf11de10ff8af12b79265ff4e265fdd7bde2
 
-Allow long back swipe to kill app (reverted on abc because killing app is kinda useless nowaday, but if you want it
-the code is solid and well working)
-https://github.com/ezio84/abc_frameworks_base/commit/5c4442174e7fa205dfd009fd91aefac992f552f4
-https://github.com/ezio84/abc_frameworks_base/commit/98ad400020004b9eea2a502e4a6cd49f919d056c
-https://github.com/ezio84/abc_frameworks_base/commit/aaa334e4d87270549781ab4802bd34910864a895
-https://github.com/ezio84/abc_packages_apps_Settings/commit/9462fb3e3a1be27114db790d85318949e96d3f95
-
 User avatar/multiuser improvements
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6fd07ba855b9d48f8772ad166432dd3d46c1d9aa
         https://github.com/ezio84/abc_frameworks_base/commit/c89ab4fed15c16aa8b10cf6907543cd245beece8
@@ -579,8 +572,17 @@ Active Edge / Motion Sense:
     then track https://github.com/ezio84/abc_external_google
         needed after r31: https://github.com/ezio84/abc_frameworks_base/commit/b2f5ae43de34c7337aec8f003cbc3eea1789ade2
 
-Add kill-app api (with new fresh implementation)
+Add kill app API (with new fresh implementation)
     https://github.com/ezio84/abc_frameworks_base/commit/0b8a31f9eaf71ba443537c62841636570bf37822
+    https://github.com/ezio84/abc_frameworks_base/commit/727ec7d5847bbd92378142f47bd24f69d8269139
+
+Pulse navbar audio equalizer (even with hidden navbar)
+track https://github.com/ezio84/abc_external_pulse
+https://github.com/ezio84/abc_frameworks_base/commit/3c03956b30f8f05728b9869b35a51492f297173c
+https://github.com/ezio84/abc_frameworks_base/commit/68cc3819d18b92b5a839149ad6a5c7815a06b45a
+https://github.com/ezio84/abc_frameworks_base/commit/b8cadca08bed56650a3a1fc8d2285a3114290806
+https://github.com/ezio84/abc_packages_apps_Settings/commit/8f084445f981d27a3b25e93307df0e1ad79466c3
+https://github.com/ezio84/abc_packages_apps_Settings/commit/e1615ef837b021a2974e776ac5a7681231b20360
 
 Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
     https://github.com/ezio84/abc_frameworks_base/commit/641819b8f4ecaedbfad01a1c5ce3b7ff33cae1fb
