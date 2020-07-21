@@ -578,6 +578,7 @@ Add kill app API (with new fresh implementation)
 
 Pulse navbar audio equalizer (even with hidden navbar)
 track https://github.com/ezio84/abc_external_pulse
+https://github.com/ezio84/abc_build_soong/commit/436cd67cc0a9d39c7a353585a5463bbf50f0da04
 https://github.com/ezio84/abc_frameworks_base/commit/3c03956b30f8f05728b9869b35a51492f297173c
 https://github.com/ezio84/abc_frameworks_base/commit/68cc3819d18b92b5a839149ad6a5c7815a06b45a
 https://github.com/ezio84/abc_frameworks_base/commit/b8cadca08bed56650a3a1fc8d2285a3114290806
@@ -607,5 +608,8 @@ https://github.com/ezio84/abc_frameworks_base/commit/1d978204c060a2d51375a52dffb
 Safetynet fixes
 https://github.com/ezio84/abc_kernel_google_bluecross/commit/2bd5f17f26a3dafb5b41c71ea01c8868a11d84a2
 https://github.com/ezio84/abc_kernel_google_bluecross/commit/835ae949dafb4d3812712e68e92b2445e8223164
+
+Build external paths in Systemui
+https://github.com/ezio84/abc_build_soong/commit/436cd67cc0a9d39c7a353585a5463bbf50f0da04
 
 IMPORTANT: there are more useful overlays and prebuilt apk in vendor/nexus tree, just check it (q branch)
