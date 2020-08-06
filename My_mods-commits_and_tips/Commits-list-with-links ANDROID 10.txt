@@ -454,10 +454,10 @@ Statusbar clock customization
     https://github.com/ezio84/abc_frameworks_base/commit/f48899b8d376b2f1004d242b7c4455e7b2a7eb2f
     https://github.com/ezio84/abc_frameworks_base/commit/65b0f25b70d49d56d7760df6825497c07d1cfb7c
     https://github.com/ezio84/abc_frameworks_base/commit/9071ee6888ab037c015014aa9394137f997ce5b6
-        then after adding the new kill app api:
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/678887016448a4a6a2f9e6d310df01eb3f7740a5
+        then after adding the new kill app api (commits are in this list too), to hide clock when launcher shows up:
         https://github.com/ezio84/abc_frameworks_base/commit/c30c065d0fb2788487c0d6c4f8d9f75f6d74c620
         https://github.com/ezio84/abc_packages_apps_Settings/commit/21240c8c1dbaafc9eac6d3c390f08b6039a3d67f
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/678887016448a4a6a2f9e6d310df01eb3f7740a5
 
 Statusbar battery icon customization
     https://github.com/ezio84/abc_frameworks_base/commit/96f341368946647db3f96f19fd44340d7c0aad80
@@ -578,6 +578,7 @@ Active Edge / Motion Sense:
 Add kill app API (with new fresh implementation)
     https://github.com/ezio84/abc_frameworks_base/commit/0b8a31f9eaf71ba443537c62841636570bf37822
     https://github.com/ezio84/abc_frameworks_base/commit/727ec7d5847bbd92378142f47bd24f69d8269139
+    https://github.com/ezio84/abc_frameworks_base/commit/6b2b40bf1f7e9a25c4bb28a1498b0d83e936e5b6
 
 Pulse navbar audio equalizer (even with hidden navbar)
 track https://github.com/ezio84/abc_external_pulse
