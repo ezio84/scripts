@@ -588,7 +588,13 @@ https://github.com/ezio84/abc_frameworks_base/commit/68cc3819d18b92b5a839149ad6a
 https://github.com/ezio84/abc_frameworks_base/commit/b8cadca08bed56650a3a1fc8d2285a3114290806
 https://github.com/ezio84/abc_packages_apps_Settings/commit/8f084445f981d27a3b25e93307df0e1ad79466c3
 https://github.com/ezio84/abc_packages_apps_Settings/commit/e1615ef837b021a2974e776ac5a7681231b20360
-
+    Lockscreen pulse
+    https://github.com/ezio84/abc_frameworks_base/commit/ab626449b60dd4a848bc12973401c01ba818d5cd
+    https://github.com/ezio84/abc_frameworks_base/commit/412eb6805376308f598811ab1583fee9873f3a11
+    https://github.com/ezio84/abc_external_pulse/commit/22c095d66d528b2b864df59b073f4e77e4aa3276
+    https://github.com/ezio84/abc_external_pulse/commit/b796b8de85ca7882809cb476fe820ce89c98ff4d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/b631a18bea5060f9ebde2cdc6c8c7e18c41bc1be
+    
 Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
     https://github.com/ezio84/abc_frameworks_base/commit/641819b8f4ecaedbfad01a1c5ce3b7ff33cae1fb
 
