@@ -600,6 +600,7 @@ Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
 
 Add option to set a custom device hostname instead of manually changing the "net.hostname" prop
     https://github.com/ezio84/abc_packages_apps_Settings/commit/07c5cb0e8d75a5f935bf63ef9ab8626606d59e26
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/cce378296d8425f16015c58a3894c068d74f6560
     https://github.com/ezio84/abc_frameworks_base/commit/37e8cbfb732ffb8b60ed3a70e9801b7a77b5763c
     https://github.com/ezio84/abc_vendor_support/commit/0de411dce376a839931b1fabd023234baff528fe
 
