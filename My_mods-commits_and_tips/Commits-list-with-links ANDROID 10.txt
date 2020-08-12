@@ -598,6 +598,11 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/e1615ef837b021a2974e
 Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
     https://github.com/ezio84/abc_frameworks_base/commit/641819b8f4ecaedbfad01a1c5ce3b7ff33cae1fb
 
+Add option to set a custom device hostname instead of manually changing the "net.hostname" prop
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/07c5cb0e8d75a5f935bf63ef9ab8626606d59e26
+    https://github.com/ezio84/abc_frameworks_base/commit/37e8cbfb732ffb8b60ed3a70e9801b7a77b5763c
+    https://github.com/ezio84/abc_vendor_support/commit/0de411dce376a839931b1fabd023234baff528fe
+
 Remove DUN requirement for tethering
     https://github.com/ezio84/abc_frameworks_base/commit/bb445cfdadb1433c07b8fb035ebb2bbb3288b00a
 
