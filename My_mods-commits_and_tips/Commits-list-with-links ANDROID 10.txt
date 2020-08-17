@@ -579,6 +579,7 @@ Add kill app API (with new fresh implementation)
     https://github.com/ezio84/abc_frameworks_base/commit/0b8a31f9eaf71ba443537c62841636570bf37822
     https://github.com/ezio84/abc_frameworks_base/commit/727ec7d5847bbd92378142f47bd24f69d8269139
     https://github.com/ezio84/abc_frameworks_base/commit/6b2b40bf1f7e9a25c4bb28a1498b0d83e936e5b6
+    https://github.com/ezio84/abc_frameworks_base/commit/1d1d080133542948c6ca325bc5c8224ca8c0ccf2
 
 Pulse navbar audio equalizer (even with hidden navbar)
 track https://github.com/ezio84/abc_external_pulse
@@ -593,6 +594,7 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/e1615ef837b021a2974e
     https://github.com/ezio84/abc_frameworks_base/commit/412eb6805376308f598811ab1583fee9873f3a11
     https://github.com/ezio84/abc_external_pulse/commit/22c095d66d528b2b864df59b073f4e77e4aa3276
     https://github.com/ezio84/abc_external_pulse/commit/b796b8de85ca7882809cb476fe820ce89c98ff4d
+    https://github.com/ezio84/abc_external_pulse/commit/fc1b3e616cbf050c0105b4672df223bb640905f2
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b631a18bea5060f9ebde2cdc6c8c7e18c41bc1be
     
 Context-aware Bluetooth airplane mode (merged on aosp upstream on January 2020)
