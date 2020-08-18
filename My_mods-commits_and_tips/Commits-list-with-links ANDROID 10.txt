@@ -632,6 +632,13 @@ https://github.com/ezio84/abc_frameworks_base/commit/8a88984de2de837bf659ad26720
 https://github.com/ezio84/abc_frameworks_base/commit/39bde06fc4695ffaf8368079d646d8867dfd0879
 https://github.com/ezio84/abc_frameworks_base/commit/fc2d61daff8724fb0ed6352b5ff0c7b42f1e25b4
 
+Miracast fixes for aosp
+https://github.com/ezio84/abc_frameworks_av/commit/59369508229e705f47e622a6dbb2ba84a4152e17
+https://github.com/ezio84/abc_frameworks_opt_net_wifi/commit/54339882b419a38b7a1df81dcd0e4973adc0fb75
+https://github.com/ezio84/abc_frameworks_base/commit/21a47a62e2f1dcfd109cfa71de6769748cef4c99
+https://github.com/ezio84/abc_frameworks_base/commit/cdb1be28913ec93075060f7f5a6d91a798c9e6a2
+https://github.com/ezio84/abc_frameworks_base/commit/74065b7e5821c3c50613b0820eeb2b87b2f853b9
+
 Build external paths in Systemui
 https://github.com/ezio84/abc_build_soong/commit/436cd67cc0a9d39c7a353585a5463bbf50f0da04
 
