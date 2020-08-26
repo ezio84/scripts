@@ -116,6 +116,9 @@ Aosp settings menu fixes  and improvements (package names, app info, various sub
     https://github.com/ezio84/abc_packages_apps_Settings/commit/fece51d13c3f9669a94d2fa7d3688997044f19cd
     https://github.com/ezio84/abc_packages_apps_Settings/commit/acb0c35e57749a48b9b3e1065eafe2c8b1607a1f
 
+Faster unlock with fingerprint scanner (no screen ON animation)
+https://github.com/ezio84/abc_frameworks_base/commit/caa611b931f3ad060807f186bcc9bc3a6d0057a5
+
 Package installer: show current and new version on apk installation
     https://github.com/ezio84/abc_frameworks_base/commit/f5e7325ca98fadd4bc3f13f9e4f44a4c9972ef4e
 
