@@ -579,11 +579,12 @@ Active Edge / Motion Sense:
     then track https://github.com/ezio84/abc_external_google
         needed after r31: https://github.com/ezio84/abc_frameworks_base/commit/b2f5ae43de34c7337aec8f003cbc3eea1789ade2
 
-Add kill app API (with new fresh implementation)
+Add kill app API (with new fresh implementation) and methods to get foreground app name
     https://github.com/ezio84/abc_frameworks_base/commit/0b8a31f9eaf71ba443537c62841636570bf37822
     https://github.com/ezio84/abc_frameworks_base/commit/727ec7d5847bbd92378142f47bd24f69d8269139
     https://github.com/ezio84/abc_frameworks_base/commit/6b2b40bf1f7e9a25c4bb28a1498b0d83e936e5b6
     https://github.com/ezio84/abc_frameworks_base/commit/1d1d080133542948c6ca325bc5c8224ca8c0ccf2
+    https://github.com/ezio84/abc_frameworks_base/commit/bd6971a4d49f851d307a28ebef632002e625bf33
 
 Pulse navbar audio equalizer (even with hidden navbar)
 track https://github.com/ezio84/abc_external_pulse
