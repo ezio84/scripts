@@ -334,6 +334,7 @@ Swap volume buttons on screen rotation
 Screenshot: Append app name to filename 
     https://github.com/ezio84/abc_frameworks_base/commit/e8639dee9bf4a07654b8a878752a041d92adcc21
     https://github.com/ezio84/abc_frameworks_base/commit/2c0c7139e3e7981ba6807606441d2068ea98e6de
+    https://github.com/ezio84/abc_frameworks_base/commit/e87854bdc621ecbc01b9109d19cff20d35118d1b
     
 Aosp partial screenshot improvements
     (check also power menu commits, i added longpress for partial screenshot to the existing screenshot button)
