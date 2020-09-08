@@ -350,6 +350,7 @@ Aosp partial screenshot improvements
 
 Lockscreen/Ambient clock options
     https://github.com/ezio84/abc_frameworks_base/commit/ef1373d962a9adda252b771bea7a3bc216c3a3d7
+    https://github.com/ezio84/abc_frameworks_base/commit/045b2f8e44b36a786ce8d0e7ba2643039ddcb34b
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6b3ca7bf783126203e919a9b764a2cb64d74d499
     
 Statusbar network traffic monitor
