@@ -40,3 +40,5 @@ Allow user to add/remove QS with one click
 https://github.com/ezio84/abc_frameworks_base/commit/97f9f49f198d7c4b0a8aa6615bf7e503ec447087
 https://github.com/ezio84/abc_frameworks_base/commit/26a9ef5ce0805100d1c1f000514dfa1370e6f005
 
+Improve notification/headsup group header layouts
+https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
