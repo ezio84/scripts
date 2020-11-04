@@ -42,3 +42,20 @@ https://github.com/ezio84/abc_frameworks_base/commit/26a9ef5ce0805100d1c1f000514
 
 Improve notification/headsup group header layouts
 https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
+
+Screenshot improvements
+    Screenshot: Append app name to filename
+    https://github.com/ezio84/abc_frameworks_base/commit/297de7e2026f49ca8ad104b22accfe5b75961b9e
+        SystemUI: Adapt screenshot sound to ringer modes
+        https://github.com/ezio84/abc_frameworks_base/commit/9a5f82665055804d4856fe5690ab300bf63950d0
+
+----
+----
+
+More low level improvements
+Only play sound effects if stream is not muted. 
+https://github.com/ezio84/abc_frameworks_base/commit/5c6cadf93ff9ed5fa7d80708c2bb175364d36bf2
+
+SystemUI: Allow overlaying max notification icons
+https://github.com/ezio84/abc_frameworks_base/commit/5567c66837a6e166653ea5a7a3aae5d8322642fc
+    then override the values in your custom vendor tree
