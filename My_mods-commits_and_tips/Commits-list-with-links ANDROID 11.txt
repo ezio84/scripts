@@ -1,0 +1,42 @@
+For the main bringup, with the following commits and more, just check the 
+"r-working-bringup" branch in main trees (like fwbase, settings, gapps on gitlab,
+and overlays in vendor/nexus):
+Enable doze display state support for all devices (deep sleep)
+Aosp stock theme fixes
+Some sepolicy/core fixes
+Fixes for build fingerprint and packages cache refresh on dirty flash
+Disable aosp rescue party on SysUI FCs
+Permissions fixes for Gapps, system apps and sh#t like that
+Enable dev settings by default and remove/block aosp OTA checks
+Aosp settings menu fixes  and improvements (package names, app info, various submenu, stuff here and there)
+Disable notification channel warnings by default
+Enable Swipe-up home gesture for all devices
+SettingsLib: Don't show system overlays on apps list
+Remove DUN requirement for tethering
+Some fonts fixes
+QS panel: don't show the annoying build number if Dev settings are ON
+
+----
+----
+
+Custom features
+
+Add package name to installed app details 
+https://github.com/ezio84/abc_packages_apps_Settings/commit/c0e5678f1d9bbd00c08e99d6bf573cc3f184d7b7
+
+Package installer: show current and new version on apk installation
+    https://github.com/ezio84/abc_frameworks_base/commit/416931fc10397ffca8b2e34e7230ca8bfd6c817c
+
+PowerMenu advanced reboot toggles
+    https://github.com/ezio84/abc_frameworks_base/commit/8276e348a0768c84bc3dbef4ea1b72ea958e866e
+    https://github.com/ezio84/abc_frameworks_base/commit/095af833a0bae660ebd32df5da0606e4e070c960
+    https://github.com/ezio84/abc_frameworks_base/commit/e351b4337e83474a2edf0f94313e05354b618075
+
+Gesture nav Assistant handles: don't show them in lockscreen
+and don't reset counters when the users changes navbar modes
+    https://github.com/ezio84/abc_frameworks_base/commit/19dd638e552ea394ef2d135b63582e7400bb4f54
+
+Allow user to add/remove QS with one click
+https://github.com/ezio84/abc_frameworks_base/commit/97f9f49f198d7c4b0a8aa6615bf7e503ec447087
+https://github.com/ezio84/abc_frameworks_base/commit/26a9ef5ce0805100d1c1f000514dfa1370e6f005
+
