@@ -39,9 +39,12 @@ Gesture nav Assistant handles: don't show them in lockscreen
 and don't reset counters when the users changes navbar modes
     https://github.com/ezio84/abc_frameworks_base/commit/19dd638e552ea394ef2d135b63582e7400bb4f54
 
-Allow user to add/remove QS with one click
-    https://github.com/ezio84/abc_frameworks_base/commit/97f9f49f198d7c4b0a8aa6615bf7e503ec447087
-    https://github.com/ezio84/abc_frameworks_base/commit/26a9ef5ce0805100d1c1f000514dfa1370e6f005
+QS panel
+    Allow user to add/remove QS with one click
+        https://github.com/ezio84/abc_frameworks_base/commit/97f9f49f198d7c4b0a8aa6615bf7e503ec447087
+        https://github.com/ezio84/abc_frameworks_base/commit/26a9ef5ce0805100d1c1f000514dfa1370e6f005
+    Ask pin when tapping on Airplane/Cellular tiles if secured
+        https://github.com/ezio84/abc_frameworks_base/commit/06afcdc5e3e80b1f689742b5956af77a7c7bcf84
 
 Improve notification/headsup group header layouts
     https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
@@ -54,14 +57,14 @@ Screenshot improvements
 
 
 Allow to dismiss notifications with back FP left/right swipe
-https://github.com/ezio84/abc_packages_apps_Settings/commit/38abeefe0439b2ce56340757d373ce24318d68c8
-https://github.com/ezio84/abc_frameworks_base/commit/a5f73a8cd8815eab5235db7bea74f1c9b594bbdd
-https://github.com/ezio84/abc_frameworks_base/commit/c6e3bf88ce50739975495da9e31c365482a259e4
-https://github.com/ezio84/abc_packages_apps_Settings/commit/c66b0324292894ca00a2d85cb3c8990863154433
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/38abeefe0439b2ce56340757d373ce24318d68c8
+    https://github.com/ezio84/abc_frameworks_base/commit/a5f73a8cd8815eab5235db7bea74f1c9b594bbdd
+    https://github.com/ezio84/abc_frameworks_base/commit/c6e3bf88ce50739975495da9e31c365482a259e4
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/c66b0324292894ca00a2d85cb3c8990863154433
 
 SystemUI: Add quick settings pull down with one finger 
-https://github.com/ezio84/abc_frameworks_base/commit/1dbd7bb218f27ba65de45c6253f690a01281e996
-https://github.com/ezio84/abc_packages_apps_Settings/commit/12ba75f49f8e400b0ac36aa2b591a5b25fe4d02b
+    https://github.com/ezio84/abc_frameworks_base/commit/1dbd7bb218f27ba65de45c6253f690a01281e996
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/12ba75f49f8e400b0ac36aa2b591a5b25fe4d02b
 
 ----
 ----
@@ -69,15 +72,15 @@ https://github.com/ezio84/abc_packages_apps_Settings/commit/12ba75f49f8e400b0ac3
 More low level improvements & stuff
 
 Add custom settings observer
-https://github.com/ezio84/abc_frameworks_base/commit/0edec763877b051e4b0aeb60a1b5abefe3aa35ff
+    https://github.com/ezio84/abc_frameworks_base/commit/0edec763877b051e4b0aeb60a1b5abefe3aa35ff
 
 Add custom settings preferences (e.g. color picker), as buildable lib for other trees like Settings
 add to manifest: https://github.com/ezio84/abc_vendor_support
 then build it in the needed apk (like Settings) with this call: https://github.com/ezio84/abc_packages_apps_Settings/commit/cea93c9d9478050f856be62e2b88c47e6f57687a
 
 Only play sound effects if stream is not muted. 
-https://github.com/ezio84/abc_frameworks_base/commit/5c6cadf93ff9ed5fa7d80708c2bb175364d36bf2
+    https://github.com/ezio84/abc_frameworks_base/commit/5c6cadf93ff9ed5fa7d80708c2bb175364d36bf2
 
 SystemUI: Allow overlaying max notification icons
-https://github.com/ezio84/abc_frameworks_base/commit/5567c66837a6e166653ea5a7a3aae5d8322642fc
+    https://github.com/ezio84/abc_frameworks_base/commit/5567c66837a6e166653ea5a7a3aae5d8322642fc
     then override the values in your custom vendor tree
