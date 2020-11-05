@@ -45,6 +45,8 @@ QS panel
         https://github.com/ezio84/abc_frameworks_base/commit/26a9ef5ce0805100d1c1f000514dfa1370e6f005
     Ask pin when tapping on Airplane/Cellular tiles if secured
         https://github.com/ezio84/abc_frameworks_base/commit/06afcdc5e3e80b1f689742b5956af77a7c7bcf84
+    Cellular QS tile: Kill dialog asking to disable mobile data
+        https://github.com/ezio84/abc_frameworks_base/commit/40182abf6abe987a6af0a96125f0ab420970f536
 
 Improve notification/headsup group header layouts
     https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
