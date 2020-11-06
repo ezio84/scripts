@@ -47,6 +47,12 @@ QS panel
         https://github.com/ezio84/abc_frameworks_base/commit/06afcdc5e3e80b1f689742b5956af77a7c7bcf84
     Cellular QS tile: Kill dialog asking to disable mobile data
         https://github.com/ezio84/abc_frameworks_base/commit/40182abf6abe987a6af0a96125f0ab420970f536
+    Allow to set QS panel columns and rows
+        https://github.com/ezio84/abc_frameworks_base/commit/987617339faf9469a854affe5e739553674fc3ac
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/b01d16f740029dc2fed71b8d0a07b279b7ed166a
+    QS tile titles visibility
+        https://github.com/ezio84/abc_frameworks_base/commit/55419893a62701fdffef87c19838cbbd74ea8337
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/c000fa8630c15fd0bb906ba5c4f0fb6b788a76a6
 
 Improve notification/headsup group header layouts
     https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
