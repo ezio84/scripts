@@ -53,6 +53,12 @@ QS panel
     QS tile titles visibility
         https://github.com/ezio84/abc_frameworks_base/commit/55419893a62701fdffef87c19838cbbd74ea8337
         https://github.com/ezio84/abc_packages_apps_Settings/commit/c000fa8630c15fd0bb906ba5c4f0fb6b788a76a6
+    Caffeine tile
+        https://github.com/ezio84/abc_frameworks_base/commit/3eb16a73c6ee9788e99db3e0c39fcc8c5c0a0268
+    Add dynamic Immersive Mode tile
+        https://github.com/ezio84/abc_frameworks_base/commit/9fe0782264027e1f8a654fe9b3d3dace5033caf3
+    Add Mono audio tile (aka headphone in one ear only)
+        https://github.com/ezio84/abc_frameworks_base/commit/22c27ac9c99e2dbe2323071a2c6c42831880b6d2
 
 Improve notification/headsup group header layouts
     https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
