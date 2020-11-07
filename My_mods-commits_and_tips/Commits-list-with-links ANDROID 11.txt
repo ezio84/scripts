@@ -54,11 +54,11 @@ QS panel
         https://github.com/ezio84/abc_frameworks_base/commit/55419893a62701fdffef87c19838cbbd74ea8337
         https://github.com/ezio84/abc_packages_apps_Settings/commit/c000fa8630c15fd0bb906ba5c4f0fb6b788a76a6
     Caffeine tile
-        https://github.com/ezio84/abc_frameworks_base/commit/3eb16a73c6ee9788e99db3e0c39fcc8c5c0a0268
-    Add dynamic Immersive Mode tile
-        https://github.com/ezio84/abc_frameworks_base/commit/9fe0782264027e1f8a654fe9b3d3dace5033caf3
+        https://github.com/ezio84/abc_frameworks_base/commit/01beffa083c46db5453686637344cb4cd2b9d07b
+    Add Google Sound Search tile
+        https://github.com/ezio84/abc_frameworks_base/commit/f20a3a212267bc79cd7bd7848fc4be41ab1ac57a
     Add Mono audio tile (aka headphone in one ear only)
-        https://github.com/ezio84/abc_frameworks_base/commit/22c27ac9c99e2dbe2323071a2c6c42831880b6d2
+        https://github.com/ezio84/abc_frameworks_base/commit/eca79cbda068e9d9f4f6c64b0a9326f41cc76663
 
 Improve notification/headsup group header layouts
     https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
@@ -80,6 +80,12 @@ SystemUI: Add quick settings pull down with one finger
     https://github.com/ezio84/abc_frameworks_base/commit/1dbd7bb218f27ba65de45c6253f690a01281e996
     https://github.com/ezio84/abc_packages_apps_Settings/commit/12ba75f49f8e400b0ac36aa2b591a5b25fe4d02b
 
+Flashlight actions (power button, squeeze and further ones)
+    https://github.com/ezio84/abc_frameworks_base/commit/231b59fb834ccedc1064d1a13075bd1d7e7103d8
+    https://github.com/ezio84/abc_frameworks_base/commit/d8d8a7a34eb055c208cc40da2f9c11408c0e10bc
+    https://github.com/ezio84/abc_frameworks_base/commit/d00cc09cde6bc836374913f3511f400a37680b34
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/30a3e8fd0b65d5995de4a2ddd1c99190399d1790
+
 ----
 ----
 
@@ -98,3 +104,6 @@ Only play sound effects if stream is not muted.
 SystemUI: Allow overlaying max notification icons
     https://github.com/ezio84/abc_frameworks_base/commit/5567c66837a6e166653ea5a7a3aae5d8322642fc
     then override the values in your custom vendor tree
+
+Utils helper class
+https://github.com/ezio84/abc_frameworks_base/commit/231b59fb834ccedc1064d1a13075bd1d7e7103d8
