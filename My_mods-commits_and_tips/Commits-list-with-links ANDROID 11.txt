@@ -86,11 +86,15 @@ Flashlight actions (power button, squeeze and further ones)
     https://github.com/ezio84/abc_frameworks_base/commit/d00cc09cde6bc836374913f3511f400a37680b34
     https://github.com/ezio84/abc_packages_apps_Settings/commit/30a3e8fd0b65d5995de4a2ddd1c99190399d1790
 
-Enable lockscreen media art and set blur level
-https://github.com/ezio84/abc_frameworks_base/commit/ab014d5c110b874c1b3f37ab0726c13b5f1e50ae
-https://github.com/ezio84/abc_frameworks_base/commit/75b21852902fe2657e2e6ca7694042fb034354b1
-https://github.com/ezio84/abc_packages_apps_Settings/commit/119615f6afb6c2e8941556316eb4858fb663534d
-https://github.com/ezio84/abc_packages_apps_Settings/commit/5461056140341001c642be3993bf17dddec9f7da
+Lockscreen
+    Enable lockscreen media art and set blur level
+        https://github.com/ezio84/abc_frameworks_base/commit/ab014d5c110b874c1b3f37ab0726c13b5f1e50ae
+        https://github.com/ezio84/abc_frameworks_base/commit/75b21852902fe2657e2e6ca7694042fb034354b1
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/119615f6afb6c2e8941556316eb4858fb663534d
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/5461056140341001c642be3993bf17dddec9f7da
+    Add double tap to sleep gesture
+        https://github.com/ezio84/abc_frameworks_base/commit/34799b796c6ecc35e53c6c4944826ca00fd886ef
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/a0c71573748f88c722a5d117b7aea274dce5e22d
 
 More low level improvements & stuff
 
