@@ -96,6 +96,13 @@ Lockscreen
         https://github.com/ezio84/abc_frameworks_base/commit/34799b796c6ecc35e53c6c4944826ca00fd886ef
         https://github.com/ezio84/abc_packages_apps_Settings/commit/a0c71573748f88c722a5d117b7aea274dce5e22d
 
+Volume rocker screen OFF skip music tracks
+    https://github.com/ezio84/abc_frameworks_base/commit/62e925ef57b371474b169529c3ffe2e39803c17a
+    https://github.com/ezio84/abc_frameworks_base/commit/63e886414b63783e0290e64d9fed7a6d65607c92
+    https://github.com/ezio84/abc_frameworks_base/commit/73963d72dd8e911742142a3346da0d82758bfab2
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a65a910bac279783e267658b9c0729d3de2cf14e
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/54635207b96c8fc4304e00932ad47c2dee994f43
+
 More low level improvements & stuff
 
 Add custom settings observer
