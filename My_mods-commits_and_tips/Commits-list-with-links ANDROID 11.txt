@@ -103,6 +103,18 @@ Volume rocker screen OFF skip music tracks
     https://github.com/ezio84/abc_packages_apps_Settings/commit/a65a910bac279783e267658b9c0729d3de2cf14e
     https://github.com/ezio84/abc_packages_apps_Settings/commit/54635207b96c8fc4304e00932ad47c2dee994f43
 
+Ambient music: pulse on new music tracks and Now Playing info
+    https://github.com/ezio84/abc_frameworks_base/commit/502ce662d59cf7f5cf588b5bce17d43008dd7b12
+    https://github.com/ezio84/abc_frameworks_base/commit/2c489b59840ea09b112c94bd7bd5c5ceffa21428
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/887382b819859b8e9859c6a045de7c33cbb07f34
+
+Show Ambient instead of lockscreen on wake gestures
+    https://github.com/ezio84/abc_frameworks_base/commit/ea1cbba18dcd855e6c7698e4eff68b9e872d64d4
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/ed94175be582dd05868dcd5090ae8035946c06d3
+    
+    
+-----
+
 More low level improvements & stuff
 
 Add custom settings observer
