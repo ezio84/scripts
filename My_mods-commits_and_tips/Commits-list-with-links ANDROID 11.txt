@@ -117,6 +117,11 @@ Show Ambient instead of lockscreen on wake gestures
 
 More low level improvements & stuff
 
+Fix 2tap2wake after Ambient Pulsing on some devices
+https://github.com/ezio84/abc_frameworks_base/commit/59822511a92d98e2678a7d79d5934f5abd2384d1
+https://github.com/ezio84/abc_device_google_wahoo/commit/5c4f185132afe65bb2a787fae8c502dd51e54dc3
+
+
 Add custom settings observer
     https://github.com/ezio84/abc_frameworks_base/commit/0edec763877b051e4b0aeb60a1b5abefe3aa35ff
 
