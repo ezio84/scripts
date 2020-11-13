@@ -112,6 +112,16 @@ Show Ambient instead of lockscreen on wake gestures
     https://github.com/ezio84/abc_frameworks_base/commit/43a25a2f1984eb428c6b2c5496505665c6d4aafd
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e56fba64cea19cab572d389530efee9f72adad1d
     
+Improved aosp partial screenshot
+    add Utils/API helper classes (see bottom of this commits list) to be able to call full/partial
+    screenshot from everywhere (tiles, gestures and so on), then:
+    https://github.com/ezio84/abc_frameworks_base/commit/9f1b3fca0844c01a86ce6993ba993ec999841a31
+
+Add Squeeze (Active Edge) for supported Pixel devices
+    track https://github.com/ezio84/abc_packages_apps_ElmyraService/commits/r
+    enable the service in the device tree: https://github.com/ezio84/abc_device_google_taimen/commit/16f276c4657f8f2390d5e35d4476a39bc1c0caf9
+    extend actions and add proximity check: https://github.com/ezio84/abc_frameworks_base/commit/db494187638eacc3d72d476df15c3bac94aff080
+
     
 -----
 
@@ -120,7 +130,6 @@ More low level improvements & stuff
 Fix 2tap2wake after Ambient Pulsing on some devices
 https://github.com/ezio84/abc_frameworks_base/commit/59822511a92d98e2678a7d79d5934f5abd2384d1
 https://github.com/ezio84/abc_device_google_wahoo/commit/5c4f185132afe65bb2a787fae8c502dd51e54dc3
-
 
 Add custom settings observer
     https://github.com/ezio84/abc_frameworks_base/commit/0edec763877b051e4b0aeb60a1b5abefe3aa35ff
@@ -136,5 +145,7 @@ SystemUI: Allow overlaying max notification icons
     https://github.com/ezio84/abc_frameworks_base/commit/5567c66837a6e166653ea5a7a3aae5d8322642fc
     then override the values in your custom vendor tree
 
-Utils helper class
-https://github.com/ezio84/abc_frameworks_base/commit/231b59fb834ccedc1064d1a13075bd1d7e7103d8
+Utils/API helper classes
+https://github.com/ezio84/abc_frameworks_base/commits/r/core/java/com/android/internal/util/custom/Utils.java
+https://github.com/ezio84/abc_frameworks_base/commits/r/core/java/com/android/internal/util/custom/LineageButtons.java
+
