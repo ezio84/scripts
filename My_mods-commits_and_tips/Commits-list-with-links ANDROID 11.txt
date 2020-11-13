@@ -59,6 +59,9 @@ QS panel
         https://github.com/ezio84/abc_frameworks_base/commit/f20a3a212267bc79cd7bd7848fc4be41ab1ac57a
     Add Mono audio tile (aka headphone in one ear only)
         https://github.com/ezio84/abc_frameworks_base/commit/eca79cbda068e9d9f4f6c64b0a9326f41cc76663
+    Add partial/full screenshot QS tile
+    https://github.com/ezio84/abc_frameworks_base/commit/9f14d97f335b4cc93d50efe0b86bc6916d150618
+    https://github.com/ezio84/abc_frameworks_base/commit/d7e1e62069559c73686a9131d603bc8b7fd8e0a6
 
 Improve notification/headsup group header layouts
     https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
