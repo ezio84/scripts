@@ -78,6 +78,7 @@ Allow to dismiss notifications with back FP left/right swipe
 
 SystemUI: Add quick settings pull down with one finger 
     https://github.com/ezio84/abc_frameworks_base/commit/1dbd7bb218f27ba65de45c6253f690a01281e996
+    https://github.com/ezio84/abc_frameworks_base/commit/01922ccd4e259fa2efd02749d2437efb5bf26943
     https://github.com/ezio84/abc_packages_apps_Settings/commit/12ba75f49f8e400b0ac36aa2b591a5b25fe4d02b
 
 Flashlight actions (power button, squeeze and further ones)
