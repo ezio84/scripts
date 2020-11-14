@@ -126,7 +126,10 @@ Add Squeeze (Active Edge) for supported Pixel devices
     enable the service in the device tree: https://github.com/ezio84/abc_device_google_taimen/commit/16f276c4657f8f2390d5e35d4476a39bc1c0caf9
     extend actions and add proximity check: https://github.com/ezio84/abc_frameworks_base/commit/db494187638eacc3d72d476df15c3bac94aff080
 
-    
+
+Screenrecord: add blinking stop dot and low quality options
+    https://github.com/ezio84/abc_frameworks_base/commit/1cb66254b16655126af25d5ada351921ecee66c7
+
 -----
 
 More low level improvements & stuff
