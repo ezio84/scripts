@@ -62,6 +62,9 @@ QS panel
     Add partial/full screenshot QS tile
         https://github.com/ezio84/abc_frameworks_base/commit/483499d1b4f096b1bb7ee49d18e551d9cb7d7ce8
         https://github.com/ezio84/abc_frameworks_base/commit/deab219602beda62fa3a216b44198a25f63962ed
+    Add kill app tile
+        add kill app api commit then:
+        https://github.com/ezio84/abc_frameworks_base/commit/da9e8b69ba31ac5d281d0f3bc349106292500725
 
 Improve notification/headsup group header layouts
     https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
@@ -115,7 +118,7 @@ Ambient music: pulse on new music tracks and Now Playing info
 Show Ambient instead of lockscreen on wake gestures
     https://github.com/ezio84/abc_frameworks_base/commit/43a25a2f1984eb428c6b2c5496505665c6d4aafd
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e56fba64cea19cab572d389530efee9f72adad1d
-    
+
 Improved aosp partial screenshot
     add Utils/API helper classes (see bottom of this commits list) to be able to call full/partial
     screenshot from everywhere (tiles, gestures and so on), then:
@@ -125,7 +128,7 @@ Add Squeeze (Active Edge) for supported Pixel devices
     track https://github.com/ezio84/abc_packages_apps_ElmyraService/commits/r
     enable the service in the device tree: https://github.com/ezio84/abc_device_google_taimen/commit/16f276c4657f8f2390d5e35d4476a39bc1c0caf9
     extend actions and add proximity check: https://github.com/ezio84/abc_frameworks_base/commit/db494187638eacc3d72d476df15c3bac94aff080
-
+    https://github.com/ezio84/abc_frameworks_base/commit/c624280b67755571444fd136c185fd413a307fbe (needs kill app api commit)
 
 Screenrecord: add blinking stop dot and low quality options
     https://github.com/ezio84/abc_frameworks_base/commit/1cb66254b16655126af25d5ada351921ecee66c7
@@ -139,12 +142,18 @@ Show bluetooth battery level in statusbar
     https://github.com/ezio84/abc_frameworks_base/commit/da2058114c10b499e4cd85b3cae6408ec634ed25
     https://github.com/ezio84/abc_frameworks_base/commit/c43b4c256ef4067529473a1b7b0d46f8993bcff7
     https://github.com/ezio84/abc_frameworks_base/commit/cd844561bf27a68875cf21df5f76f06045b61c0e
-    
-Less boring heads up option 
-https://github.com/ezio84/abc_frameworks_base/commit/57e23f6414000db976058015067b052d7fc1a0e4
-https://github.com/ezio84/abc_frameworks_base/commit/adb3117ac064cd4d9333c352dece8ed90b25da6f
-https://github.com/ezio84/abc_packages_apps_Settings/commit/a190431b656cd2f581d9a48d652e2cd9f288f4fd
 
+Less boring heads up option 
+    https://github.com/ezio84/abc_frameworks_base/commit/57e23f6414000db976058015067b052d7fc1a0e4
+    https://github.com/ezio84/abc_frameworks_base/commit/adb3117ac064cd4d9333c352dece8ed90b25da6f
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/a190431b656cd2f581d9a48d652e2cd9f288f4fd
+
+Allow to suppress notifications sound/vibration if screen is ON
+    https://github.com/ezio84/abc_frameworks_base/commit/9d2ce7eb538482b38aad0a89300add87820c279d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e51b54252e2d081fa9763efb5e71e5a32872187f
+
+Add api to get or kill foreground app
+    https://github.com/ezio84/abc_frameworks_base/commit/a52c4da652a9a641593eb1690bd6989134bdcfa3
 
 -----
 
