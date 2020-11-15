@@ -130,6 +130,22 @@ Add Squeeze (Active Edge) for supported Pixel devices
 Screenrecord: add blinking stop dot and low quality options
     https://github.com/ezio84/abc_frameworks_base/commit/1cb66254b16655126af25d5ada351921ecee66c7
 
+Swap volume buttons on rotation
+    https://github.com/ezio84/abc_frameworks_base/commit/f136d139f1004293d1d933a7af66f3efae6646bf
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/2adbd560bca6ac76b1786a001a1f773613cbc4f6
+    https://github.com/ezio84/abc_frameworks_native/commit/bae16ea0f048025245ffa94d57e0cab3946663ff
+
+Show bluetooth battery level in statusbar
+    https://github.com/ezio84/abc_frameworks_base/commit/da2058114c10b499e4cd85b3cae6408ec634ed25
+    https://github.com/ezio84/abc_frameworks_base/commit/c43b4c256ef4067529473a1b7b0d46f8993bcff7
+    https://github.com/ezio84/abc_frameworks_base/commit/cd844561bf27a68875cf21df5f76f06045b61c0e
+    
+Less boring heads up option 
+https://github.com/ezio84/abc_frameworks_base/commit/57e23f6414000db976058015067b052d7fc1a0e4
+https://github.com/ezio84/abc_frameworks_base/commit/adb3117ac064cd4d9333c352dece8ed90b25da6f
+https://github.com/ezio84/abc_packages_apps_Settings/commit/a190431b656cd2f581d9a48d652e2cd9f288f4fd
+
+
 -----
 
 More low level improvements & stuff
