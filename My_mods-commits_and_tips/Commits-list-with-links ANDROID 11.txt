@@ -64,7 +64,7 @@ QS panel
         https://github.com/ezio84/abc_frameworks_base/commit/deab219602beda62fa3a216b44198a25f63962ed
     Add kill app tile
         add kill app api commit then:
-        https://github.com/ezio84/abc_frameworks_base/commit/da9e8b69ba31ac5d281d0f3bc349106292500725
+        https://github.com/ezio84/abc_frameworks_base/commit/560422582bbec8a43600832776aa3908b797b667
 
 Improve notification/headsup group header layouts
     https://github.com/ezio84/abc_frameworks_base/commit/6711dacc51587070742d2400640f1f8429d70208
@@ -128,7 +128,7 @@ Add Squeeze (Active Edge) for supported Pixel devices
     track https://github.com/ezio84/abc_packages_apps_ElmyraService/commits/r
     enable the service in the device tree: https://github.com/ezio84/abc_device_google_taimen/commit/16f276c4657f8f2390d5e35d4476a39bc1c0caf9
     extend actions and add proximity check: https://github.com/ezio84/abc_frameworks_base/commit/db494187638eacc3d72d476df15c3bac94aff080
-    https://github.com/ezio84/abc_frameworks_base/commit/c624280b67755571444fd136c185fd413a307fbe (needs kill app api commit)
+    https://github.com/ezio84/abc_frameworks_base/commit/470bd6c285422637d73bf8c36d2f0eb2b7cd85dc (needs kill app api commit)
 
 Screenrecord: add blinking stop dot and low quality options
     https://github.com/ezio84/abc_frameworks_base/commit/1cb66254b16655126af25d5ada351921ecee66c7
@@ -153,7 +153,15 @@ Allow to suppress notifications sound/vibration if screen is ON
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e51b54252e2d081fa9763efb5e71e5a32872187f
 
 Add api to get or kill foreground app
-    https://github.com/ezio84/abc_frameworks_base/commit/a52c4da652a9a641593eb1690bd6989134bdcfa3
+    https://github.com/ezio84/abc_frameworks_base/commit/01b500ee35d7166ddc33dee9950470799e398a43
+
+Allow to quickly open Running Services from QS panel 
+    https://github.com/ezio84/abc_frameworks_base/commit/4b851dac9135a768998ce8d9785edbae2b05afd2
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e90ef9f0c521c7a00447ba926db76888728222ca
+
+Add option to enable AOD on charging only 
+    https://github.com/ezio84/abc_frameworks_base/commit/2a9b3c1c174441e58ee423adff38f05444e3ea95
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/b44a2383a0b4cb07df9f740eb99a7ad63e4a1709
 
 -----
 
@@ -162,6 +170,9 @@ More low level improvements & stuff
 Fix 2tap2wake after Ambient Pulsing on some devices
 https://github.com/ezio84/abc_frameworks_base/commit/59822511a92d98e2678a7d79d5934f5abd2384d1
 https://github.com/ezio84/abc_device_google_wahoo/commit/5c4f185132afe65bb2a787fae8c502dd51e54dc3
+
+Properly set fonts and icons on keyguard when changing styles
+    https://github.com/ezio84/abc_frameworks_base/commit/0977201aafd9057c4a95bacc9ad3c0008134465a
 
 Add custom settings observer
     https://github.com/ezio84/abc_frameworks_base/commit/0edec763877b051e4b0aeb60a1b5abefe3aa35ff
