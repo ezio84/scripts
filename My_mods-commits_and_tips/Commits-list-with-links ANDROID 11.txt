@@ -163,6 +163,10 @@ Add option to enable AOD on charging only
     https://github.com/ezio84/abc_frameworks_base/commit/2a9b3c1c174441e58ee423adff38f05444e3ea95
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b44a2383a0b4cb07df9f740eb99a7ad63e4a1709
 
+Settings: Expose option to change the device hostname 
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/86138c84b9b228f4b43456160727cc4a287dc934
+    https://github.com/ezio84/abc_frameworks_base/commit/19671e6b2cbc5d109235ef83fec036720e1c88a7
+    https://github.com/ezio84/abc_vendor_support/commit/0de411dce376a839931b1fabd023234baff528fe
 -----
 
 More low level improvements & stuff
