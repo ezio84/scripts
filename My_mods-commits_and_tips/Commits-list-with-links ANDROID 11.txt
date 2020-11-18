@@ -169,10 +169,31 @@ Settings: Expose option to change the device hostname
     https://github.com/ezio84/abc_vendor_support/commit/0de411dce376a839931b1fabd023234baff528fe
 
 Show estimated battery life in expanded statusbar
-    https://github.com/ezio84/abc_frameworks_base/commit/70e41e6496e0078f34c38809ab17aa663d9502b9
+    https://github.com/ezio84/abc_frameworks_base/commit/709f429c24b4a17203a3d967c3faa9c41021f635
 
 Open advanced power usage summary on header click of battery
-https://github.com/ezio84/abc_packages_apps_Settings/commit/692928445435795d0ab17989fedd402fa043b045
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/9dd7ad1af97ab0561a3b28f7fbb8fafa26f06c7f
+
+Notification led light customization (per app/specific notification channel)
+    https://github.com/ezio84/abc_frameworks_base/commit/ce006a264c5121837b3fdc327f399a61e2790df6
+    https://github.com/ezio84/abc_frameworks_base/commit/948b0114c96e0349c122e10fe1943f333f911de3
+    https://github.com/ezio84/abc_frameworks_base/commit/60b194ef4da5b33add14686106f3139895a6ead9
+    https://github.com/ezio84/abc_frameworks_base/commit/4f1b9d487f6ab25a50a952ff3040b1835152909f
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/534835a0c0d020807bfce80d8e0f85ff65c72660
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/4484021bb2e76cb7ce86e19e90a95dee80dab21c
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/7ec15dbeba720ba1da50217ae138c99ec04c9a33
+    https://github.com/ezio84/abc_device_google_wahoo/commit/047f6ab484631d00d7f617f8087429fc9b3d5f70
+    then override to true also: 
+        <bool name="config_intrusiveNotificationLed">true</bool>
+        <bool name="config_multiColorNotificationLed">true</bool>
+
+Battery light customization
+    https://github.com/ezio84/abc_frameworks_base/commit/ce006a264c5121837b3fdc327f399a61e2790df6
+    https://github.com/ezio84/abc_frameworks_base/commit/5e0b921f24366ffa26f63ce2a9970c0397f4b7a9
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/1410849a6564d86b09ec727edb0fa544eeaa9b1d
+
+
+
 
 -----
 
