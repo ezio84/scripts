@@ -167,6 +167,13 @@ Settings: Expose option to change the device hostname
     https://github.com/ezio84/abc_packages_apps_Settings/commit/86138c84b9b228f4b43456160727cc4a287dc934
     https://github.com/ezio84/abc_frameworks_base/commit/19671e6b2cbc5d109235ef83fec036720e1c88a7
     https://github.com/ezio84/abc_vendor_support/commit/0de411dce376a839931b1fabd023234baff528fe
+
+Show estimated battery life in expanded statusbar
+    https://github.com/ezio84/abc_frameworks_base/commit/70e41e6496e0078f34c38809ab17aa663d9502b9
+
+Open advanced power usage summary on header click of battery
+https://github.com/ezio84/abc_packages_apps_Settings/commit/692928445435795d0ab17989fedd402fa043b045
+
 -----
 
 More low level improvements & stuff
