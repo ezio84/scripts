@@ -33,7 +33,10 @@ Power menu
         https://github.com/ezio84/abc_frameworks_base/commit/095af833a0bae660ebd32df5da0606e4e070c960
         https://github.com/ezio84/abc_frameworks_base/commit/e351b4337e83474a2edf0f94313e05354b618075
     Ask pin for shutdown/reboot on secure lockscreen
-    https://github.com/ezio84/abc_frameworks_base/commit/babbcccafb7071ff56125de4aed8183cefae41df
+        https://github.com/ezio84/abc_frameworks_base/commit/babbcccafb7071ff56125de4aed8183cefae41df
+    Add Wallet controls integration
+        https://github.com/ezio84/abc_vendor_nexus/commit/d132eb5294d8d4ccf9dd82d3d0c99545c01b8d44
+        https://github.com/ezio84/abc_vendor_nexus/commit/a5343d56f91412ef102fc140562e091008d08d12
 
 Gesture nav Assistant handles: don't show them in lockscreen
 and don't reset counters when the users changes navbar modes
@@ -97,6 +100,7 @@ Lockscreen
     Enable lockscreen media art and set blur level
         https://github.com/ezio84/abc_frameworks_base/commit/ab014d5c110b874c1b3f37ab0726c13b5f1e50ae
         https://github.com/ezio84/abc_frameworks_base/commit/75b21852902fe2657e2e6ca7694042fb034354b1
+        https://github.com/ezio84/abc_frameworks_base/commit/28fbc82a275145c7b51641029c15d6d6d9491303
         https://github.com/ezio84/abc_packages_apps_Settings/commit/119615f6afb6c2e8941556316eb4858fb663534d
         https://github.com/ezio84/abc_packages_apps_Settings/commit/5461056140341001c642be3993bf17dddec9f7da
     Add double tap to sleep gesture
