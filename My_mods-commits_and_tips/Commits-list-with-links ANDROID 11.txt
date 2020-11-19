@@ -195,6 +195,7 @@ Battery light customization
     https://github.com/ezio84/abc_frameworks_base/commit/ce006a264c5121837b3fdc327f399a61e2790df6
     https://github.com/ezio84/abc_frameworks_base/commit/5e0b921f24366ffa26f63ce2a9970c0397f4b7a9
     https://github.com/ezio84/abc_packages_apps_Settings/commit/1410849a6564d86b09ec727edb0fa544eeaa9b1d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/7f5a9044c9cbc5bad017f6ca8c257afd1dce2415
 
 
 
