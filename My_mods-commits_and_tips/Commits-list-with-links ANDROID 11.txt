@@ -224,3 +224,8 @@ Utils/API helper classes
 https://github.com/ezio84/abc_frameworks_base/commits/r/core/java/com/android/internal/util/custom/Utils.java
 https://github.com/ezio84/abc_frameworks_base/commits/r/core/java/com/android/internal/util/custom/LineageButtons.java
 
+Fuelgauge (battery submenu) improvements
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/07115377c5ac0e8121097e5a5add42de2d67cb30
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/6a2117366407dbf7870aaddbce03dddc9c5179c1
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/f381c4cd35203dac4365e30e4b086fdb555c358b
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/53bfef7a4332cdb43bd356f19c2f510ea14cf29d
