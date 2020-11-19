@@ -197,7 +197,8 @@ Battery light customization
     https://github.com/ezio84/abc_packages_apps_Settings/commit/1410849a6564d86b09ec727edb0fa544eeaa9b1d
     https://github.com/ezio84/abc_packages_apps_Settings/commit/7235c5909ab9b23d9af0904755405a5aa029be67
 
-
+Set the device hostname like the device name in About Phone
+https://github.com/ezio84/abc_vendor_nexus/commit/53e0adb2bbf4bc7e592b8fef41fecd8d6a12fe94
 
 
 -----
