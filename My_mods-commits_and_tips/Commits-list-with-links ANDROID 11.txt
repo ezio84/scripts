@@ -194,11 +194,13 @@ Notification led light customization (per app/specific notification channel)
 Battery light customization
     https://github.com/ezio84/abc_frameworks_base/commit/ce006a264c5121837b3fdc327f399a61e2790df6
     https://github.com/ezio84/abc_frameworks_base/commit/5e0b921f24366ffa26f63ce2a9970c0397f4b7a9
+    https://github.com/ezio84/abc_frameworks_base/commit/daf8635adc4b015ae43979bfd50a28c7081cf0e7
     https://github.com/ezio84/abc_packages_apps_Settings/commit/1410849a6564d86b09ec727edb0fa544eeaa9b1d
     https://github.com/ezio84/abc_packages_apps_Settings/commit/7235c5909ab9b23d9af0904755405a5aa029be67
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/3b77abc98dd9fb2859e8774e70b8f8a2eae19f84
 
 Set the device hostname like the device name in About Phone
-https://github.com/ezio84/abc_vendor_nexus/commit/53e0adb2bbf4bc7e592b8fef41fecd8d6a12fe94
+    https://github.com/ezio84/abc_vendor_nexus/commit/53e0adb2bbf4bc7e592b8fef41fecd8d6a12fe94
 
 
 -----
