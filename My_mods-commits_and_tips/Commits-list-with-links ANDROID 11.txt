@@ -188,6 +188,7 @@ Notification led light customization (per app/specific notification channel)
     https://github.com/ezio84/abc_packages_apps_Settings/commit/7ec15dbeba720ba1da50217ae138c99ec04c9a33
     https://github.com/ezio84/abc_device_google_wahoo/commit/047f6ab484631d00d7f617f8087429fc9b3d5f70
     then override to true also: 
+        <bool name="config_ledCanPulse">true</bool>
         <bool name="config_intrusiveNotificationLed">true</bool>
         <bool name="config_multiColorNotificationLed">true</bool>
 
@@ -198,9 +199,19 @@ Battery light customization
     https://github.com/ezio84/abc_packages_apps_Settings/commit/1410849a6564d86b09ec727edb0fa544eeaa9b1d
     https://github.com/ezio84/abc_packages_apps_Settings/commit/7235c5909ab9b23d9af0904755405a5aa029be67
     https://github.com/ezio84/abc_packages_apps_Settings/commit/3b77abc98dd9fb2859e8774e70b8f8a2eae19f84
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/267969e1cfc327a5a2f46eb4ae654d5dcf755879
+    then override to true also: 
+         <bool name="config_ledCanPulse">true</bool>
+        <bool name="config_intrusiveBatteryLed">true</bool>
+        <bool name="config_multiColorBatteryLed">true</bool> <-- according to the device
 
 Set the device hostname like the device name in About Phone
     https://github.com/ezio84/abc_vendor_nexus/commit/53e0adb2bbf4bc7e592b8fef41fecd8d6a12fe94
+
+Nav gestures improvements
+    Gestures: allow to set back swipe deadzone
+        https://github.com/ezio84/abc_frameworks_base/commit/c02d86aeef44afc821a99002b88bab56b0cbebcb
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/a00e620ae5b3015400af20c10d349d5eaa68029e
 
 
 -----
