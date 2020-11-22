@@ -221,6 +221,17 @@ Nav gestures improvements
         https://github.com/ezio84/abc_frameworks_base/commit/ddd2e405e94f536e5d155184c1d95ab9758a9c1c
         https://github.com/ezio84/abc_packages_apps_Settings/commit/296a6f622ed3b37f0e655a67bb8c6d70e514ba41
 
+Net monitor
+    https://github.com/ezio84/abc_frameworks_base/commit/589f3585c529fedbd05a6262d2f2e88421604a6a
+    https://github.com/ezio84/abc_frameworks_base/commit/7b02691cc014935e3d1966c0d9c575897f66c92f
+    https://github.com/ezio84/abc_frameworks_base/commit/843d387818c28071a86ca53ed88033bb44b07029
+    https://github.com/ezio84/abc_frameworks_base/commit/cdb899cdb7f6e6d7ba210e58fb97f25a2fbb994e
+    https://github.com/ezio84/abc_frameworks_base/commit/acada1276d2dfb7e7f224f73ae14d3a3c3bc0e76
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/d0eaf926f1df44f9332a43bf310c6b2791d07ca7
+        if you want in normal statusbar too, just pick and adapt the related commits from Q:
+            https://github.com/ezio84/scripts/blob/r/My_mods-commits_and_tips/Commits-list-with-links%20ANDROID%2010.txt#L367
+
+
 -----
 
 More low level improvements & stuff
