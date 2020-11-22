@@ -231,7 +231,11 @@ Net monitor
         if you want in normal statusbar too, just pick and adapt the related commits from Q:
             https://github.com/ezio84/scripts/blob/r/My_mods-commits_and_tips/Commits-list-with-links%20ANDROID%2010.txt#L367
 
-
+Lockscreen/ambient clock styles
+    https://github.com/ezio84/abc_frameworks_base/commit/e1237b56a8ab99c64650c6e14ac9f60f4a55ee53
+    https://github.com/ezio84/abc_frameworks_base/commit/1374eb9ec2c932d0c7b470739a01a909c7a9e644
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/2950d4835101cd50f3e9e11dc69e4c6e0c4012aa
+    
 -----
 
 More low level improvements & stuff
