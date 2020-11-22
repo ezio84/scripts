@@ -213,9 +213,9 @@ Nav gestures improvements
         https://github.com/ezio84/abc_frameworks_base/commit/c02d86aeef44afc821a99002b88bab56b0cbebcb
         https://github.com/ezio84/abc_packages_apps_Settings/commit/a00e620ae5b3015400af20c10d349d5eaa68029e
     Allow long/extended/"L" back swipe to trigger actions/app/activities
-        https://github.com/ezio84/abc_frameworks_base/commit/f3c9545ddd9f7c0773c2a29685e259d470395714
-        https://github.com/ezio84/abc_frameworks_base/commit/568e84bccabaa3060a4d4bcbef219ed583096aef
-        https://github.com/ezio84/abc_frameworks_base/commit/dba9d6400c71c2b031aa1934589bbafdaa4722b1
+        https://github.com/ezio84/abc_frameworks_base/commit/7e4c76bc414ff1b74fde9871ef957690ea636318
+        https://github.com/ezio84/abc_frameworks_base/commit/97b14fb9032f3a73e6c4194f2fd649b93913eef3
+        https://github.com/ezio84/abc_frameworks_base/commit/552fec1bb2ab400e9e8e9caad0b08617dbd57695
         https://github.com/ezio84/abc_packages_apps_Settings/commit/5e053bf2fcb1c0ce3b6e5b1dfce3d291cf91efcc
 
 -----
