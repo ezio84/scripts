@@ -78,7 +78,6 @@ Screenshot improvements
         SystemUI: Adapt screenshot sound to ringer modes
         https://github.com/ezio84/abc_frameworks_base/commit/9a5f82665055804d4856fe5690ab300bf63950d0
 
-
 Allow to dismiss notifications with back FP left/right swipe
     https://github.com/ezio84/abc_packages_apps_Settings/commit/38abeefe0439b2ce56340757d373ce24318d68c8
     https://github.com/ezio84/abc_frameworks_base/commit/a5f73a8cd8815eab5235db7bea74f1c9b594bbdd
@@ -254,7 +253,13 @@ Statusbar battery customization
     https://github.com/ezio84/abc_frameworks_base/commit/3269243ecacaaad2b557064ba5f4c16e222bcdf1
     https://github.com/ezio84/abc_frameworks_base/commit/ae83e9880a50b66c1003fc20c782a9b88ad3237c
     
-    
+Status bar clock/date customizations 
+    https://github.com/ezio84/abc_frameworks_base/commit/167f52076381331bec66826fe46c3885cea7f44b
+    https://github.com/ezio84/abc_frameworks_base/commit/9487440cdddedce5b04b4e17933f6bf92b9db04c
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/afb6ca38967e63b6d2183f5ba9c0da5c6ca2a111
+        To hide clock when home is showing (kill-app api commits needed):
+            https://github.com/ezio84/abc_frameworks_base/commit/35fbadd4ce6f7d396eb98c959b84ea3313ce6d71
+            https://github.com/ezio84/abc_packages_apps_Settings/commit/4ecc5fb014f025d252c99dcb73a25a59a481b851
 -----
 
 More low level improvements & stuff
