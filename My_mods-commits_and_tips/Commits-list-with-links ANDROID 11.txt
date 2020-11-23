@@ -236,6 +236,25 @@ Lockscreen/ambient clock styles
     https://github.com/ezio84/abc_frameworks_base/commit/1374eb9ec2c932d0c7b470739a01a909c7a9e644
     https://github.com/ezio84/abc_packages_apps_Settings/commit/2950d4835101cd50f3e9e11dc69e4c6e0c4012aa
     
+Statusbar battery customization
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/1c6b086f6b513782439a2197278000dd012cc851
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/f7b048933a1ee408ed7b05b94386d690ed209856
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/b322cc9512485d2f93327582831249f237523254
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/04d7d4d9c66e1b94852c9af87c30e711dbb948f4
+    https://github.com/ezio84/abc_frameworks_base/commit/58d22e6a78368f669c8b52f72fff788b24be7874
+    https://github.com/ezio84/abc_frameworks_base/commit/08776466d79d6b02975fa2281574e42fa2794bab
+    https://github.com/ezio84/abc_frameworks_base/commit/5a452c253c913dbbbcdfb25f6bc53182b4671ffd
+    https://github.com/ezio84/abc_frameworks_base/commit/6c173274d74ac7044c094e515a078ee14e61ce4d
+    https://github.com/ezio84/abc_frameworks_base/commit/1028a7d64e4307297f17993b09606dc60f70816e
+    https://github.com/ezio84/abc_frameworks_base/commit/c419b89b4597b8c4403ab80c9ce750cb3683225a
+    https://github.com/ezio84/abc_frameworks_base/commit/35b927531170cb3ddf3b3558c6b77004231e8cc4
+    https://github.com/ezio84/abc_frameworks_base/commit/7e63c8a53b785c7ca81d1ea9ee7b7e0b18d2bec8
+    https://github.com/ezio84/abc_frameworks_base/commit/739f16839d12fa5ae9fdeb79194f19c201cce14d
+    https://github.com/ezio84/abc_frameworks_base/commit/7a0a8c62cf0a5dba0976752c22fc92977c9d54c4
+    https://github.com/ezio84/abc_frameworks_base/commit/3269243ecacaaad2b557064ba5f4c16e222bcdf1
+    https://github.com/ezio84/abc_frameworks_base/commit/ae83e9880a50b66c1003fc20c782a9b88ad3237c
+    
+    
 -----
 
 More low level improvements & stuff
