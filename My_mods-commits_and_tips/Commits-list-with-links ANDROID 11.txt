@@ -294,3 +294,20 @@ Fuelgauge (battery submenu) improvements
     https://github.com/ezio84/abc_packages_apps_Settings/commit/6a2117366407dbf7870aaddbce03dddc9c5179c1
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f381c4cd35203dac4365e30e4b086fdb555c358b
     https://github.com/ezio84/abc_packages_apps_Settings/commit/53bfef7a4332cdb43bd356f19c2f510ea14cf29d
+
+Safety net hacks
+    https://github.com/ezio84/abc_system_core/commit/d97a619367e9f24d7b64f56a6b021b51578d139b
+    https://github.com/ezio84/abc_build/commit/8323a71267c6201be8e68aa81d3ff3bb93e4a14d
+    https://github.com/ezio84/abc_build/commit/5adf006303450e2a23710751e98f0464187408ae
+    https://github.com/ezio84/abc_build/commit/8413f37116e1469ce13049d1406b7c172d3e869f
+    https://github.com/ezio84/abc_build/commit/0c32379ca25b6d1cd42fffb050019e817c997f8d
+    https://github.com/ezio84/abc_build/commit/adb8e619ba6a4536d9cfd4fb292dc009cf3226c4
+    https://github.com/ezio84/abc_build/commit/01be6164099314848afb72e08e4f8565744526f4
+    https://github.com/ezio84/abc_build/commit/b7e1badbd12925756e218900daf7850518d49a09
+    https://github.com/ezio84/abc_frameworks_base/commit/ad9699fdb5d5e76045fc148a5c99ee6b9c6f6039
+    https://github.com/ezio84/abc_frameworks_base/commit/56300a1641c42e746b5e44be6d179849801c1bde
+        to enable the model hack add this to the device tree:
+        https://github.com/ezio84/abc_device_google_wahoo/commit/4df135e439769dda2cb4740e519594c5657daa96
+            for devices like taimen with discontinued support by Google, add these too:
+            https://github.com/ezio84/abc_device_google_wahoo/commit/ce50c3716d6d607d09368070aa6ee8f4f646257b
+            https://github.com/ezio84/abc_device_google_wahoo/commit/2354512e7b4578bf2c577f9cd0bde23ce6346abe
