@@ -240,25 +240,25 @@ Statusbar battery customization
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f7b048933a1ee408ed7b05b94386d690ed209856
     https://github.com/ezio84/abc_packages_apps_Settings/commit/b322cc9512485d2f93327582831249f237523254
     https://github.com/ezio84/abc_packages_apps_Settings/commit/04d7d4d9c66e1b94852c9af87c30e711dbb948f4
-    https://github.com/ezio84/abc_frameworks_base/commit/58d22e6a78368f669c8b52f72fff788b24be7874
-    https://github.com/ezio84/abc_frameworks_base/commit/08776466d79d6b02975fa2281574e42fa2794bab
-    https://github.com/ezio84/abc_frameworks_base/commit/5a452c253c913dbbbcdfb25f6bc53182b4671ffd
-    https://github.com/ezio84/abc_frameworks_base/commit/6c173274d74ac7044c094e515a078ee14e61ce4d
-    https://github.com/ezio84/abc_frameworks_base/commit/1028a7d64e4307297f17993b09606dc60f70816e
-    https://github.com/ezio84/abc_frameworks_base/commit/c419b89b4597b8c4403ab80c9ce750cb3683225a
-    https://github.com/ezio84/abc_frameworks_base/commit/35b927531170cb3ddf3b3558c6b77004231e8cc4
-    https://github.com/ezio84/abc_frameworks_base/commit/7e63c8a53b785c7ca81d1ea9ee7b7e0b18d2bec8
-    https://github.com/ezio84/abc_frameworks_base/commit/739f16839d12fa5ae9fdeb79194f19c201cce14d
-    https://github.com/ezio84/abc_frameworks_base/commit/7a0a8c62cf0a5dba0976752c22fc92977c9d54c4
-    https://github.com/ezio84/abc_frameworks_base/commit/3269243ecacaaad2b557064ba5f4c16e222bcdf1
-    https://github.com/ezio84/abc_frameworks_base/commit/ae83e9880a50b66c1003fc20c782a9b88ad3237c
+    https://github.com/ezio84/abc_frameworks_base/commit/072a868b11baf5ee7fc77bcba32a50cffa34c75a
+    https://github.com/ezio84/abc_frameworks_base/commit/fa4260e47b6d32b42e71815110e66a6f21cd7493
+    https://github.com/ezio84/abc_frameworks_base/commit/fade62e7132384a255366c4b438dd278115d42ee
+    https://github.com/ezio84/abc_frameworks_base/commit/1f915e971f57f75cd71ad88411ca6e2037e1fcae
+    https://github.com/ezio84/abc_frameworks_base/commit/b2d6c7578cea63c783f641f95aaa1b9a99aa67fc
+    https://github.com/ezio84/abc_frameworks_base/commit/b21b0cf452f154e533252bce4f52284cc3bedf55
+    https://github.com/ezio84/abc_frameworks_base/commit/09cb7da189d82260fe60477559f881eac5c17dbe
+    https://github.com/ezio84/abc_frameworks_base/commit/d2b9942cf5618ffe6510b05dcfee053cdad3a95b
+    https://github.com/ezio84/abc_frameworks_base/commit/22607f726356e26021f91babf092928a4ec873d6
+    https://github.com/ezio84/abc_frameworks_base/commit/6da5181219da4349190636bf7f66c2671702797f
+    https://github.com/ezio84/abc_frameworks_base/commit/0979a54ca98dcea18f20475a7106f737852dfc56
+    https://github.com/ezio84/abc_frameworks_base/commit/325bbf4cf126c5a09b3222775da25cc4edd0dcd1
     
 Status bar clock/date customizations 
-    https://github.com/ezio84/abc_frameworks_base/commit/167f52076381331bec66826fe46c3885cea7f44b
-    https://github.com/ezio84/abc_frameworks_base/commit/9487440cdddedce5b04b4e17933f6bf92b9db04c
+    https://github.com/ezio84/abc_frameworks_base/commit/8ea2047d0617a6af42e65c8b4555314ff7afe353
+    https://github.com/ezio84/abc_frameworks_base/commit/5936c1c1964834674c679363d42655a3eb918cd1
     https://github.com/ezio84/abc_packages_apps_Settings/commit/afb6ca38967e63b6d2183f5ba9c0da5c6ca2a111
         To hide clock when home is showing (kill-app api commits needed):
-            https://github.com/ezio84/abc_frameworks_base/commit/35fbadd4ce6f7d396eb98c959b84ea3313ce6d71
+            https://github.com/ezio84/abc_frameworks_base/commit/9eac2035f800bdbc3c9fd67d9befdba919b3991f
             https://github.com/ezio84/abc_packages_apps_Settings/commit/4ecc5fb014f025d252c99dcb73a25a59a481b851
 -----
 
@@ -304,8 +304,8 @@ Safety net hacks
     https://github.com/ezio84/abc_build/commit/adb8e619ba6a4536d9cfd4fb292dc009cf3226c4
     https://github.com/ezio84/abc_build/commit/01be6164099314848afb72e08e4f8565744526f4
     https://github.com/ezio84/abc_build/commit/b7e1badbd12925756e218900daf7850518d49a09
-    https://github.com/ezio84/abc_frameworks_base/commit/ad9699fdb5d5e76045fc148a5c99ee6b9c6f6039
-    https://github.com/ezio84/abc_frameworks_base/commit/56300a1641c42e746b5e44be6d179849801c1bde
+    https://github.com/ezio84/abc_frameworks_base/commit/e0b2f4df5b9efffdb4041ba9a3ea93888c935a1e
+    https://github.com/ezio84/abc_frameworks_base/commit/308894e6db4a14dee497c03d7be501995a7b726a
         to enable the model hack add this to the device tree:
         https://github.com/ezio84/abc_device_google_wahoo/commit/4df135e439769dda2cb4740e519594c5657daa96
             for devices like taimen with discontinued support by Google, add these too:
