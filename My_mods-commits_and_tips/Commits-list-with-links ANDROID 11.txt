@@ -215,6 +215,7 @@ Nav gestures improvements
         https://github.com/ezio84/abc_frameworks_base/commit/7e4c76bc414ff1b74fde9871ef957690ea636318
         https://github.com/ezio84/abc_frameworks_base/commit/97b14fb9032f3a73e6c4194f2fd649b93913eef3
         https://github.com/ezio84/abc_frameworks_base/commit/552fec1bb2ab400e9e8e9caad0b08617dbd57695
+        https://github.com/ezio84/abc_frameworks_base/commit/458260ebf38534f9fa27b8112ec1f44bbed2f43b
         https://github.com/ezio84/abc_packages_apps_Settings/commit/5e053bf2fcb1c0ce3b6e5b1dfce3d291cf91efcc
     Hide gesture nav pill
         https://github.com/ezio84/abc_frameworks_base/commit/ddd2e405e94f536e5d155184c1d95ab9758a9c1c
