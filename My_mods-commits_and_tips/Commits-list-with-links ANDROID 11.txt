@@ -296,6 +296,9 @@ Fuelgauge (battery submenu) improvements
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f381c4cd35203dac4365e30e4b086fdb555c358b
     https://github.com/ezio84/abc_packages_apps_Settings/commit/53bfef7a4332cdb43bd356f19c2f510ea14cf29d
 
+Enable better screen ON to AoD transition if supported by the device
+    https://github.com/ezio84/abc_device_google_bonito/commit/60ee76977f22f00c8d0af23170c1de1d067f506d
+
 Safety net hacks
     https://github.com/ezio84/abc_system_core/commit/d97a619367e9f24d7b64f56a6b021b51578d139b
     https://github.com/ezio84/abc_build/commit/8323a71267c6201be8e68aa81d3ff3bb93e4a14d
