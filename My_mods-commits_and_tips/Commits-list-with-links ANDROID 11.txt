@@ -217,9 +217,9 @@ Nav gestures improvements
         https://github.com/ezio84/abc_frameworks_base/commit/552fec1bb2ab400e9e8e9caad0b08617dbd57695
         https://github.com/ezio84/abc_frameworks_base/commit/f56d2f0d229405fc6d90c9f6a31b9acc72cb3aa8
         https://github.com/ezio84/abc_packages_apps_Settings/commit/5e053bf2fcb1c0ce3b6e5b1dfce3d291cf91efcc
-    Hide gesture nav pill
-        https://github.com/ezio84/abc_frameworks_base/commit/ddd2e405e94f536e5d155184c1d95ab9758a9c1c
-        https://github.com/ezio84/abc_packages_apps_Settings/commit/296a6f622ed3b37f0e655a67bb8c6d70e514ba41
+    Hide gesture nav pill******REVERTED, CAUSING ANIMATION GLITCH WHEN SWITCHING SCREEN STATES
+        https://github.com/ezio84/abc_frameworks_base/commit/ddd2e405e94f536e5d155184c1d95ab9758a9c1c******REVERTED
+        https://github.com/ezio84/abc_packages_apps_Settings/commit/296a6f622ed3b37f0e655a67bb8c6d70e514ba41******REVERTED
 
 Net monitor
     https://github.com/ezio84/abc_frameworks_base/commit/589f3585c529fedbd05a6262d2f2e88421604a6a
