@@ -235,7 +235,7 @@ Lockscreen/ambient clock styles
     https://github.com/ezio84/abc_frameworks_base/commit/e1237b56a8ab99c64650c6e14ac9f60f4a55ee53
     https://github.com/ezio84/abc_frameworks_base/commit/1374eb9ec2c932d0c7b470739a01a909c7a9e644
     https://github.com/ezio84/abc_packages_apps_Settings/commit/2950d4835101cd50f3e9e11dc69e4c6e0c4012aa
-    
+
 Statusbar battery customization
     https://github.com/ezio84/abc_packages_apps_Settings/commit/1c6b086f6b513782439a2197278000dd012cc851
     https://github.com/ezio84/abc_packages_apps_Settings/commit/f7b048933a1ee408ed7b05b94386d690ed209856
@@ -253,7 +253,7 @@ Statusbar battery customization
     https://github.com/ezio84/abc_frameworks_base/commit/6da5181219da4349190636bf7f66c2671702797f
     https://github.com/ezio84/abc_frameworks_base/commit/0979a54ca98dcea18f20475a7106f737852dfc56
     https://github.com/ezio84/abc_frameworks_base/commit/325bbf4cf126c5a09b3222775da25cc4edd0dcd1
-    
+
 Status bar clock/date customizations 
     https://github.com/ezio84/abc_frameworks_base/commit/8ea2047d0617a6af42e65c8b4555314ff7afe353
     https://github.com/ezio84/abc_frameworks_base/commit/5936c1c1964834674c679363d42655a3eb918cd1
@@ -261,7 +261,7 @@ Status bar clock/date customizations
         To hide clock when home is showing (kill-app api commits needed):
             https://github.com/ezio84/abc_frameworks_base/commit/9eac2035f800bdbc3c9fd67d9befdba919b3991f
             https://github.com/ezio84/abc_packages_apps_Settings/commit/4ecc5fb014f025d252c99dcb73a25a59a481b851
-            
+
 Lockscreen weather, Assistant navbar animation and other Google prebuilt stuff 
     https://github.com/ezio84/abc_frameworks_base/commit/c2660d65d9a1cfeeff72ccefac01f3632f146678
     https://github.com/ezio84/abc_frameworks_base/commit/ddd98221583fbd9b78b530c019bdcfa4b5537517
@@ -298,11 +298,23 @@ Utils/API helper classes
 https://github.com/ezio84/abc_frameworks_base/commits/r/core/java/com/android/internal/util/custom/Utils.java
 https://github.com/ezio84/abc_frameworks_base/commits/r/core/java/com/android/internal/util/custom/LineageButtons.java
 
-Fuelgauge (battery submenu) improvements
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/07115377c5ac0e8121097e5a5add42de2d67cb30
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/6a2117366407dbf7870aaddbce03dddc9c5179c1
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/f381c4cd35203dac4365e30e4b086fdb555c358b
-    https://github.com/ezio84/abc_packages_apps_Settings/commit/53bfef7a4332cdb43bd356f19c2f510ea14cf29d
+Fuelgauge (battery submenu) improvements *****REVERTED - SEE GOOGLE FEATUREFACTORY COMMITS INSTEAD
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/07115377c5ac0e8121097e5a5add42de2d67cb30*****REVERTED
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/6a2117366407dbf7870aaddbce03dddc9c5179c1*****REVERTED
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/f381c4cd35203dac4365e30e4b086fdb555c358b*****REVERTED
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/53bfef7a4332cdb43bd356f19c2f510ea14cf29d*****REVERTED
+
+Port FeatureFactoryImpl from Google (Fuelgauge and wellbeing settings improvements and related stuff)
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/60fd27dbf4c9b397ea7946c11afdee5fe0bf0594
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/76b390aa00d76e584c1c878b1b7993c8e212e368
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/26af0eaa0a804c23ec373ecf66b2e87403671faf
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/159abcccc13f73026641c1138e1e1498211c3cbb
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/7dc55ed88eed3b53bcb3d569adb7d3c5273e6e72
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/9aa3a932dd65352a79fca749b13da70ad94f1c0d
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/e84e4ec064bb295ed7d5d5ca8971f98529cc6266
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/6f710084b292b2f7fb91d6853688a7239b923181
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/67016b5a0a98b47468b05b4148b778dea272a189
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/0fa50ee7f1343aa690ff4d80c4ca8ecd1356312c
 
 Enable better screen ON to AoD transition if supported by the device
     https://github.com/ezio84/abc_device_google_bonito/commit/60ee76977f22f00c8d0af23170c1de1d067f506d
