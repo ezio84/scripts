@@ -65,6 +65,7 @@ QS panel
     Add partial/full screenshot QS tile
         https://github.com/ezio84/abc_frameworks_base/commit/483499d1b4f096b1bb7ee49d18e551d9cb7d7ce8
         https://github.com/ezio84/abc_frameworks_base/commit/deab219602beda62fa3a216b44198a25f63962ed
+        https://github.com/ezio84/abc_frameworks_base/commit/eef868494870258531805f1d7704f21050a58263
     Add kill app tile
         add kill app api commit then:
         https://github.com/ezio84/abc_frameworks_base/commit/560422582bbec8a43600832776aa3908b797b667
