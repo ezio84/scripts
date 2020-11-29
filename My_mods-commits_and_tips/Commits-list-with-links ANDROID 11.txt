@@ -320,19 +320,30 @@ Port FeatureFactoryImpl from Google (Fuelgauge and wellbeing settings improvemen
 Enable better screen ON to AoD transition if supported by the device
     https://github.com/ezio84/abc_device_google_bonito/commit/60ee76977f22f00c8d0af23170c1de1d067f506d
 
-Safety net hacks
-    https://github.com/ezio84/abc_system_core/commit/d97a619367e9f24d7b64f56a6b021b51578d139b
-    https://github.com/ezio84/abc_build/commit/8323a71267c6201be8e68aa81d3ff3bb93e4a14d
-    https://github.com/ezio84/abc_build/commit/5adf006303450e2a23710751e98f0464187408ae
+Safety net hacks - PIXELEXPERIENCE VERSION (current one on abc too)
+    https://github.com/ezio84/abc_frameworks_base/commit/bc29014a16f7f1aef47b0ea99644aa582465ddf7
+    https://github.com/ezio84/abc_vendor_extras/commit/def7b0786415d53370439cbaf17a03e5756e07af
+    https://github.com/ezio84/abc_vendor_extras/commit/6bdee67dd1093e5674e7002e47fa9cb72181871a (update it monthly according to latest redfin [pixel5] fingerprint)
+    https://github.com/ezio84/abc_system_core/commit/73dbd4d82d6740954ac7a2123be9e119d0361880
+    https://github.com/ezio84/abc_system_core/commit/c7316a6a9eee0b82fd00bb0120ad6ce9b9cd4ab2
+    https://github.com/ezio84/abc_system_core/commit/a48b9724826f0eb2dc9e7893cd008799855b50ba
+    https://github.com/ezio84/abc_system_core/commit/540a5ffb0a2d5cf1ab7f00b67d8238d014fd4710
+    https://github.com/ezio84/abc_system_core/commit/d380f0210bf6b93e09aadd3146276e3c74919283
+    https://github.com/ezio84/abc_system_core/commit/3c2a7f89f86ff3f5f5c3742764931573c9b2685b
+
+Safety net hacks*********REVERTED, SEE ALTERNATIVE HACKS ABOVE
+    https://github.com/ezio84/abc_system_core/commit/d97a619367e9f24d7b64f56a6b021b51578d139b*********REVERTED
+    https://github.com/ezio84/abc_build/commit/8323a71267c6201be8e68aa81d3ff3bb93e4a14d*********REVERTED
+    https://github.com/ezio84/abc_build/commit/5adf006303450e2a23710751e98f0464187408ae*********REVERTED
     https://github.com/ezio84/abc_build/commit/8413f37116e1469ce13049d1406b7c172d3e869f
-    https://github.com/ezio84/abc_build/commit/0c32379ca25b6d1cd42fffb050019e817c997f8d
-    https://github.com/ezio84/abc_build/commit/adb8e619ba6a4536d9cfd4fb292dc009cf3226c4
-    https://github.com/ezio84/abc_build/commit/01be6164099314848afb72e08e4f8565744526f4
-    https://github.com/ezio84/abc_build/commit/b7e1badbd12925756e218900daf7850518d49a09
-    https://github.com/ezio84/abc_frameworks_base/commit/e0b2f4df5b9efffdb4041ba9a3ea93888c935a1e
-    https://github.com/ezio84/abc_frameworks_base/commit/308894e6db4a14dee497c03d7be501995a7b726a
+    https://github.com/ezio84/abc_build/commit/0c32379ca25b6d1cd42fffb050019e817c997f8d*********REVERTED
+    https://github.com/ezio84/abc_build/commit/adb8e619ba6a4536d9cfd4fb292dc009cf3226c4*********REVERTED
+    https://github.com/ezio84/abc_build/commit/01be6164099314848afb72e08e4f8565744526f4*********REVERTED
+    https://github.com/ezio84/abc_build/commit/b7e1badbd12925756e218900daf7850518d49a09*********REVERTED
+    https://github.com/ezio84/abc_frameworks_base/commit/e0b2f4df5b9efffdb4041ba9a3ea93888c935a1e*********REVERTED
+    https://github.com/ezio84/abc_frameworks_base/commit/308894e6db4a14dee497c03d7be501995a7b726a*********REVERTED
         to enable the model hack add this to the device tree:
-        https://github.com/ezio84/abc_device_google_wahoo/commit/4df135e439769dda2cb4740e519594c5657daa96
+        https://github.com/ezio84/abc_device_google_wahoo/commit/4df135e439769dda2cb4740e519594c5657daa96*********REVERTED
             for devices like taimen with discontinued support by Google, add these too:
-            https://github.com/ezio84/abc_device_google_wahoo/commit/ce50c3716d6d607d09368070aa6ee8f4f646257b
-            https://github.com/ezio84/abc_device_google_wahoo/commit/2354512e7b4578bf2c577f9cd0bde23ce6346abe
+            https://github.com/ezio84/abc_device_google_wahoo/commit/ce50c3716d6d607d09368070aa6ee8f4f646257b*********REVERTED
+            https://github.com/ezio84/abc_device_google_wahoo/commit/2354512e7b4578bf2c577f9cd0bde23ce6346abe*********REVERTED
