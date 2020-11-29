@@ -261,6 +261,14 @@ Status bar clock/date customizations
         To hide clock when home is showing (kill-app api commits needed):
             https://github.com/ezio84/abc_frameworks_base/commit/9eac2035f800bdbc3c9fd67d9befdba919b3991f
             https://github.com/ezio84/abc_packages_apps_Settings/commit/4ecc5fb014f025d252c99dcb73a25a59a481b851
+            
+Lockscreen weather, Assistant navbar animation and other Google prebuilt stuff 
+    https://github.com/ezio84/abc_frameworks_base/commit/c2660d65d9a1cfeeff72ccefac01f3632f146678
+    https://github.com/ezio84/abc_frameworks_base/commit/ddd98221583fbd9b78b530c019bdcfa4b5537517
+    https://github.com/ezio84/abc_frameworks_base/commit/9ab4cd61ebeefd4329a5d9ed3479832c45bd6c1e
+    https://github.com/ezio84/abc_frameworks_base/commit/f4d886eacad2d0928f86fd8cf6b9441dd76abda7
+    https://github.com/ezio84/abc_frameworks_base/commit/97da2d34b9f9b2578b6db3d4e86eda8918735fe9
+
 -----
 
 More low level improvements & stuff
