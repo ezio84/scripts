@@ -320,6 +320,8 @@ Port FeatureFactoryImpl from Google (Fuelgauge and wellbeing settings improvemen
 Enable better screen ON to AoD transition if supported by the device
     https://github.com/ezio84/abc_device_google_bonito/commit/60ee76977f22f00c8d0af23170c1de1d067f506d
 
+------
+REVERTED BECAUSE OF BROKEN SCREEN OFF VOICE MATCH:
 Safety net hacks - PIXELEXPERIENCE VERSION (current one on abc too)
     https://github.com/ezio84/abc_frameworks_base/commit/bc29014a16f7f1aef47b0ea99644aa582465ddf7
     https://github.com/ezio84/abc_vendor_extras/commit/def7b0786415d53370439cbaf17a03e5756e07af
