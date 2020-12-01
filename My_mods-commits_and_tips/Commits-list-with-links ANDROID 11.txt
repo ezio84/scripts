@@ -63,6 +63,7 @@ QS panel
     Add Mono audio tile (aka headphone in one ear only)
         https://github.com/ezio84/abc_frameworks_base/commit/eca79cbda068e9d9f4f6c64b0a9326f41cc76663
     Add partial/full screenshot QS tile
+        add Partial screenshot improvements commits then:
         https://github.com/ezio84/abc_frameworks_base/commit/483499d1b4f096b1bb7ee49d18e551d9cb7d7ce8
         https://github.com/ezio84/abc_frameworks_base/commit/deab219602beda62fa3a216b44198a25f63962ed
         https://github.com/ezio84/abc_frameworks_base/commit/eef868494870258531805f1d7704f21050a58263
@@ -127,6 +128,7 @@ Improved aosp partial screenshot
     add Utils/API helper classes (see bottom of this commits list) to be able to call full/partial
     screenshot from everywhere (tiles, gestures and so on), then:
     https://github.com/ezio84/abc_frameworks_base/commit/9f1b3fca0844c01a86ce6993ba993ec999841a31
+    https://github.com/ezio84/abc_frameworks_base/commit/177d7a3dc6b2517bf61cd9e1e2bab5e9282fe646
 
 Add Squeeze (Active Edge) for supported Pixel devices
     track https://github.com/ezio84/abc_packages_apps_ElmyraService/commits/r
