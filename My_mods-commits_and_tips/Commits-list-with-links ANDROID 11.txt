@@ -282,6 +282,7 @@ https://github.com/ezio84/abc_device_google_wahoo/commit/5c4f185132afe65bb2a787f
 
 Properly set fonts and icons on keyguard when changing styles
     https://github.com/ezio84/abc_frameworks_base/commit/0977201aafd9057c4a95bacc9ad3c0008134465a
+    https://github.com/ezio84/abc_frameworks_base/commit/451a8fdfb9580bbe4c19a0400cf2db35b9967535
 
 Add custom settings observer
     https://github.com/ezio84/abc_frameworks_base/commit/0edec763877b051e4b0aeb60a1b5abefe3aa35ff
