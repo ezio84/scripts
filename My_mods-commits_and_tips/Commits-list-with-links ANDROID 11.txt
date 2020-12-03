@@ -52,6 +52,7 @@ QS panel
         https://github.com/ezio84/abc_frameworks_base/commit/40182abf6abe987a6af0a96125f0ab420970f536
     Allow to set QS panel columns and rows
         https://github.com/ezio84/abc_frameworks_base/commit/987617339faf9469a854affe5e739553674fc3ac
+        https://github.com/ezio84/abc_frameworks_base/commit/3e75718d8b6ee29499610a956fea8d444efc71b1
         https://github.com/ezio84/abc_packages_apps_Settings/commit/b01d16f740029dc2fed71b8d0a07b279b7ed166a
     QS tile titles visibility
         https://github.com/ezio84/abc_frameworks_base/commit/55419893a62701fdffef87c19838cbbd74ea8337
