@@ -273,6 +273,11 @@ Lockscreen weather, Assistant navbar animation and other Google prebuilt stuff
     https://github.com/ezio84/abc_frameworks_base/commit/f4d886eacad2d0928f86fd8cf6b9441dd76abda7
     https://github.com/ezio84/abc_frameworks_base/commit/97da2d34b9f9b2578b6db3d4e86eda8918735fe9
 
+Add auto/manual toggle icon to brightness slider
+    https://github.com/ezio84/abc_frameworks_base/commit/cafe9f2030fe17174ba82d4b416b776483257fc3
+    https://github.com/ezio84/abc_frameworks_base/commit/89407ee2eb88db31a71f56ce19a2ddcebebe34bc
+    https://github.com/ezio84/abc_frameworks_base/commit/b8d15c2769e81531ab1c6d3cfff4a4cafe55f55d
+
 -----
 
 More low level improvements & stuff
