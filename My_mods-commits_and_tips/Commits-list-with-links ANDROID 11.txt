@@ -46,6 +46,7 @@ QS panel
     Allow user to add/remove QS with one click
         https://github.com/ezio84/abc_frameworks_base/commit/97f9f49f198d7c4b0a8aa6615bf7e503ec447087
         https://github.com/ezio84/abc_frameworks_base/commit/26a9ef5ce0805100d1c1f000514dfa1370e6f005
+        https://github.com/ezio84/abc_frameworks_base/commit/e63e8e39ab141b8ba9ef37994b9ababc5647232b
     Ask pin when tapping on Airplane/Cellular tiles if secured
         https://github.com/ezio84/abc_frameworks_base/commit/06afcdc5e3e80b1f689742b5956af77a7c7bcf84
     Cellular QS tile: Kill dialog asking to disable mobile data
