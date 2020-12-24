@@ -273,11 +273,19 @@ Lockscreen weather, Assistant navbar animation and other Google prebuilt stuff
     https://github.com/ezio84/abc_frameworks_base/commit/9ab4cd61ebeefd4329a5d9ed3479832c45bd6c1e
     https://github.com/ezio84/abc_frameworks_base/commit/f4d886eacad2d0928f86fd8cf6b9441dd76abda7
     https://github.com/ezio84/abc_frameworks_base/commit/97da2d34b9f9b2578b6db3d4e86eda8918735fe9
+    https://github.com/ezio84/abc_frameworks_base/commit/cd4444eb4f776e2e1626212545b760ae9eaabe00
 
 Add auto/manual toggle icon to brightness slider
     https://github.com/ezio84/abc_frameworks_base/commit/cafe9f2030fe17174ba82d4b416b776483257fc3
     https://github.com/ezio84/abc_frameworks_base/commit/89407ee2eb88db31a71f56ce19a2ddcebebe34bc
     https://github.com/ezio84/abc_frameworks_base/commit/b8d15c2769e81531ab1c6d3cfff4a4cafe55f55d
+
+Pulse music equalizer
+    track: https://github.com/ezio84/abc_external_pulse (r branch)
+    then add:
+    https://github.com/ezio84/abc_frameworks_base/commit/df5cde86788e8d821626b118e3f4de9e37cb0e11
+    https://github.com/ezio84/abc_frameworks_base/commit/4f93ee8c6752cbd80b52dc3b310e18ab95b331d4
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/d624eaff5de38dfab6eaf0c045c245be76cfee52
 
 -----
 
