@@ -287,6 +287,12 @@ Pulse music equalizer
     https://github.com/ezio84/abc_frameworks_base/commit/4f93ee8c6752cbd80b52dc3b310e18ab95b331d4
     https://github.com/ezio84/abc_packages_apps_Settings/commit/d624eaff5de38dfab6eaf0c045c245be76cfee52
 
+Allow to hide gesture navbar
+    https://github.com/ezio84/abc_frameworks_base/commit/5be1ff6901d81ab84d8db4a16809056d8a79ca35
+    https://github.com/ezio84/abc_frameworks_base/commit/02442894dd60656155980fabf0f576355be1324c
+    https://github.com/ezio84/abc_packages_apps_Settings/commit/182d8579cbef68c8278d3946ee486e510809547f
+
+
 -----
 
 More low level improvements & stuff
