@@ -20,10 +20,13 @@ git merge --allow-unrelated-histories -s ours --no-commit FETCH_HEAD &&
 git read-tree --prefix="techpack/audio" -u FETCH_HEAD &&
 git commit
 
+*****THIS SUBMODULE IS FOR PIXEL 4 SERIES ONLY********
 git fetch https://android.googlesource.com/kernel/msm-modules/fts_touch android-11.0.0_r0.28 &&
 git merge --allow-unrelated-histories -s ours --no-commit FETCH_HEAD &&
 git read-tree --prefix="drivers/input/touchscreen/fts_touch" -u FETCH_HEAD &&
 git commit
+
+-------
 
 To update:
 -----------------------------------------------------------------------------------
@@ -35,3 +38,15 @@ done
 (Since your kernel is already built.. you just need to do lines 31 and 32)
 ${REPO} variable is, enter the name of the repo.
 Line 31 is what Google calls it on their source dir and Line 32 is what you call it locally.
+
+
+--- Manual update example for Bonito (3a XL) (it uses crosshatch aosp kernel module tags):
+
+git fetch https://android.googlesource.com/kernel/msm-modules/qcacld android-11.0.0_r0.28
+git merge -X subtree=drivers/staging/qcacld-3.0 FETCH_HEAD
+git fetch https://android.googlesource.com/kernel/msm-modules/wlan-fw-api android-11.0.0_r0.28
+git merge -X subtree=drivers/staging/fw-api FETCH_HEAD
+git fetch https://android.googlesource.com/kernel/msm-modules/qca-wfi-host-cmn android-11.0.0_r0.28
+git merge -X subtree=drivers/staging/qca-wifi-host-cmn FETCH_HEAD
+git fetch https://android.googlesource.com/kernel/msm-extra android-11.0.0_r0.28
+git merge -X subtree=techpack/audio FETCH_HEAD
