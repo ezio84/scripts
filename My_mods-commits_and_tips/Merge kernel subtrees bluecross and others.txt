@@ -1,0 +1,37 @@
+For initial subtree merge:
+-----------------------------------------------------------------------------------
+git fetch https://android.googlesource.com/kernel/msm-modules/qcacld android-11.0.0_r0.28 &&
+git merge --allow-unrelated-histories -s ours --no-commit FETCH_HEAD &&
+git read-tree --prefix="drivers/staging/qcacld-3.0" -u FETCH_HEAD &&
+git commit
+
+git fetch https://android.googlesource.com/kernel/msm-modules/wlan-fw-api android-11.0.0_r0.28 &&
+git merge --allow-unrelated-histories -s ours --no-commit FETCH_HEAD &&
+git read-tree --prefix="drivers/staging/fw-api" -u FETCH_HEAD &&
+git commit
+
+git fetch https://android.googlesource.com/kernel/msm-modules/qca-wfi-host-cmn android-11.0.0_r0.28 &&
+git merge --allow-unrelated-histories -s ours --no-commit FETCH_HEAD &&
+git read-tree --prefix="drivers/staging/qca-wifi-host-cmn" -u FETCH_HEAD &&
+git commit
+
+git fetch https://android.googlesource.com/kernel/msm-extra android-11.0.0_r0.28 &&
+git merge --allow-unrelated-histories -s ours --no-commit FETCH_HEAD &&
+git read-tree --prefix="techpack/audio" -u FETCH_HEAD &&
+git commit
+
+git fetch https://android.googlesource.com/kernel/msm-modules/fts_touch android-11.0.0_r0.28 &&
+git merge --allow-unrelated-histories -s ours --no-commit FETCH_HEAD &&
+git read-tree --prefix="drivers/input/touchscreen/fts_touch" -u FETCH_HEAD &&
+git commit
+
+To update:
+-----------------------------------------------------------------------------------
+for REPO in fw-api qcacld-3.0 qca-wifi-host-cmn; do
+    git fetch https://android.googlesource.com/kernel/msm-modules/${REPO} android-11.0.0_r0.28
+    git merge -X subtree=drivers/staging/${REPO} FETCH_HEAD
+done
+
+(Since your kernel is already built.. you just need to do lines 31 and 32)
+${REPO} variable is, enter the name of the repo.
+Line 31 is what Google calls it on their source dir and Line 32 is what you call it locally.
