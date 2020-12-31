@@ -104,6 +104,7 @@ Lockscreen
         https://github.com/ezio84/abc_frameworks_base/commit/ab014d5c110b874c1b3f37ab0726c13b5f1e50ae
         https://github.com/ezio84/abc_frameworks_base/commit/75b21852902fe2657e2e6ca7694042fb034354b1
         https://github.com/ezio84/abc_frameworks_base/commit/28fbc82a275145c7b51641029c15d6d6d9491303
+        https://github.com/ezio84/abc_frameworks_base/commit/ed40fd100331838ea25a0b02be25fc37b89a5ee9
         https://github.com/ezio84/abc_packages_apps_Settings/commit/119615f6afb6c2e8941556316eb4858fb663534d
         https://github.com/ezio84/abc_packages_apps_Settings/commit/5461056140341001c642be3993bf17dddec9f7da
     Add double tap to sleep gesture
