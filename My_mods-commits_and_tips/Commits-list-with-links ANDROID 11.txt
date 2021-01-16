@@ -355,8 +355,8 @@ Add custom accents to prebuilt Styles app (check pixel gapps tree for the apk an
 Safety net hacks
     For pixel devices still updated by Google:
         https://github.com/ezio84/abc_system_security/commit/6a61417328e5b978fcee564b46a0237acbc2a954
-    then to make safety net pass also on older pixel, add these too:
         https://github.com/ezio84/abc_build/commit/9f0f03efd408bfe5aebab0f44189ad2e5b53876c
+    then to make safety net pass also on older pixel, add these too:
         https://github.com/ezio84/abc_build/commit/ebfb795f1dce18a51a96461cf7a54389659dca2e
         https://github.com/ezio84/abc_build/commit/0da7e9530eb9a38ab9a0979baf7970a75c917997
         https://github.com/ezio84/abc_frameworks_base/commit/f85338d04e5a6a15cc620d2eba343c01739f3737
