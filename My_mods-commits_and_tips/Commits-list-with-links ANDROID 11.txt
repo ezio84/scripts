@@ -123,6 +123,10 @@ Ambient music: pulse on new music tracks and Now Playing info
     https://github.com/ezio84/abc_frameworks_base/commit/49212122ae343fc1dc942cda2133b50e6f30de21
     https://github.com/ezio84/abc_packages_apps_Settings/commit/1cbbc24034bae8d932fdced3261d44435c6ad2a6
 
+Lockscreen music: show Now Playing info on bottom screen (needs ambient music ticker code from notificationmediamanager)
+    https://github.com/ezio84/abc_frameworks_base/commit/c1dc330ef37a452f4bf1c4a2d259ae0c6edeea60
+    https://github.com/ezio84/abc_frameworks_base/commit/f0cbda929da4c547bfce8f02391a0cfe24c16024
+
 Show Ambient instead of lockscreen on wake gestures
     https://github.com/ezio84/abc_frameworks_base/commit/43a25a2f1984eb428c6b2c5496505665c6d4aafd
     https://github.com/ezio84/abc_packages_apps_Settings/commit/e56fba64cea19cab572d389530efee9f72adad1d
