@@ -299,6 +299,8 @@ Allow to hide gesture navbar
     https://github.com/ezio84/abc_frameworks_base/commit/5026036b8d33f22214babd4a6dca1c5e7126c2f5
     https://github.com/ezio84/abc_packages_apps_Settings/commit/182d8579cbef68c8278d3946ee486e510809547f
 
+Share sheet improvements
+    https://github.com/ezio84/abc_frameworks_base/commit/2a221ce97f34ac39a8f6ce1707edf830bfb6fd67
 
 -----
 
