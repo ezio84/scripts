@@ -145,6 +145,8 @@ Add Squeeze (Active Edge) for supported Pixel devices
 
 Screenrecord: add blinking stop dot and low quality options
     https://github.com/ezio84/abc_frameworks_base/commit/1cb66254b16655126af25d5ada351921ecee66c7
+Screenrecord delete action for notification
+    https://github.com/ezio84/abc_frameworks_base/commit/90c52bd65b77d60f1e2e09d426ef4cec7b822c51
 
 Swap volume buttons on rotation
     https://github.com/ezio84/abc_frameworks_base/commit/f136d139f1004293d1d933a7af66f3efae6646bf
