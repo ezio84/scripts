@@ -365,3 +365,6 @@ Safety net hacks
         https://github.com/ezio84/abc_build/commit/0da7e9530eb9a38ab9a0979baf7970a75c917997
         https://github.com/ezio84/abc_frameworks_base/commit/f85338d04e5a6a15cc620d2eba343c01739f3737
         https://github.com/ezio84/abc_device_google_wahoo/commit/9aec5e1639f42e0c2f66421a55d65971c4e3d5fb
+
+Gcam FC fix
+    https://github.com/ezio84/abc_build/commit/0210ce538741f0997292b8351d15292fb9a65fe6
